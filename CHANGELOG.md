@@ -1,3 +1,7 @@
+## 1.2.2
+
+- Fix `packageLibrary` in `icons.g.dart`
+
 ## 1.2.1
 
 - Fix repository URL in `pubspec.yaml`
