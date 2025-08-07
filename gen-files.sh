@@ -22,14 +22,14 @@ function genClassHeader() {
   echo "// GENERATED CODE - DO NOT MODIFY BY HAND"
   echo "import 'package:flutter/widgets.dart';"
   echo "class $class_name {"
-  echo "  const $class_name._();"
+  echo "const $class_name._();"
 }
 
 function genIconMethod() {
   local icon_name="$1"
   local icon_id="$2"
   echo "  /// $icon_name"
-  echo "static const IconData $icon_name = IconData($icon_id, fontfamily: 'LucideIcons', fontPackage: 'cliq_icons');"
+  echo "static const IconData $icon_name = IconData($icon_id, fontFamily: 'LucideIcons', fontPackage: 'cliq_icons');"
 }
 
 # remove target file
