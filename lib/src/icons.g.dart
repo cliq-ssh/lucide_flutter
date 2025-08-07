@@ -12,7 +12,7 @@ class LucideIcons {
   static const IconData aArrowDown = IconData(
     58762,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## a-arrow-up
@@ -22,7 +22,7 @@ class LucideIcons {
   static const IconData aArrowUp = IconData(
     58763,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## a-large-small
@@ -32,7 +32,7 @@ class LucideIcons {
   static const IconData aLargeSmall = IconData(
     58764,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## accessibility
@@ -42,7 +42,7 @@ class LucideIcons {
   static const IconData accessibility = IconData(
     58007,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## activity
@@ -52,7 +52,7 @@ class LucideIcons {
   static const IconData activity = IconData(
     57400,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## air-vent
@@ -62,7 +62,7 @@ class LucideIcons {
   static const IconData airVent = IconData(
     58193,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## airplay
@@ -72,7 +72,7 @@ class LucideIcons {
   static const IconData airplay = IconData(
     57401,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-clock-check
@@ -82,7 +82,7 @@ class LucideIcons {
   static const IconData alarmClockCheck = IconData(
     57836,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-clock-minus
@@ -92,7 +92,7 @@ class LucideIcons {
   static const IconData alarmClockMinus = IconData(
     57837,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-clock-off
@@ -102,7 +102,7 @@ class LucideIcons {
   static const IconData alarmClockOff = IconData(
     57915,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-clock-plus
@@ -112,7 +112,7 @@ class LucideIcons {
   static const IconData alarmClockPlus = IconData(
     57838,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-clock
@@ -122,7 +122,7 @@ class LucideIcons {
   static const IconData alarmClock = IconData(
     57402,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## alarm-smoke
@@ -132,7 +132,7 @@ class LucideIcons {
   static const IconData alarmSmoke = IconData(
     58752,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## album
@@ -142,7 +142,7 @@ class LucideIcons {
   static const IconData album = IconData(
     57403,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-center-horizontal
@@ -152,7 +152,7 @@ class LucideIcons {
   static const IconData alignCenterHorizontal = IconData(
     57964,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-center-vertical
@@ -162,7 +162,7 @@ class LucideIcons {
   static const IconData alignCenterVertical = IconData(
     57965,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-center
@@ -172,7 +172,7 @@ class LucideIcons {
   static const IconData alignCenter = IconData(
     57404,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-end-horizontal
@@ -182,7 +182,7 @@ class LucideIcons {
   static const IconData alignEndHorizontal = IconData(
     57966,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-end-vertical
@@ -192,7 +192,7 @@ class LucideIcons {
   static const IconData alignEndVertical = IconData(
     57967,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-distribute-center
@@ -202,7 +202,7 @@ class LucideIcons {
   static const IconData alignHorizontalDistributeCenter = IconData(
     57405,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-distribute-end
@@ -212,7 +212,7 @@ class LucideIcons {
   static const IconData alignHorizontalDistributeEnd = IconData(
     57406,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-distribute-start
@@ -222,7 +222,7 @@ class LucideIcons {
   static const IconData alignHorizontalDistributeStart = IconData(
     57407,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-justify-center
@@ -232,7 +232,7 @@ class LucideIcons {
   static const IconData alignHorizontalJustifyCenter = IconData(
     57970,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-justify-end
@@ -242,7 +242,7 @@ class LucideIcons {
   static const IconData alignHorizontalJustifyEnd = IconData(
     57971,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-justify-start
@@ -252,7 +252,7 @@ class LucideIcons {
   static const IconData alignHorizontalJustifyStart = IconData(
     57972,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-space-around
@@ -262,7 +262,7 @@ class LucideIcons {
   static const IconData alignHorizontalSpaceAround = IconData(
     57973,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-horizontal-space-between
@@ -272,7 +272,7 @@ class LucideIcons {
   static const IconData alignHorizontalSpaceBetween = IconData(
     57974,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-justify
@@ -282,7 +282,7 @@ class LucideIcons {
   static const IconData alignJustify = IconData(
     57408,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-left
@@ -292,7 +292,7 @@ class LucideIcons {
   static const IconData alignLeft = IconData(
     57409,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-right
@@ -302,7 +302,7 @@ class LucideIcons {
   static const IconData alignRight = IconData(
     57410,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-start-horizontal
@@ -312,7 +312,7 @@ class LucideIcons {
   static const IconData alignStartHorizontal = IconData(
     57968,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-start-vertical
@@ -322,7 +322,7 @@ class LucideIcons {
   static const IconData alignStartVertical = IconData(
     57969,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-distribute-center
@@ -332,7 +332,7 @@ class LucideIcons {
   static const IconData alignVerticalDistributeCenter = IconData(
     57982,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-distribute-end
@@ -342,7 +342,7 @@ class LucideIcons {
   static const IconData alignVerticalDistributeEnd = IconData(
     57983,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-distribute-start
@@ -352,7 +352,7 @@ class LucideIcons {
   static const IconData alignVerticalDistributeStart = IconData(
     57984,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-justify-center
@@ -362,7 +362,7 @@ class LucideIcons {
   static const IconData alignVerticalJustifyCenter = IconData(
     57975,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-justify-end
@@ -372,7 +372,7 @@ class LucideIcons {
   static const IconData alignVerticalJustifyEnd = IconData(
     57976,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-justify-start
@@ -382,7 +382,7 @@ class LucideIcons {
   static const IconData alignVerticalJustifyStart = IconData(
     57977,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-space-around
@@ -392,7 +392,7 @@ class LucideIcons {
   static const IconData alignVerticalSpaceAround = IconData(
     57978,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## align-vertical-space-between
@@ -402,7 +402,7 @@ class LucideIcons {
   static const IconData alignVerticalSpaceBetween = IconData(
     57979,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ambulance
@@ -412,7 +412,7 @@ class LucideIcons {
   static const IconData ambulance = IconData(
     58816,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ampersand
@@ -422,7 +422,7 @@ class LucideIcons {
   static const IconData ampersand = IconData(
     58529,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ampersands
@@ -432,7 +432,7 @@ class LucideIcons {
   static const IconData ampersands = IconData(
     58530,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## amphora
@@ -442,7 +442,7 @@ class LucideIcons {
   static const IconData amphora = IconData(
     58912,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## anchor
@@ -452,7 +452,7 @@ class LucideIcons {
   static const IconData anchor = IconData(
     57411,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## angry
@@ -462,7 +462,7 @@ class LucideIcons {
   static const IconData angry = IconData(
     58108,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## annoyed
@@ -472,7 +472,7 @@ class LucideIcons {
   static const IconData annoyed = IconData(
     58109,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## antenna
@@ -482,7 +482,7 @@ class LucideIcons {
   static const IconData antenna = IconData(
     58599,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## anvil
@@ -492,7 +492,7 @@ class LucideIcons {
   static const IconData anvil = IconData(
     58757,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## aperture
@@ -502,7 +502,7 @@ class LucideIcons {
   static const IconData aperture = IconData(
     57412,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## app-window-mac
@@ -512,7 +512,7 @@ class LucideIcons {
   static const IconData appWindowMac = IconData(
     58839,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## app-window
@@ -522,7 +522,7 @@ class LucideIcons {
   static const IconData appWindow = IconData(
     58411,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## apple
@@ -532,7 +532,7 @@ class LucideIcons {
   static const IconData apple = IconData(
     58194,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## archive-restore
@@ -542,7 +542,7 @@ class LucideIcons {
   static const IconData archiveRestore = IconData(
     58061,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## archive-x
@@ -552,7 +552,7 @@ class LucideIcons {
   static const IconData archiveX = IconData(
     58641,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## archive
@@ -562,7 +562,7 @@ class LucideIcons {
   static const IconData archive = IconData(
     57413,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## armchair
@@ -572,7 +572,7 @@ class LucideIcons {
   static const IconData armchair = IconData(
     58048,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-down-dash
@@ -582,7 +582,7 @@ class LucideIcons {
   static const IconData arrowBigDownDash = IconData(
     58402,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-down
@@ -592,7 +592,7 @@ class LucideIcons {
   static const IconData arrowBigDown = IconData(
     57825,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-left-dash
@@ -602,7 +602,7 @@ class LucideIcons {
   static const IconData arrowBigLeftDash = IconData(
     58403,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-left
@@ -612,7 +612,7 @@ class LucideIcons {
   static const IconData arrowBigLeft = IconData(
     57826,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-right-dash
@@ -622,7 +622,7 @@ class LucideIcons {
   static const IconData arrowBigRightDash = IconData(
     58404,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-right
@@ -632,7 +632,7 @@ class LucideIcons {
   static const IconData arrowBigRight = IconData(
     57827,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-up-dash
@@ -642,7 +642,7 @@ class LucideIcons {
   static const IconData arrowBigUpDash = IconData(
     58405,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-big-up
@@ -652,7 +652,7 @@ class LucideIcons {
   static const IconData arrowBigUp = IconData(
     57828,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-0-1
@@ -662,7 +662,7 @@ class LucideIcons {
   static const IconData arrowDown01 = IconData(
     58392,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-1-0
@@ -672,7 +672,7 @@ class LucideIcons {
   static const IconData arrowDown10 = IconData(
     58393,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-a-z
@@ -682,7 +682,7 @@ class LucideIcons {
   static const IconData arrowDownAZ = IconData(
     58394,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-from-line
@@ -692,7 +692,7 @@ class LucideIcons {
   static const IconData arrowDownFromLine = IconData(
     58457,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-left
@@ -702,7 +702,7 @@ class LucideIcons {
   static const IconData arrowDownLeft = IconData(
     57415,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-narrow-wide
@@ -712,7 +712,7 @@ class LucideIcons {
   static const IconData arrowDownNarrowWide = IconData(
     57416,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-right
@@ -722,7 +722,7 @@ class LucideIcons {
   static const IconData arrowDownRight = IconData(
     57417,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-to-dot
@@ -732,7 +732,7 @@ class LucideIcons {
   static const IconData arrowDownToDot = IconData(
     58450,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-to-line
@@ -742,7 +742,7 @@ class LucideIcons {
   static const IconData arrowDownToLine = IconData(
     58458,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-up
@@ -752,7 +752,7 @@ class LucideIcons {
   static const IconData arrowDownUp = IconData(
     57418,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-wide-narrow
@@ -762,7 +762,7 @@ class LucideIcons {
   static const IconData arrowDownWideNarrow = IconData(
     57419,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down-z-a
@@ -772,7 +772,7 @@ class LucideIcons {
   static const IconData arrowDownZA = IconData(
     58395,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-down
@@ -782,7 +782,7 @@ class LucideIcons {
   static const IconData arrowDown = IconData(
     57414,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-left-from-line
@@ -792,7 +792,7 @@ class LucideIcons {
   static const IconData arrowLeftFromLine = IconData(
     58459,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-left-right
@@ -802,7 +802,7 @@ class LucideIcons {
   static const IconData arrowLeftRight = IconData(
     57930,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-left-to-line
@@ -812,7 +812,7 @@ class LucideIcons {
   static const IconData arrowLeftToLine = IconData(
     58460,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-left
@@ -822,7 +822,7 @@ class LucideIcons {
   static const IconData arrowLeft = IconData(
     57420,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-right-from-line
@@ -832,7 +832,7 @@ class LucideIcons {
   static const IconData arrowRightFromLine = IconData(
     58461,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-right-left
@@ -842,7 +842,7 @@ class LucideIcons {
   static const IconData arrowRightLeft = IconData(
     58396,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-right-to-line
@@ -852,7 +852,7 @@ class LucideIcons {
   static const IconData arrowRightToLine = IconData(
     58462,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-right
@@ -862,7 +862,7 @@ class LucideIcons {
   static const IconData arrowRight = IconData(
     57421,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-0-1
@@ -872,7 +872,7 @@ class LucideIcons {
   static const IconData arrowUp01 = IconData(
     58397,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-1-0
@@ -882,7 +882,7 @@ class LucideIcons {
   static const IconData arrowUp10 = IconData(
     58398,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-a-z
@@ -892,7 +892,7 @@ class LucideIcons {
   static const IconData arrowUpAZ = IconData(
     58399,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-down
@@ -902,7 +902,7 @@ class LucideIcons {
   static const IconData arrowUpDown = IconData(
     58241,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-from-dot
@@ -912,7 +912,7 @@ class LucideIcons {
   static const IconData arrowUpFromDot = IconData(
     58451,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-from-line
@@ -922,7 +922,7 @@ class LucideIcons {
   static const IconData arrowUpFromLine = IconData(
     58463,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-left
@@ -932,7 +932,7 @@ class LucideIcons {
   static const IconData arrowUpLeft = IconData(
     57423,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-narrow-wide
@@ -942,7 +942,7 @@ class LucideIcons {
   static const IconData arrowUpNarrowWide = IconData(
     57424,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-right
@@ -952,7 +952,7 @@ class LucideIcons {
   static const IconData arrowUpRight = IconData(
     57425,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-to-line
@@ -962,7 +962,7 @@ class LucideIcons {
   static const IconData arrowUpToLine = IconData(
     58464,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-wide-narrow
@@ -972,7 +972,7 @@ class LucideIcons {
   static const IconData arrowUpWideNarrow = IconData(
     58400,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up-z-a
@@ -982,7 +982,7 @@ class LucideIcons {
   static const IconData arrowUpZA = IconData(
     58401,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrow-up
@@ -992,7 +992,7 @@ class LucideIcons {
   static const IconData arrowUp = IconData(
     57422,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## arrows-up-from-line
@@ -1002,7 +1002,7 @@ class LucideIcons {
   static const IconData arrowsUpFromLine = IconData(
     58585,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## asterisk
@@ -1012,7 +1012,7 @@ class LucideIcons {
   static const IconData asterisk = IconData(
     57839,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## at-sign
@@ -1022,7 +1022,7 @@ class LucideIcons {
   static const IconData atSign = IconData(
     57426,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## atom
@@ -1032,7 +1032,7 @@ class LucideIcons {
   static const IconData atom = IconData(
     58331,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## audio-lines
@@ -1042,7 +1042,7 @@ class LucideIcons {
   static const IconData audioLines = IconData(
     58719,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## audio-waveform
@@ -1052,7 +1052,7 @@ class LucideIcons {
   static const IconData audioWaveform = IconData(
     58720,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## award
@@ -1062,7 +1062,7 @@ class LucideIcons {
   static const IconData award = IconData(
     57427,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## axe
@@ -1072,7 +1072,7 @@ class LucideIcons {
   static const IconData axe = IconData(
     57428,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## axis-3d
@@ -1082,7 +1082,7 @@ class LucideIcons {
   static const IconData axis3d = IconData(
     58110,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## baby
@@ -1092,7 +1092,7 @@ class LucideIcons {
   static const IconData baby = IconData(
     58062,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## backpack
@@ -1102,7 +1102,7 @@ class LucideIcons {
   static const IconData backpack = IconData(
     58056,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-alert
@@ -1112,7 +1112,7 @@ class LucideIcons {
   static const IconData badgeAlert = IconData(
     58490,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-cent
@@ -1122,7 +1122,7 @@ class LucideIcons {
   static const IconData badgeCent = IconData(
     58644,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-check
@@ -1132,7 +1132,7 @@ class LucideIcons {
   static const IconData badgeCheck = IconData(
     57921,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-dollar-sign
@@ -1142,7 +1142,7 @@ class LucideIcons {
   static const IconData badgeDollarSign = IconData(
     58491,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-euro
@@ -1152,7 +1152,7 @@ class LucideIcons {
   static const IconData badgeEuro = IconData(
     58645,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-indian-rupee
@@ -1162,7 +1162,7 @@ class LucideIcons {
   static const IconData badgeIndianRupee = IconData(
     58646,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-info
@@ -1172,7 +1172,7 @@ class LucideIcons {
   static const IconData badgeInfo = IconData(
     58492,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-japanese-yen
@@ -1182,7 +1182,7 @@ class LucideIcons {
   static const IconData badgeJapaneseYen = IconData(
     58647,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-minus
@@ -1192,7 +1192,7 @@ class LucideIcons {
   static const IconData badgeMinus = IconData(
     58493,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-percent
@@ -1202,7 +1202,7 @@ class LucideIcons {
   static const IconData badgePercent = IconData(
     58494,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-plus
@@ -1212,7 +1212,7 @@ class LucideIcons {
   static const IconData badgePlus = IconData(
     58495,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-pound-sterling
@@ -1222,7 +1222,7 @@ class LucideIcons {
   static const IconData badgePoundSterling = IconData(
     58648,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-question-mark
@@ -1232,7 +1232,7 @@ class LucideIcons {
   static const IconData badgeQuestionMark = IconData(
     58496,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-russian-ruble
@@ -1242,7 +1242,7 @@ class LucideIcons {
   static const IconData badgeRussianRuble = IconData(
     58649,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-swiss-franc
@@ -1252,7 +1252,7 @@ class LucideIcons {
   static const IconData badgeSwissFranc = IconData(
     58650,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-turkish-lira
@@ -1262,7 +1262,7 @@ class LucideIcons {
   static const IconData badgeTurkishLira = IconData(
     59011,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge-x
@@ -1272,7 +1272,7 @@ class LucideIcons {
   static const IconData badgeX = IconData(
     58497,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## badge
@@ -1282,7 +1282,7 @@ class LucideIcons {
   static const IconData badge = IconData(
     58489,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## baggage-claim
@@ -1292,7 +1292,7 @@ class LucideIcons {
   static const IconData baggageClaim = IconData(
     58057,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ban
@@ -1302,7 +1302,7 @@ class LucideIcons {
   static const IconData ban = IconData(
     57429,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## banana
@@ -1312,7 +1312,7 @@ class LucideIcons {
   static const IconData banana = IconData(
     58195,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bandage
@@ -1322,7 +1322,7 @@ class LucideIcons {
   static const IconData bandage = IconData(
     58914,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## banknote-arrow-down
@@ -1332,7 +1332,7 @@ class LucideIcons {
   static const IconData banknoteArrowDown = IconData(
     58961,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## banknote-arrow-up
@@ -1342,7 +1342,7 @@ class LucideIcons {
   static const IconData banknoteArrowUp = IconData(
     58962,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## banknote-x
@@ -1352,7 +1352,7 @@ class LucideIcons {
   static const IconData banknoteX = IconData(
     58963,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## banknote
@@ -1362,7 +1362,7 @@ class LucideIcons {
   static const IconData banknote = IconData(
     57430,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## barcode
@@ -1372,7 +1372,7 @@ class LucideIcons {
   static const IconData barcode = IconData(
     58680,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## barrel
@@ -1382,7 +1382,7 @@ class LucideIcons {
   static const IconData barrel = IconData(
     59002,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## baseline
@@ -1392,7 +1392,7 @@ class LucideIcons {
   static const IconData baseline = IconData(
     57989,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bath
@@ -1402,7 +1402,7 @@ class LucideIcons {
   static const IconData bath = IconData(
     58027,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-charging
@@ -1412,7 +1412,7 @@ class LucideIcons {
   static const IconData batteryCharging = IconData(
     57432,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-full
@@ -1422,7 +1422,7 @@ class LucideIcons {
   static const IconData batteryFull = IconData(
     57433,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-low
@@ -1432,7 +1432,7 @@ class LucideIcons {
   static const IconData batteryLow = IconData(
     57434,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-medium
@@ -1442,7 +1442,7 @@ class LucideIcons {
   static const IconData batteryMedium = IconData(
     57435,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-plus
@@ -1452,7 +1452,7 @@ class LucideIcons {
   static const IconData batteryPlus = IconData(
     58947,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery-warning
@@ -1462,7 +1462,7 @@ class LucideIcons {
   static const IconData batteryWarning = IconData(
     58288,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## battery
@@ -1472,7 +1472,7 @@ class LucideIcons {
   static const IconData battery = IconData(
     57431,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## beaker
@@ -1482,7 +1482,7 @@ class LucideIcons {
   static const IconData beaker = IconData(
     57436,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bean-off
@@ -1492,7 +1492,7 @@ class LucideIcons {
   static const IconData beanOff = IconData(
     58260,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bean
@@ -1502,7 +1502,7 @@ class LucideIcons {
   static const IconData bean = IconData(
     58259,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bed-double
@@ -1512,7 +1512,7 @@ class LucideIcons {
   static const IconData bedDouble = IconData(
     58050,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bed-single
@@ -1522,7 +1522,7 @@ class LucideIcons {
   static const IconData bedSingle = IconData(
     58051,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bed
@@ -1532,7 +1532,7 @@ class LucideIcons {
   static const IconData bed = IconData(
     58049,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## beef
@@ -1542,7 +1542,7 @@ class LucideIcons {
   static const IconData beef = IconData(
     58281,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## beer-off
@@ -1552,7 +1552,7 @@ class LucideIcons {
   static const IconData beerOff = IconData(
     58846,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## beer
@@ -1562,7 +1562,7 @@ class LucideIcons {
   static const IconData beer = IconData(
     58063,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-dot
@@ -1572,7 +1572,7 @@ class LucideIcons {
   static const IconData bellDot = IconData(
     58416,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-electric
@@ -1582,7 +1582,7 @@ class LucideIcons {
   static const IconData bellElectric = IconData(
     58753,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-minus
@@ -1592,7 +1592,7 @@ class LucideIcons {
   static const IconData bellMinus = IconData(
     57840,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-off
@@ -1602,7 +1602,7 @@ class LucideIcons {
   static const IconData bellOff = IconData(
     57438,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-plus
@@ -1612,7 +1612,7 @@ class LucideIcons {
   static const IconData bellPlus = IconData(
     57841,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell-ring
@@ -1622,7 +1622,7 @@ class LucideIcons {
   static const IconData bellRing = IconData(
     57892,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bell
@@ -1632,7 +1632,7 @@ class LucideIcons {
   static const IconData bell = IconData(
     57437,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## between-horizontal-end
@@ -1642,7 +1642,7 @@ class LucideIcons {
   static const IconData betweenHorizontalEnd = IconData(
     58774,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## between-horizontal-start
@@ -1652,7 +1652,7 @@ class LucideIcons {
   static const IconData betweenHorizontalStart = IconData(
     58775,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## between-vertical-end
@@ -1662,7 +1662,7 @@ class LucideIcons {
   static const IconData betweenVerticalEnd = IconData(
     58776,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## between-vertical-start
@@ -1672,7 +1672,7 @@ class LucideIcons {
   static const IconData betweenVerticalStart = IconData(
     58777,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## biceps-flexed
@@ -1682,7 +1682,7 @@ class LucideIcons {
   static const IconData bicepsFlexed = IconData(
     58864,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bike
@@ -1692,7 +1692,7 @@ class LucideIcons {
   static const IconData bike = IconData(
     57810,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## binary
@@ -1702,7 +1702,7 @@ class LucideIcons {
   static const IconData binary = IconData(
     57842,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## binoculars
@@ -1712,7 +1712,7 @@ class LucideIcons {
   static const IconData binoculars = IconData(
     58918,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## biohazard
@@ -1722,7 +1722,7 @@ class LucideIcons {
   static const IconData biohazard = IconData(
     58438,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bird
@@ -1732,7 +1732,7 @@ class LucideIcons {
   static const IconData bird = IconData(
     58313,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bitcoin
@@ -1742,7 +1742,7 @@ class LucideIcons {
   static const IconData bitcoin = IconData(
     57439,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## blend
@@ -1752,7 +1752,7 @@ class LucideIcons {
   static const IconData blend = IconData(
     58785,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## blinds
@@ -1762,7 +1762,7 @@ class LucideIcons {
   static const IconData blinds = IconData(
     58308,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## blocks
@@ -1772,7 +1772,7 @@ class LucideIcons {
   static const IconData blocks = IconData(
     58623,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bluetooth-connected
@@ -1782,7 +1782,7 @@ class LucideIcons {
   static const IconData bluetoothConnected = IconData(
     57784,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bluetooth-off
@@ -1792,7 +1792,7 @@ class LucideIcons {
   static const IconData bluetoothOff = IconData(
     57785,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bluetooth-searching
@@ -1802,7 +1802,7 @@ class LucideIcons {
   static const IconData bluetoothSearching = IconData(
     57786,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bluetooth
@@ -1812,7 +1812,7 @@ class LucideIcons {
   static const IconData bluetooth = IconData(
     57440,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bold
@@ -1822,7 +1822,7 @@ class LucideIcons {
   static const IconData bold = IconData(
     57441,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bolt
@@ -1832,7 +1832,7 @@ class LucideIcons {
   static const IconData bolt = IconData(
     58769,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bomb
@@ -1842,7 +1842,7 @@ class LucideIcons {
   static const IconData bomb = IconData(
     58111,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bone
@@ -1852,7 +1852,7 @@ class LucideIcons {
   static const IconData bone = IconData(
     58204,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-a
@@ -1862,7 +1862,7 @@ class LucideIcons {
   static const IconData bookA = IconData(
     58697,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-alert
@@ -1872,7 +1872,7 @@ class LucideIcons {
   static const IconData bookAlert = IconData(
     58999,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-audio
@@ -1882,7 +1882,7 @@ class LucideIcons {
   static const IconData bookAudio = IconData(
     58698,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-check
@@ -1892,7 +1892,7 @@ class LucideIcons {
   static const IconData bookCheck = IconData(
     58699,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-copy
@@ -1902,7 +1902,7 @@ class LucideIcons {
   static const IconData bookCopy = IconData(
     58353,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-dashed
@@ -1912,7 +1912,7 @@ class LucideIcons {
   static const IconData bookDashed = IconData(
     58354,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-down
@@ -1922,7 +1922,7 @@ class LucideIcons {
   static const IconData bookDown = IconData(
     58355,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-headphones
@@ -1932,7 +1932,7 @@ class LucideIcons {
   static const IconData bookHeadphones = IconData(
     58700,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-heart
@@ -1942,7 +1942,7 @@ class LucideIcons {
   static const IconData bookHeart = IconData(
     58701,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-image
@@ -1952,7 +1952,7 @@ class LucideIcons {
   static const IconData bookImage = IconData(
     58702,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-key
@@ -1962,7 +1962,7 @@ class LucideIcons {
   static const IconData bookKey = IconData(
     58356,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-lock
@@ -1972,7 +1972,7 @@ class LucideIcons {
   static const IconData bookLock = IconData(
     58357,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-marked
@@ -1982,7 +1982,7 @@ class LucideIcons {
   static const IconData bookMarked = IconData(
     58358,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-minus
@@ -1992,7 +1992,7 @@ class LucideIcons {
   static const IconData bookMinus = IconData(
     58359,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-open-check
@@ -2002,7 +2002,7 @@ class LucideIcons {
   static const IconData bookOpenCheck = IconData(
     58245,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-open-text
@@ -2012,7 +2012,7 @@ class LucideIcons {
   static const IconData bookOpenText = IconData(
     58703,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-open
@@ -2022,7 +2022,7 @@ class LucideIcons {
   static const IconData bookOpen = IconData(
     57443,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-plus
@@ -2032,7 +2032,7 @@ class LucideIcons {
   static const IconData bookPlus = IconData(
     58360,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-text
@@ -2042,7 +2042,7 @@ class LucideIcons {
   static const IconData bookText = IconData(
     58704,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-type
@@ -2052,7 +2052,7 @@ class LucideIcons {
   static const IconData bookType = IconData(
     58705,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-up-2
@@ -2062,7 +2062,7 @@ class LucideIcons {
   static const IconData bookUp2 = IconData(
     58539,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-up
@@ -2072,7 +2072,7 @@ class LucideIcons {
   static const IconData bookUp = IconData(
     58361,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-user
@@ -2082,7 +2082,7 @@ class LucideIcons {
   static const IconData bookUser = IconData(
     58706,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book-x
@@ -2092,7 +2092,7 @@ class LucideIcons {
   static const IconData bookX = IconData(
     58362,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## book
@@ -2102,7 +2102,7 @@ class LucideIcons {
   static const IconData book = IconData(
     57442,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bookmark-check
@@ -2112,7 +2112,7 @@ class LucideIcons {
   static const IconData bookmarkCheck = IconData(
     58660,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bookmark-minus
@@ -2122,7 +2122,7 @@ class LucideIcons {
   static const IconData bookmarkMinus = IconData(
     57916,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bookmark-plus
@@ -2132,7 +2132,7 @@ class LucideIcons {
   static const IconData bookmarkPlus = IconData(
     57917,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bookmark-x
@@ -2142,7 +2142,7 @@ class LucideIcons {
   static const IconData bookmarkX = IconData(
     58661,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bookmark
@@ -2152,7 +2152,7 @@ class LucideIcons {
   static const IconData bookmark = IconData(
     57444,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## boom-box
@@ -2162,7 +2162,7 @@ class LucideIcons {
   static const IconData boomBox = IconData(
     58611,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bot-message-square
@@ -2172,7 +2172,7 @@ class LucideIcons {
   static const IconData botMessageSquare = IconData(
     58835,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bot-off
@@ -2182,7 +2182,7 @@ class LucideIcons {
   static const IconData botOff = IconData(
     58853,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bot
@@ -2192,7 +2192,7 @@ class LucideIcons {
   static const IconData bot = IconData(
     57787,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bottle-wine
@@ -2202,7 +2202,7 @@ class LucideIcons {
   static const IconData bottleWine = IconData(
     59008,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bow-arrow
@@ -2212,7 +2212,7 @@ class LucideIcons {
   static const IconData bowArrow = IconData(
     58979,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## box
@@ -2222,7 +2222,7 @@ class LucideIcons {
   static const IconData box = IconData(
     57445,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## boxes
@@ -2232,7 +2232,7 @@ class LucideIcons {
   static const IconData boxes = IconData(
     58064,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## braces
@@ -2242,7 +2242,7 @@ class LucideIcons {
   static const IconData braces = IconData(
     58222,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brackets
@@ -2252,7 +2252,7 @@ class LucideIcons {
   static const IconData brackets = IconData(
     58440,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brain-circuit
@@ -2262,7 +2262,7 @@ class LucideIcons {
   static const IconData brainCircuit = IconData(
     58315,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brain-cog
@@ -2272,7 +2272,7 @@ class LucideIcons {
   static const IconData brainCog = IconData(
     58316,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brain
@@ -2282,7 +2282,7 @@ class LucideIcons {
   static const IconData brain = IconData(
     58314,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brick-wall-fire
@@ -2292,7 +2292,7 @@ class LucideIcons {
   static const IconData brickWallFire = IconData(
     58968,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brick-wall
@@ -2302,7 +2302,7 @@ class LucideIcons {
   static const IconData brickWall = IconData(
     58758,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## briefcase-business
@@ -2312,7 +2312,7 @@ class LucideIcons {
   static const IconData briefcaseBusiness = IconData(
     58842,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## briefcase-conveyor-belt
@@ -2322,7 +2322,7 @@ class LucideIcons {
   static const IconData briefcaseConveyorBelt = IconData(
     58928,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## briefcase-medical
@@ -2332,7 +2332,7 @@ class LucideIcons {
   static const IconData briefcaseMedical = IconData(
     58843,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## briefcase
@@ -2342,7 +2342,7 @@ class LucideIcons {
   static const IconData briefcase = IconData(
     57446,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bring-to-front
@@ -2352,7 +2352,7 @@ class LucideIcons {
   static const IconData bringToFront = IconData(
     58612,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brush-cleaning
@@ -2362,7 +2362,7 @@ class LucideIcons {
   static const IconData brushCleaning = IconData(
     58987,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## brush
@@ -2372,7 +2372,7 @@ class LucideIcons {
   static const IconData brush = IconData(
     57811,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bubbles
@@ -2382,7 +2382,7 @@ class LucideIcons {
   static const IconData bubbles = IconData(
     58969,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bug-off
@@ -2392,7 +2392,7 @@ class LucideIcons {
   static const IconData bugOff = IconData(
     58642,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bug-play
@@ -2402,7 +2402,7 @@ class LucideIcons {
   static const IconData bugPlay = IconData(
     58643,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bug
@@ -2412,7 +2412,7 @@ class LucideIcons {
   static const IconData bug = IconData(
     57868,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## building-2
@@ -2422,7 +2422,7 @@ class LucideIcons {
   static const IconData building2 = IconData(
     58000,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## building
@@ -2432,7 +2432,7 @@ class LucideIcons {
   static const IconData building = IconData(
     57804,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bus-front
@@ -2442,7 +2442,7 @@ class LucideIcons {
   static const IconData busFront = IconData(
     58624,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## bus
@@ -2452,7 +2452,7 @@ class LucideIcons {
   static const IconData bus = IconData(
     57812,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cable-car
@@ -2462,7 +2462,7 @@ class LucideIcons {
   static const IconData cableCar = IconData(
     58625,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cable
@@ -2472,7 +2472,7 @@ class LucideIcons {
   static const IconData cable = IconData(
     58600,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cake-slice
@@ -2482,7 +2482,7 @@ class LucideIcons {
   static const IconData cakeSlice = IconData(
     58558,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cake
@@ -2492,7 +2492,7 @@ class LucideIcons {
   static const IconData cake = IconData(
     58184,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calculator
@@ -2502,7 +2502,7 @@ class LucideIcons {
   static const IconData calculator = IconData(
     57788,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-1
@@ -2512,7 +2512,7 @@ class LucideIcons {
   static const IconData calendar1 = IconData(
     58933,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-arrow-down
@@ -2522,7 +2522,7 @@ class LucideIcons {
   static const IconData calendarArrowDown = IconData(
     58883,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-arrow-up
@@ -2532,7 +2532,7 @@ class LucideIcons {
   static const IconData calendarArrowUp = IconData(
     58884,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-check-2
@@ -2542,7 +2542,7 @@ class LucideIcons {
   static const IconData calendarCheck2 = IconData(
     58040,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-check
@@ -2552,7 +2552,7 @@ class LucideIcons {
   static const IconData calendarCheck = IconData(
     58039,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-clock
@@ -2562,7 +2562,7 @@ class LucideIcons {
   static const IconData calendarClock = IconData(
     58116,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-cog
@@ -2572,7 +2572,7 @@ class LucideIcons {
   static const IconData calendarCog = IconData(
     58866,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-days
@@ -2582,7 +2582,7 @@ class LucideIcons {
   static const IconData calendarDays = IconData(
     58041,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-fold
@@ -2592,7 +2592,7 @@ class LucideIcons {
   static const IconData calendarFold = IconData(
     58809,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-heart
@@ -2602,7 +2602,7 @@ class LucideIcons {
   static const IconData calendarHeart = IconData(
     58117,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-minus-2
@@ -2612,7 +2612,7 @@ class LucideIcons {
   static const IconData calendarMinus2 = IconData(
     58810,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-minus
@@ -2622,7 +2622,7 @@ class LucideIcons {
   static const IconData calendarMinus = IconData(
     58042,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-off
@@ -2632,7 +2632,7 @@ class LucideIcons {
   static const IconData calendarOff = IconData(
     58043,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-plus-2
@@ -2642,7 +2642,7 @@ class LucideIcons {
   static const IconData calendarPlus2 = IconData(
     58811,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-plus
@@ -2652,7 +2652,7 @@ class LucideIcons {
   static const IconData calendarPlus = IconData(
     58044,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-range
@@ -2662,7 +2662,7 @@ class LucideIcons {
   static const IconData calendarRange = IconData(
     58045,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-search
@@ -2672,7 +2672,7 @@ class LucideIcons {
   static const IconData calendarSearch = IconData(
     58118,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-sync
@@ -2682,7 +2682,7 @@ class LucideIcons {
   static const IconData calendarSync = IconData(
     58939,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-x-2
@@ -2692,7 +2692,7 @@ class LucideIcons {
   static const IconData calendarX2 = IconData(
     58047,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar-x
@@ -2702,7 +2702,7 @@ class LucideIcons {
   static const IconData calendarX = IconData(
     58046,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## calendar
@@ -2712,7 +2712,7 @@ class LucideIcons {
   static const IconData calendar = IconData(
     57447,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## camera-off
@@ -2722,7 +2722,7 @@ class LucideIcons {
   static const IconData cameraOff = IconData(
     57449,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## camera
@@ -2732,7 +2732,7 @@ class LucideIcons {
   static const IconData camera = IconData(
     57448,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## candy-cane
@@ -2742,7 +2742,7 @@ class LucideIcons {
   static const IconData candyCane = IconData(
     58559,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## candy-off
@@ -2752,7 +2752,7 @@ class LucideIcons {
   static const IconData candyOff = IconData(
     58262,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## candy
@@ -2762,7 +2762,7 @@ class LucideIcons {
   static const IconData candy = IconData(
     58261,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cannabis
@@ -2772,7 +2772,7 @@ class LucideIcons {
   static const IconData cannabis = IconData(
     58841,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## captions-off
@@ -2782,7 +2782,7 @@ class LucideIcons {
   static const IconData captionsOff = IconData(
     58822,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## captions
@@ -2792,7 +2792,7 @@ class LucideIcons {
   static const IconData captions = IconData(
     58280,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## car-front
@@ -2802,7 +2802,7 @@ class LucideIcons {
   static const IconData carFront = IconData(
     58626,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## car-taxi-front
@@ -2812,7 +2812,7 @@ class LucideIcons {
   static const IconData carTaxiFront = IconData(
     58627,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## car
@@ -2822,7 +2822,7 @@ class LucideIcons {
   static const IconData car = IconData(
     57813,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## caravan
@@ -2832,7 +2832,7 @@ class LucideIcons {
   static const IconData caravan = IconData(
     58686,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## card-sim
@@ -2842,7 +2842,7 @@ class LucideIcons {
   static const IconData cardSim = IconData(
     58998,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## carrot
@@ -2852,7 +2852,7 @@ class LucideIcons {
   static const IconData carrot = IconData(
     57946,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## case-lower
@@ -2862,7 +2862,7 @@ class LucideIcons {
   static const IconData caseLower = IconData(
     58332,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## case-sensitive
@@ -2872,7 +2872,7 @@ class LucideIcons {
   static const IconData caseSensitive = IconData(
     58333,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## case-upper
@@ -2882,7 +2882,7 @@ class LucideIcons {
   static const IconData caseUpper = IconData(
     58334,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cassette-tape
@@ -2892,7 +2892,7 @@ class LucideIcons {
   static const IconData cassetteTape = IconData(
     58575,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cast
@@ -2902,7 +2902,7 @@ class LucideIcons {
   static const IconData cast = IconData(
     57450,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## castle
@@ -2912,7 +2912,7 @@ class LucideIcons {
   static const IconData castle = IconData(
     58340,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cat
@@ -2922,7 +2922,7 @@ class LucideIcons {
   static const IconData cat = IconData(
     58256,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cctv
@@ -2932,7 +2932,7 @@ class LucideIcons {
   static const IconData cctv = IconData(
     58754,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-area
@@ -2942,7 +2942,7 @@ class LucideIcons {
   static const IconData chartArea = IconData(
     58584,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-bar-big
@@ -2952,7 +2952,7 @@ class LucideIcons {
   static const IconData chartBarBig = IconData(
     58540,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-bar-decreasing
@@ -2962,7 +2962,7 @@ class LucideIcons {
   static const IconData chartBarDecreasing = IconData(
     58892,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-bar-increasing
@@ -2972,7 +2972,7 @@ class LucideIcons {
   static const IconData chartBarIncreasing = IconData(
     58893,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-bar-stacked
@@ -2982,7 +2982,7 @@ class LucideIcons {
   static const IconData chartBarStacked = IconData(
     58894,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-bar
@@ -2992,7 +2992,7 @@ class LucideIcons {
   static const IconData chartBar = IconData(
     58018,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-candlestick
@@ -3002,7 +3002,7 @@ class LucideIcons {
   static const IconData chartCandlestick = IconData(
     58541,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-column-big
@@ -3012,7 +3012,7 @@ class LucideIcons {
   static const IconData chartColumnBig = IconData(
     58542,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-column-decreasing
@@ -3022,7 +3022,7 @@ class LucideIcons {
   static const IconData chartColumnDecreasing = IconData(
     57451,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-column-increasing
@@ -3032,7 +3032,7 @@ class LucideIcons {
   static const IconData chartColumnIncreasing = IconData(
     58020,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-column-stacked
@@ -3042,7 +3042,7 @@ class LucideIcons {
   static const IconData chartColumnStacked = IconData(
     58895,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-column
@@ -3052,7 +3052,7 @@ class LucideIcons {
   static const IconData chartColumn = IconData(
     58019,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-gantt
@@ -3062,7 +3062,7 @@ class LucideIcons {
   static const IconData chartGantt = IconData(
     58921,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-line
@@ -3072,7 +3072,7 @@ class LucideIcons {
   static const IconData chartLine = IconData(
     58021,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-network
@@ -3082,7 +3082,7 @@ class LucideIcons {
   static const IconData chartNetwork = IconData(
     58896,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-no-axes-column-decreasing
@@ -3092,7 +3092,7 @@ class LucideIcons {
   static const IconData chartNoAxesColumnDecreasing = IconData(
     57453,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-no-axes-column-increasing
@@ -3102,7 +3102,7 @@ class LucideIcons {
   static const IconData chartNoAxesColumnIncreasing = IconData(
     57454,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-no-axes-column
@@ -3112,7 +3112,7 @@ class LucideIcons {
   static const IconData chartNoAxesColumn = IconData(
     57452,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-no-axes-combined
@@ -3122,7 +3122,7 @@ class LucideIcons {
   static const IconData chartNoAxesCombined = IconData(
     58897,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-no-axes-gantt
@@ -3132,7 +3132,7 @@ class LucideIcons {
   static const IconData chartNoAxesGantt = IconData(
     58569,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-pie
@@ -3142,7 +3142,7 @@ class LucideIcons {
   static const IconData chartPie = IconData(
     57455,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-scatter
@@ -3152,7 +3152,7 @@ class LucideIcons {
   static const IconData chartScatter = IconData(
     58511,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chart-spline
@@ -3162,7 +3162,7 @@ class LucideIcons {
   static const IconData chartSpline = IconData(
     58898,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## check-check
@@ -3172,7 +3172,7 @@ class LucideIcons {
   static const IconData checkCheck = IconData(
     58258,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## check-line
@@ -3182,7 +3182,7 @@ class LucideIcons {
   static const IconData checkLine = IconData(
     58992,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## check
@@ -3192,7 +3192,7 @@ class LucideIcons {
   static const IconData check = IconData(
     57456,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chef-hat
@@ -3202,7 +3202,7 @@ class LucideIcons {
   static const IconData chefHat = IconData(
     58028,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cherry
@@ -3212,7 +3212,7 @@ class LucideIcons {
   static const IconData cherry = IconData(
     58196,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-down
@@ -3222,7 +3222,7 @@ class LucideIcons {
   static const IconData chevronDown = IconData(
     57457,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-first
@@ -3232,7 +3232,7 @@ class LucideIcons {
   static const IconData chevronFirst = IconData(
     57923,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-last
@@ -3242,7 +3242,7 @@ class LucideIcons {
   static const IconData chevronLast = IconData(
     57924,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-left
@@ -3252,7 +3252,7 @@ class LucideIcons {
   static const IconData chevronLeft = IconData(
     57458,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-right
@@ -3262,7 +3262,7 @@ class LucideIcons {
   static const IconData chevronRight = IconData(
     57459,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevron-up
@@ -3272,7 +3272,7 @@ class LucideIcons {
   static const IconData chevronUp = IconData(
     57460,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-down-up
@@ -3282,7 +3282,7 @@ class LucideIcons {
   static const IconData chevronsDownUp = IconData(
     57896,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-down
@@ -3292,7 +3292,7 @@ class LucideIcons {
   static const IconData chevronsDown = IconData(
     57461,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-left-right-ellipsis
@@ -3302,7 +3302,7 @@ class LucideIcons {
   static const IconData chevronsLeftRightEllipsis = IconData(
     58916,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-left-right
@@ -3312,7 +3312,7 @@ class LucideIcons {
   static const IconData chevronsLeftRight = IconData(
     58003,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-left
@@ -3322,7 +3322,7 @@ class LucideIcons {
   static const IconData chevronsLeft = IconData(
     57462,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-right-left
@@ -3332,7 +3332,7 @@ class LucideIcons {
   static const IconData chevronsRightLeft = IconData(
     58004,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-right
@@ -3342,7 +3342,7 @@ class LucideIcons {
   static const IconData chevronsRight = IconData(
     57463,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-up-down
@@ -3352,7 +3352,7 @@ class LucideIcons {
   static const IconData chevronsUpDown = IconData(
     57873,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chevrons-up
@@ -3362,7 +3362,7 @@ class LucideIcons {
   static const IconData chevronsUp = IconData(
     57464,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## chrome
@@ -3372,7 +3372,7 @@ class LucideIcons {
   static const IconData chrome = IconData(
     57465,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## church
@@ -3382,7 +3382,7 @@ class LucideIcons {
   static const IconData church = IconData(
     58341,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cigarette-off
@@ -3392,7 +3392,7 @@ class LucideIcons {
   static const IconData cigaretteOff = IconData(
     58055,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cigarette
@@ -3402,7 +3402,7 @@ class LucideIcons {
   static const IconData cigarette = IconData(
     58054,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-alert
@@ -3412,7 +3412,7 @@ class LucideIcons {
   static const IconData circleAlert = IconData(
     57467,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-down
@@ -3422,7 +3422,7 @@ class LucideIcons {
   static const IconData circleArrowDown = IconData(
     57468,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-left
@@ -3432,7 +3432,7 @@ class LucideIcons {
   static const IconData circleArrowLeft = IconData(
     57469,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-out-down-left
@@ -3442,7 +3442,7 @@ class LucideIcons {
   static const IconData circleArrowOutDownLeft = IconData(
     58364,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-out-down-right
@@ -3452,7 +3452,7 @@ class LucideIcons {
   static const IconData circleArrowOutDownRight = IconData(
     58365,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-out-up-left
@@ -3462,7 +3462,7 @@ class LucideIcons {
   static const IconData circleArrowOutUpLeft = IconData(
     58366,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-out-up-right
@@ -3472,7 +3472,7 @@ class LucideIcons {
   static const IconData circleArrowOutUpRight = IconData(
     58367,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-right
@@ -3482,7 +3482,7 @@ class LucideIcons {
   static const IconData circleArrowRight = IconData(
     57470,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-arrow-up
@@ -3492,7 +3492,7 @@ class LucideIcons {
   static const IconData circleArrowUp = IconData(
     57471,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-check-big
@@ -3502,7 +3502,7 @@ class LucideIcons {
   static const IconData circleCheckBig = IconData(
     57472,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-check
@@ -3512,7 +3512,7 @@ class LucideIcons {
   static const IconData circleCheck = IconData(
     57894,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-chevron-down
@@ -3522,7 +3522,7 @@ class LucideIcons {
   static const IconData circleChevronDown = IconData(
     58594,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-chevron-left
@@ -3532,7 +3532,7 @@ class LucideIcons {
   static const IconData circleChevronLeft = IconData(
     58595,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-chevron-right
@@ -3542,7 +3542,7 @@ class LucideIcons {
   static const IconData circleChevronRight = IconData(
     58596,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-chevron-up
@@ -3552,7 +3552,7 @@ class LucideIcons {
   static const IconData circleChevronUp = IconData(
     58597,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-dashed
@@ -3562,7 +3562,7 @@ class LucideIcons {
   static const IconData circleDashed = IconData(
     58549,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-divide
@@ -3572,7 +3572,7 @@ class LucideIcons {
   static const IconData circleDivide = IconData(
     57473,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-dollar-sign
@@ -3582,7 +3582,7 @@ class LucideIcons {
   static const IconData circleDollarSign = IconData(
     58498,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-dot-dashed
@@ -3592,7 +3592,7 @@ class LucideIcons {
   static const IconData circleDotDashed = IconData(
     58550,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-dot
@@ -3602,7 +3602,7 @@ class LucideIcons {
   static const IconData circleDot = IconData(
     58185,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-ellipsis
@@ -3612,7 +3612,7 @@ class LucideIcons {
   static const IconData circleEllipsis = IconData(
     58186,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-equal
@@ -3622,7 +3622,7 @@ class LucideIcons {
   static const IconData circleEqual = IconData(
     58373,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-fading-arrow-up
@@ -3632,7 +3632,7 @@ class LucideIcons {
   static const IconData circleFadingArrowUp = IconData(
     58909,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-fading-plus
@@ -3642,7 +3642,7 @@ class LucideIcons {
   static const IconData circleFadingPlus = IconData(
     58817,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-gauge
@@ -3652,7 +3652,7 @@ class LucideIcons {
   static const IconData circleGauge = IconData(
     58598,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-minus
@@ -3662,7 +3662,7 @@ class LucideIcons {
   static const IconData circleMinus = IconData(
     57474,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-off
@@ -3672,7 +3672,7 @@ class LucideIcons {
   static const IconData circleOff = IconData(
     58374,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-parking-off
@@ -3682,7 +3682,7 @@ class LucideIcons {
   static const IconData circleParkingOff = IconData(
     58318,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-parking
@@ -3692,7 +3692,7 @@ class LucideIcons {
   static const IconData circleParking = IconData(
     58317,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-pause
@@ -3702,7 +3702,7 @@ class LucideIcons {
   static const IconData circlePause = IconData(
     57475,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-percent
@@ -3712,7 +3712,7 @@ class LucideIcons {
   static const IconData circlePercent = IconData(
     58655,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-play
@@ -3722,7 +3722,7 @@ class LucideIcons {
   static const IconData circlePlay = IconData(
     57476,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-plus
@@ -3732,7 +3732,7 @@ class LucideIcons {
   static const IconData circlePlus = IconData(
     57477,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-pound-sterling
@@ -3742,7 +3742,7 @@ class LucideIcons {
   static const IconData circlePoundSterling = IconData(
     58994,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-power
@@ -3752,7 +3752,7 @@ class LucideIcons {
   static const IconData circlePower = IconData(
     58709,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-question-mark
@@ -3762,7 +3762,7 @@ class LucideIcons {
   static const IconData circleQuestionMark = IconData(
     57478,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-slash-2
@@ -3772,7 +3772,7 @@ class LucideIcons {
   static const IconData circleSlash2 = IconData(
     57875,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-slash
@@ -3782,7 +3782,7 @@ class LucideIcons {
   static const IconData circleSlash = IconData(
     58375,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-small
@@ -3792,7 +3792,7 @@ class LucideIcons {
   static const IconData circleSmall = IconData(
     58949,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-star
@@ -3802,7 +3802,7 @@ class LucideIcons {
   static const IconData circleStar = IconData(
     59026,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-stop
@@ -3812,7 +3812,7 @@ class LucideIcons {
   static const IconData circleStop = IconData(
     57479,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-user-round
@@ -3822,7 +3822,7 @@ class LucideIcons {
   static const IconData circleUserRound = IconData(
     58471,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-user
@@ -3832,7 +3832,7 @@ class LucideIcons {
   static const IconData circleUser = IconData(
     58470,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle-x
@@ -3842,7 +3842,7 @@ class LucideIcons {
   static const IconData circleX = IconData(
     57480,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circle
@@ -3852,7 +3852,7 @@ class LucideIcons {
   static const IconData circle = IconData(
     57466,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## circuit-board
@@ -3862,7 +3862,7 @@ class LucideIcons {
   static const IconData circuitBoard = IconData(
     58376,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## citrus
@@ -3872,7 +3872,7 @@ class LucideIcons {
   static const IconData citrus = IconData(
     58233,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clapperboard
@@ -3882,7 +3882,7 @@ class LucideIcons {
   static const IconData clapperboard = IconData(
     58011,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-check
@@ -3892,7 +3892,7 @@ class LucideIcons {
   static const IconData clipboardCheck = IconData(
     57881,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-clock
@@ -3902,7 +3902,7 @@ class LucideIcons {
   static const IconData clipboardClock = IconData(
     59021,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-copy
@@ -3912,7 +3912,7 @@ class LucideIcons {
   static const IconData clipboardCopy = IconData(
     57893,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-list
@@ -3922,7 +3922,7 @@ class LucideIcons {
   static const IconData clipboardList = IconData(
     57482,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-minus
@@ -3932,7 +3932,7 @@ class LucideIcons {
   static const IconData clipboardMinus = IconData(
     58819,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-paste
@@ -3942,7 +3942,7 @@ class LucideIcons {
   static const IconData clipboardPaste = IconData(
     58348,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-pen-line
@@ -3952,7 +3952,7 @@ class LucideIcons {
   static const IconData clipboardPenLine = IconData(
     58120,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-pen
@@ -3962,7 +3962,7 @@ class LucideIcons {
   static const IconData clipboardPen = IconData(
     58119,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-plus
@@ -3972,7 +3972,7 @@ class LucideIcons {
   static const IconData clipboardPlus = IconData(
     58820,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-type
@@ -3982,7 +3982,7 @@ class LucideIcons {
   static const IconData clipboardType = IconData(
     58121,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard-x
@@ -3992,7 +3992,7 @@ class LucideIcons {
   static const IconData clipboardX = IconData(
     57890,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clipboard
@@ -4002,7 +4002,7 @@ class LucideIcons {
   static const IconData clipboard = IconData(
     57481,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-1
@@ -4012,7 +4012,7 @@ class LucideIcons {
   static const IconData clock1 = IconData(
     57931,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-10
@@ -4022,7 +4022,7 @@ class LucideIcons {
   static const IconData clock10 = IconData(
     57932,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-11
@@ -4032,7 +4032,7 @@ class LucideIcons {
   static const IconData clock11 = IconData(
     57933,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-12
@@ -4042,7 +4042,7 @@ class LucideIcons {
   static const IconData clock12 = IconData(
     57934,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-2
@@ -4052,7 +4052,7 @@ class LucideIcons {
   static const IconData clock2 = IconData(
     57935,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-3
@@ -4062,7 +4062,7 @@ class LucideIcons {
   static const IconData clock3 = IconData(
     57936,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-4
@@ -4072,7 +4072,7 @@ class LucideIcons {
   static const IconData clock4 = IconData(
     57937,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-5
@@ -4082,7 +4082,7 @@ class LucideIcons {
   static const IconData clock5 = IconData(
     57938,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-6
@@ -4092,7 +4092,7 @@ class LucideIcons {
   static const IconData clock6 = IconData(
     57939,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-7
@@ -4102,7 +4102,7 @@ class LucideIcons {
   static const IconData clock7 = IconData(
     57940,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-8
@@ -4112,7 +4112,7 @@ class LucideIcons {
   static const IconData clock8 = IconData(
     57941,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-9
@@ -4122,7 +4122,7 @@ class LucideIcons {
   static const IconData clock9 = IconData(
     57942,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-alert
@@ -4132,7 +4132,7 @@ class LucideIcons {
   static const IconData clockAlert = IconData(
     58927,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-arrow-down
@@ -4142,7 +4142,7 @@ class LucideIcons {
   static const IconData clockArrowDown = IconData(
     58885,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-arrow-up
@@ -4152,7 +4152,7 @@ class LucideIcons {
   static const IconData clockArrowUp = IconData(
     58886,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-fading
@@ -4162,7 +4162,7 @@ class LucideIcons {
   static const IconData clockFading = IconData(
     58959,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock-plus
@@ -4172,7 +4172,7 @@ class LucideIcons {
   static const IconData clockPlus = IconData(
     58988,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clock
@@ -4182,7 +4182,7 @@ class LucideIcons {
   static const IconData clock = IconData(
     57483,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## closed-caption
@@ -4192,7 +4192,7 @@ class LucideIcons {
   static const IconData closedCaption = IconData(
     59023,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-alert
@@ -4202,7 +4202,7 @@ class LucideIcons {
   static const IconData cloudAlert = IconData(
     58936,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-check
@@ -4212,7 +4212,7 @@ class LucideIcons {
   static const IconData cloudCheck = IconData(
     58995,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-cog
@@ -4222,7 +4222,7 @@ class LucideIcons {
   static const IconData cloudCog = IconData(
     58122,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-download
@@ -4232,7 +4232,7 @@ class LucideIcons {
   static const IconData cloudDownload = IconData(
     57485,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-drizzle
@@ -4242,7 +4242,7 @@ class LucideIcons {
   static const IconData cloudDrizzle = IconData(
     57486,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-fog
@@ -4252,7 +4252,7 @@ class LucideIcons {
   static const IconData cloudFog = IconData(
     57876,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-hail
@@ -4262,7 +4262,7 @@ class LucideIcons {
   static const IconData cloudHail = IconData(
     57487,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-lightning
@@ -4272,7 +4272,7 @@ class LucideIcons {
   static const IconData cloudLightning = IconData(
     57488,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-moon-rain
@@ -4282,7 +4282,7 @@ class LucideIcons {
   static const IconData cloudMoonRain = IconData(
     58106,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-moon
@@ -4292,7 +4292,7 @@ class LucideIcons {
   static const IconData cloudMoon = IconData(
     57877,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-off
@@ -4302,7 +4302,7 @@ class LucideIcons {
   static const IconData cloudOff = IconData(
     57489,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-rain-wind
@@ -4312,7 +4312,7 @@ class LucideIcons {
   static const IconData cloudRainWind = IconData(
     57491,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-rain
@@ -4322,7 +4322,7 @@ class LucideIcons {
   static const IconData cloudRain = IconData(
     57490,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-snow
@@ -4332,7 +4332,7 @@ class LucideIcons {
   static const IconData cloudSnow = IconData(
     57492,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-sun-rain
@@ -4342,7 +4342,7 @@ class LucideIcons {
   static const IconData cloudSunRain = IconData(
     58107,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-sun
@@ -4352,7 +4352,7 @@ class LucideIcons {
   static const IconData cloudSun = IconData(
     57878,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud-upload
@@ -4362,7 +4362,7 @@ class LucideIcons {
   static const IconData cloudUpload = IconData(
     57493,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloud
@@ -4372,7 +4372,7 @@ class LucideIcons {
   static const IconData cloud = IconData(
     57484,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cloudy
@@ -4382,7 +4382,7 @@ class LucideIcons {
   static const IconData cloudy = IconData(
     57879,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## clover
@@ -4392,7 +4392,7 @@ class LucideIcons {
   static const IconData clover = IconData(
     57494,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## club
@@ -4402,7 +4402,7 @@ class LucideIcons {
   static const IconData club = IconData(
     58523,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## code-xml
@@ -4412,7 +4412,7 @@ class LucideIcons {
   static const IconData codeXml = IconData(
     57862,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## code
@@ -4422,7 +4422,7 @@ class LucideIcons {
   static const IconData code = IconData(
     57495,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## codepen
@@ -4432,7 +4432,7 @@ class LucideIcons {
   static const IconData codepen = IconData(
     57496,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## codesandbox
@@ -4442,7 +4442,7 @@ class LucideIcons {
   static const IconData codesandbox = IconData(
     57497,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## coffee
@@ -4452,7 +4452,7 @@ class LucideIcons {
   static const IconData coffee = IconData(
     57498,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cog
@@ -4462,7 +4462,7 @@ class LucideIcons {
   static const IconData cog = IconData(
     58123,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## coins
@@ -4472,7 +4472,7 @@ class LucideIcons {
   static const IconData coins = IconData(
     57499,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## columns-2
@@ -4482,7 +4482,7 @@ class LucideIcons {
   static const IconData columns2 = IconData(
     57500,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## columns-3-cog
@@ -4492,7 +4492,7 @@ class LucideIcons {
   static const IconData columns3Cog = IconData(
     58982,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## columns-3
@@ -4502,7 +4502,7 @@ class LucideIcons {
   static const IconData columns3 = IconData(
     57501,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## columns-4
@@ -4512,7 +4512,7 @@ class LucideIcons {
   static const IconData columns4 = IconData(
     58766,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## combine
@@ -4522,7 +4522,7 @@ class LucideIcons {
   static const IconData combine = IconData(
     58449,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## command
@@ -4532,7 +4532,7 @@ class LucideIcons {
   static const IconData command = IconData(
     57502,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## compass
@@ -4542,7 +4542,7 @@ class LucideIcons {
   static const IconData compass = IconData(
     57503,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## component
@@ -4552,7 +4552,7 @@ class LucideIcons {
   static const IconData component = IconData(
     58029,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## computer
@@ -4562,7 +4562,7 @@ class LucideIcons {
   static const IconData computer = IconData(
     58601,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## concierge-bell
@@ -4572,7 +4572,7 @@ class LucideIcons {
   static const IconData conciergeBell = IconData(
     58236,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cone
@@ -4582,7 +4582,7 @@ class LucideIcons {
   static const IconData cone = IconData(
     58664,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## construction
@@ -4592,7 +4592,7 @@ class LucideIcons {
   static const IconData construction = IconData(
     58296,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## contact-round
@@ -4602,7 +4602,7 @@ class LucideIcons {
   static const IconData contactRound = IconData(
     58472,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## contact
@@ -4612,7 +4612,7 @@ class LucideIcons {
   static const IconData contact = IconData(
     57504,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## container
@@ -4622,7 +4622,7 @@ class LucideIcons {
   static const IconData container = IconData(
     58586,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## contrast
@@ -4632,7 +4632,7 @@ class LucideIcons {
   static const IconData contrast = IconData(
     57505,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cookie
@@ -4642,7 +4642,7 @@ class LucideIcons {
   static const IconData cookie = IconData(
     57963,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cooking-pot
@@ -4652,7 +4652,7 @@ class LucideIcons {
   static const IconData cookingPot = IconData(
     58761,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy-check
@@ -4662,7 +4662,7 @@ class LucideIcons {
   static const IconData copyCheck = IconData(
     58368,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy-minus
@@ -4672,7 +4672,7 @@ class LucideIcons {
   static const IconData copyMinus = IconData(
     58369,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy-plus
@@ -4682,7 +4682,7 @@ class LucideIcons {
   static const IconData copyPlus = IconData(
     58370,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy-slash
@@ -4692,7 +4692,7 @@ class LucideIcons {
   static const IconData copySlash = IconData(
     58371,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy-x
@@ -4702,7 +4702,7 @@ class LucideIcons {
   static const IconData copyX = IconData(
     58372,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copy
@@ -4712,7 +4712,7 @@ class LucideIcons {
   static const IconData copy = IconData(
     57506,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copyleft
@@ -4722,7 +4722,7 @@ class LucideIcons {
   static const IconData copyleft = IconData(
     57507,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## copyright
@@ -4732,7 +4732,7 @@ class LucideIcons {
   static const IconData copyright = IconData(
     57508,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-down-left
@@ -4742,7 +4742,7 @@ class LucideIcons {
   static const IconData cornerDownLeft = IconData(
     57509,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-down-right
@@ -4752,7 +4752,7 @@ class LucideIcons {
   static const IconData cornerDownRight = IconData(
     57510,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-left-down
@@ -4762,7 +4762,7 @@ class LucideIcons {
   static const IconData cornerLeftDown = IconData(
     57511,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-left-up
@@ -4772,7 +4772,7 @@ class LucideIcons {
   static const IconData cornerLeftUp = IconData(
     57512,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-right-down
@@ -4782,7 +4782,7 @@ class LucideIcons {
   static const IconData cornerRightDown = IconData(
     57513,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-right-up
@@ -4792,7 +4792,7 @@ class LucideIcons {
   static const IconData cornerRightUp = IconData(
     57514,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-up-left
@@ -4802,7 +4802,7 @@ class LucideIcons {
   static const IconData cornerUpLeft = IconData(
     57515,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## corner-up-right
@@ -4812,7 +4812,7 @@ class LucideIcons {
   static const IconData cornerUpRight = IconData(
     57516,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cpu
@@ -4822,7 +4822,7 @@ class LucideIcons {
   static const IconData cpu = IconData(
     57517,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## creative-commons
@@ -4832,7 +4832,7 @@ class LucideIcons {
   static const IconData creativeCommons = IconData(
     58294,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## credit-card
@@ -4842,7 +4842,7 @@ class LucideIcons {
   static const IconData creditCard = IconData(
     57518,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## croissant
@@ -4852,7 +4852,7 @@ class LucideIcons {
   static const IconData croissant = IconData(
     58030,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## crop
@@ -4862,7 +4862,7 @@ class LucideIcons {
   static const IconData crop = IconData(
     57519,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cross
@@ -4872,7 +4872,7 @@ class LucideIcons {
   static const IconData cross = IconData(
     57829,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## crosshair
@@ -4882,7 +4882,7 @@ class LucideIcons {
   static const IconData crosshair = IconData(
     57520,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## crown
@@ -4892,7 +4892,7 @@ class LucideIcons {
   static const IconData crown = IconData(
     57814,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cuboid
@@ -4902,7 +4902,7 @@ class LucideIcons {
   static const IconData cuboid = IconData(
     58665,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cup-soda
@@ -4912,7 +4912,7 @@ class LucideIcons {
   static const IconData cupSoda = IconData(
     58065,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## currency
@@ -4922,7 +4922,7 @@ class LucideIcons {
   static const IconData currency = IconData(
     57904,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## cylinder
@@ -4932,7 +4932,7 @@ class LucideIcons {
   static const IconData cylinder = IconData(
     58666,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dam
@@ -4942,7 +4942,7 @@ class LucideIcons {
   static const IconData dam = IconData(
     58891,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## database-backup
@@ -4952,7 +4952,7 @@ class LucideIcons {
   static const IconData databaseBackup = IconData(
     58287,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## database-zap
@@ -4962,7 +4962,7 @@ class LucideIcons {
   static const IconData databaseZap = IconData(
     58640,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## database
@@ -4972,7 +4972,7 @@ class LucideIcons {
   static const IconData database = IconData(
     57521,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## decimals-arrow-left
@@ -4982,7 +4982,7 @@ class LucideIcons {
   static const IconData decimalsArrowLeft = IconData(
     58977,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## decimals-arrow-right
@@ -4992,7 +4992,7 @@ class LucideIcons {
   static const IconData decimalsArrowRight = IconData(
     58978,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## delete
@@ -5002,7 +5002,7 @@ class LucideIcons {
   static const IconData delete = IconData(
     57522,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dessert
@@ -5012,7 +5012,7 @@ class LucideIcons {
   static const IconData dessert = IconData(
     58560,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diameter
@@ -5022,7 +5022,7 @@ class LucideIcons {
   static const IconData diameter = IconData(
     58667,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diamond-minus
@@ -5032,7 +5032,7 @@ class LucideIcons {
   static const IconData diamondMinus = IconData(
     58854,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diamond-percent
@@ -5042,7 +5042,7 @@ class LucideIcons {
   static const IconData diamondPercent = IconData(
     58656,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diamond-plus
@@ -5052,7 +5052,7 @@ class LucideIcons {
   static const IconData diamondPlus = IconData(
     58855,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diamond
@@ -5062,7 +5062,7 @@ class LucideIcons {
   static const IconData diamond = IconData(
     58066,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-1
@@ -5072,7 +5072,7 @@ class LucideIcons {
   static const IconData dice1 = IconData(
     57991,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-2
@@ -5082,7 +5082,7 @@ class LucideIcons {
   static const IconData dice2 = IconData(
     57992,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-3
@@ -5092,7 +5092,7 @@ class LucideIcons {
   static const IconData dice3 = IconData(
     57993,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-4
@@ -5102,7 +5102,7 @@ class LucideIcons {
   static const IconData dice4 = IconData(
     57994,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-5
@@ -5112,7 +5112,7 @@ class LucideIcons {
   static const IconData dice5 = IconData(
     57995,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dice-6
@@ -5122,7 +5122,7 @@ class LucideIcons {
   static const IconData dice6 = IconData(
     57996,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dices
@@ -5132,7 +5132,7 @@ class LucideIcons {
   static const IconData dices = IconData(
     58053,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## diff
@@ -5142,7 +5142,7 @@ class LucideIcons {
   static const IconData diff = IconData(
     58124,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## disc-2
@@ -5152,7 +5152,7 @@ class LucideIcons {
   static const IconData disc2 = IconData(
     58363,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## disc-3
@@ -5162,7 +5162,7 @@ class LucideIcons {
   static const IconData disc3 = IconData(
     58521,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## disc-album
@@ -5172,7 +5172,7 @@ class LucideIcons {
   static const IconData discAlbum = IconData(
     58721,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## disc
@@ -5182,7 +5182,7 @@ class LucideIcons {
   static const IconData disc = IconData(
     57523,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## divide
@@ -5192,7 +5192,7 @@ class LucideIcons {
   static const IconData divide = IconData(
     57524,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dna-off
@@ -5202,7 +5202,7 @@ class LucideIcons {
   static const IconData dnaOff = IconData(
     58264,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dna
@@ -5212,7 +5212,7 @@ class LucideIcons {
   static const IconData dna = IconData(
     58263,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dock
@@ -5222,7 +5222,7 @@ class LucideIcons {
   static const IconData dock = IconData(
     58840,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dog
@@ -5232,7 +5232,7 @@ class LucideIcons {
   static const IconData dog = IconData(
     58257,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dollar-sign
@@ -5242,7 +5242,7 @@ class LucideIcons {
   static const IconData dollarSign = IconData(
     57525,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## donut
@@ -5252,7 +5252,7 @@ class LucideIcons {
   static const IconData donut = IconData(
     58561,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## door-closed-locked
@@ -5262,7 +5262,7 @@ class LucideIcons {
   static const IconData doorClosedLocked = IconData(
     58985,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## door-closed
@@ -5272,7 +5272,7 @@ class LucideIcons {
   static const IconData doorClosed = IconData(
     58329,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## door-open
@@ -5282,7 +5282,7 @@ class LucideIcons {
   static const IconData doorOpen = IconData(
     58330,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dot
@@ -5292,7 +5292,7 @@ class LucideIcons {
   static const IconData dot = IconData(
     58452,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## download
@@ -5302,7 +5302,7 @@ class LucideIcons {
   static const IconData download = IconData(
     57526,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drafting-compass
@@ -5312,7 +5312,7 @@ class LucideIcons {
   static const IconData draftingCompass = IconData(
     58668,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drama
@@ -5322,7 +5322,7 @@ class LucideIcons {
   static const IconData drama = IconData(
     58662,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dribbble
@@ -5332,7 +5332,7 @@ class LucideIcons {
   static const IconData dribbble = IconData(
     57527,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drill
@@ -5342,7 +5342,7 @@ class LucideIcons {
   static const IconData drill = IconData(
     58770,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drone
@@ -5352,7 +5352,7 @@ class LucideIcons {
   static const IconData drone = IconData(
     59003,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## droplet-off
@@ -5362,7 +5362,7 @@ class LucideIcons {
   static const IconData dropletOff = IconData(
     58941,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## droplet
@@ -5372,7 +5372,7 @@ class LucideIcons {
   static const IconData droplet = IconData(
     57528,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## droplets
@@ -5382,7 +5382,7 @@ class LucideIcons {
   static const IconData droplets = IconData(
     57529,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drum
@@ -5392,7 +5392,7 @@ class LucideIcons {
   static const IconData drum = IconData(
     58722,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## drumstick
@@ -5402,7 +5402,7 @@ class LucideIcons {
   static const IconData drumstick = IconData(
     57947,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## dumbbell
@@ -5412,7 +5412,7 @@ class LucideIcons {
   static const IconData dumbbell = IconData(
     58277,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ear-off
@@ -5422,7 +5422,7 @@ class LucideIcons {
   static const IconData earOff = IconData(
     58247,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ear
@@ -5432,7 +5432,7 @@ class LucideIcons {
   static const IconData ear = IconData(
     58246,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## earth-lock
@@ -5442,7 +5442,7 @@ class LucideIcons {
   static const IconData earthLock = IconData(
     58833,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## earth
@@ -5452,7 +5452,7 @@ class LucideIcons {
   static const IconData earth = IconData(
     57843,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## eclipse
@@ -5462,7 +5462,7 @@ class LucideIcons {
   static const IconData eclipse = IconData(
     58786,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## egg-fried
@@ -5472,7 +5472,7 @@ class LucideIcons {
   static const IconData eggFried = IconData(
     58197,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## egg-off
@@ -5482,7 +5482,7 @@ class LucideIcons {
   static const IconData eggOff = IconData(
     58265,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## egg
@@ -5492,7 +5492,7 @@ class LucideIcons {
   static const IconData egg = IconData(
     57949,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ellipsis-vertical
@@ -5502,7 +5502,7 @@ class LucideIcons {
   static const IconData ellipsisVertical = IconData(
     57531,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ellipsis
@@ -5512,7 +5512,7 @@ class LucideIcons {
   static const IconData ellipsis = IconData(
     57530,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## equal-approximately
@@ -5522,7 +5522,7 @@ class LucideIcons {
   static const IconData equalApproximately = IconData(
     58937,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## equal-not
@@ -5532,7 +5532,7 @@ class LucideIcons {
   static const IconData equalNot = IconData(
     57790,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## equal
@@ -5542,7 +5542,7 @@ class LucideIcons {
   static const IconData equal = IconData(
     57789,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## eraser
@@ -5552,7 +5552,7 @@ class LucideIcons {
   static const IconData eraser = IconData(
     57999,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ethernet-port
@@ -5562,7 +5562,7 @@ class LucideIcons {
   static const IconData ethernetPort = IconData(
     58917,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## euro
@@ -5572,7 +5572,7 @@ class LucideIcons {
   static const IconData euro = IconData(
     57532,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## expand
@@ -5582,7 +5582,7 @@ class LucideIcons {
   static const IconData expand = IconData(
     57882,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## external-link
@@ -5592,7 +5592,7 @@ class LucideIcons {
   static const IconData externalLink = IconData(
     57533,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## eye-closed
@@ -5602,7 +5602,7 @@ class LucideIcons {
   static const IconData eyeClosed = IconData(
     58931,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## eye-off
@@ -5612,7 +5612,7 @@ class LucideIcons {
   static const IconData eyeOff = IconData(
     57535,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## eye
@@ -5622,7 +5622,7 @@ class LucideIcons {
   static const IconData eye = IconData(
     57534,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## facebook
@@ -5632,7 +5632,7 @@ class LucideIcons {
   static const IconData facebook = IconData(
     57536,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## factory
@@ -5642,7 +5642,7 @@ class LucideIcons {
   static const IconData factory = IconData(
     58015,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fan
@@ -5652,7 +5652,7 @@ class LucideIcons {
   static const IconData fan = IconData(
     58237,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fast-forward
@@ -5662,7 +5662,7 @@ class LucideIcons {
   static const IconData fastForward = IconData(
     57537,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## feather
@@ -5672,7 +5672,7 @@ class LucideIcons {
   static const IconData feather = IconData(
     57538,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fence
@@ -5682,7 +5682,7 @@ class LucideIcons {
   static const IconData fence = IconData(
     58759,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ferris-wheel
@@ -5692,7 +5692,7 @@ class LucideIcons {
   static const IconData ferrisWheel = IconData(
     58500,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## figma
@@ -5702,7 +5702,7 @@ class LucideIcons {
   static const IconData figma = IconData(
     57539,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-archive
@@ -5712,7 +5712,7 @@ class LucideIcons {
   static const IconData fileArchive = IconData(
     58125,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-audio-2
@@ -5722,7 +5722,7 @@ class LucideIcons {
   static const IconData fileAudio2 = IconData(
     58127,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-audio
@@ -5732,7 +5732,7 @@ class LucideIcons {
   static const IconData fileAudio = IconData(
     58126,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-axis-3d
@@ -5742,7 +5742,7 @@ class LucideIcons {
   static const IconData fileAxis3d = IconData(
     58128,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-badge-2
@@ -5752,7 +5752,7 @@ class LucideIcons {
   static const IconData fileBadge2 = IconData(
     58130,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-badge
@@ -5762,7 +5762,7 @@ class LucideIcons {
   static const IconData fileBadge = IconData(
     58129,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-box
@@ -5772,7 +5772,7 @@ class LucideIcons {
   static const IconData fileBox = IconData(
     58131,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-chart-column-increasing
@@ -5782,7 +5782,7 @@ class LucideIcons {
   static const IconData fileChartColumnIncreasing = IconData(
     58133,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-chart-column
@@ -5792,7 +5792,7 @@ class LucideIcons {
   static const IconData fileChartColumn = IconData(
     58132,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-chart-line
@@ -5802,7 +5802,7 @@ class LucideIcons {
   static const IconData fileChartLine = IconData(
     58134,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-chart-pie
@@ -5812,7 +5812,7 @@ class LucideIcons {
   static const IconData fileChartPie = IconData(
     58135,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-check-2
@@ -5822,7 +5822,7 @@ class LucideIcons {
   static const IconData fileCheck2 = IconData(
     57542,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-check
@@ -5832,7 +5832,7 @@ class LucideIcons {
   static const IconData fileCheck = IconData(
     57541,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-clock
@@ -5842,7 +5842,7 @@ class LucideIcons {
   static const IconData fileClock = IconData(
     58136,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-code-2
@@ -5852,7 +5852,7 @@ class LucideIcons {
   static const IconData fileCode2 = IconData(
     58467,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-code
@@ -5862,7 +5862,7 @@ class LucideIcons {
   static const IconData fileCode = IconData(
     57543,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-cog
@@ -5872,7 +5872,7 @@ class LucideIcons {
   static const IconData fileCog = IconData(
     58137,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-diff
@@ -5882,7 +5882,7 @@ class LucideIcons {
   static const IconData fileDiff = IconData(
     58138,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-digit
@@ -5892,7 +5892,7 @@ class LucideIcons {
   static const IconData fileDigit = IconData(
     57544,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-down
@@ -5902,7 +5902,7 @@ class LucideIcons {
   static const IconData fileDown = IconData(
     58139,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-heart
@@ -5912,7 +5912,7 @@ class LucideIcons {
   static const IconData fileHeart = IconData(
     58140,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-image
@@ -5922,7 +5922,7 @@ class LucideIcons {
   static const IconData fileImage = IconData(
     58141,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-input
@@ -5932,7 +5932,7 @@ class LucideIcons {
   static const IconData fileInput = IconData(
     57545,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-json-2
@@ -5942,7 +5942,7 @@ class LucideIcons {
   static const IconData fileJson2 = IconData(
     58224,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-json
@@ -5952,7 +5952,7 @@ class LucideIcons {
   static const IconData fileJson = IconData(
     58223,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-key-2
@@ -5962,7 +5962,7 @@ class LucideIcons {
   static const IconData fileKey2 = IconData(
     58143,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-key
@@ -5972,7 +5972,7 @@ class LucideIcons {
   static const IconData fileKey = IconData(
     58142,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-lock-2
@@ -5982,7 +5982,7 @@ class LucideIcons {
   static const IconData fileLock2 = IconData(
     58145,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-lock
@@ -5992,7 +5992,7 @@ class LucideIcons {
   static const IconData fileLock = IconData(
     58144,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-minus-2
@@ -6002,7 +6002,7 @@ class LucideIcons {
   static const IconData fileMinus2 = IconData(
     57547,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-minus
@@ -6012,7 +6012,7 @@ class LucideIcons {
   static const IconData fileMinus = IconData(
     57546,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-music
@@ -6022,7 +6022,7 @@ class LucideIcons {
   static const IconData fileMusic = IconData(
     58723,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-output
@@ -6032,7 +6032,7 @@ class LucideIcons {
   static const IconData fileOutput = IconData(
     57548,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-pen-line
@@ -6042,7 +6042,7 @@ class LucideIcons {
   static const IconData filePenLine = IconData(
     58147,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-pen
@@ -6052,7 +6052,7 @@ class LucideIcons {
   static const IconData filePen = IconData(
     58146,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-play
@@ -6062,7 +6062,7 @@ class LucideIcons {
   static const IconData filePlay = IconData(
     58148,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-plus-2
@@ -6072,7 +6072,7 @@ class LucideIcons {
   static const IconData filePlus2 = IconData(
     57550,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-plus
@@ -6082,7 +6082,7 @@ class LucideIcons {
   static const IconData filePlus = IconData(
     57549,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-question-mark
@@ -6092,7 +6092,7 @@ class LucideIcons {
   static const IconData fileQuestionMark = IconData(
     58149,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-scan
@@ -6102,7 +6102,7 @@ class LucideIcons {
   static const IconData fileScan = IconData(
     58150,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-search-2
@@ -6112,7 +6112,7 @@ class LucideIcons {
   static const IconData fileSearch2 = IconData(
     58151,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-search
@@ -6122,7 +6122,7 @@ class LucideIcons {
   static const IconData fileSearch = IconData(
     57551,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-sliders
@@ -6132,7 +6132,7 @@ class LucideIcons {
   static const IconData fileSliders = IconData(
     58789,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-spreadsheet
@@ -6142,7 +6142,7 @@ class LucideIcons {
   static const IconData fileSpreadsheet = IconData(
     58152,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-stack
@@ -6152,7 +6152,7 @@ class LucideIcons {
   static const IconData fileStack = IconData(
     58534,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-symlink
@@ -6162,7 +6162,7 @@ class LucideIcons {
   static const IconData fileSymlink = IconData(
     58153,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-terminal
@@ -6172,7 +6172,7 @@ class LucideIcons {
   static const IconData fileTerminal = IconData(
     58154,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-text
@@ -6182,7 +6182,7 @@ class LucideIcons {
   static const IconData fileText = IconData(
     57552,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-type-2
@@ -6192,7 +6192,7 @@ class LucideIcons {
   static const IconData fileType2 = IconData(
     58225,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-type
@@ -6202,7 +6202,7 @@ class LucideIcons {
   static const IconData fileType = IconData(
     58155,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-up
@@ -6212,7 +6212,7 @@ class LucideIcons {
   static const IconData fileUp = IconData(
     58156,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-user
@@ -6222,7 +6222,7 @@ class LucideIcons {
   static const IconData fileUser = IconData(
     58930,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-video-camera
@@ -6232,7 +6232,7 @@ class LucideIcons {
   static const IconData fileVideoCamera = IconData(
     58157,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-volume-2
@@ -6242,7 +6242,7 @@ class LucideIcons {
   static const IconData fileVolume2 = IconData(
     58159,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-volume
@@ -6252,7 +6252,7 @@ class LucideIcons {
   static const IconData fileVolume = IconData(
     58158,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-warning
@@ -6262,7 +6262,7 @@ class LucideIcons {
   static const IconData fileWarning = IconData(
     58160,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-x-2
@@ -6272,7 +6272,7 @@ class LucideIcons {
   static const IconData fileX2 = IconData(
     57554,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file-x
@@ -6282,7 +6282,7 @@ class LucideIcons {
   static const IconData fileX = IconData(
     57553,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## file
@@ -6292,7 +6292,7 @@ class LucideIcons {
   static const IconData file = IconData(
     57540,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## files
@@ -6302,7 +6302,7 @@ class LucideIcons {
   static const IconData files = IconData(
     57555,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## film
@@ -6312,7 +6312,7 @@ class LucideIcons {
   static const IconData film = IconData(
     57556,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fingerprint
@@ -6322,7 +6322,7 @@ class LucideIcons {
   static const IconData fingerprint = IconData(
     58059,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fire-extinguisher
@@ -6332,7 +6332,7 @@ class LucideIcons {
   static const IconData fireExtinguisher = IconData(
     58755,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fish-off
@@ -6342,7 +6342,7 @@ class LucideIcons {
   static const IconData fishOff = IconData(
     58292,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fish-symbol
@@ -6352,7 +6352,7 @@ class LucideIcons {
   static const IconData fishSymbol = IconData(
     58617,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fish
@@ -6362,7 +6362,7 @@ class LucideIcons {
   static const IconData fish = IconData(
     58282,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flag-off
@@ -6372,7 +6372,7 @@ class LucideIcons {
   static const IconData flagOff = IconData(
     58002,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flag-triangle-left
@@ -6382,7 +6382,7 @@ class LucideIcons {
   static const IconData flagTriangleLeft = IconData(
     57911,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flag-triangle-right
@@ -6392,7 +6392,7 @@ class LucideIcons {
   static const IconData flagTriangleRight = IconData(
     57912,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flag
@@ -6402,7 +6402,7 @@ class LucideIcons {
   static const IconData flag = IconData(
     57557,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flame-kindling
@@ -6412,7 +6412,7 @@ class LucideIcons {
   static const IconData flameKindling = IconData(
     58687,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flame
@@ -6422,7 +6422,7 @@ class LucideIcons {
   static const IconData flame = IconData(
     57558,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flashlight-off
@@ -6432,7 +6432,7 @@ class LucideIcons {
   static const IconData flashlightOff = IconData(
     57560,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flashlight
@@ -6442,7 +6442,7 @@ class LucideIcons {
   static const IconData flashlight = IconData(
     57559,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flask-conical-off
@@ -6452,7 +6452,7 @@ class LucideIcons {
   static const IconData flaskConicalOff = IconData(
     58266,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flask-conical
@@ -6462,7 +6462,7 @@ class LucideIcons {
   static const IconData flaskConical = IconData(
     57561,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flask-round
@@ -6472,7 +6472,7 @@ class LucideIcons {
   static const IconData flaskRound = IconData(
     57562,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flip-horizontal-2
@@ -6482,7 +6482,7 @@ class LucideIcons {
   static const IconData flipHorizontal2 = IconData(
     58210,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flip-horizontal
@@ -6492,7 +6492,7 @@ class LucideIcons {
   static const IconData flipHorizontal = IconData(
     58209,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flip-vertical-2
@@ -6502,7 +6502,7 @@ class LucideIcons {
   static const IconData flipVertical2 = IconData(
     58212,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flip-vertical
@@ -6512,7 +6512,7 @@ class LucideIcons {
   static const IconData flipVertical = IconData(
     58211,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flower-2
@@ -6522,7 +6522,7 @@ class LucideIcons {
   static const IconData flower2 = IconData(
     58068,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## flower
@@ -6532,7 +6532,7 @@ class LucideIcons {
   static const IconData flower = IconData(
     58067,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## focus
@@ -6542,7 +6542,7 @@ class LucideIcons {
   static const IconData focus = IconData(
     58014,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fold-horizontal
@@ -6552,7 +6552,7 @@ class LucideIcons {
   static const IconData foldHorizontal = IconData(
     58432,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fold-vertical
@@ -6562,7 +6562,7 @@ class LucideIcons {
   static const IconData foldVertical = IconData(
     58433,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-archive
@@ -6572,7 +6572,7 @@ class LucideIcons {
   static const IconData folderArchive = IconData(
     58161,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-check
@@ -6582,7 +6582,7 @@ class LucideIcons {
   static const IconData folderCheck = IconData(
     58162,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-clock
@@ -6592,7 +6592,7 @@ class LucideIcons {
   static const IconData folderClock = IconData(
     58163,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-closed
@@ -6602,7 +6602,7 @@ class LucideIcons {
   static const IconData folderClosed = IconData(
     58164,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-code
@@ -6612,7 +6612,7 @@ class LucideIcons {
   static const IconData folderCode = IconData(
     58880,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-cog
@@ -6622,7 +6622,7 @@ class LucideIcons {
   static const IconData folderCog = IconData(
     58165,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-dot
@@ -6632,7 +6632,7 @@ class LucideIcons {
   static const IconData folderDot = IconData(
     58570,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-down
@@ -6642,7 +6642,7 @@ class LucideIcons {
   static const IconData folderDown = IconData(
     58166,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-git-2
@@ -6652,7 +6652,7 @@ class LucideIcons {
   static const IconData folderGit2 = IconData(
     58383,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-git
@@ -6662,7 +6662,7 @@ class LucideIcons {
   static const IconData folderGit = IconData(
     58382,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-heart
@@ -6672,7 +6672,7 @@ class LucideIcons {
   static const IconData folderHeart = IconData(
     58167,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-input
@@ -6682,7 +6682,7 @@ class LucideIcons {
   static const IconData folderInput = IconData(
     58168,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-kanban
@@ -6692,7 +6692,7 @@ class LucideIcons {
   static const IconData folderKanban = IconData(
     58571,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-key
@@ -6702,7 +6702,7 @@ class LucideIcons {
   static const IconData folderKey = IconData(
     58169,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-lock
@@ -6712,7 +6712,7 @@ class LucideIcons {
   static const IconData folderLock = IconData(
     58170,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-minus
@@ -6722,7 +6722,7 @@ class LucideIcons {
   static const IconData folderMinus = IconData(
     57564,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-open-dot
@@ -6732,7 +6732,7 @@ class LucideIcons {
   static const IconData folderOpenDot = IconData(
     58572,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-open
@@ -6742,7 +6742,7 @@ class LucideIcons {
   static const IconData folderOpen = IconData(
     57927,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-output
@@ -6752,7 +6752,7 @@ class LucideIcons {
   static const IconData folderOutput = IconData(
     58171,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-pen
@@ -6762,7 +6762,7 @@ class LucideIcons {
   static const IconData folderPen = IconData(
     58172,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-plus
@@ -6772,7 +6772,7 @@ class LucideIcons {
   static const IconData folderPlus = IconData(
     57565,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-root
@@ -6782,7 +6782,7 @@ class LucideIcons {
   static const IconData folderRoot = IconData(
     58573,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-search-2
@@ -6792,7 +6792,7 @@ class LucideIcons {
   static const IconData folderSearch2 = IconData(
     58174,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-search
@@ -6802,7 +6802,7 @@ class LucideIcons {
   static const IconData folderSearch = IconData(
     58173,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-symlink
@@ -6812,7 +6812,7 @@ class LucideIcons {
   static const IconData folderSymlink = IconData(
     58175,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-sync
@@ -6822,7 +6822,7 @@ class LucideIcons {
   static const IconData folderSync = IconData(
     58574,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-tree
@@ -6832,7 +6832,7 @@ class LucideIcons {
   static const IconData folderTree = IconData(
     58176,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-up
@@ -6842,7 +6842,7 @@ class LucideIcons {
   static const IconData folderUp = IconData(
     58177,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder-x
@@ -6852,7 +6852,7 @@ class LucideIcons {
   static const IconData folderX = IconData(
     58178,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folder
@@ -6862,7 +6862,7 @@ class LucideIcons {
   static const IconData folder = IconData(
     57563,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## folders
@@ -6872,7 +6872,7 @@ class LucideIcons {
   static const IconData folders = IconData(
     58179,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## footprints
@@ -6882,7 +6882,7 @@ class LucideIcons {
   static const IconData footprints = IconData(
     58301,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## forklift
@@ -6892,7 +6892,7 @@ class LucideIcons {
   static const IconData forklift = IconData(
     58309,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## forward
@@ -6902,7 +6902,7 @@ class LucideIcons {
   static const IconData forward = IconData(
     57897,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## frame
@@ -6912,7 +6912,7 @@ class LucideIcons {
   static const IconData frame = IconData(
     58001,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## framer
@@ -6922,7 +6922,7 @@ class LucideIcons {
   static const IconData framer = IconData(
     57566,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## frown
@@ -6932,7 +6932,7 @@ class LucideIcons {
   static const IconData frown = IconData(
     57567,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fuel
@@ -6942,7 +6942,7 @@ class LucideIcons {
   static const IconData fuel = IconData(
     58031,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## fullscreen
@@ -6952,7 +6952,7 @@ class LucideIcons {
   static const IconData fullscreen = IconData(
     58681,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## funnel-plus
@@ -6962,7 +6962,7 @@ class LucideIcons {
   static const IconData funnelPlus = IconData(
     57569,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## funnel-x
@@ -6972,7 +6972,7 @@ class LucideIcons {
   static const IconData funnelX = IconData(
     58297,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## funnel
@@ -6982,7 +6982,7 @@ class LucideIcons {
   static const IconData funnel = IconData(
     57568,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gallery-horizontal-end
@@ -6992,7 +6992,7 @@ class LucideIcons {
   static const IconData galleryHorizontalEnd = IconData(
     58580,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gallery-horizontal
@@ -7002,7 +7002,7 @@ class LucideIcons {
   static const IconData galleryHorizontal = IconData(
     58579,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gallery-thumbnails
@@ -7012,7 +7012,7 @@ class LucideIcons {
   static const IconData galleryThumbnails = IconData(
     58581,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gallery-vertical-end
@@ -7022,7 +7022,7 @@ class LucideIcons {
   static const IconData galleryVerticalEnd = IconData(
     58583,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gallery-vertical
@@ -7032,7 +7032,7 @@ class LucideIcons {
   static const IconData galleryVertical = IconData(
     58582,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gamepad-2
@@ -7042,7 +7042,7 @@ class LucideIcons {
   static const IconData gamepad2 = IconData(
     57571,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gamepad
@@ -7052,7 +7052,7 @@ class LucideIcons {
   static const IconData gamepad = IconData(
     57570,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gauge
@@ -7062,7 +7062,7 @@ class LucideIcons {
   static const IconData gauge = IconData(
     57791,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gavel
@@ -7072,7 +7072,7 @@ class LucideIcons {
   static const IconData gavel = IconData(
     57572,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gem
@@ -7082,7 +7082,7 @@ class LucideIcons {
   static const IconData gem = IconData(
     57922,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## georgian-lari
@@ -7092,7 +7092,7 @@ class LucideIcons {
   static const IconData georgianLari = IconData(
     59005,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ghost
@@ -7102,7 +7102,7 @@ class LucideIcons {
   static const IconData ghost = IconData(
     57870,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gift
@@ -7112,7 +7112,7 @@ class LucideIcons {
   static const IconData gift = IconData(
     57573,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-branch-plus
@@ -7122,7 +7122,7 @@ class LucideIcons {
   static const IconData gitBranchPlus = IconData(
     57844,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-branch
@@ -7132,7 +7132,7 @@ class LucideIcons {
   static const IconData gitBranch = IconData(
     57574,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-commit-horizontal
@@ -7142,7 +7142,7 @@ class LucideIcons {
   static const IconData gitCommitHorizontal = IconData(
     57575,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-commit-vertical
@@ -7152,7 +7152,7 @@ class LucideIcons {
   static const IconData gitCommitVertical = IconData(
     58711,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-compare-arrows
@@ -7162,7 +7162,7 @@ class LucideIcons {
   static const IconData gitCompareArrows = IconData(
     58712,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-compare
@@ -7172,7 +7172,7 @@ class LucideIcons {
   static const IconData gitCompare = IconData(
     58205,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-fork
@@ -7182,7 +7182,7 @@ class LucideIcons {
   static const IconData gitFork = IconData(
     57997,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-graph
@@ -7192,7 +7192,7 @@ class LucideIcons {
   static const IconData gitGraph = IconData(
     58713,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-merge
@@ -7202,7 +7202,7 @@ class LucideIcons {
   static const IconData gitMerge = IconData(
     57576,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request-arrow
@@ -7212,7 +7212,7 @@ class LucideIcons {
   static const IconData gitPullRequestArrow = IconData(
     58714,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request-closed
@@ -7222,7 +7222,7 @@ class LucideIcons {
   static const IconData gitPullRequestClosed = IconData(
     58206,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request-create-arrow
@@ -7232,7 +7232,7 @@ class LucideIcons {
   static const IconData gitPullRequestCreateArrow = IconData(
     58716,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request-create
@@ -7242,7 +7242,7 @@ class LucideIcons {
   static const IconData gitPullRequestCreate = IconData(
     58715,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request-draft
@@ -7252,7 +7252,7 @@ class LucideIcons {
   static const IconData gitPullRequestDraft = IconData(
     58207,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## git-pull-request
@@ -7262,7 +7262,7 @@ class LucideIcons {
   static const IconData gitPullRequest = IconData(
     57577,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## github
@@ -7272,7 +7272,7 @@ class LucideIcons {
   static const IconData github = IconData(
     57578,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gitlab
@@ -7282,7 +7282,7 @@ class LucideIcons {
   static const IconData gitlab = IconData(
     57579,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## glass-water
@@ -7292,7 +7292,7 @@ class LucideIcons {
   static const IconData glassWater = IconData(
     58069,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## glasses
@@ -7302,7 +7302,7 @@ class LucideIcons {
   static const IconData glasses = IconData(
     57869,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## globe-lock
@@ -7312,7 +7312,7 @@ class LucideIcons {
   static const IconData globeLock = IconData(
     58834,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## globe
@@ -7322,7 +7322,7 @@ class LucideIcons {
   static const IconData globe = IconData(
     57580,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## goal
@@ -7332,7 +7332,7 @@ class LucideIcons {
   static const IconData goal = IconData(
     58538,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## gpu
@@ -7342,7 +7342,7 @@ class LucideIcons {
   static const IconData gpu = IconData(
     58991,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## graduation-cap
@@ -7352,7 +7352,7 @@ class LucideIcons {
   static const IconData graduationCap = IconData(
     57908,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grape
@@ -7362,7 +7362,7 @@ class LucideIcons {
   static const IconData grape = IconData(
     58198,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-2x2-check
@@ -7372,7 +7372,7 @@ class LucideIcons {
   static const IconData grid2x2Check = IconData(
     58857,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-2x2-plus
@@ -7382,7 +7382,7 @@ class LucideIcons {
   static const IconData grid2x2Plus = IconData(
     58925,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-2x2-x
@@ -7392,7 +7392,7 @@ class LucideIcons {
   static const IconData grid2x2X = IconData(
     58858,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-2x2
@@ -7402,7 +7402,7 @@ class LucideIcons {
   static const IconData grid2x2 = IconData(
     58628,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-3x2
@@ -7412,7 +7412,7 @@ class LucideIcons {
   static const IconData grid3x2 = IconData(
     58996,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grid-3x3
@@ -7422,7 +7422,7 @@ class LucideIcons {
   static const IconData grid3x3 = IconData(
     57581,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grip-horizontal
@@ -7432,7 +7432,7 @@ class LucideIcons {
   static const IconData gripHorizontal = IconData(
     57582,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grip-vertical
@@ -7442,7 +7442,7 @@ class LucideIcons {
   static const IconData gripVertical = IconData(
     57583,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## grip
@@ -7452,7 +7452,7 @@ class LucideIcons {
   static const IconData grip = IconData(
     58293,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## group
@@ -7462,7 +7462,7 @@ class LucideIcons {
   static const IconData group = IconData(
     58473,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## guitar
@@ -7472,7 +7472,7 @@ class LucideIcons {
   static const IconData guitar = IconData(
     58724,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ham
@@ -7482,7 +7482,7 @@ class LucideIcons {
   static const IconData ham = IconData(
     58844,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hamburger
@@ -7492,7 +7492,7 @@ class LucideIcons {
   static const IconData hamburger = IconData(
     58986,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hammer
@@ -7502,7 +7502,7 @@ class LucideIcons {
   static const IconData hammer = IconData(
     57584,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-coins
@@ -7512,7 +7512,7 @@ class LucideIcons {
   static const IconData handCoins = IconData(
     58813,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-fist
@@ -7522,7 +7522,7 @@ class LucideIcons {
   static const IconData handFist = IconData(
     59024,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-grab
@@ -7532,7 +7532,7 @@ class LucideIcons {
   static const IconData handGrab = IconData(
     57830,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-heart
@@ -7542,7 +7542,7 @@ class LucideIcons {
   static const IconData handHeart = IconData(
     58814,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-helping
@@ -7552,7 +7552,7 @@ class LucideIcons {
   static const IconData handHelping = IconData(
     58300,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-metal
@@ -7562,7 +7562,7 @@ class LucideIcons {
   static const IconData handMetal = IconData(
     57900,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand-platter
@@ -7572,7 +7572,7 @@ class LucideIcons {
   static const IconData handPlatter = IconData(
     58815,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hand
@@ -7582,7 +7582,7 @@ class LucideIcons {
   static const IconData hand = IconData(
     57815,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## handbag
@@ -7592,7 +7592,7 @@ class LucideIcons {
   static const IconData handbag = IconData(
     59022,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## handshake
@@ -7602,7 +7602,7 @@ class LucideIcons {
   static const IconData handshake = IconData(
     58821,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hard-drive-download
@@ -7612,7 +7612,7 @@ class LucideIcons {
   static const IconData hardDriveDownload = IconData(
     58602,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hard-drive-upload
@@ -7622,7 +7622,7 @@ class LucideIcons {
   static const IconData hardDriveUpload = IconData(
     58603,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hard-drive
@@ -7632,7 +7632,7 @@ class LucideIcons {
   static const IconData hardDrive = IconData(
     57585,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hard-hat
@@ -7642,7 +7642,7 @@ class LucideIcons {
   static const IconData hardHat = IconData(
     57586,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hash
@@ -7652,7 +7652,7 @@ class LucideIcons {
   static const IconData hash = IconData(
     57587,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hat-glasses
@@ -7662,7 +7662,7 @@ class LucideIcons {
   static const IconData hatGlasses = IconData(
     59016,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## haze
@@ -7672,7 +7672,7 @@ class LucideIcons {
   static const IconData haze = IconData(
     57588,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hdmi-port
@@ -7682,7 +7682,7 @@ class LucideIcons {
   static const IconData hdmiPort = IconData(
     58604,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-1
@@ -7692,7 +7692,7 @@ class LucideIcons {
   static const IconData heading1 = IconData(
     58249,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-2
@@ -7702,7 +7702,7 @@ class LucideIcons {
   static const IconData heading2 = IconData(
     58250,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-3
@@ -7712,7 +7712,7 @@ class LucideIcons {
   static const IconData heading3 = IconData(
     58251,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-4
@@ -7722,7 +7722,7 @@ class LucideIcons {
   static const IconData heading4 = IconData(
     58252,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-5
@@ -7732,7 +7732,7 @@ class LucideIcons {
   static const IconData heading5 = IconData(
     58253,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading-6
@@ -7742,7 +7742,7 @@ class LucideIcons {
   static const IconData heading6 = IconData(
     58254,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heading
@@ -7752,7 +7752,7 @@ class LucideIcons {
   static const IconData heading = IconData(
     58248,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## headphone-off
@@ -7762,7 +7762,7 @@ class LucideIcons {
   static const IconData headphoneOff = IconData(
     58926,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## headphones
@@ -7772,7 +7772,7 @@ class LucideIcons {
   static const IconData headphones = IconData(
     57589,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## headset
@@ -7782,7 +7782,7 @@ class LucideIcons {
   static const IconData headset = IconData(
     58818,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-crack
@@ -7792,7 +7792,7 @@ class LucideIcons {
   static const IconData heartCrack = IconData(
     58070,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-handshake
@@ -7802,7 +7802,7 @@ class LucideIcons {
   static const IconData heartHandshake = IconData(
     58071,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-minus
@@ -7812,7 +7812,7 @@ class LucideIcons {
   static const IconData heartMinus = IconData(
     58966,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-off
@@ -7822,7 +7822,7 @@ class LucideIcons {
   static const IconData heartOff = IconData(
     58005,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-plus
@@ -7832,7 +7832,7 @@ class LucideIcons {
   static const IconData heartPlus = IconData(
     58967,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart-pulse
@@ -7842,7 +7842,7 @@ class LucideIcons {
   static const IconData heartPulse = IconData(
     58226,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heart
@@ -7852,7 +7852,7 @@ class LucideIcons {
   static const IconData heart = IconData(
     57590,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## heater
@@ -7862,7 +7862,7 @@ class LucideIcons {
   static const IconData heater = IconData(
     58771,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hexagon
@@ -7872,7 +7872,7 @@ class LucideIcons {
   static const IconData hexagon = IconData(
     57591,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## highlighter
@@ -7882,7 +7882,7 @@ class LucideIcons {
   static const IconData highlighter = IconData(
     57592,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## history
@@ -7892,7 +7892,7 @@ class LucideIcons {
   static const IconData history = IconData(
     57845,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hop-off
@@ -7902,7 +7902,7 @@ class LucideIcons {
   static const IconData hopOff = IconData(
     58268,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hop
@@ -7912,7 +7912,7 @@ class LucideIcons {
   static const IconData hop = IconData(
     58267,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hospital
@@ -7922,7 +7922,7 @@ class LucideIcons {
   static const IconData hospital = IconData(
     58845,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hotel
@@ -7932,7 +7932,7 @@ class LucideIcons {
   static const IconData hotel = IconData(
     58342,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## hourglass
@@ -7942,7 +7942,7 @@ class LucideIcons {
   static const IconData hourglass = IconData(
     58006,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## house-plug
@@ -7952,7 +7952,7 @@ class LucideIcons {
   static const IconData housePlug = IconData(
     58869,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## house-plus
@@ -7962,7 +7962,7 @@ class LucideIcons {
   static const IconData housePlus = IconData(
     58870,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## house-wifi
@@ -7972,7 +7972,7 @@ class LucideIcons {
   static const IconData houseWifi = IconData(
     58945,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## house
@@ -7982,7 +7982,7 @@ class LucideIcons {
   static const IconData house = IconData(
     57593,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ice-cream-bowl
@@ -7992,7 +7992,7 @@ class LucideIcons {
   static const IconData iceCreamBowl = IconData(
     58283,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ice-cream-cone
@@ -8002,7 +8002,7 @@ class LucideIcons {
   static const IconData iceCreamCone = IconData(
     58199,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## id-card-lanyard
@@ -8012,7 +8012,7 @@ class LucideIcons {
   static const IconData idCardLanyard = IconData(
     58997,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## id-card
@@ -8022,7 +8022,7 @@ class LucideIcons {
   static const IconData idCard = IconData(
     58908,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-down
@@ -8032,7 +8032,7 @@ class LucideIcons {
   static const IconData imageDown = IconData(
     58689,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-minus
@@ -8042,7 +8042,7 @@ class LucideIcons {
   static const IconData imageMinus = IconData(
     57846,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-off
@@ -8052,7 +8052,7 @@ class LucideIcons {
   static const IconData imageOff = IconData(
     57792,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-play
@@ -8062,7 +8062,7 @@ class LucideIcons {
   static const IconData imagePlay = IconData(
     58852,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-plus
@@ -8072,7 +8072,7 @@ class LucideIcons {
   static const IconData imagePlus = IconData(
     57847,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-up
@@ -8082,7 +8082,7 @@ class LucideIcons {
   static const IconData imageUp = IconData(
     58832,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image-upscale
@@ -8092,7 +8092,7 @@ class LucideIcons {
   static const IconData imageUpscale = IconData(
     58940,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## image
@@ -8102,7 +8102,7 @@ class LucideIcons {
   static const IconData image = IconData(
     57594,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## images
@@ -8112,7 +8112,7 @@ class LucideIcons {
   static const IconData images = IconData(
     58825,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## import
@@ -8122,7 +8122,7 @@ class LucideIcons {
   static const IconData import = IconData(
     57903,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## inbox
@@ -8132,7 +8132,7 @@ class LucideIcons {
   static const IconData inbox = IconData(
     57595,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## indent-decrease
@@ -8142,7 +8142,7 @@ class LucideIcons {
   static const IconData indentDecrease = IconData(
     57596,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## indent-increase
@@ -8152,7 +8152,7 @@ class LucideIcons {
   static const IconData indentIncrease = IconData(
     57597,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## indian-rupee
@@ -8162,7 +8162,7 @@ class LucideIcons {
   static const IconData indianRupee = IconData(
     57598,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## infinity
@@ -8172,7 +8172,7 @@ class LucideIcons {
   static const IconData infinity = IconData(
     57831,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## info
@@ -8182,7 +8182,7 @@ class LucideIcons {
   static const IconData info = IconData(
     57599,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## inspection-panel
@@ -8192,7 +8192,7 @@ class LucideIcons {
   static const IconData inspectionPanel = IconData(
     58760,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## instagram
@@ -8202,7 +8202,7 @@ class LucideIcons {
   static const IconData instagram = IconData(
     57600,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## italic
@@ -8212,7 +8212,7 @@ class LucideIcons {
   static const IconData italic = IconData(
     57601,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## iteration-ccw
@@ -8222,7 +8222,7 @@ class LucideIcons {
   static const IconData iterationCcw = IconData(
     58408,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## iteration-cw
@@ -8232,7 +8232,7 @@ class LucideIcons {
   static const IconData iterationCw = IconData(
     58409,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## japanese-yen
@@ -8242,7 +8242,7 @@ class LucideIcons {
   static const IconData japaneseYen = IconData(
     57602,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## joystick
@@ -8252,7 +8252,7 @@ class LucideIcons {
   static const IconData joystick = IconData(
     58201,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## kanban
@@ -8262,7 +8262,7 @@ class LucideIcons {
   static const IconData kanban = IconData(
     58593,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## key-round
@@ -8272,7 +8272,7 @@ class LucideIcons {
   static const IconData keyRound = IconData(
     58536,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## key-square
@@ -8282,7 +8282,7 @@ class LucideIcons {
   static const IconData keySquare = IconData(
     58537,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## key
@@ -8292,7 +8292,7 @@ class LucideIcons {
   static const IconData key = IconData(
     57603,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## keyboard-music
@@ -8302,7 +8302,7 @@ class LucideIcons {
   static const IconData keyboardMusic = IconData(
     58725,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## keyboard-off
@@ -8312,7 +8312,7 @@ class LucideIcons {
   static const IconData keyboardOff = IconData(
     58851,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## keyboard
@@ -8322,7 +8322,7 @@ class LucideIcons {
   static const IconData keyboard = IconData(
     57988,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp-ceiling
@@ -8332,7 +8332,7 @@ class LucideIcons {
   static const IconData lampCeiling = IconData(
     58073,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp-desk
@@ -8342,7 +8342,7 @@ class LucideIcons {
   static const IconData lampDesk = IconData(
     58074,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp-floor
@@ -8352,7 +8352,7 @@ class LucideIcons {
   static const IconData lampFloor = IconData(
     58075,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp-wall-down
@@ -8362,7 +8362,7 @@ class LucideIcons {
   static const IconData lampWallDown = IconData(
     58076,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp-wall-up
@@ -8372,7 +8372,7 @@ class LucideIcons {
   static const IconData lampWallUp = IconData(
     58077,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lamp
@@ -8382,7 +8382,7 @@ class LucideIcons {
   static const IconData lamp = IconData(
     58072,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## land-plot
@@ -8392,7 +8392,7 @@ class LucideIcons {
   static const IconData landPlot = IconData(
     58669,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## landmark
@@ -8402,7 +8402,7 @@ class LucideIcons {
   static const IconData landmark = IconData(
     57914,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## languages
@@ -8412,7 +8412,7 @@ class LucideIcons {
   static const IconData languages = IconData(
     57604,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## laptop-minimal-check
@@ -8422,7 +8422,7 @@ class LucideIcons {
   static const IconData laptopMinimalCheck = IconData(
     58935,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## laptop-minimal
@@ -8432,7 +8432,7 @@ class LucideIcons {
   static const IconData laptopMinimal = IconData(
     57816,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## laptop
@@ -8442,7 +8442,7 @@ class LucideIcons {
   static const IconData laptop = IconData(
     57805,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lasso-select
@@ -8452,7 +8452,7 @@ class LucideIcons {
   static const IconData lassoSelect = IconData(
     57807,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lasso
@@ -8462,7 +8462,7 @@ class LucideIcons {
   static const IconData lasso = IconData(
     57806,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## laugh
@@ -8472,7 +8472,7 @@ class LucideIcons {
   static const IconData laugh = IconData(
     58112,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layers-2
@@ -8482,7 +8482,7 @@ class LucideIcons {
   static const IconData layers2 = IconData(
     58671,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layers
@@ -8492,7 +8492,7 @@ class LucideIcons {
   static const IconData layers = IconData(
     58670,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-dashboard
@@ -8502,7 +8502,7 @@ class LucideIcons {
   static const IconData layoutDashboard = IconData(
     57793,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-grid
@@ -8512,7 +8512,7 @@ class LucideIcons {
   static const IconData layoutGrid = IconData(
     57605,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-list
@@ -8522,7 +8522,7 @@ class LucideIcons {
   static const IconData layoutList = IconData(
     57817,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-panel-left
@@ -8532,7 +8532,7 @@ class LucideIcons {
   static const IconData layoutPanelLeft = IconData(
     58485,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-panel-top
@@ -8542,7 +8542,7 @@ class LucideIcons {
   static const IconData layoutPanelTop = IconData(
     58486,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## layout-template
@@ -8552,7 +8552,7 @@ class LucideIcons {
   static const IconData layoutTemplate = IconData(
     57863,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## leaf
@@ -8562,7 +8562,7 @@ class LucideIcons {
   static const IconData leaf = IconData(
     58078,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## leafy-green
@@ -8572,7 +8572,7 @@ class LucideIcons {
   static const IconData leafyGreen = IconData(
     58484,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lectern
@@ -8582,7 +8582,7 @@ class LucideIcons {
   static const IconData lectern = IconData(
     58862,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## letter-text
@@ -8592,7 +8592,7 @@ class LucideIcons {
   static const IconData letterText = IconData(
     58890,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## library-big
@@ -8602,7 +8602,7 @@ class LucideIcons {
   static const IconData libraryBig = IconData(
     58707,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## library
@@ -8612,7 +8612,7 @@ class LucideIcons {
   static const IconData library = IconData(
     57606,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## life-buoy
@@ -8622,7 +8622,7 @@ class LucideIcons {
   static const IconData lifeBuoy = IconData(
     57607,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ligature
@@ -8632,7 +8632,7 @@ class LucideIcons {
   static const IconData ligature = IconData(
     58431,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lightbulb-off
@@ -8642,7 +8642,7 @@ class LucideIcons {
   static const IconData lightbulbOff = IconData(
     57864,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lightbulb
@@ -8652,7 +8652,7 @@ class LucideIcons {
   static const IconData lightbulb = IconData(
     57794,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## line-squiggle
@@ -8662,7 +8662,7 @@ class LucideIcons {
   static const IconData lineSquiggle = IconData(
     59007,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## link-2-off
@@ -8672,7 +8672,7 @@ class LucideIcons {
   static const IconData link2Off = IconData(
     57610,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## link-2
@@ -8682,7 +8682,7 @@ class LucideIcons {
   static const IconData link2 = IconData(
     57609,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## link
@@ -8692,7 +8692,7 @@ class LucideIcons {
   static const IconData link = IconData(
     57608,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## linkedin
@@ -8702,7 +8702,7 @@ class LucideIcons {
   static const IconData linkedin = IconData(
     57611,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-check
@@ -8712,7 +8712,7 @@ class LucideIcons {
   static const IconData listCheck = IconData(
     58879,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-checks
@@ -8722,7 +8722,7 @@ class LucideIcons {
   static const IconData listChecks = IconData(
     57808,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-collapse
@@ -8732,7 +8732,7 @@ class LucideIcons {
   static const IconData listCollapse = IconData(
     58784,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-end
@@ -8742,7 +8742,7 @@ class LucideIcons {
   static const IconData listEnd = IconData(
     58079,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-filter-plus
@@ -8752,7 +8752,7 @@ class LucideIcons {
   static const IconData listFilterPlus = IconData(
     58942,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-filter
@@ -8762,7 +8762,7 @@ class LucideIcons {
   static const IconData listFilter = IconData(
     58469,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-minus
@@ -8772,7 +8772,7 @@ class LucideIcons {
   static const IconData listMinus = IconData(
     57918,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-music
@@ -8782,7 +8782,7 @@ class LucideIcons {
   static const IconData listMusic = IconData(
     58080,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-ordered
@@ -8792,7 +8792,7 @@ class LucideIcons {
   static const IconData listOrdered = IconData(
     57809,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-plus
@@ -8802,7 +8802,7 @@ class LucideIcons {
   static const IconData listPlus = IconData(
     57919,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-restart
@@ -8812,7 +8812,7 @@ class LucideIcons {
   static const IconData listRestart = IconData(
     58455,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-start
@@ -8822,7 +8822,7 @@ class LucideIcons {
   static const IconData listStart = IconData(
     58081,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-todo
@@ -8832,7 +8832,7 @@ class LucideIcons {
   static const IconData listTodo = IconData(
     58568,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-tree
@@ -8842,7 +8842,7 @@ class LucideIcons {
   static const IconData listTree = IconData(
     58381,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-video
@@ -8852,7 +8852,7 @@ class LucideIcons {
   static const IconData listVideo = IconData(
     58082,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list-x
@@ -8862,7 +8862,7 @@ class LucideIcons {
   static const IconData listX = IconData(
     57920,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## list
@@ -8872,7 +8872,7 @@ class LucideIcons {
   static const IconData list = IconData(
     57612,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## loader-circle
@@ -8882,7 +8882,7 @@ class LucideIcons {
   static const IconData loaderCircle = IconData(
     57614,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## loader-pinwheel
@@ -8892,7 +8892,7 @@ class LucideIcons {
   static const IconData loaderPinwheel = IconData(
     58859,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## loader
@@ -8902,7 +8902,7 @@ class LucideIcons {
   static const IconData loader = IconData(
     57613,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## locate-fixed
@@ -8912,7 +8912,7 @@ class LucideIcons {
   static const IconData locateFixed = IconData(
     57819,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## locate-off
@@ -8922,7 +8922,7 @@ class LucideIcons {
   static const IconData locateOff = IconData(
     57986,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## locate
@@ -8932,7 +8932,7 @@ class LucideIcons {
   static const IconData locate = IconData(
     57818,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lock-keyhole-open
@@ -8942,7 +8942,7 @@ class LucideIcons {
   static const IconData lockKeyholeOpen = IconData(
     58679,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lock-keyhole
@@ -8952,7 +8952,7 @@ class LucideIcons {
   static const IconData lockKeyhole = IconData(
     58678,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lock-open
@@ -8962,7 +8962,7 @@ class LucideIcons {
   static const IconData lockOpen = IconData(
     57616,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lock
@@ -8972,7 +8972,7 @@ class LucideIcons {
   static const IconData lock = IconData(
     57615,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## log-in
@@ -8982,7 +8982,7 @@ class LucideIcons {
   static const IconData logIn = IconData(
     57617,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## log-out
@@ -8992,7 +8992,7 @@ class LucideIcons {
   static const IconData logOut = IconData(
     57618,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## logs
@@ -9002,7 +9002,7 @@ class LucideIcons {
   static const IconData logs = IconData(
     58873,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## lollipop
@@ -9012,7 +9012,7 @@ class LucideIcons {
   static const IconData lollipop = IconData(
     58562,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## luggage
@@ -9022,7 +9022,7 @@ class LucideIcons {
   static const IconData luggage = IconData(
     58058,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## magnet
@@ -9032,7 +9032,7 @@ class LucideIcons {
   static const IconData magnet = IconData(
     58037,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-check
@@ -9042,7 +9042,7 @@ class LucideIcons {
   static const IconData mailCheck = IconData(
     58213,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-minus
@@ -9052,7 +9052,7 @@ class LucideIcons {
   static const IconData mailMinus = IconData(
     58214,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-open
@@ -9062,7 +9062,7 @@ class LucideIcons {
   static const IconData mailOpen = IconData(
     58215,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-plus
@@ -9072,7 +9072,7 @@ class LucideIcons {
   static const IconData mailPlus = IconData(
     58216,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-question-mark
@@ -9082,7 +9082,7 @@ class LucideIcons {
   static const IconData mailQuestionMark = IconData(
     58217,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-search
@@ -9092,7 +9092,7 @@ class LucideIcons {
   static const IconData mailSearch = IconData(
     58218,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-warning
@@ -9102,7 +9102,7 @@ class LucideIcons {
   static const IconData mailWarning = IconData(
     58219,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail-x
@@ -9112,7 +9112,7 @@ class LucideIcons {
   static const IconData mailX = IconData(
     58220,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mail
@@ -9122,7 +9122,7 @@ class LucideIcons {
   static const IconData mail = IconData(
     57619,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mailbox
@@ -9132,7 +9132,7 @@ class LucideIcons {
   static const IconData mailbox = IconData(
     58328,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mails
@@ -9142,7 +9142,7 @@ class LucideIcons {
   static const IconData mails = IconData(
     58221,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-minus
@@ -9152,7 +9152,7 @@ class LucideIcons {
   static const IconData mapMinus = IconData(
     59019,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-check-inside
@@ -9162,7 +9162,7 @@ class LucideIcons {
   static const IconData mapPinCheckInside = IconData(
     58901,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-check
@@ -9172,7 +9172,7 @@ class LucideIcons {
   static const IconData mapPinCheck = IconData(
     58900,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-house
@@ -9182,7 +9182,7 @@ class LucideIcons {
   static const IconData mapPinHouse = IconData(
     58913,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-minus-inside
@@ -9192,7 +9192,7 @@ class LucideIcons {
   static const IconData mapPinMinusInside = IconData(
     58903,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-minus
@@ -9202,7 +9202,7 @@ class LucideIcons {
   static const IconData mapPinMinus = IconData(
     58902,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-off
@@ -9212,7 +9212,7 @@ class LucideIcons {
   static const IconData mapPinOff = IconData(
     58022,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-pen
@@ -9222,7 +9222,7 @@ class LucideIcons {
   static const IconData mapPinPen = IconData(
     58970,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-plus-inside
@@ -9232,7 +9232,7 @@ class LucideIcons {
   static const IconData mapPinPlusInside = IconData(
     58905,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-plus
@@ -9242,7 +9242,7 @@ class LucideIcons {
   static const IconData mapPinPlus = IconData(
     58904,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-x-inside
@@ -9252,7 +9252,7 @@ class LucideIcons {
   static const IconData mapPinXInside = IconData(
     58907,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin-x
@@ -9262,7 +9262,7 @@ class LucideIcons {
   static const IconData mapPinX = IconData(
     58906,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pin
@@ -9272,7 +9272,7 @@ class LucideIcons {
   static const IconData mapPin = IconData(
     57621,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-pinned
@@ -9282,7 +9282,7 @@ class LucideIcons {
   static const IconData mapPinned = IconData(
     58690,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map-plus
@@ -9292,7 +9292,7 @@ class LucideIcons {
   static const IconData mapPlus = IconData(
     58948,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## map
@@ -9302,7 +9302,7 @@ class LucideIcons {
   static const IconData map = IconData(
     57620,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mars-stroke
@@ -9312,7 +9312,7 @@ class LucideIcons {
   static const IconData marsStroke = IconData(
     58951,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mars
@@ -9322,7 +9322,7 @@ class LucideIcons {
   static const IconData mars = IconData(
     58950,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## martini
@@ -9332,7 +9332,7 @@ class LucideIcons {
   static const IconData martini = IconData(
     58083,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## maximize-2
@@ -9342,7 +9342,7 @@ class LucideIcons {
   static const IconData maximize2 = IconData(
     57623,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## maximize
@@ -9352,7 +9352,7 @@ class LucideIcons {
   static const IconData maximize = IconData(
     57622,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## medal
@@ -9362,7 +9362,7 @@ class LucideIcons {
   static const IconData medal = IconData(
     58227,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## megaphone-off
@@ -9372,7 +9372,7 @@ class LucideIcons {
   static const IconData megaphoneOff = IconData(
     58228,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## megaphone
@@ -9382,7 +9382,7 @@ class LucideIcons {
   static const IconData megaphone = IconData(
     57909,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## meh
@@ -9392,7 +9392,7 @@ class LucideIcons {
   static const IconData meh = IconData(
     57624,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## memory-stick
@@ -9402,7 +9402,7 @@ class LucideIcons {
   static const IconData memoryStick = IconData(
     58442,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## menu
@@ -9412,7 +9412,7 @@ class LucideIcons {
   static const IconData menu = IconData(
     57625,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## merge
@@ -9422,7 +9422,7 @@ class LucideIcons {
   static const IconData merge = IconData(
     58436,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-code
@@ -9432,7 +9432,7 @@ class LucideIcons {
   static const IconData messageCircleCode = IconData(
     58727,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-dashed
@@ -9442,7 +9442,7 @@ class LucideIcons {
   static const IconData messageCircleDashed = IconData(
     58728,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-heart
@@ -9452,7 +9452,7 @@ class LucideIcons {
   static const IconData messageCircleHeart = IconData(
     58729,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-more
@@ -9462,7 +9462,7 @@ class LucideIcons {
   static const IconData messageCircleMore = IconData(
     58730,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-off
@@ -9472,7 +9472,7 @@ class LucideIcons {
   static const IconData messageCircleOff = IconData(
     58731,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-plus
@@ -9482,7 +9482,7 @@ class LucideIcons {
   static const IconData messageCirclePlus = IconData(
     58732,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-question-mark
@@ -9492,7 +9492,7 @@ class LucideIcons {
   static const IconData messageCircleQuestionMark = IconData(
     58733,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-reply
@@ -9502,7 +9502,7 @@ class LucideIcons {
   static const IconData messageCircleReply = IconData(
     58734,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-warning
@@ -9512,7 +9512,7 @@ class LucideIcons {
   static const IconData messageCircleWarning = IconData(
     58735,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle-x
@@ -9522,7 +9522,7 @@ class LucideIcons {
   static const IconData messageCircleX = IconData(
     58736,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-circle
@@ -9532,7 +9532,7 @@ class LucideIcons {
   static const IconData messageCircle = IconData(
     57626,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-code
@@ -9542,7 +9542,7 @@ class LucideIcons {
   static const IconData messageSquareCode = IconData(
     58737,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-dashed
@@ -9552,7 +9552,7 @@ class LucideIcons {
   static const IconData messageSquareDashed = IconData(
     58384,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-diff
@@ -9562,7 +9562,7 @@ class LucideIcons {
   static const IconData messageSquareDiff = IconData(
     58738,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-dot
@@ -9572,7 +9572,7 @@ class LucideIcons {
   static const IconData messageSquareDot = IconData(
     58739,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-heart
@@ -9582,7 +9582,7 @@ class LucideIcons {
   static const IconData messageSquareHeart = IconData(
     58740,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-lock
@@ -9592,7 +9592,7 @@ class LucideIcons {
   static const IconData messageSquareLock = IconData(
     58929,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-more
@@ -9602,7 +9602,7 @@ class LucideIcons {
   static const IconData messageSquareMore = IconData(
     58741,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-off
@@ -9612,7 +9612,7 @@ class LucideIcons {
   static const IconData messageSquareOff = IconData(
     58742,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-plus
@@ -9622,7 +9622,7 @@ class LucideIcons {
   static const IconData messageSquarePlus = IconData(
     58385,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-quote
@@ -9632,7 +9632,7 @@ class LucideIcons {
   static const IconData messageSquareQuote = IconData(
     58743,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-reply
@@ -9642,7 +9642,7 @@ class LucideIcons {
   static const IconData messageSquareReply = IconData(
     58744,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-share
@@ -9652,7 +9652,7 @@ class LucideIcons {
   static const IconData messageSquareShare = IconData(
     58745,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-text
@@ -9662,7 +9662,7 @@ class LucideIcons {
   static const IconData messageSquareText = IconData(
     58746,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-warning
@@ -9672,7 +9672,7 @@ class LucideIcons {
   static const IconData messageSquareWarning = IconData(
     58747,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square-x
@@ -9682,7 +9682,7 @@ class LucideIcons {
   static const IconData messageSquareX = IconData(
     58748,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## message-square
@@ -9692,7 +9692,7 @@ class LucideIcons {
   static const IconData messageSquare = IconData(
     57627,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## messages-square
@@ -9702,7 +9702,7 @@ class LucideIcons {
   static const IconData messagesSquare = IconData(
     58386,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mic-off
@@ -9712,7 +9712,7 @@ class LucideIcons {
   static const IconData micOff = IconData(
     57629,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mic-vocal
@@ -9722,7 +9722,7 @@ class LucideIcons {
   static const IconData micVocal = IconData(
     58189,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mic
@@ -9732,7 +9732,7 @@ class LucideIcons {
   static const IconData mic = IconData(
     57628,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## microchip
@@ -9742,7 +9742,7 @@ class LucideIcons {
   static const IconData microchip = IconData(
     58911,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## microscope
@@ -9752,7 +9752,7 @@ class LucideIcons {
   static const IconData microscope = IconData(
     58084,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## microwave
@@ -9762,7 +9762,7 @@ class LucideIcons {
   static const IconData microwave = IconData(
     58238,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## milestone
@@ -9772,7 +9772,7 @@ class LucideIcons {
   static const IconData milestone = IconData(
     58008,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## milk-off
@@ -9782,7 +9782,7 @@ class LucideIcons {
   static const IconData milkOff = IconData(
     58270,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## milk
@@ -9792,7 +9792,7 @@ class LucideIcons {
   static const IconData milk = IconData(
     58269,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## minimize-2
@@ -9802,7 +9802,7 @@ class LucideIcons {
   static const IconData minimize2 = IconData(
     57631,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## minimize
@@ -9812,7 +9812,7 @@ class LucideIcons {
   static const IconData minimize = IconData(
     57630,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## minus
@@ -9822,7 +9822,7 @@ class LucideIcons {
   static const IconData minus = IconData(
     57632,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-check
@@ -9832,7 +9832,7 @@ class LucideIcons {
   static const IconData monitorCheck = IconData(
     58503,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-cog
@@ -9842,7 +9842,7 @@ class LucideIcons {
   static const IconData monitorCog = IconData(
     58888,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-dot
@@ -9852,7 +9852,7 @@ class LucideIcons {
   static const IconData monitorDot = IconData(
     58504,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-down
@@ -9862,7 +9862,7 @@ class LucideIcons {
   static const IconData monitorDown = IconData(
     58406,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-off
@@ -9872,7 +9872,7 @@ class LucideIcons {
   static const IconData monitorOff = IconData(
     57820,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-pause
@@ -9882,7 +9882,7 @@ class LucideIcons {
   static const IconData monitorPause = IconData(
     58505,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-play
@@ -9892,7 +9892,7 @@ class LucideIcons {
   static const IconData monitorPlay = IconData(
     58506,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-smartphone
@@ -9902,7 +9902,7 @@ class LucideIcons {
   static const IconData monitorSmartphone = IconData(
     58278,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-speaker
@@ -9912,7 +9912,7 @@ class LucideIcons {
   static const IconData monitorSpeaker = IconData(
     57872,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-stop
@@ -9922,7 +9922,7 @@ class LucideIcons {
   static const IconData monitorStop = IconData(
     58507,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-up
@@ -9932,7 +9932,7 @@ class LucideIcons {
   static const IconData monitorUp = IconData(
     58407,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor-x
@@ -9942,7 +9942,7 @@ class LucideIcons {
   static const IconData monitorX = IconData(
     58508,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## monitor
@@ -9952,7 +9952,7 @@ class LucideIcons {
   static const IconData monitor = IconData(
     57633,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## moon-star
@@ -9962,7 +9962,7 @@ class LucideIcons {
   static const IconData moonStar = IconData(
     58389,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## moon
@@ -9972,7 +9972,7 @@ class LucideIcons {
   static const IconData moon = IconData(
     57634,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mountain-snow
@@ -9982,7 +9982,7 @@ class LucideIcons {
   static const IconData mountainSnow = IconData(
     57906,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mountain
@@ -9992,7 +9992,7 @@ class LucideIcons {
   static const IconData mountain = IconData(
     57905,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse-off
@@ -10002,7 +10002,7 @@ class LucideIcons {
   static const IconData mouseOff = IconData(
     58848,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse-pointer-2
@@ -10012,7 +10012,7 @@ class LucideIcons {
   static const IconData mousePointer2 = IconData(
     57795,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse-pointer-ban
@@ -10022,7 +10022,7 @@ class LucideIcons {
   static const IconData mousePointerBan = IconData(
     58860,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse-pointer-click
@@ -10032,7 +10032,7 @@ class LucideIcons {
   static const IconData mousePointerClick = IconData(
     57636,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse-pointer
@@ -10042,7 +10042,7 @@ class LucideIcons {
   static const IconData mousePointer = IconData(
     57635,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## mouse
@@ -10052,7 +10052,7 @@ class LucideIcons {
   static const IconData mouse = IconData(
     57998,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-3d
@@ -10062,7 +10062,7 @@ class LucideIcons {
   static const IconData move3d = IconData(
     58085,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-diagonal-2
@@ -10072,7 +10072,7 @@ class LucideIcons {
   static const IconData moveDiagonal2 = IconData(
     57797,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-diagonal
@@ -10082,7 +10082,7 @@ class LucideIcons {
   static const IconData moveDiagonal = IconData(
     57796,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-down-left
@@ -10092,7 +10092,7 @@ class LucideIcons {
   static const IconData moveDownLeft = IconData(
     58514,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-down-right
@@ -10102,7 +10102,7 @@ class LucideIcons {
   static const IconData moveDownRight = IconData(
     58515,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-down
@@ -10112,7 +10112,7 @@ class LucideIcons {
   static const IconData moveDown = IconData(
     58513,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-horizontal
@@ -10122,7 +10122,7 @@ class LucideIcons {
   static const IconData moveHorizontal = IconData(
     57798,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-left
@@ -10132,7 +10132,7 @@ class LucideIcons {
   static const IconData moveLeft = IconData(
     58516,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-right
@@ -10142,7 +10142,7 @@ class LucideIcons {
   static const IconData moveRight = IconData(
     58517,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-up-left
@@ -10152,7 +10152,7 @@ class LucideIcons {
   static const IconData moveUpLeft = IconData(
     58519,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-up-right
@@ -10162,7 +10162,7 @@ class LucideIcons {
   static const IconData moveUpRight = IconData(
     58520,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-up
@@ -10172,7 +10172,7 @@ class LucideIcons {
   static const IconData moveUp = IconData(
     58518,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move-vertical
@@ -10182,7 +10182,7 @@ class LucideIcons {
   static const IconData moveVertical = IconData(
     57799,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## move
@@ -10192,7 +10192,7 @@ class LucideIcons {
   static const IconData move = IconData(
     57637,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## music-2
@@ -10202,7 +10202,7 @@ class LucideIcons {
   static const IconData music2 = IconData(
     58190,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## music-3
@@ -10212,7 +10212,7 @@ class LucideIcons {
   static const IconData music3 = IconData(
     58191,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## music-4
@@ -10222,7 +10222,7 @@ class LucideIcons {
   static const IconData music4 = IconData(
     58192,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## music
@@ -10232,7 +10232,7 @@ class LucideIcons {
   static const IconData music = IconData(
     57638,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## navigation-2-off
@@ -10242,7 +10242,7 @@ class LucideIcons {
   static const IconData navigation2Off = IconData(
     58023,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## navigation-2
@@ -10252,7 +10252,7 @@ class LucideIcons {
   static const IconData navigation2 = IconData(
     57640,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## navigation-off
@@ -10262,7 +10262,7 @@ class LucideIcons {
   static const IconData navigationOff = IconData(
     58024,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## navigation
@@ -10272,7 +10272,7 @@ class LucideIcons {
   static const IconData navigation = IconData(
     57639,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## network
@@ -10282,7 +10282,7 @@ class LucideIcons {
   static const IconData network = IconData(
     57641,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## newspaper
@@ -10292,7 +10292,7 @@ class LucideIcons {
   static const IconData newspaper = IconData(
     58188,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## nfc
@@ -10302,7 +10302,7 @@ class LucideIcons {
   static const IconData nfc = IconData(
     58311,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## non-binary
@@ -10312,7 +10312,7 @@ class LucideIcons {
   static const IconData nonBinary = IconData(
     58952,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notebook-pen
@@ -10322,7 +10322,7 @@ class LucideIcons {
   static const IconData notebookPen = IconData(
     58779,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notebook-tabs
@@ -10332,7 +10332,7 @@ class LucideIcons {
   static const IconData notebookTabs = IconData(
     58780,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notebook-text
@@ -10342,7 +10342,7 @@ class LucideIcons {
   static const IconData notebookText = IconData(
     58781,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notebook
@@ -10352,7 +10352,7 @@ class LucideIcons {
   static const IconData notebook = IconData(
     58778,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notepad-text-dashed
@@ -10362,7 +10362,7 @@ class LucideIcons {
   static const IconData notepadTextDashed = IconData(
     58783,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## notepad-text
@@ -10372,7 +10372,7 @@ class LucideIcons {
   static const IconData notepadText = IconData(
     58782,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## nut-off
@@ -10382,7 +10382,7 @@ class LucideIcons {
   static const IconData nutOff = IconData(
     58272,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## nut
@@ -10392,7 +10392,7 @@ class LucideIcons {
   static const IconData nut = IconData(
     58271,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## octagon-alert
@@ -10402,7 +10402,7 @@ class LucideIcons {
   static const IconData octagonAlert = IconData(
     57643,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## octagon-minus
@@ -10412,7 +10412,7 @@ class LucideIcons {
   static const IconData octagonMinus = IconData(
     58924,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## octagon-pause
@@ -10422,7 +10422,7 @@ class LucideIcons {
   static const IconData octagonPause = IconData(
     57883,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## octagon-x
@@ -10432,7 +10432,7 @@ class LucideIcons {
   static const IconData octagonX = IconData(
     57644,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## octagon
@@ -10442,7 +10442,7 @@ class LucideIcons {
   static const IconData octagon = IconData(
     57642,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## omega
@@ -10452,7 +10452,7 @@ class LucideIcons {
   static const IconData omega = IconData(
     58910,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## option
@@ -10462,7 +10462,7 @@ class LucideIcons {
   static const IconData option = IconData(
     57848,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## orbit
@@ -10472,7 +10472,7 @@ class LucideIcons {
   static const IconData orbit = IconData(
     58347,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## origami
@@ -10482,7 +10482,7 @@ class LucideIcons {
   static const IconData origami = IconData(
     58856,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-2
@@ -10492,7 +10492,7 @@ class LucideIcons {
   static const IconData package2 = IconData(
     58180,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-check
@@ -10502,7 +10502,7 @@ class LucideIcons {
   static const IconData packageCheck = IconData(
     57958,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-minus
@@ -10512,7 +10512,7 @@ class LucideIcons {
   static const IconData packageMinus = IconData(
     57959,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-open
@@ -10522,7 +10522,7 @@ class LucideIcons {
   static const IconData packageOpen = IconData(
     58060,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-plus
@@ -10532,7 +10532,7 @@ class LucideIcons {
   static const IconData packagePlus = IconData(
     57960,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-search
@@ -10542,7 +10542,7 @@ class LucideIcons {
   static const IconData packageSearch = IconData(
     57961,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package-x
@@ -10552,7 +10552,7 @@ class LucideIcons {
   static const IconData packageX = IconData(
     57962,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## package
@@ -10562,7 +10562,7 @@ class LucideIcons {
   static const IconData package = IconData(
     57645,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paint-bucket
@@ -10572,7 +10572,7 @@ class LucideIcons {
   static const IconData paintBucket = IconData(
     58086,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paint-roller
@@ -10582,7 +10582,7 @@ class LucideIcons {
   static const IconData paintRoller = IconData(
     58787,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paintbrush-vertical
@@ -10592,7 +10592,7 @@ class LucideIcons {
   static const IconData paintbrushVertical = IconData(
     58088,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paintbrush
@@ -10602,7 +10602,7 @@ class LucideIcons {
   static const IconData paintbrush = IconData(
     58087,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## palette
@@ -10612,7 +10612,7 @@ class LucideIcons {
   static const IconData palette = IconData(
     57821,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panda
@@ -10622,7 +10622,7 @@ class LucideIcons {
   static const IconData panda = IconData(
     58989,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-bottom-close
@@ -10632,7 +10632,7 @@ class LucideIcons {
   static const IconData panelBottomClose = IconData(
     58418,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-bottom-dashed
@@ -10642,7 +10642,7 @@ class LucideIcons {
   static const IconData panelBottomDashed = IconData(
     58419,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-bottom-open
@@ -10652,7 +10652,7 @@ class LucideIcons {
   static const IconData panelBottomOpen = IconData(
     58420,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-bottom
@@ -10662,7 +10662,7 @@ class LucideIcons {
   static const IconData panelBottom = IconData(
     58417,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-left-close
@@ -10672,7 +10672,7 @@ class LucideIcons {
   static const IconData panelLeftClose = IconData(
     57884,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-left-dashed
@@ -10682,7 +10682,7 @@ class LucideIcons {
   static const IconData panelLeftDashed = IconData(
     58421,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-left-open
@@ -10692,7 +10692,7 @@ class LucideIcons {
   static const IconData panelLeftOpen = IconData(
     57885,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-left
@@ -10702,7 +10702,7 @@ class LucideIcons {
   static const IconData panelLeft = IconData(
     57646,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-right-close
@@ -10712,7 +10712,7 @@ class LucideIcons {
   static const IconData panelRightClose = IconData(
     58423,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-right-dashed
@@ -10722,7 +10722,7 @@ class LucideIcons {
   static const IconData panelRightDashed = IconData(
     58424,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-right-open
@@ -10732,7 +10732,7 @@ class LucideIcons {
   static const IconData panelRightOpen = IconData(
     58425,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-right
@@ -10742,7 +10742,7 @@ class LucideIcons {
   static const IconData panelRight = IconData(
     58422,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-top-close
@@ -10752,7 +10752,7 @@ class LucideIcons {
   static const IconData panelTopClose = IconData(
     58427,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-top-dashed
@@ -10762,7 +10762,7 @@ class LucideIcons {
   static const IconData panelTopDashed = IconData(
     58428,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-top-open
@@ -10772,7 +10772,7 @@ class LucideIcons {
   static const IconData panelTopOpen = IconData(
     58429,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panel-top
@@ -10782,7 +10782,7 @@ class LucideIcons {
   static const IconData panelTop = IconData(
     58426,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panels-left-bottom
@@ -10792,7 +10792,7 @@ class LucideIcons {
   static const IconData panelsLeftBottom = IconData(
     57647,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panels-right-bottom
@@ -10802,7 +10802,7 @@ class LucideIcons {
   static const IconData panelsRightBottom = IconData(
     58765,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## panels-top-left
@@ -10812,7 +10812,7 @@ class LucideIcons {
   static const IconData panelsTopLeft = IconData(
     57648,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paperclip
@@ -10822,7 +10822,7 @@ class LucideIcons {
   static const IconData paperclip = IconData(
     57649,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## parentheses
@@ -10832,7 +10832,7 @@ class LucideIcons {
   static const IconData parentheses = IconData(
     58441,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## parking-meter
@@ -10842,7 +10842,7 @@ class LucideIcons {
   static const IconData parkingMeter = IconData(
     58629,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## party-popper
@@ -10852,7 +10852,7 @@ class LucideIcons {
   static const IconData partyPopper = IconData(
     58183,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pause
@@ -10862,7 +10862,7 @@ class LucideIcons {
   static const IconData pause = IconData(
     57650,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## paw-print
@@ -10872,7 +10872,7 @@ class LucideIcons {
   static const IconData pawPrint = IconData(
     58618,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pc-case
@@ -10882,7 +10882,7 @@ class LucideIcons {
   static const IconData pcCase = IconData(
     58443,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pen-line
@@ -10892,7 +10892,7 @@ class LucideIcons {
   static const IconData penLine = IconData(
     57652,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pen-off
@@ -10902,7 +10902,7 @@ class LucideIcons {
   static const IconData penOff = IconData(
     58867,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pen-tool
@@ -10912,7 +10912,7 @@ class LucideIcons {
   static const IconData penTool = IconData(
     57653,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pen
@@ -10922,7 +10922,7 @@ class LucideIcons {
   static const IconData pen = IconData(
     57651,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pencil-line
@@ -10932,7 +10932,7 @@ class LucideIcons {
   static const IconData pencilLine = IconData(
     58613,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pencil-off
@@ -10942,7 +10942,7 @@ class LucideIcons {
   static const IconData pencilOff = IconData(
     58868,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pencil-ruler
@@ -10952,7 +10952,7 @@ class LucideIcons {
   static const IconData pencilRuler = IconData(
     58614,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pencil
@@ -10962,7 +10962,7 @@ class LucideIcons {
   static const IconData pencil = IconData(
     57849,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pentagon
@@ -10972,7 +10972,7 @@ class LucideIcons {
   static const IconData pentagon = IconData(
     58672,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## percent
@@ -10982,7 +10982,7 @@ class LucideIcons {
   static const IconData percent = IconData(
     57654,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## person-standing
@@ -10992,7 +10992,7 @@ class LucideIcons {
   static const IconData personStanding = IconData(
     57886,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## philippine-peso
@@ -11002,7 +11002,7 @@ class LucideIcons {
   static const IconData philippinePeso = IconData(
     58889,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-call
@@ -11012,7 +11012,7 @@ class LucideIcons {
   static const IconData phoneCall = IconData(
     57656,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-forwarded
@@ -11022,7 +11022,7 @@ class LucideIcons {
   static const IconData phoneForwarded = IconData(
     57657,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-incoming
@@ -11032,7 +11032,7 @@ class LucideIcons {
   static const IconData phoneIncoming = IconData(
     57658,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-missed
@@ -11042,7 +11042,7 @@ class LucideIcons {
   static const IconData phoneMissed = IconData(
     57659,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-off
@@ -11052,7 +11052,7 @@ class LucideIcons {
   static const IconData phoneOff = IconData(
     57660,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone-outgoing
@@ -11062,7 +11062,7 @@ class LucideIcons {
   static const IconData phoneOutgoing = IconData(
     57661,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## phone
@@ -11072,7 +11072,7 @@ class LucideIcons {
   static const IconData phone = IconData(
     57655,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pi
@@ -11082,7 +11082,7 @@ class LucideIcons {
   static const IconData pi = IconData(
     58487,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## piano
@@ -11092,7 +11092,7 @@ class LucideIcons {
   static const IconData piano = IconData(
     58726,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pickaxe
@@ -11102,7 +11102,7 @@ class LucideIcons {
   static const IconData pickaxe = IconData(
     58827,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## picture-in-picture-2
@@ -11112,7 +11112,7 @@ class LucideIcons {
   static const IconData pictureInPicture2 = IconData(
     58291,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## picture-in-picture
@@ -11122,7 +11122,7 @@ class LucideIcons {
   static const IconData pictureInPicture = IconData(
     58290,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## piggy-bank
@@ -11132,7 +11132,7 @@ class LucideIcons {
   static const IconData piggyBank = IconData(
     57662,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pilcrow-left
@@ -11142,7 +11142,7 @@ class LucideIcons {
   static const IconData pilcrowLeft = IconData(
     58849,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pilcrow-right
@@ -11152,7 +11152,7 @@ class LucideIcons {
   static const IconData pilcrowRight = IconData(
     58850,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pilcrow
@@ -11162,7 +11162,7 @@ class LucideIcons {
   static const IconData pilcrow = IconData(
     58279,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pill-bottle
@@ -11172,7 +11172,7 @@ class LucideIcons {
   static const IconData pillBottle = IconData(
     58863,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pill
@@ -11182,7 +11182,7 @@ class LucideIcons {
   static const IconData pill = IconData(
     58305,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pin-off
@@ -11192,7 +11192,7 @@ class LucideIcons {
   static const IconData pinOff = IconData(
     58038,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pin
@@ -11202,7 +11202,7 @@ class LucideIcons {
   static const IconData pin = IconData(
     57945,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pipette
@@ -11212,7 +11212,7 @@ class LucideIcons {
   static const IconData pipette = IconData(
     57663,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pizza
@@ -11222,7 +11222,7 @@ class LucideIcons {
   static const IconData pizza = IconData(
     58200,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plane-landing
@@ -11232,7 +11232,7 @@ class LucideIcons {
   static const IconData planeLanding = IconData(
     58321,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plane-takeoff
@@ -11242,7 +11242,7 @@ class LucideIcons {
   static const IconData planeTakeoff = IconData(
     58322,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plane
@@ -11252,7 +11252,7 @@ class LucideIcons {
   static const IconData plane = IconData(
     57822,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## play
@@ -11262,7 +11262,7 @@ class LucideIcons {
   static const IconData play = IconData(
     57664,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plug-2
@@ -11272,7 +11272,7 @@ class LucideIcons {
   static const IconData plug2 = IconData(
     58244,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plug-zap
@@ -11282,7 +11282,7 @@ class LucideIcons {
   static const IconData plugZap = IconData(
     58465,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plug
@@ -11292,7 +11292,7 @@ class LucideIcons {
   static const IconData plug = IconData(
     58243,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## plus
@@ -11302,7 +11302,7 @@ class LucideIcons {
   static const IconData plus = IconData(
     57665,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pocket-knife
@@ -11312,7 +11312,7 @@ class LucideIcons {
   static const IconData pocketKnife = IconData(
     58533,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pocket
@@ -11322,7 +11322,7 @@ class LucideIcons {
   static const IconData pocket = IconData(
     57666,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## podcast
@@ -11332,7 +11332,7 @@ class LucideIcons {
   static const IconData podcast = IconData(
     57850,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pointer-off
@@ -11342,7 +11342,7 @@ class LucideIcons {
   static const IconData pointerOff = IconData(
     58756,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pointer
@@ -11352,7 +11352,7 @@ class LucideIcons {
   static const IconData pointer = IconData(
     57832,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## popcorn
@@ -11362,7 +11362,7 @@ class LucideIcons {
   static const IconData popcorn = IconData(
     58563,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## popsicle
@@ -11372,7 +11372,7 @@ class LucideIcons {
   static const IconData popsicle = IconData(
     58564,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pound-sterling
@@ -11382,7 +11382,7 @@ class LucideIcons {
   static const IconData poundSterling = IconData(
     57667,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## power-off
@@ -11392,7 +11392,7 @@ class LucideIcons {
   static const IconData powerOff = IconData(
     57865,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## power
@@ -11402,7 +11402,7 @@ class LucideIcons {
   static const IconData power = IconData(
     57668,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## presentation
@@ -11412,7 +11412,7 @@ class LucideIcons {
   static const IconData presentation = IconData(
     58547,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## printer-check
@@ -11422,7 +11422,7 @@ class LucideIcons {
   static const IconData printerCheck = IconData(
     58874,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## printer
@@ -11432,7 +11432,7 @@ class LucideIcons {
   static const IconData printer = IconData(
     57669,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## projector
@@ -11442,7 +11442,7 @@ class LucideIcons {
   static const IconData projector = IconData(
     58548,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## proportions
@@ -11452,7 +11452,7 @@ class LucideIcons {
   static const IconData proportions = IconData(
     58836,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## puzzle
@@ -11462,7 +11462,7 @@ class LucideIcons {
   static const IconData puzzle = IconData(
     58012,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## pyramid
@@ -11472,7 +11472,7 @@ class LucideIcons {
   static const IconData pyramid = IconData(
     58673,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## qr-code
@@ -11482,7 +11482,7 @@ class LucideIcons {
   static const IconData qrCode = IconData(
     57823,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## quote
@@ -11492,7 +11492,7 @@ class LucideIcons {
   static const IconData quote = IconData(
     57913,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rabbit
@@ -11502,7 +11502,7 @@ class LucideIcons {
   static const IconData rabbit = IconData(
     58619,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radar
@@ -11512,7 +11512,7 @@ class LucideIcons {
   static const IconData radar = IconData(
     58524,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radiation
@@ -11522,7 +11522,7 @@ class LucideIcons {
   static const IconData radiation = IconData(
     58439,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radical
@@ -11532,7 +11532,7 @@ class LucideIcons {
   static const IconData radical = IconData(
     58823,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radio-receiver
@@ -11542,7 +11542,7 @@ class LucideIcons {
   static const IconData radioReceiver = IconData(
     57851,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radio-tower
@@ -11552,7 +11552,7 @@ class LucideIcons {
   static const IconData radioTower = IconData(
     58377,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radio
@@ -11562,7 +11562,7 @@ class LucideIcons {
   static const IconData radio = IconData(
     57670,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## radius
@@ -11572,7 +11572,7 @@ class LucideIcons {
   static const IconData radius = IconData(
     58674,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rail-symbol
@@ -11582,7 +11582,7 @@ class LucideIcons {
   static const IconData railSymbol = IconData(
     58630,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rainbow
@@ -11592,7 +11592,7 @@ class LucideIcons {
   static const IconData rainbow = IconData(
     58567,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rat
@@ -11602,7 +11602,7 @@ class LucideIcons {
   static const IconData rat = IconData(
     58352,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ratio
@@ -11612,7 +11612,7 @@ class LucideIcons {
   static const IconData ratio = IconData(
     58605,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-cent
@@ -11622,7 +11622,7 @@ class LucideIcons {
   static const IconData receiptCent = IconData(
     58794,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-euro
@@ -11632,7 +11632,7 @@ class LucideIcons {
   static const IconData receiptEuro = IconData(
     58795,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-indian-rupee
@@ -11642,7 +11642,7 @@ class LucideIcons {
   static const IconData receiptIndianRupee = IconData(
     58796,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-japanese-yen
@@ -11652,7 +11652,7 @@ class LucideIcons {
   static const IconData receiptJapaneseYen = IconData(
     58797,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-pound-sterling
@@ -11662,7 +11662,7 @@ class LucideIcons {
   static const IconData receiptPoundSterling = IconData(
     58798,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-russian-ruble
@@ -11672,7 +11672,7 @@ class LucideIcons {
   static const IconData receiptRussianRuble = IconData(
     58799,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-swiss-franc
@@ -11682,7 +11682,7 @@ class LucideIcons {
   static const IconData receiptSwissFranc = IconData(
     58800,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-text
@@ -11692,7 +11692,7 @@ class LucideIcons {
   static const IconData receiptText = IconData(
     58801,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt-turkish-lira
@@ -11702,7 +11702,7 @@ class LucideIcons {
   static const IconData receiptTurkishLira = IconData(
     59012,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## receipt
@@ -11712,7 +11712,7 @@ class LucideIcons {
   static const IconData receipt = IconData(
     58327,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rectangle-circle
@@ -11722,7 +11722,7 @@ class LucideIcons {
   static const IconData rectangleCircle = IconData(
     59000,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rectangle-ellipsis
@@ -11732,7 +11732,7 @@ class LucideIcons {
   static const IconData rectangleEllipsis = IconData(
     57887,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rectangle-goggles
@@ -11742,7 +11742,7 @@ class LucideIcons {
   static const IconData rectangleGoggles = IconData(
     58971,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rectangle-horizontal
@@ -11752,7 +11752,7 @@ class LucideIcons {
   static const IconData rectangleHorizontal = IconData(
     58234,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rectangle-vertical
@@ -11762,7 +11762,7 @@ class LucideIcons {
   static const IconData rectangleVertical = IconData(
     58235,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## recycle
@@ -11772,7 +11772,7 @@ class LucideIcons {
   static const IconData recycle = IconData(
     58089,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## redo-2
@@ -11782,7 +11782,7 @@ class LucideIcons {
   static const IconData redo2 = IconData(
     58016,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## redo-dot
@@ -11792,7 +11792,7 @@ class LucideIcons {
   static const IconData redoDot = IconData(
     58453,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## redo
@@ -11802,7 +11802,7 @@ class LucideIcons {
   static const IconData redo = IconData(
     57671,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## refresh-ccw-dot
@@ -11812,7 +11812,7 @@ class LucideIcons {
   static const IconData refreshCcwDot = IconData(
     58551,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## refresh-ccw
@@ -11822,7 +11822,7 @@ class LucideIcons {
   static const IconData refreshCcw = IconData(
     57672,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## refresh-cw-off
@@ -11832,7 +11832,7 @@ class LucideIcons {
   static const IconData refreshCwOff = IconData(
     58525,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## refresh-cw
@@ -11842,7 +11842,7 @@ class LucideIcons {
   static const IconData refreshCw = IconData(
     57673,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## refrigerator
@@ -11852,7 +11852,7 @@ class LucideIcons {
   static const IconData refrigerator = IconData(
     58239,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## regex
@@ -11862,7 +11862,7 @@ class LucideIcons {
   static const IconData regex = IconData(
     57852,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## remove-formatting
@@ -11872,7 +11872,7 @@ class LucideIcons {
   static const IconData removeFormatting = IconData(
     58295,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## repeat-1
@@ -11882,7 +11882,7 @@ class LucideIcons {
   static const IconData repeat1 = IconData(
     57853,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## repeat-2
@@ -11892,7 +11892,7 @@ class LucideIcons {
   static const IconData repeat2 = IconData(
     58390,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## repeat
@@ -11902,7 +11902,7 @@ class LucideIcons {
   static const IconData repeat = IconData(
     57674,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## replace-all
@@ -11912,7 +11912,7 @@ class LucideIcons {
   static const IconData replaceAll = IconData(
     58336,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## replace
@@ -11922,7 +11922,7 @@ class LucideIcons {
   static const IconData replace = IconData(
     58335,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## reply-all
@@ -11932,7 +11932,7 @@ class LucideIcons {
   static const IconData replyAll = IconData(
     57899,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## reply
@@ -11942,7 +11942,7 @@ class LucideIcons {
   static const IconData reply = IconData(
     57898,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rewind
@@ -11952,7 +11952,7 @@ class LucideIcons {
   static const IconData rewind = IconData(
     57675,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ribbon
@@ -11962,7 +11962,7 @@ class LucideIcons {
   static const IconData ribbon = IconData(
     58717,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rocket
@@ -11972,7 +11972,7 @@ class LucideIcons {
   static const IconData rocket = IconData(
     57990,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rocking-chair
@@ -11982,7 +11982,7 @@ class LucideIcons {
   static const IconData rockingChair = IconData(
     57907,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## roller-coaster
@@ -11992,7 +11992,7 @@ class LucideIcons {
   static const IconData rollerCoaster = IconData(
     58501,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-3d
@@ -12002,7 +12002,7 @@ class LucideIcons {
   static const IconData rotate3d = IconData(
     58090,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-ccw-key
@@ -12012,7 +12012,7 @@ class LucideIcons {
   static const IconData rotateCcwKey = IconData(
     58965,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-ccw-square
@@ -12022,7 +12022,7 @@ class LucideIcons {
   static const IconData rotateCcwSquare = IconData(
     58837,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-ccw
@@ -12032,7 +12032,7 @@ class LucideIcons {
   static const IconData rotateCcw = IconData(
     57676,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-cw-square
@@ -12042,7 +12042,7 @@ class LucideIcons {
   static const IconData rotateCwSquare = IconData(
     58838,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rotate-cw
@@ -12052,7 +12052,7 @@ class LucideIcons {
   static const IconData rotateCw = IconData(
     57677,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## route-off
@@ -12062,7 +12062,7 @@ class LucideIcons {
   static const IconData routeOff = IconData(
     58692,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## route
@@ -12072,7 +12072,7 @@ class LucideIcons {
   static const IconData route = IconData(
     58691,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## router
@@ -12082,7 +12082,7 @@ class LucideIcons {
   static const IconData router = IconData(
     58307,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rows-2
@@ -12092,7 +12092,7 @@ class LucideIcons {
   static const IconData rows2 = IconData(
     58430,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rows-3
@@ -12102,7 +12102,7 @@ class LucideIcons {
   static const IconData rows3 = IconData(
     58767,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rows-4
@@ -12112,7 +12112,7 @@ class LucideIcons {
   static const IconData rows4 = IconData(
     58768,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## rss
@@ -12122,7 +12122,7 @@ class LucideIcons {
   static const IconData rss = IconData(
     57678,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ruler-dimension-line
@@ -12132,7 +12132,7 @@ class LucideIcons {
   static const IconData rulerDimensionLine = IconData(
     58983,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ruler
@@ -12142,7 +12142,7 @@ class LucideIcons {
   static const IconData ruler = IconData(
     57679,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## russian-ruble
@@ -12152,7 +12152,7 @@ class LucideIcons {
   static const IconData russianRuble = IconData(
     57680,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sailboat
@@ -12162,7 +12162,7 @@ class LucideIcons {
   static const IconData sailboat = IconData(
     58242,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## salad
@@ -12172,7 +12172,7 @@ class LucideIcons {
   static const IconData salad = IconData(
     58284,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sandwich
@@ -12182,7 +12182,7 @@ class LucideIcons {
   static const IconData sandwich = IconData(
     58285,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## satellite-dish
@@ -12192,7 +12192,7 @@ class LucideIcons {
   static const IconData satelliteDish = IconData(
     58445,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## satellite
@@ -12202,7 +12202,7 @@ class LucideIcons {
   static const IconData satellite = IconData(
     58444,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## saudi-riyal
@@ -12212,7 +12212,7 @@ class LucideIcons {
   static const IconData saudiRiyal = IconData(
     58960,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## save-all
@@ -12222,7 +12222,7 @@ class LucideIcons {
   static const IconData saveAll = IconData(
     58388,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## save-off
@@ -12232,7 +12232,7 @@ class LucideIcons {
   static const IconData saveOff = IconData(
     58872,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## save
@@ -12242,7 +12242,7 @@ class LucideIcons {
   static const IconData save = IconData(
     57681,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scale-3d
@@ -12252,7 +12252,7 @@ class LucideIcons {
   static const IconData scale3d = IconData(
     58091,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scale
@@ -12262,7 +12262,7 @@ class LucideIcons {
   static const IconData scale = IconData(
     57874,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scaling
@@ -12272,7 +12272,7 @@ class LucideIcons {
   static const IconData scaling = IconData(
     58092,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-barcode
@@ -12282,7 +12282,7 @@ class LucideIcons {
   static const IconData scanBarcode = IconData(
     58682,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-eye
@@ -12292,7 +12292,7 @@ class LucideIcons {
   static const IconData scanEye = IconData(
     58683,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-face
@@ -12302,7 +12302,7 @@ class LucideIcons {
   static const IconData scanFace = IconData(
     58229,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-heart
@@ -12312,7 +12312,7 @@ class LucideIcons {
   static const IconData scanHeart = IconData(
     58943,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-line
@@ -12322,7 +12322,7 @@ class LucideIcons {
   static const IconData scanLine = IconData(
     57944,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-qr-code
@@ -12332,7 +12332,7 @@ class LucideIcons {
   static const IconData scanQrCode = IconData(
     58875,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-search
@@ -12342,7 +12342,7 @@ class LucideIcons {
   static const IconData scanSearch = IconData(
     58684,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan-text
@@ -12352,7 +12352,7 @@ class LucideIcons {
   static const IconData scanText = IconData(
     58685,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scan
@@ -12362,7 +12362,7 @@ class LucideIcons {
   static const IconData scan = IconData(
     57943,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## school
@@ -12372,7 +12372,7 @@ class LucideIcons {
   static const IconData school = IconData(
     58343,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scissors-line-dashed
@@ -12382,7 +12382,7 @@ class LucideIcons {
   static const IconData scissorsLineDashed = IconData(
     58606,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scissors
@@ -12392,7 +12392,7 @@ class LucideIcons {
   static const IconData scissors = IconData(
     57682,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## screen-share-off
@@ -12402,7 +12402,7 @@ class LucideIcons {
   static const IconData screenShareOff = IconData(
     57684,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## screen-share
@@ -12412,7 +12412,7 @@ class LucideIcons {
   static const IconData screenShare = IconData(
     57683,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scroll-text
@@ -12422,7 +12422,7 @@ class LucideIcons {
   static const IconData scrollText = IconData(
     58468,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## scroll
@@ -12432,7 +12432,7 @@ class LucideIcons {
   static const IconData scroll = IconData(
     58093,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## search-check
@@ -12442,7 +12442,7 @@ class LucideIcons {
   static const IconData searchCheck = IconData(
     58543,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## search-code
@@ -12452,7 +12452,7 @@ class LucideIcons {
   static const IconData searchCode = IconData(
     58544,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## search-slash
@@ -12462,7 +12462,7 @@ class LucideIcons {
   static const IconData searchSlash = IconData(
     58545,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## search-x
@@ -12472,7 +12472,7 @@ class LucideIcons {
   static const IconData searchX = IconData(
     58546,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## search
@@ -12482,7 +12482,7 @@ class LucideIcons {
   static const IconData search = IconData(
     57685,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## section
@@ -12492,7 +12492,7 @@ class LucideIcons {
   static const IconData section = IconData(
     58861,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## send-horizontal
@@ -12502,7 +12502,7 @@ class LucideIcons {
   static const IconData sendHorizontal = IconData(
     58615,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## send-to-back
@@ -12512,7 +12512,7 @@ class LucideIcons {
   static const IconData sendToBack = IconData(
     58616,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## send
@@ -12522,7 +12522,7 @@ class LucideIcons {
   static const IconData send = IconData(
     57686,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## separator-horizontal
@@ -12532,7 +12532,7 @@ class LucideIcons {
   static const IconData separatorHorizontal = IconData(
     57800,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## separator-vertical
@@ -12542,7 +12542,7 @@ class LucideIcons {
   static const IconData separatorVertical = IconData(
     57801,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## server-cog
@@ -12552,7 +12552,7 @@ class LucideIcons {
   static const IconData serverCog = IconData(
     58181,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## server-crash
@@ -12562,7 +12562,7 @@ class LucideIcons {
   static const IconData serverCrash = IconData(
     57833,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## server-off
@@ -12572,7 +12572,7 @@ class LucideIcons {
   static const IconData serverOff = IconData(
     57834,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## server
@@ -12582,7 +12582,7 @@ class LucideIcons {
   static const IconData server = IconData(
     57687,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## settings-2
@@ -12592,7 +12592,7 @@ class LucideIcons {
   static const IconData settings2 = IconData(
     57925,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## settings
@@ -12602,7 +12602,7 @@ class LucideIcons {
   static const IconData settings = IconData(
     57688,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shapes
@@ -12612,7 +12612,7 @@ class LucideIcons {
   static const IconData shapes = IconData(
     58552,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## share-2
@@ -12622,7 +12622,7 @@ class LucideIcons {
   static const IconData share2 = IconData(
     57690,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## share
@@ -12632,7 +12632,7 @@ class LucideIcons {
   static const IconData share = IconData(
     57689,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sheet
@@ -12642,7 +12642,7 @@ class LucideIcons {
   static const IconData sheet = IconData(
     57691,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shell
@@ -12652,7 +12652,7 @@ class LucideIcons {
   static const IconData shell = IconData(
     58620,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-alert
@@ -12662,7 +12662,7 @@ class LucideIcons {
   static const IconData shieldAlert = IconData(
     57854,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-ban
@@ -12672,7 +12672,7 @@ class LucideIcons {
   static const IconData shieldBan = IconData(
     57693,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-check
@@ -12682,7 +12682,7 @@ class LucideIcons {
   static const IconData shieldCheck = IconData(
     57855,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-ellipsis
@@ -12692,7 +12692,7 @@ class LucideIcons {
   static const IconData shieldEllipsis = IconData(
     58651,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-half
@@ -12702,7 +12702,7 @@ class LucideIcons {
   static const IconData shieldHalf = IconData(
     58652,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-minus
@@ -12712,7 +12712,7 @@ class LucideIcons {
   static const IconData shieldMinus = IconData(
     58653,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-off
@@ -12722,7 +12722,7 @@ class LucideIcons {
   static const IconData shieldOff = IconData(
     57694,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-plus
@@ -12732,7 +12732,7 @@ class LucideIcons {
   static const IconData shieldPlus = IconData(
     58654,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-question-mark
@@ -12742,7 +12742,7 @@ class LucideIcons {
   static const IconData shieldQuestionMark = IconData(
     58387,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-user
@@ -12752,7 +12752,7 @@ class LucideIcons {
   static const IconData shieldUser = IconData(
     58956,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield-x
@@ -12762,7 +12762,7 @@ class LucideIcons {
   static const IconData shieldX = IconData(
     57856,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shield
@@ -12772,7 +12772,7 @@ class LucideIcons {
   static const IconData shield = IconData(
     57692,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ship-wheel
@@ -12782,7 +12782,7 @@ class LucideIcons {
   static const IconData shipWheel = IconData(
     58631,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ship
@@ -12792,7 +12792,7 @@ class LucideIcons {
   static const IconData ship = IconData(
     58302,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shirt
@@ -12802,7 +12802,7 @@ class LucideIcons {
   static const IconData shirt = IconData(
     57802,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shopping-bag
@@ -12812,7 +12812,7 @@ class LucideIcons {
   static const IconData shoppingBag = IconData(
     57695,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shopping-basket
@@ -12822,7 +12822,7 @@ class LucideIcons {
   static const IconData shoppingBasket = IconData(
     58607,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shopping-cart
@@ -12832,7 +12832,7 @@ class LucideIcons {
   static const IconData shoppingCart = IconData(
     57696,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shovel
@@ -12842,7 +12842,7 @@ class LucideIcons {
   static const IconData shovel = IconData(
     57697,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shower-head
@@ -12852,7 +12852,7 @@ class LucideIcons {
   static const IconData showerHead = IconData(
     58240,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shredder
@@ -12862,7 +12862,7 @@ class LucideIcons {
   static const IconData shredder = IconData(
     58976,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shrimp
@@ -12872,7 +12872,7 @@ class LucideIcons {
   static const IconData shrimp = IconData(
     58958,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shrink
@@ -12882,7 +12882,7 @@ class LucideIcons {
   static const IconData shrink = IconData(
     57888,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shrub
@@ -12892,7 +12892,7 @@ class LucideIcons {
   static const IconData shrub = IconData(
     58094,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## shuffle
@@ -12902,7 +12902,7 @@ class LucideIcons {
   static const IconData shuffle = IconData(
     57698,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sigma
@@ -12912,7 +12912,7 @@ class LucideIcons {
   static const IconData sigma = IconData(
     57857,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signal-high
@@ -12922,7 +12922,7 @@ class LucideIcons {
   static const IconData signalHigh = IconData(
     57952,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signal-low
@@ -12932,7 +12932,7 @@ class LucideIcons {
   static const IconData signalLow = IconData(
     57953,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signal-medium
@@ -12942,7 +12942,7 @@ class LucideIcons {
   static const IconData signalMedium = IconData(
     57954,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signal-zero
@@ -12952,7 +12952,7 @@ class LucideIcons {
   static const IconData signalZero = IconData(
     57955,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signal
@@ -12962,7 +12962,7 @@ class LucideIcons {
   static const IconData signal = IconData(
     57951,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signature
@@ -12972,7 +12972,7 @@ class LucideIcons {
   static const IconData signature = IconData(
     58871,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signpost-big
@@ -12982,7 +12982,7 @@ class LucideIcons {
   static const IconData signpostBig = IconData(
     58694,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## signpost
@@ -12992,7 +12992,7 @@ class LucideIcons {
   static const IconData signpost = IconData(
     58693,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## siren
@@ -13002,7 +13002,7 @@ class LucideIcons {
   static const IconData siren = IconData(
     58095,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## skip-back
@@ -13012,7 +13012,7 @@ class LucideIcons {
   static const IconData skipBack = IconData(
     57699,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## skip-forward
@@ -13022,7 +13022,7 @@ class LucideIcons {
   static const IconData skipForward = IconData(
     57700,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## skull
@@ -13032,7 +13032,7 @@ class LucideIcons {
   static const IconData skull = IconData(
     57889,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## slack
@@ -13042,7 +13042,7 @@ class LucideIcons {
   static const IconData slack = IconData(
     57701,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## slash
@@ -13052,7 +13052,7 @@ class LucideIcons {
   static const IconData slash = IconData(
     58658,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## slice
@@ -13062,7 +13062,7 @@ class LucideIcons {
   static const IconData slice = IconData(
     58096,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sliders-horizontal
@@ -13072,7 +13072,7 @@ class LucideIcons {
   static const IconData slidersHorizontal = IconData(
     58010,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sliders-vertical
@@ -13082,7 +13082,7 @@ class LucideIcons {
   static const IconData slidersVertical = IconData(
     57702,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## smartphone-charging
@@ -13092,7 +13092,7 @@ class LucideIcons {
   static const IconData smartphoneCharging = IconData(
     57902,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## smartphone-nfc
@@ -13102,7 +13102,7 @@ class LucideIcons {
   static const IconData smartphoneNfc = IconData(
     58312,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## smartphone
@@ -13112,7 +13112,7 @@ class LucideIcons {
   static const IconData smartphone = IconData(
     57703,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## smile-plus
@@ -13122,7 +13122,7 @@ class LucideIcons {
   static const IconData smilePlus = IconData(
     58113,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## smile
@@ -13132,7 +13132,7 @@ class LucideIcons {
   static const IconData smile = IconData(
     57704,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## snail
@@ -13142,7 +13142,7 @@ class LucideIcons {
   static const IconData snail = IconData(
     58621,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## snowflake
@@ -13152,7 +13152,7 @@ class LucideIcons {
   static const IconData snowflake = IconData(
     57705,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## soap-dispenser-droplet
@@ -13162,7 +13162,7 @@ class LucideIcons {
   static const IconData soapDispenserDroplet = IconData(
     58990,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sofa
@@ -13172,7 +13172,7 @@ class LucideIcons {
   static const IconData sofa = IconData(
     58052,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## soup
@@ -13182,7 +13182,7 @@ class LucideIcons {
   static const IconData soup = IconData(
     58286,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## space
@@ -13192,7 +13192,7 @@ class LucideIcons {
   static const IconData space = IconData(
     58337,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spade
@@ -13202,7 +13202,7 @@ class LucideIcons {
   static const IconData spade = IconData(
     58526,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sparkle
@@ -13212,7 +13212,7 @@ class LucideIcons {
   static const IconData sparkle = IconData(
     58499,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sparkles
@@ -13222,7 +13222,7 @@ class LucideIcons {
   static const IconData sparkles = IconData(
     58391,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## speaker
@@ -13232,7 +13232,7 @@ class LucideIcons {
   static const IconData speaker = IconData(
     57706,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## speech
@@ -13242,7 +13242,7 @@ class LucideIcons {
   static const IconData speech = IconData(
     58659,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spell-check-2
@@ -13252,7 +13252,7 @@ class LucideIcons {
   static const IconData spellCheck2 = IconData(
     58528,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spell-check
@@ -13262,7 +13262,7 @@ class LucideIcons {
   static const IconData spellCheck = IconData(
     58527,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spline-pointer
@@ -13272,7 +13272,7 @@ class LucideIcons {
   static const IconData splinePointer = IconData(
     58964,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spline
@@ -13282,7 +13282,7 @@ class LucideIcons {
   static const IconData spline = IconData(
     58255,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## split
@@ -13292,7 +13292,7 @@ class LucideIcons {
   static const IconData split = IconData(
     58437,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spool
@@ -13302,7 +13302,7 @@ class LucideIcons {
   static const IconData spool = IconData(
     59004,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spotlight
@@ -13312,7 +13312,7 @@ class LucideIcons {
   static const IconData spotlight = IconData(
     59015,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## spray-can
@@ -13322,7 +13322,7 @@ class LucideIcons {
   static const IconData sprayCan = IconData(
     58522,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sprout
@@ -13332,7 +13332,7 @@ class LucideIcons {
   static const IconData sprout = IconData(
     57835,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-activity
@@ -13342,7 +13342,7 @@ class LucideIcons {
   static const IconData squareActivity = IconData(
     58553,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-down-left
@@ -13352,7 +13352,7 @@ class LucideIcons {
   static const IconData squareArrowDownLeft = IconData(
     58554,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-down-right
@@ -13362,7 +13362,7 @@ class LucideIcons {
   static const IconData squareArrowDownRight = IconData(
     58555,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-down
@@ -13372,7 +13372,7 @@ class LucideIcons {
   static const IconData squareArrowDown = IconData(
     58412,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-left
@@ -13382,7 +13382,7 @@ class LucideIcons {
   static const IconData squareArrowLeft = IconData(
     58413,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-out-down-left
@@ -13392,7 +13392,7 @@ class LucideIcons {
   static const IconData squareArrowOutDownLeft = IconData(
     58790,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-out-down-right
@@ -13402,7 +13402,7 @@ class LucideIcons {
   static const IconData squareArrowOutDownRight = IconData(
     58791,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-out-up-left
@@ -13412,7 +13412,7 @@ class LucideIcons {
   static const IconData squareArrowOutUpLeft = IconData(
     58792,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-out-up-right
@@ -13422,7 +13422,7 @@ class LucideIcons {
   static const IconData squareArrowOutUpRight = IconData(
     58793,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-right
@@ -13432,7 +13432,7 @@ class LucideIcons {
   static const IconData squareArrowRight = IconData(
     58414,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-up-left
@@ -13442,7 +13442,7 @@ class LucideIcons {
   static const IconData squareArrowUpLeft = IconData(
     58556,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-up-right
@@ -13452,7 +13452,7 @@ class LucideIcons {
   static const IconData squareArrowUpRight = IconData(
     58557,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-arrow-up
@@ -13462,7 +13462,7 @@ class LucideIcons {
   static const IconData squareArrowUp = IconData(
     58415,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-asterisk
@@ -13472,7 +13472,7 @@ class LucideIcons {
   static const IconData squareAsterisk = IconData(
     57708,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-bottom-dashed-scissors
@@ -13482,7 +13482,7 @@ class LucideIcons {
   static const IconData squareBottomDashedScissors = IconData(
     58608,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-chart-gantt
@@ -13492,7 +13492,7 @@ class LucideIcons {
   static const IconData squareChartGantt = IconData(
     57709,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-check-big
@@ -13502,7 +13502,7 @@ class LucideIcons {
   static const IconData squareCheckBig = IconData(
     57710,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-check
@@ -13512,7 +13512,7 @@ class LucideIcons {
   static const IconData squareCheck = IconData(
     58718,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-chevron-down
@@ -13522,7 +13522,7 @@ class LucideIcons {
   static const IconData squareChevronDown = IconData(
     58323,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-chevron-left
@@ -13532,7 +13532,7 @@ class LucideIcons {
   static const IconData squareChevronLeft = IconData(
     58324,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-chevron-right
@@ -13542,7 +13542,7 @@ class LucideIcons {
   static const IconData squareChevronRight = IconData(
     58325,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-chevron-up
@@ -13552,7 +13552,7 @@ class LucideIcons {
   static const IconData squareChevronUp = IconData(
     58326,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-code
@@ -13562,7 +13562,7 @@ class LucideIcons {
   static const IconData squareCode = IconData(
     57711,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed-bottom-code
@@ -13572,7 +13572,7 @@ class LucideIcons {
   static const IconData squareDashedBottomCode = IconData(
     58566,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed-bottom
@@ -13582,7 +13582,7 @@ class LucideIcons {
   static const IconData squareDashedBottom = IconData(
     58565,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed-kanban
@@ -13592,7 +13592,7 @@ class LucideIcons {
   static const IconData squareDashedKanban = IconData(
     57712,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed-mouse-pointer
@@ -13602,7 +13602,7 @@ class LucideIcons {
   static const IconData squareDashedMousePointer = IconData(
     58638,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed-top-solid
@@ -13612,7 +13612,7 @@ class LucideIcons {
   static const IconData squareDashedTopSolid = IconData(
     58993,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dashed
@@ -13622,7 +13622,7 @@ class LucideIcons {
   static const IconData squareDashed = IconData(
     57803,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-divide
@@ -13632,7 +13632,7 @@ class LucideIcons {
   static const IconData squareDivide = IconData(
     57713,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-dot
@@ -13642,7 +13642,7 @@ class LucideIcons {
   static const IconData squareDot = IconData(
     57714,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-equal
@@ -13652,7 +13652,7 @@ class LucideIcons {
   static const IconData squareEqual = IconData(
     57715,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-function
@@ -13662,7 +13662,7 @@ class LucideIcons {
   static const IconData squareFunction = IconData(
     57901,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-kanban
@@ -13672,7 +13672,7 @@ class LucideIcons {
   static const IconData squareKanban = IconData(
     57716,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-library
@@ -13682,7 +13682,7 @@ class LucideIcons {
   static const IconData squareLibrary = IconData(
     58708,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-m
@@ -13692,7 +13692,7 @@ class LucideIcons {
   static const IconData squareM = IconData(
     58632,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-menu
@@ -13702,7 +13702,7 @@ class LucideIcons {
   static const IconData squareMenu = IconData(
     58456,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-minus
@@ -13712,7 +13712,7 @@ class LucideIcons {
   static const IconData squareMinus = IconData(
     57717,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-mouse-pointer
@@ -13722,7 +13722,7 @@ class LucideIcons {
   static const IconData squareMousePointer = IconData(
     57858,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-parking-off
@@ -13732,7 +13732,7 @@ class LucideIcons {
   static const IconData squareParkingOff = IconData(
     58320,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-parking
@@ -13742,7 +13742,7 @@ class LucideIcons {
   static const IconData squareParking = IconData(
     58319,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-pause
@@ -13752,7 +13752,7 @@ class LucideIcons {
   static const IconData squarePause = IconData(
     59017,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-pen
@@ -13762,7 +13762,7 @@ class LucideIcons {
   static const IconData squarePen = IconData(
     57718,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-percent
@@ -13772,7 +13772,7 @@ class LucideIcons {
   static const IconData squarePercent = IconData(
     58657,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-pi
@@ -13782,7 +13782,7 @@ class LucideIcons {
   static const IconData squarePi = IconData(
     58509,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-pilcrow
@@ -13792,7 +13792,7 @@ class LucideIcons {
   static const IconData squarePilcrow = IconData(
     58512,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-play
@@ -13802,7 +13802,7 @@ class LucideIcons {
   static const IconData squarePlay = IconData(
     58502,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-plus
@@ -13812,7 +13812,7 @@ class LucideIcons {
   static const IconData squarePlus = IconData(
     57719,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-power
@@ -13822,7 +13822,7 @@ class LucideIcons {
   static const IconData squarePower = IconData(
     58710,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-radical
@@ -13832,7 +13832,7 @@ class LucideIcons {
   static const IconData squareRadical = IconData(
     58824,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-round-corner
@@ -13842,7 +13842,7 @@ class LucideIcons {
   static const IconData squareRoundCorner = IconData(
     58957,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-scissors
@@ -13852,7 +13852,7 @@ class LucideIcons {
   static const IconData squareScissors = IconData(
     58609,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-sigma
@@ -13862,7 +13862,7 @@ class LucideIcons {
   static const IconData squareSigma = IconData(
     58510,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-slash
@@ -13872,7 +13872,7 @@ class LucideIcons {
   static const IconData squareSlash = IconData(
     57720,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-split-horizontal
@@ -13882,7 +13882,7 @@ class LucideIcons {
   static const IconData squareSplitHorizontal = IconData(
     58298,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-split-vertical
@@ -13892,7 +13892,7 @@ class LucideIcons {
   static const IconData squareSplitVertical = IconData(
     58299,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-square
@@ -13902,7 +13902,7 @@ class LucideIcons {
   static const IconData squareSquare = IconData(
     58899,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-stack
@@ -13912,7 +13912,7 @@ class LucideIcons {
   static const IconData squareStack = IconData(
     58535,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-star
@@ -13922,7 +13922,7 @@ class LucideIcons {
   static const IconData squareStar = IconData(
     59027,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-stop
@@ -13932,7 +13932,7 @@ class LucideIcons {
   static const IconData squareStop = IconData(
     59018,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-terminal
@@ -13942,7 +13942,7 @@ class LucideIcons {
   static const IconData squareTerminal = IconData(
     57866,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-user-round
@@ -13952,7 +13952,7 @@ class LucideIcons {
   static const IconData squareUserRound = IconData(
     58475,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-user
@@ -13962,7 +13962,7 @@ class LucideIcons {
   static const IconData squareUser = IconData(
     58474,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square-x
@@ -13972,7 +13972,7 @@ class LucideIcons {
   static const IconData squareX = IconData(
     57721,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## square
@@ -13982,7 +13982,7 @@ class LucideIcons {
   static const IconData square = IconData(
     57707,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squares-exclude
@@ -13992,7 +13992,7 @@ class LucideIcons {
   static const IconData squaresExclude = IconData(
     58972,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squares-intersect
@@ -14002,7 +14002,7 @@ class LucideIcons {
   static const IconData squaresIntersect = IconData(
     58973,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squares-subtract
@@ -14012,7 +14012,7 @@ class LucideIcons {
   static const IconData squaresSubtract = IconData(
     58974,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squares-unite
@@ -14022,7 +14022,7 @@ class LucideIcons {
   static const IconData squaresUnite = IconData(
     58975,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squircle-dashed
@@ -14032,7 +14032,7 @@ class LucideIcons {
   static const IconData squircleDashed = IconData(
     59006,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squircle
@@ -14042,7 +14042,7 @@ class LucideIcons {
   static const IconData squircle = IconData(
     58751,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## squirrel
@@ -14052,7 +14052,7 @@ class LucideIcons {
   static const IconData squirrel = IconData(
     58532,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## stamp
@@ -14062,7 +14062,7 @@ class LucideIcons {
   static const IconData stamp = IconData(
     58303,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## star-half
@@ -14072,7 +14072,7 @@ class LucideIcons {
   static const IconData starHalf = IconData(
     57867,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## star-off
@@ -14082,7 +14082,7 @@ class LucideIcons {
   static const IconData starOff = IconData(
     58032,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## star
@@ -14092,7 +14092,7 @@ class LucideIcons {
   static const IconData star = IconData(
     57722,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## step-back
@@ -14102,7 +14102,7 @@ class LucideIcons {
   static const IconData stepBack = IconData(
     58349,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## step-forward
@@ -14112,7 +14112,7 @@ class LucideIcons {
   static const IconData stepForward = IconData(
     58350,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## stethoscope
@@ -14122,7 +14122,7 @@ class LucideIcons {
   static const IconData stethoscope = IconData(
     58097,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sticker
@@ -14132,7 +14132,7 @@ class LucideIcons {
   static const IconData sticker = IconData(
     58114,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sticky-note
@@ -14142,7 +14142,7 @@ class LucideIcons {
   static const IconData stickyNote = IconData(
     58115,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## store
@@ -14152,7 +14152,7 @@ class LucideIcons {
   static const IconData store = IconData(
     58344,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## stretch-horizontal
@@ -14162,7 +14162,7 @@ class LucideIcons {
   static const IconData stretchHorizontal = IconData(
     57980,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## stretch-vertical
@@ -14172,7 +14172,7 @@ class LucideIcons {
   static const IconData stretchVertical = IconData(
     57981,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## strikethrough
@@ -14182,7 +14182,7 @@ class LucideIcons {
   static const IconData strikethrough = IconData(
     57723,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## subscript
@@ -14192,7 +14192,7 @@ class LucideIcons {
   static const IconData subscript = IconData(
     57948,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sun-dim
@@ -14202,7 +14202,7 @@ class LucideIcons {
   static const IconData sunDim = IconData(
     58009,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sun-medium
@@ -14212,7 +14212,7 @@ class LucideIcons {
   static const IconData sunMedium = IconData(
     58033,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sun-moon
@@ -14222,7 +14222,7 @@ class LucideIcons {
   static const IconData sunMoon = IconData(
     58034,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sun-snow
@@ -14232,7 +14232,7 @@ class LucideIcons {
   static const IconData sunSnow = IconData(
     58230,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sun
@@ -14242,7 +14242,7 @@ class LucideIcons {
   static const IconData sun = IconData(
     57724,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sunrise
@@ -14252,7 +14252,7 @@ class LucideIcons {
   static const IconData sunrise = IconData(
     57725,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sunset
@@ -14262,7 +14262,7 @@ class LucideIcons {
   static const IconData sunset = IconData(
     57726,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## superscript
@@ -14272,7 +14272,7 @@ class LucideIcons {
   static const IconData superscript = IconData(
     57950,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## swatch-book
@@ -14282,7 +14282,7 @@ class LucideIcons {
   static const IconData swatchBook = IconData(
     58788,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## swiss-franc
@@ -14292,7 +14292,7 @@ class LucideIcons {
   static const IconData swissFranc = IconData(
     57727,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## switch-camera
@@ -14302,7 +14302,7 @@ class LucideIcons {
   static const IconData switchCamera = IconData(
     57728,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## sword
@@ -14312,7 +14312,7 @@ class LucideIcons {
   static const IconData sword = IconData(
     58035,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## swords
@@ -14322,7 +14322,7 @@ class LucideIcons {
   static const IconData swords = IconData(
     58036,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## syringe
@@ -14332,7 +14332,7 @@ class LucideIcons {
   static const IconData syringe = IconData(
     58098,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-2
@@ -14342,7 +14342,7 @@ class LucideIcons {
   static const IconData table2 = IconData(
     58105,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-cells-merge
@@ -14352,7 +14352,7 @@ class LucideIcons {
   static const IconData tableCellsMerge = IconData(
     58828,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-cells-split
@@ -14362,7 +14362,7 @@ class LucideIcons {
   static const IconData tableCellsSplit = IconData(
     58829,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-columns-split
@@ -14372,7 +14372,7 @@ class LucideIcons {
   static const IconData tableColumnsSplit = IconData(
     58830,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-of-contents
@@ -14382,7 +14382,7 @@ class LucideIcons {
   static const IconData tableOfContents = IconData(
     58915,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-properties
@@ -14392,7 +14392,7 @@ class LucideIcons {
   static const IconData tableProperties = IconData(
     58592,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table-rows-split
@@ -14402,7 +14402,7 @@ class LucideIcons {
   static const IconData tableRowsSplit = IconData(
     58831,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## table
@@ -14412,7 +14412,7 @@ class LucideIcons {
   static const IconData table = IconData(
     57729,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tablet-smartphone
@@ -14422,7 +14422,7 @@ class LucideIcons {
   static const IconData tabletSmartphone = IconData(
     58639,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tablet
@@ -14432,7 +14432,7 @@ class LucideIcons {
   static const IconData tablet = IconData(
     57730,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tablets
@@ -14442,7 +14442,7 @@ class LucideIcons {
   static const IconData tablets = IconData(
     58306,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tag
@@ -14452,7 +14452,7 @@ class LucideIcons {
   static const IconData tag = IconData(
     57731,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tags
@@ -14462,7 +14462,7 @@ class LucideIcons {
   static const IconData tags = IconData(
     58208,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tally-1
@@ -14472,7 +14472,7 @@ class LucideIcons {
   static const IconData tally1 = IconData(
     58587,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tally-2
@@ -14482,7 +14482,7 @@ class LucideIcons {
   static const IconData tally2 = IconData(
     58588,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tally-3
@@ -14492,7 +14492,7 @@ class LucideIcons {
   static const IconData tally3 = IconData(
     58589,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tally-4
@@ -14502,7 +14502,7 @@ class LucideIcons {
   static const IconData tally4 = IconData(
     58590,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tally-5
@@ -14512,7 +14512,7 @@ class LucideIcons {
   static const IconData tally5 = IconData(
     58591,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tangent
@@ -14522,7 +14522,7 @@ class LucideIcons {
   static const IconData tangent = IconData(
     58675,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## target
@@ -14532,7 +14532,7 @@ class LucideIcons {
   static const IconData target = IconData(
     57732,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## telescope
@@ -14542,7 +14542,7 @@ class LucideIcons {
   static const IconData telescope = IconData(
     58826,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tent-tree
@@ -14552,7 +14552,7 @@ class LucideIcons {
   static const IconData tentTree = IconData(
     58688,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tent
@@ -14562,7 +14562,7 @@ class LucideIcons {
   static const IconData tent = IconData(
     57895,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## terminal
@@ -14572,7 +14572,7 @@ class LucideIcons {
   static const IconData terminal = IconData(
     57733,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## test-tube-diagonal
@@ -14582,7 +14582,7 @@ class LucideIcons {
   static const IconData testTubeDiagonal = IconData(
     58379,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## test-tube
@@ -14592,7 +14592,7 @@ class LucideIcons {
   static const IconData testTube = IconData(
     58378,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## test-tubes
@@ -14602,7 +14602,7 @@ class LucideIcons {
   static const IconData testTubes = IconData(
     58380,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text-cursor-input
@@ -14612,7 +14612,7 @@ class LucideIcons {
   static const IconData textCursorInput = IconData(
     57957,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text-cursor
@@ -14622,7 +14622,7 @@ class LucideIcons {
   static const IconData textCursor = IconData(
     57956,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text-quote
@@ -14632,7 +14632,7 @@ class LucideIcons {
   static const IconData textQuote = IconData(
     58531,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text-search
@@ -14642,7 +14642,7 @@ class LucideIcons {
   static const IconData textSearch = IconData(
     58802,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text-select
@@ -14652,7 +14652,7 @@ class LucideIcons {
   static const IconData textSelect = IconData(
     58338,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## text
@@ -14662,7 +14662,7 @@ class LucideIcons {
   static const IconData text = IconData(
     58351,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## theater
@@ -14672,7 +14672,7 @@ class LucideIcons {
   static const IconData theater = IconData(
     58663,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## thermometer-snowflake
@@ -14682,7 +14682,7 @@ class LucideIcons {
   static const IconData thermometerSnowflake = IconData(
     57735,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## thermometer-sun
@@ -14692,7 +14692,7 @@ class LucideIcons {
   static const IconData thermometerSun = IconData(
     57736,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## thermometer
@@ -14702,7 +14702,7 @@ class LucideIcons {
   static const IconData thermometer = IconData(
     57734,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## thumbs-down
@@ -14712,7 +14712,7 @@ class LucideIcons {
   static const IconData thumbsDown = IconData(
     57737,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## thumbs-up
@@ -14722,7 +14722,7 @@ class LucideIcons {
   static const IconData thumbsUp = IconData(
     57738,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-check
@@ -14732,7 +14732,7 @@ class LucideIcons {
   static const IconData ticketCheck = IconData(
     58803,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-minus
@@ -14742,7 +14742,7 @@ class LucideIcons {
   static const IconData ticketMinus = IconData(
     58804,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-percent
@@ -14752,7 +14752,7 @@ class LucideIcons {
   static const IconData ticketPercent = IconData(
     58805,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-plus
@@ -14762,7 +14762,7 @@ class LucideIcons {
   static const IconData ticketPlus = IconData(
     58806,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-slash
@@ -14772,7 +14772,7 @@ class LucideIcons {
   static const IconData ticketSlash = IconData(
     58807,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket-x
@@ -14782,7 +14782,7 @@ class LucideIcons {
   static const IconData ticketX = IconData(
     58808,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ticket
@@ -14792,7 +14792,7 @@ class LucideIcons {
   static const IconData ticket = IconData(
     57871,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tickets-plane
@@ -14802,7 +14802,7 @@ class LucideIcons {
   static const IconData ticketsPlane = IconData(
     58920,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tickets
@@ -14812,7 +14812,7 @@ class LucideIcons {
   static const IconData tickets = IconData(
     58919,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## timer-off
@@ -14822,7 +14822,7 @@ class LucideIcons {
   static const IconData timerOff = IconData(
     57929,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## timer-reset
@@ -14832,7 +14832,7 @@ class LucideIcons {
   static const IconData timerReset = IconData(
     57910,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## timer
@@ -14842,7 +14842,7 @@ class LucideIcons {
   static const IconData timer = IconData(
     57824,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## toggle-left
@@ -14852,7 +14852,7 @@ class LucideIcons {
   static const IconData toggleLeft = IconData(
     57739,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## toggle-right
@@ -14862,7 +14862,7 @@ class LucideIcons {
   static const IconData toggleRight = IconData(
     57740,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## toilet
@@ -14872,7 +14872,7 @@ class LucideIcons {
   static const IconData toilet = IconData(
     58938,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tool-case
@@ -14882,7 +14882,7 @@ class LucideIcons {
   static const IconData toolCase = IconData(
     59010,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tornado
@@ -14892,7 +14892,7 @@ class LucideIcons {
   static const IconData tornado = IconData(
     57880,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## torus
@@ -14902,7 +14902,7 @@ class LucideIcons {
   static const IconData torus = IconData(
     58676,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## touchpad-off
@@ -14912,7 +14912,7 @@ class LucideIcons {
   static const IconData touchpadOff = IconData(
     58447,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## touchpad
@@ -14922,7 +14922,7 @@ class LucideIcons {
   static const IconData touchpad = IconData(
     58446,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tower-control
@@ -14932,7 +14932,7 @@ class LucideIcons {
   static const IconData towerControl = IconData(
     58304,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## toy-brick
@@ -14942,7 +14942,7 @@ class LucideIcons {
   static const IconData toyBrick = IconData(
     58187,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tractor
@@ -14952,7 +14952,7 @@ class LucideIcons {
   static const IconData tractor = IconData(
     58633,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## traffic-cone
@@ -14962,7 +14962,7 @@ class LucideIcons {
   static const IconData trafficCone = IconData(
     58634,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## train-front-tunnel
@@ -14972,7 +14972,7 @@ class LucideIcons {
   static const IconData trainFrontTunnel = IconData(
     58636,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## train-front
@@ -14982,7 +14982,7 @@ class LucideIcons {
   static const IconData trainFront = IconData(
     58635,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## train-track
@@ -14992,7 +14992,7 @@ class LucideIcons {
   static const IconData trainTrack = IconData(
     58637,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tram-front
@@ -15002,7 +15002,7 @@ class LucideIcons {
   static const IconData tramFront = IconData(
     58025,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## transgender
@@ -15012,7 +15012,7 @@ class LucideIcons {
   static const IconData transgender = IconData(
     58953,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trash-2
@@ -15022,7 +15022,7 @@ class LucideIcons {
   static const IconData trash2 = IconData(
     57742,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trash
@@ -15032,7 +15032,7 @@ class LucideIcons {
   static const IconData trash = IconData(
     57741,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tree-deciduous
@@ -15042,7 +15042,7 @@ class LucideIcons {
   static const IconData treeDeciduous = IconData(
     58099,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tree-palm
@@ -15052,7 +15052,7 @@ class LucideIcons {
   static const IconData treePalm = IconData(
     57985,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tree-pine
@@ -15062,7 +15062,7 @@ class LucideIcons {
   static const IconData treePine = IconData(
     58100,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trees
@@ -15072,7 +15072,7 @@ class LucideIcons {
   static const IconData trees = IconData(
     58101,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trello
@@ -15082,7 +15082,7 @@ class LucideIcons {
   static const IconData trello = IconData(
     57743,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trending-down
@@ -15092,7 +15092,7 @@ class LucideIcons {
   static const IconData trendingDown = IconData(
     57744,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trending-up-down
@@ -15102,7 +15102,7 @@ class LucideIcons {
   static const IconData trendingUpDown = IconData(
     58922,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trending-up
@@ -15112,7 +15112,7 @@ class LucideIcons {
   static const IconData trendingUp = IconData(
     57745,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## triangle-alert
@@ -15122,7 +15122,7 @@ class LucideIcons {
   static const IconData triangleAlert = IconData(
     57747,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## triangle-dashed
@@ -15132,7 +15132,7 @@ class LucideIcons {
   static const IconData triangleDashed = IconData(
     58946,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## triangle-right
@@ -15142,7 +15142,7 @@ class LucideIcons {
   static const IconData triangleRight = IconData(
     58610,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## triangle
@@ -15152,7 +15152,7 @@ class LucideIcons {
   static const IconData triangle = IconData(
     57746,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## trophy
@@ -15162,7 +15162,7 @@ class LucideIcons {
   static const IconData trophy = IconData(
     58231,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## truck-electric
@@ -15172,7 +15172,7 @@ class LucideIcons {
   static const IconData truckElectric = IconData(
     58980,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## truck
@@ -15182,7 +15182,7 @@ class LucideIcons {
   static const IconData truck = IconData(
     57748,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## turkish-lira
@@ -15192,7 +15192,7 @@ class LucideIcons {
   static const IconData turkishLira = IconData(
     59013,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## turntable
@@ -15202,7 +15202,7 @@ class LucideIcons {
   static const IconData turntable = IconData(
     59025,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## turtle
@@ -15212,7 +15212,7 @@ class LucideIcons {
   static const IconData turtle = IconData(
     58622,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tv-minimal-play
@@ -15222,7 +15222,7 @@ class LucideIcons {
   static const IconData tvMinimalPlay = IconData(
     58865,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tv-minimal
@@ -15232,7 +15232,7 @@ class LucideIcons {
   static const IconData tvMinimal = IconData(
     57859,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## tv
@@ -15242,7 +15242,7 @@ class LucideIcons {
   static const IconData tv = IconData(
     57749,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## twitch
@@ -15252,7 +15252,7 @@ class LucideIcons {
   static const IconData twitch = IconData(
     57750,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## twitter
@@ -15262,7 +15262,7 @@ class LucideIcons {
   static const IconData twitter = IconData(
     57751,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## type-outline
@@ -15272,7 +15272,7 @@ class LucideIcons {
   static const IconData typeOutline = IconData(
     58887,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## type
@@ -15282,7 +15282,7 @@ class LucideIcons {
   static const IconData type = IconData(
     57752,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## umbrella-off
@@ -15292,7 +15292,7 @@ class LucideIcons {
   static const IconData umbrellaOff = IconData(
     58696,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## umbrella
@@ -15302,7 +15302,7 @@ class LucideIcons {
   static const IconData umbrella = IconData(
     57753,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## underline
@@ -15312,7 +15312,7 @@ class LucideIcons {
   static const IconData underline = IconData(
     57754,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## undo-2
@@ -15322,7 +15322,7 @@ class LucideIcons {
   static const IconData undo2 = IconData(
     58017,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## undo-dot
@@ -15332,7 +15332,7 @@ class LucideIcons {
   static const IconData undoDot = IconData(
     58454,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## undo
@@ -15342,7 +15342,7 @@ class LucideIcons {
   static const IconData undo = IconData(
     57755,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## unfold-horizontal
@@ -15352,7 +15352,7 @@ class LucideIcons {
   static const IconData unfoldHorizontal = IconData(
     58434,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## unfold-vertical
@@ -15362,7 +15362,7 @@ class LucideIcons {
   static const IconData unfoldVertical = IconData(
     58435,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## ungroup
@@ -15372,7 +15372,7 @@ class LucideIcons {
   static const IconData ungroup = IconData(
     58476,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## university
@@ -15382,7 +15382,7 @@ class LucideIcons {
   static const IconData university = IconData(
     58345,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## unlink-2
@@ -15392,7 +15392,7 @@ class LucideIcons {
   static const IconData unlink2 = IconData(
     57757,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## unlink
@@ -15402,7 +15402,7 @@ class LucideIcons {
   static const IconData unlink = IconData(
     57756,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## unplug
@@ -15412,7 +15412,7 @@ class LucideIcons {
   static const IconData unplug = IconData(
     58466,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## upload
@@ -15422,7 +15422,7 @@ class LucideIcons {
   static const IconData upload = IconData(
     57758,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## usb
@@ -15432,7 +15432,7 @@ class LucideIcons {
   static const IconData usb = IconData(
     58202,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-check
@@ -15442,7 +15442,7 @@ class LucideIcons {
   static const IconData userCheck = IconData(
     57760,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-cog
@@ -15452,7 +15452,7 @@ class LucideIcons {
   static const IconData userCog = IconData(
     58182,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-lock
@@ -15462,7 +15462,7 @@ class LucideIcons {
   static const IconData userLock = IconData(
     58981,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-minus
@@ -15472,7 +15472,7 @@ class LucideIcons {
   static const IconData userMinus = IconData(
     57761,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-pen
@@ -15482,7 +15482,7 @@ class LucideIcons {
   static const IconData userPen = IconData(
     58881,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-plus
@@ -15492,7 +15492,7 @@ class LucideIcons {
   static const IconData userPlus = IconData(
     57762,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-check
@@ -15502,7 +15502,7 @@ class LucideIcons {
   static const IconData userRoundCheck = IconData(
     58478,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-cog
@@ -15512,7 +15512,7 @@ class LucideIcons {
   static const IconData userRoundCog = IconData(
     58479,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-minus
@@ -15522,7 +15522,7 @@ class LucideIcons {
   static const IconData userRoundMinus = IconData(
     58480,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-pen
@@ -15532,7 +15532,7 @@ class LucideIcons {
   static const IconData userRoundPen = IconData(
     58882,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-plus
@@ -15542,7 +15542,7 @@ class LucideIcons {
   static const IconData userRoundPlus = IconData(
     58481,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-search
@@ -15552,7 +15552,7 @@ class LucideIcons {
   static const IconData userRoundSearch = IconData(
     58749,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round-x
@@ -15562,7 +15562,7 @@ class LucideIcons {
   static const IconData userRoundX = IconData(
     58482,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-round
@@ -15572,7 +15572,7 @@ class LucideIcons {
   static const IconData userRound = IconData(
     58477,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-search
@@ -15582,7 +15582,7 @@ class LucideIcons {
   static const IconData userSearch = IconData(
     58750,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-star
@@ -15592,7 +15592,7 @@ class LucideIcons {
   static const IconData userStar = IconData(
     59020,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user-x
@@ -15602,7 +15602,7 @@ class LucideIcons {
   static const IconData userX = IconData(
     57763,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## user
@@ -15612,7 +15612,7 @@ class LucideIcons {
   static const IconData user = IconData(
     57759,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## users-round
@@ -15622,7 +15622,7 @@ class LucideIcons {
   static const IconData usersRound = IconData(
     58483,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## users
@@ -15632,7 +15632,7 @@ class LucideIcons {
   static const IconData users = IconData(
     57764,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## utensils-crossed
@@ -15642,7 +15642,7 @@ class LucideIcons {
   static const IconData utensilsCrossed = IconData(
     58103,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## utensils
@@ -15652,7 +15652,7 @@ class LucideIcons {
   static const IconData utensils = IconData(
     58102,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## utility-pole
@@ -15662,7 +15662,7 @@ class LucideIcons {
   static const IconData utilityPole = IconData(
     58310,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## variable
@@ -15672,7 +15672,7 @@ class LucideIcons {
   static const IconData variable = IconData(
     58488,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vault
@@ -15682,7 +15682,7 @@ class LucideIcons {
   static const IconData vault = IconData(
     58772,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vector-square
@@ -15692,7 +15692,7 @@ class LucideIcons {
   static const IconData vectorSquare = IconData(
     59009,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vegan
@@ -15702,7 +15702,7 @@ class LucideIcons {
   static const IconData vegan = IconData(
     58273,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## venetian-mask
@@ -15712,7 +15712,7 @@ class LucideIcons {
   static const IconData venetianMask = IconData(
     58026,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## venus-and-mars
@@ -15722,7 +15722,7 @@ class LucideIcons {
   static const IconData venusAndMars = IconData(
     58955,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## venus
@@ -15732,7 +15732,7 @@ class LucideIcons {
   static const IconData venus = IconData(
     58954,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vibrate-off
@@ -15742,7 +15742,7 @@ class LucideIcons {
   static const IconData vibrateOff = IconData(
     58013,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vibrate
@@ -15752,7 +15752,7 @@ class LucideIcons {
   static const IconData vibrate = IconData(
     57891,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## video-off
@@ -15762,7 +15762,7 @@ class LucideIcons {
   static const IconData videoOff = IconData(
     57766,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## video
@@ -15772,7 +15772,7 @@ class LucideIcons {
   static const IconData video = IconData(
     57765,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## videotape
@@ -15782,7 +15782,7 @@ class LucideIcons {
   static const IconData videotape = IconData(
     58576,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## view
@@ -15792,7 +15792,7 @@ class LucideIcons {
   static const IconData view = IconData(
     57767,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## voicemail
@@ -15802,7 +15802,7 @@ class LucideIcons {
   static const IconData voicemail = IconData(
     57768,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volleyball
@@ -15812,7 +15812,7 @@ class LucideIcons {
   static const IconData volleyball = IconData(
     58932,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volume-1
@@ -15822,7 +15822,7 @@ class LucideIcons {
   static const IconData volume1 = IconData(
     57770,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volume-2
@@ -15832,7 +15832,7 @@ class LucideIcons {
   static const IconData volume2 = IconData(
     57771,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volume-off
@@ -15842,7 +15842,7 @@ class LucideIcons {
   static const IconData volumeOff = IconData(
     58923,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volume-x
@@ -15852,7 +15852,7 @@ class LucideIcons {
   static const IconData volumeX = IconData(
     57772,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## volume
@@ -15862,7 +15862,7 @@ class LucideIcons {
   static const IconData volume = IconData(
     57769,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## vote
@@ -15872,7 +15872,7 @@ class LucideIcons {
   static const IconData vote = IconData(
     58289,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wallet-cards
@@ -15882,7 +15882,7 @@ class LucideIcons {
   static const IconData walletCards = IconData(
     58577,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wallet-minimal
@@ -15892,7 +15892,7 @@ class LucideIcons {
   static const IconData walletMinimal = IconData(
     58578,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wallet
@@ -15902,7 +15902,7 @@ class LucideIcons {
   static const IconData wallet = IconData(
     57860,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wallpaper
@@ -15912,7 +15912,7 @@ class LucideIcons {
   static const IconData wallpaper = IconData(
     58448,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wand-sparkles
@@ -15922,7 +15922,7 @@ class LucideIcons {
   static const IconData wandSparkles = IconData(
     58203,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wand
@@ -15932,7 +15932,7 @@ class LucideIcons {
   static const IconData wand = IconData(
     57926,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## warehouse
@@ -15942,7 +15942,7 @@ class LucideIcons {
   static const IconData warehouse = IconData(
     58346,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## washing-machine
@@ -15952,7 +15952,7 @@ class LucideIcons {
   static const IconData washingMachine = IconData(
     58773,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## watch
@@ -15962,7 +15962,7 @@ class LucideIcons {
   static const IconData watch = IconData(
     57773,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## waves-ladder
@@ -15972,7 +15972,7 @@ class LucideIcons {
   static const IconData wavesLadder = IconData(
     58944,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## waves
@@ -15982,7 +15982,7 @@ class LucideIcons {
   static const IconData waves = IconData(
     57987,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## waypoints
@@ -15992,7 +15992,7 @@ class LucideIcons {
   static const IconData waypoints = IconData(
     58695,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## webcam
@@ -16002,7 +16002,7 @@ class LucideIcons {
   static const IconData webcam = IconData(
     57861,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## webhook-off
@@ -16012,7 +16012,7 @@ class LucideIcons {
   static const IconData webhookOff = IconData(
     58812,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## webhook
@@ -16022,7 +16022,7 @@ class LucideIcons {
   static const IconData webhook = IconData(
     58232,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## weight
@@ -16032,7 +16032,7 @@ class LucideIcons {
   static const IconData weight = IconData(
     58677,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wheat-off
@@ -16042,7 +16042,7 @@ class LucideIcons {
   static const IconData wheatOff = IconData(
     58275,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wheat
@@ -16052,7 +16052,7 @@ class LucideIcons {
   static const IconData wheat = IconData(
     58274,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## whole-word
@@ -16062,7 +16062,7 @@ class LucideIcons {
   static const IconData wholeWord = IconData(
     58339,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-cog
@@ -16072,7 +16072,7 @@ class LucideIcons {
   static const IconData wifiCog = IconData(
     59001,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-high
@@ -16082,7 +16082,7 @@ class LucideIcons {
   static const IconData wifiHigh = IconData(
     58876,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-low
@@ -16092,7 +16092,7 @@ class LucideIcons {
   static const IconData wifiLow = IconData(
     58877,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-off
@@ -16102,7 +16102,7 @@ class LucideIcons {
   static const IconData wifiOff = IconData(
     57775,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-pen
@@ -16112,7 +16112,7 @@ class LucideIcons {
   static const IconData wifiPen = IconData(
     58984,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-sync
@@ -16122,7 +16122,7 @@ class LucideIcons {
   static const IconData wifiSync = IconData(
     59014,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi-zero
@@ -16132,7 +16132,7 @@ class LucideIcons {
   static const IconData wifiZero = IconData(
     58878,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wifi
@@ -16142,7 +16142,7 @@ class LucideIcons {
   static const IconData wifi = IconData(
     57774,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wind-arrow-down
@@ -16152,7 +16152,7 @@ class LucideIcons {
   static const IconData windArrowDown = IconData(
     58934,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wind
@@ -16162,7 +16162,7 @@ class LucideIcons {
   static const IconData wind = IconData(
     57776,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wine-off
@@ -16172,7 +16172,7 @@ class LucideIcons {
   static const IconData wineOff = IconData(
     58276,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wine
@@ -16182,7 +16182,7 @@ class LucideIcons {
   static const IconData wine = IconData(
     58104,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## workflow
@@ -16192,7 +16192,7 @@ class LucideIcons {
   static const IconData workflow = IconData(
     58410,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## worm
@@ -16202,7 +16202,7 @@ class LucideIcons {
   static const IconData worm = IconData(
     58847,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wrap-text
@@ -16212,7 +16212,7 @@ class LucideIcons {
   static const IconData wrapText = IconData(
     57928,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## wrench
@@ -16222,7 +16222,7 @@ class LucideIcons {
   static const IconData wrench = IconData(
     57777,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## x
@@ -16232,7 +16232,7 @@ class LucideIcons {
   static const IconData x = IconData(
     57778,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## youtube
@@ -16242,7 +16242,7 @@ class LucideIcons {
   static const IconData youtube = IconData(
     57779,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## zap-off
@@ -16252,7 +16252,7 @@ class LucideIcons {
   static const IconData zapOff = IconData(
     57781,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## zap
@@ -16262,7 +16262,7 @@ class LucideIcons {
   static const IconData zap = IconData(
     57780,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## zoom-in
@@ -16272,7 +16272,7 @@ class LucideIcons {
   static const IconData zoomIn = IconData(
     57782,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 
   /// ## zoom-out
@@ -16282,6 +16282,6 @@ class LucideIcons {
   static const IconData zoomOut = IconData(
     57783,
     fontFamily: 'LucideIcons',
-    fontPackage: 'cliq_icons',
+    fontPackage: 'lucide',
   );
 }

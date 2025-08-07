@@ -1,6 +1,7 @@
-name: cliq_icons
-description: A starting point for Dart libraries or applications.
-version: 1.1.0
+name: lucide
+description: A Flutter package for Lucide icons.
+version: 1.2.0
+repository: https://github.com/cliq-terminal/lucide
 
 environment:
   sdk: ^3.8.1

@@ -1,3 +1,10 @@
-# cliq_icons
+# lucide
 
-[Lucide](https://lucide.dev/) Icons used for cliq. Lucide version: `v0.537.0`
+A Flutter package for [Lucide](https://lucide.dev/) icons. (`v0.537.0`)
+
+## Usage
+
+Simply use the `LucideIcons` class to access the icons in your Flutter application.
+```dart
+Icon(LucideIcons.github)
+```
