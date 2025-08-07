@@ -1,6 +1,6 @@
 ## 1.2.0
 
-- Rename from `cliq_icons` to `lucide`
+- Rename from `cliq_icons` to `lucide_flutter`
 
 ## 1.1.0
 
