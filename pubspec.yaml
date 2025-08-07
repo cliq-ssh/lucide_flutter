@@ -1,6 +1,6 @@
 name: cliq_icons
 description: A starting point for Dart libraries or applications.
-version: 0.536.0
+version: 1.1.0
 
 environment:
   sdk: ^3.8.1

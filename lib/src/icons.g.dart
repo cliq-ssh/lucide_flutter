@@ -3795,6 +3795,16 @@ class LucideIcons {
     fontPackage: 'cliq_icons',
   );
 
+  /// ## circle-star
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-star.svg" width="100">
+  ///
+  /// [View "circle-star" on lucide.dev](https://lucide.dev/icons/circle-star)
+  static const IconData circleStar = IconData(
+    59026,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'cliq_icons',
+  );
+
   /// ## circle-stop
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-stop.svg" width="100">
   ///
@@ -13901,6 +13911,16 @@ class LucideIcons {
   /// [View "square-stack" on lucide.dev](https://lucide.dev/icons/square-stack)
   static const IconData squareStack = IconData(
     58535,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'cliq_icons',
+  );
+
+  /// ## square-star
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-star.svg" width="100">
+  ///
+  /// [View "square-star" on lucide.dev](https://lucide.dev/icons/square-star)
+  static const IconData squareStar = IconData(
+    59027,
     fontFamily: 'LucideIcons',
     fontPackage: 'cliq_icons',
   );
