@@ -16,7 +16,7 @@ class LucideIcons {
   );
 
   /// ## a-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-up.svg" width="100">
   ///
   /// [View "a-arrow-up" on lucide.dev](https://lucide.dev/icons/a-arrow-up)
   static const IconData aArrowUp = IconData(
@@ -26,7 +26,7 @@ class LucideIcons {
   );
 
   /// ## a-large-small
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-large-small.svg" width="100">
   ///
   /// [View "a-large-small" on lucide.dev](https://lucide.dev/icons/a-large-small)
   static const IconData aLargeSmall = IconData(
@@ -36,7 +36,7 @@ class LucideIcons {
   );
 
   /// ## accessibility
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/accessibility.svg" width="100">
   ///
   /// [View "accessibility" on lucide.dev](https://lucide.dev/icons/accessibility)
   static const IconData accessibility = IconData(
@@ -46,7 +46,7 @@ class LucideIcons {
   );
 
   /// ## activity
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/activity.svg" width="100">
   ///
   /// [View "activity" on lucide.dev](https://lucide.dev/icons/activity)
   static const IconData activity = IconData(
@@ -56,7 +56,7 @@ class LucideIcons {
   );
 
   /// ## air-vent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/air-vent.svg" width="100">
   ///
   /// [View "air-vent" on lucide.dev](https://lucide.dev/icons/air-vent)
   static const IconData airVent = IconData(
@@ -66,7 +66,7 @@ class LucideIcons {
   );
 
   /// ## airplay
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/airplay.svg" width="100">
   ///
   /// [View "airplay" on lucide.dev](https://lucide.dev/icons/airplay)
   static const IconData airplay = IconData(
@@ -76,7 +76,7 @@ class LucideIcons {
   );
 
   /// ## alarm-clock-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-clock-check.svg" width="100">
   ///
   /// [View "alarm-clock-check" on lucide.dev](https://lucide.dev/icons/alarm-clock-check)
   static const IconData alarmClockCheck = IconData(
@@ -86,7 +86,7 @@ class LucideIcons {
   );
 
   /// ## alarm-clock-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-clock-minus.svg" width="100">
   ///
   /// [View "alarm-clock-minus" on lucide.dev](https://lucide.dev/icons/alarm-clock-minus)
   static const IconData alarmClockMinus = IconData(
@@ -96,7 +96,7 @@ class LucideIcons {
   );
 
   /// ## alarm-clock-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-clock-off.svg" width="100">
   ///
   /// [View "alarm-clock-off" on lucide.dev](https://lucide.dev/icons/alarm-clock-off)
   static const IconData alarmClockOff = IconData(
@@ -106,7 +106,7 @@ class LucideIcons {
   );
 
   /// ## alarm-clock-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-clock-plus.svg" width="100">
   ///
   /// [View "alarm-clock-plus" on lucide.dev](https://lucide.dev/icons/alarm-clock-plus)
   static const IconData alarmClockPlus = IconData(
@@ -116,7 +116,7 @@ class LucideIcons {
   );
 
   /// ## alarm-clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-clock.svg" width="100">
   ///
   /// [View "alarm-clock" on lucide.dev](https://lucide.dev/icons/alarm-clock)
   static const IconData alarmClock = IconData(
@@ -126,7 +126,7 @@ class LucideIcons {
   );
 
   /// ## alarm-smoke
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/alarm-smoke.svg" width="100">
   ///
   /// [View "alarm-smoke" on lucide.dev](https://lucide.dev/icons/alarm-smoke)
   static const IconData alarmSmoke = IconData(
@@ -136,7 +136,7 @@ class LucideIcons {
   );
 
   /// ## album
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/album.svg" width="100">
   ///
   /// [View "album" on lucide.dev](https://lucide.dev/icons/album)
   static const IconData album = IconData(
@@ -146,7 +146,7 @@ class LucideIcons {
   );
 
   /// ## align-center-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-center-horizontal.svg" width="100">
   ///
   /// [View "align-center-horizontal" on lucide.dev](https://lucide.dev/icons/align-center-horizontal)
   static const IconData alignCenterHorizontal = IconData(
@@ -156,7 +156,7 @@ class LucideIcons {
   );
 
   /// ## align-center-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-center-vertical.svg" width="100">
   ///
   /// [View "align-center-vertical" on lucide.dev](https://lucide.dev/icons/align-center-vertical)
   static const IconData alignCenterVertical = IconData(
@@ -166,7 +166,7 @@ class LucideIcons {
   );
 
   /// ## align-center
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-center.svg" width="100">
   ///
   /// [View "align-center" on lucide.dev](https://lucide.dev/icons/align-center)
   static const IconData alignCenter = IconData(
@@ -176,7 +176,7 @@ class LucideIcons {
   );
 
   /// ## align-end-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-end-horizontal.svg" width="100">
   ///
   /// [View "align-end-horizontal" on lucide.dev](https://lucide.dev/icons/align-end-horizontal)
   static const IconData alignEndHorizontal = IconData(
@@ -186,7 +186,7 @@ class LucideIcons {
   );
 
   /// ## align-end-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-end-vertical.svg" width="100">
   ///
   /// [View "align-end-vertical" on lucide.dev](https://lucide.dev/icons/align-end-vertical)
   static const IconData alignEndVertical = IconData(
@@ -196,7 +196,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-distribute-center
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-distribute-center.svg" width="100">
   ///
   /// [View "align-horizontal-distribute-center" on lucide.dev](https://lucide.dev/icons/align-horizontal-distribute-center)
   static const IconData alignHorizontalDistributeCenter = IconData(
@@ -206,7 +206,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-distribute-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-distribute-end.svg" width="100">
   ///
   /// [View "align-horizontal-distribute-end" on lucide.dev](https://lucide.dev/icons/align-horizontal-distribute-end)
   static const IconData alignHorizontalDistributeEnd = IconData(
@@ -216,7 +216,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-distribute-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-distribute-start.svg" width="100">
   ///
   /// [View "align-horizontal-distribute-start" on lucide.dev](https://lucide.dev/icons/align-horizontal-distribute-start)
   static const IconData alignHorizontalDistributeStart = IconData(
@@ -226,7 +226,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-justify-center
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-justify-center.svg" width="100">
   ///
   /// [View "align-horizontal-justify-center" on lucide.dev](https://lucide.dev/icons/align-horizontal-justify-center)
   static const IconData alignHorizontalJustifyCenter = IconData(
@@ -236,7 +236,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-justify-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-justify-end.svg" width="100">
   ///
   /// [View "align-horizontal-justify-end" on lucide.dev](https://lucide.dev/icons/align-horizontal-justify-end)
   static const IconData alignHorizontalJustifyEnd = IconData(
@@ -246,7 +246,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-justify-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-justify-start.svg" width="100">
   ///
   /// [View "align-horizontal-justify-start" on lucide.dev](https://lucide.dev/icons/align-horizontal-justify-start)
   static const IconData alignHorizontalJustifyStart = IconData(
@@ -256,7 +256,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-space-around
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-space-around.svg" width="100">
   ///
   /// [View "align-horizontal-space-around" on lucide.dev](https://lucide.dev/icons/align-horizontal-space-around)
   static const IconData alignHorizontalSpaceAround = IconData(
@@ -266,7 +266,7 @@ class LucideIcons {
   );
 
   /// ## align-horizontal-space-between
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-horizontal-space-between.svg" width="100">
   ///
   /// [View "align-horizontal-space-between" on lucide.dev](https://lucide.dev/icons/align-horizontal-space-between)
   static const IconData alignHorizontalSpaceBetween = IconData(
@@ -276,7 +276,7 @@ class LucideIcons {
   );
 
   /// ## align-justify
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-justify.svg" width="100">
   ///
   /// [View "align-justify" on lucide.dev](https://lucide.dev/icons/align-justify)
   static const IconData alignJustify = IconData(
@@ -286,7 +286,7 @@ class LucideIcons {
   );
 
   /// ## align-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-left.svg" width="100">
   ///
   /// [View "align-left" on lucide.dev](https://lucide.dev/icons/align-left)
   static const IconData alignLeft = IconData(
@@ -296,7 +296,7 @@ class LucideIcons {
   );
 
   /// ## align-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-right.svg" width="100">
   ///
   /// [View "align-right" on lucide.dev](https://lucide.dev/icons/align-right)
   static const IconData alignRight = IconData(
@@ -306,7 +306,7 @@ class LucideIcons {
   );
 
   /// ## align-start-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-start-horizontal.svg" width="100">
   ///
   /// [View "align-start-horizontal" on lucide.dev](https://lucide.dev/icons/align-start-horizontal)
   static const IconData alignStartHorizontal = IconData(
@@ -316,7 +316,7 @@ class LucideIcons {
   );
 
   /// ## align-start-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-start-vertical.svg" width="100">
   ///
   /// [View "align-start-vertical" on lucide.dev](https://lucide.dev/icons/align-start-vertical)
   static const IconData alignStartVertical = IconData(
@@ -326,7 +326,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-distribute-center
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-distribute-center.svg" width="100">
   ///
   /// [View "align-vertical-distribute-center" on lucide.dev](https://lucide.dev/icons/align-vertical-distribute-center)
   static const IconData alignVerticalDistributeCenter = IconData(
@@ -336,7 +336,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-distribute-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-distribute-end.svg" width="100">
   ///
   /// [View "align-vertical-distribute-end" on lucide.dev](https://lucide.dev/icons/align-vertical-distribute-end)
   static const IconData alignVerticalDistributeEnd = IconData(
@@ -346,7 +346,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-distribute-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-distribute-start.svg" width="100">
   ///
   /// [View "align-vertical-distribute-start" on lucide.dev](https://lucide.dev/icons/align-vertical-distribute-start)
   static const IconData alignVerticalDistributeStart = IconData(
@@ -356,7 +356,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-justify-center
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-justify-center.svg" width="100">
   ///
   /// [View "align-vertical-justify-center" on lucide.dev](https://lucide.dev/icons/align-vertical-justify-center)
   static const IconData alignVerticalJustifyCenter = IconData(
@@ -366,7 +366,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-justify-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-justify-end.svg" width="100">
   ///
   /// [View "align-vertical-justify-end" on lucide.dev](https://lucide.dev/icons/align-vertical-justify-end)
   static const IconData alignVerticalJustifyEnd = IconData(
@@ -376,7 +376,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-justify-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-justify-start.svg" width="100">
   ///
   /// [View "align-vertical-justify-start" on lucide.dev](https://lucide.dev/icons/align-vertical-justify-start)
   static const IconData alignVerticalJustifyStart = IconData(
@@ -386,7 +386,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-space-around
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-space-around.svg" width="100">
   ///
   /// [View "align-vertical-space-around" on lucide.dev](https://lucide.dev/icons/align-vertical-space-around)
   static const IconData alignVerticalSpaceAround = IconData(
@@ -396,7 +396,7 @@ class LucideIcons {
   );
 
   /// ## align-vertical-space-between
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/align-vertical-space-between.svg" width="100">
   ///
   /// [View "align-vertical-space-between" on lucide.dev](https://lucide.dev/icons/align-vertical-space-between)
   static const IconData alignVerticalSpaceBetween = IconData(
@@ -406,7 +406,7 @@ class LucideIcons {
   );
 
   /// ## ambulance
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ambulance.svg" width="100">
   ///
   /// [View "ambulance" on lucide.dev](https://lucide.dev/icons/ambulance)
   static const IconData ambulance = IconData(
@@ -416,7 +416,7 @@ class LucideIcons {
   );
 
   /// ## ampersand
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ampersand.svg" width="100">
   ///
   /// [View "ampersand" on lucide.dev](https://lucide.dev/icons/ampersand)
   static const IconData ampersand = IconData(
@@ -426,7 +426,7 @@ class LucideIcons {
   );
 
   /// ## ampersands
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ampersands.svg" width="100">
   ///
   /// [View "ampersands" on lucide.dev](https://lucide.dev/icons/ampersands)
   static const IconData ampersands = IconData(
@@ -436,7 +436,7 @@ class LucideIcons {
   );
 
   /// ## amphora
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/amphora.svg" width="100">
   ///
   /// [View "amphora" on lucide.dev](https://lucide.dev/icons/amphora)
   static const IconData amphora = IconData(
@@ -446,7 +446,7 @@ class LucideIcons {
   );
 
   /// ## anchor
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/anchor.svg" width="100">
   ///
   /// [View "anchor" on lucide.dev](https://lucide.dev/icons/anchor)
   static const IconData anchor = IconData(
@@ -456,7 +456,7 @@ class LucideIcons {
   );
 
   /// ## angry
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/angry.svg" width="100">
   ///
   /// [View "angry" on lucide.dev](https://lucide.dev/icons/angry)
   static const IconData angry = IconData(
@@ -466,7 +466,7 @@ class LucideIcons {
   );
 
   /// ## annoyed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/annoyed.svg" width="100">
   ///
   /// [View "annoyed" on lucide.dev](https://lucide.dev/icons/annoyed)
   static const IconData annoyed = IconData(
@@ -476,7 +476,7 @@ class LucideIcons {
   );
 
   /// ## antenna
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/antenna.svg" width="100">
   ///
   /// [View "antenna" on lucide.dev](https://lucide.dev/icons/antenna)
   static const IconData antenna = IconData(
@@ -486,7 +486,7 @@ class LucideIcons {
   );
 
   /// ## anvil
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/anvil.svg" width="100">
   ///
   /// [View "anvil" on lucide.dev](https://lucide.dev/icons/anvil)
   static const IconData anvil = IconData(
@@ -496,7 +496,7 @@ class LucideIcons {
   );
 
   /// ## aperture
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/aperture.svg" width="100">
   ///
   /// [View "aperture" on lucide.dev](https://lucide.dev/icons/aperture)
   static const IconData aperture = IconData(
@@ -506,7 +506,7 @@ class LucideIcons {
   );
 
   /// ## app-window-mac
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/app-window-mac.svg" width="100">
   ///
   /// [View "app-window-mac" on lucide.dev](https://lucide.dev/icons/app-window-mac)
   static const IconData appWindowMac = IconData(
@@ -516,7 +516,7 @@ class LucideIcons {
   );
 
   /// ## app-window
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/app-window.svg" width="100">
   ///
   /// [View "app-window" on lucide.dev](https://lucide.dev/icons/app-window)
   static const IconData appWindow = IconData(
@@ -526,7 +526,7 @@ class LucideIcons {
   );
 
   /// ## apple
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/apple.svg" width="100">
   ///
   /// [View "apple" on lucide.dev](https://lucide.dev/icons/apple)
   static const IconData apple = IconData(
@@ -536,7 +536,7 @@ class LucideIcons {
   );
 
   /// ## archive-restore
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/archive-restore.svg" width="100">
   ///
   /// [View "archive-restore" on lucide.dev](https://lucide.dev/icons/archive-restore)
   static const IconData archiveRestore = IconData(
@@ -546,7 +546,7 @@ class LucideIcons {
   );
 
   /// ## archive-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/archive-x.svg" width="100">
   ///
   /// [View "archive-x" on lucide.dev](https://lucide.dev/icons/archive-x)
   static const IconData archiveX = IconData(
@@ -556,7 +556,7 @@ class LucideIcons {
   );
 
   /// ## archive
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/archive.svg" width="100">
   ///
   /// [View "archive" on lucide.dev](https://lucide.dev/icons/archive)
   static const IconData archive = IconData(
@@ -566,7 +566,7 @@ class LucideIcons {
   );
 
   /// ## armchair
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/armchair.svg" width="100">
   ///
   /// [View "armchair" on lucide.dev](https://lucide.dev/icons/armchair)
   static const IconData armchair = IconData(
@@ -576,7 +576,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-down-dash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-down-dash.svg" width="100">
   ///
   /// [View "arrow-big-down-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-down-dash)
   static const IconData arrowBigDownDash = IconData(
@@ -586,7 +586,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-down.svg" width="100">
   ///
   /// [View "arrow-big-down" on lucide.dev](https://lucide.dev/icons/arrow-big-down)
   static const IconData arrowBigDown = IconData(
@@ -596,7 +596,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-left-dash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-left-dash.svg" width="100">
   ///
   /// [View "arrow-big-left-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-left-dash)
   static const IconData arrowBigLeftDash = IconData(
@@ -606,7 +606,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-left.svg" width="100">
   ///
   /// [View "arrow-big-left" on lucide.dev](https://lucide.dev/icons/arrow-big-left)
   static const IconData arrowBigLeft = IconData(
@@ -616,7 +616,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-right-dash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-right-dash.svg" width="100">
   ///
   /// [View "arrow-big-right-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-right-dash)
   static const IconData arrowBigRightDash = IconData(
@@ -626,7 +626,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-right.svg" width="100">
   ///
   /// [View "arrow-big-right" on lucide.dev](https://lucide.dev/icons/arrow-big-right)
   static const IconData arrowBigRight = IconData(
@@ -636,7 +636,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-up-dash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-up-dash.svg" width="100">
   ///
   /// [View "arrow-big-up-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-up-dash)
   static const IconData arrowBigUpDash = IconData(
@@ -646,7 +646,7 @@ class LucideIcons {
   );
 
   /// ## arrow-big-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-up.svg" width="100">
   ///
   /// [View "arrow-big-up" on lucide.dev](https://lucide.dev/icons/arrow-big-up)
   static const IconData arrowBigUp = IconData(
@@ -656,7 +656,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-0-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-0-1.svg" width="100">
   ///
   /// [View "arrow-down-0-1" on lucide.dev](https://lucide.dev/icons/arrow-down-0-1)
   static const IconData arrowDown01 = IconData(
@@ -666,7 +666,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-1-0
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-1-0.svg" width="100">
   ///
   /// [View "arrow-down-1-0" on lucide.dev](https://lucide.dev/icons/arrow-down-1-0)
   static const IconData arrowDown10 = IconData(
@@ -676,7 +676,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-a-z
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-a-z.svg" width="100">
   ///
   /// [View "arrow-down-a-z" on lucide.dev](https://lucide.dev/icons/arrow-down-a-z)
   static const IconData arrowDownAZ = IconData(
@@ -686,7 +686,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-from-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-from-line.svg" width="100">
   ///
   /// [View "arrow-down-from-line" on lucide.dev](https://lucide.dev/icons/arrow-down-from-line)
   static const IconData arrowDownFromLine = IconData(
@@ -696,7 +696,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-left.svg" width="100">
   ///
   /// [View "arrow-down-left" on lucide.dev](https://lucide.dev/icons/arrow-down-left)
   static const IconData arrowDownLeft = IconData(
@@ -706,7 +706,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-narrow-wide
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-narrow-wide.svg" width="100">
   ///
   /// [View "arrow-down-narrow-wide" on lucide.dev](https://lucide.dev/icons/arrow-down-narrow-wide)
   static const IconData arrowDownNarrowWide = IconData(
@@ -716,7 +716,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-right.svg" width="100">
   ///
   /// [View "arrow-down-right" on lucide.dev](https://lucide.dev/icons/arrow-down-right)
   static const IconData arrowDownRight = IconData(
@@ -726,7 +726,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-to-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-to-dot.svg" width="100">
   ///
   /// [View "arrow-down-to-dot" on lucide.dev](https://lucide.dev/icons/arrow-down-to-dot)
   static const IconData arrowDownToDot = IconData(
@@ -736,7 +736,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-to-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-to-line.svg" width="100">
   ///
   /// [View "arrow-down-to-line" on lucide.dev](https://lucide.dev/icons/arrow-down-to-line)
   static const IconData arrowDownToLine = IconData(
@@ -746,7 +746,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-up.svg" width="100">
   ///
   /// [View "arrow-down-up" on lucide.dev](https://lucide.dev/icons/arrow-down-up)
   static const IconData arrowDownUp = IconData(
@@ -756,7 +756,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-wide-narrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-wide-narrow.svg" width="100">
   ///
   /// [View "arrow-down-wide-narrow" on lucide.dev](https://lucide.dev/icons/arrow-down-wide-narrow)
   static const IconData arrowDownWideNarrow = IconData(
@@ -766,7 +766,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down-z-a
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-z-a.svg" width="100">
   ///
   /// [View "arrow-down-z-a" on lucide.dev](https://lucide.dev/icons/arrow-down-z-a)
   static const IconData arrowDownZA = IconData(
@@ -776,7 +776,7 @@ class LucideIcons {
   );
 
   /// ## arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down.svg" width="100">
   ///
   /// [View "arrow-down" on lucide.dev](https://lucide.dev/icons/arrow-down)
   static const IconData arrowDown = IconData(
@@ -786,7 +786,7 @@ class LucideIcons {
   );
 
   /// ## arrow-left-from-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-left-from-line.svg" width="100">
   ///
   /// [View "arrow-left-from-line" on lucide.dev](https://lucide.dev/icons/arrow-left-from-line)
   static const IconData arrowLeftFromLine = IconData(
@@ -796,7 +796,7 @@ class LucideIcons {
   );
 
   /// ## arrow-left-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-left-right.svg" width="100">
   ///
   /// [View "arrow-left-right" on lucide.dev](https://lucide.dev/icons/arrow-left-right)
   static const IconData arrowLeftRight = IconData(
@@ -806,7 +806,7 @@ class LucideIcons {
   );
 
   /// ## arrow-left-to-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-left-to-line.svg" width="100">
   ///
   /// [View "arrow-left-to-line" on lucide.dev](https://lucide.dev/icons/arrow-left-to-line)
   static const IconData arrowLeftToLine = IconData(
@@ -816,7 +816,7 @@ class LucideIcons {
   );
 
   /// ## arrow-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-left.svg" width="100">
   ///
   /// [View "arrow-left" on lucide.dev](https://lucide.dev/icons/arrow-left)
   static const IconData arrowLeft = IconData(
@@ -826,7 +826,7 @@ class LucideIcons {
   );
 
   /// ## arrow-right-from-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-right-from-line.svg" width="100">
   ///
   /// [View "arrow-right-from-line" on lucide.dev](https://lucide.dev/icons/arrow-right-from-line)
   static const IconData arrowRightFromLine = IconData(
@@ -836,7 +836,7 @@ class LucideIcons {
   );
 
   /// ## arrow-right-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-right-left.svg" width="100">
   ///
   /// [View "arrow-right-left" on lucide.dev](https://lucide.dev/icons/arrow-right-left)
   static const IconData arrowRightLeft = IconData(
@@ -846,7 +846,7 @@ class LucideIcons {
   );
 
   /// ## arrow-right-to-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-right-to-line.svg" width="100">
   ///
   /// [View "arrow-right-to-line" on lucide.dev](https://lucide.dev/icons/arrow-right-to-line)
   static const IconData arrowRightToLine = IconData(
@@ -856,7 +856,7 @@ class LucideIcons {
   );
 
   /// ## arrow-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-right.svg" width="100">
   ///
   /// [View "arrow-right" on lucide.dev](https://lucide.dev/icons/arrow-right)
   static const IconData arrowRight = IconData(
@@ -866,7 +866,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-0-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-0-1.svg" width="100">
   ///
   /// [View "arrow-up-0-1" on lucide.dev](https://lucide.dev/icons/arrow-up-0-1)
   static const IconData arrowUp01 = IconData(
@@ -876,7 +876,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-1-0
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-1-0.svg" width="100">
   ///
   /// [View "arrow-up-1-0" on lucide.dev](https://lucide.dev/icons/arrow-up-1-0)
   static const IconData arrowUp10 = IconData(
@@ -886,7 +886,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-a-z
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-a-z.svg" width="100">
   ///
   /// [View "arrow-up-a-z" on lucide.dev](https://lucide.dev/icons/arrow-up-a-z)
   static const IconData arrowUpAZ = IconData(
@@ -896,7 +896,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-down.svg" width="100">
   ///
   /// [View "arrow-up-down" on lucide.dev](https://lucide.dev/icons/arrow-up-down)
   static const IconData arrowUpDown = IconData(
@@ -906,7 +906,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-from-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-from-dot.svg" width="100">
   ///
   /// [View "arrow-up-from-dot" on lucide.dev](https://lucide.dev/icons/arrow-up-from-dot)
   static const IconData arrowUpFromDot = IconData(
@@ -916,7 +916,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-from-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-from-line.svg" width="100">
   ///
   /// [View "arrow-up-from-line" on lucide.dev](https://lucide.dev/icons/arrow-up-from-line)
   static const IconData arrowUpFromLine = IconData(
@@ -926,7 +926,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-left.svg" width="100">
   ///
   /// [View "arrow-up-left" on lucide.dev](https://lucide.dev/icons/arrow-up-left)
   static const IconData arrowUpLeft = IconData(
@@ -936,7 +936,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-narrow-wide
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-narrow-wide.svg" width="100">
   ///
   /// [View "arrow-up-narrow-wide" on lucide.dev](https://lucide.dev/icons/arrow-up-narrow-wide)
   static const IconData arrowUpNarrowWide = IconData(
@@ -946,7 +946,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-right.svg" width="100">
   ///
   /// [View "arrow-up-right" on lucide.dev](https://lucide.dev/icons/arrow-up-right)
   static const IconData arrowUpRight = IconData(
@@ -956,7 +956,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-to-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-to-line.svg" width="100">
   ///
   /// [View "arrow-up-to-line" on lucide.dev](https://lucide.dev/icons/arrow-up-to-line)
   static const IconData arrowUpToLine = IconData(
@@ -966,7 +966,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-wide-narrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-wide-narrow.svg" width="100">
   ///
   /// [View "arrow-up-wide-narrow" on lucide.dev](https://lucide.dev/icons/arrow-up-wide-narrow)
   static const IconData arrowUpWideNarrow = IconData(
@@ -976,7 +976,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up-z-a
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-z-a.svg" width="100">
   ///
   /// [View "arrow-up-z-a" on lucide.dev](https://lucide.dev/icons/arrow-up-z-a)
   static const IconData arrowUpZA = IconData(
@@ -986,7 +986,7 @@ class LucideIcons {
   );
 
   /// ## arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up.svg" width="100">
   ///
   /// [View "arrow-up" on lucide.dev](https://lucide.dev/icons/arrow-up)
   static const IconData arrowUp = IconData(
@@ -996,7 +996,7 @@ class LucideIcons {
   );
 
   /// ## arrows-up-from-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrows-up-from-line.svg" width="100">
   ///
   /// [View "arrows-up-from-line" on lucide.dev](https://lucide.dev/icons/arrows-up-from-line)
   static const IconData arrowsUpFromLine = IconData(
@@ -1006,7 +1006,7 @@ class LucideIcons {
   );
 
   /// ## asterisk
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/asterisk.svg" width="100">
   ///
   /// [View "asterisk" on lucide.dev](https://lucide.dev/icons/asterisk)
   static const IconData asterisk = IconData(
@@ -1016,7 +1016,7 @@ class LucideIcons {
   );
 
   /// ## at-sign
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/at-sign.svg" width="100">
   ///
   /// [View "at-sign" on lucide.dev](https://lucide.dev/icons/at-sign)
   static const IconData atSign = IconData(
@@ -1026,7 +1026,7 @@ class LucideIcons {
   );
 
   /// ## atom
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/atom.svg" width="100">
   ///
   /// [View "atom" on lucide.dev](https://lucide.dev/icons/atom)
   static const IconData atom = IconData(
@@ -1036,7 +1036,7 @@ class LucideIcons {
   );
 
   /// ## audio-lines
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/audio-lines.svg" width="100">
   ///
   /// [View "audio-lines" on lucide.dev](https://lucide.dev/icons/audio-lines)
   static const IconData audioLines = IconData(
@@ -1046,7 +1046,7 @@ class LucideIcons {
   );
 
   /// ## audio-waveform
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/audio-waveform.svg" width="100">
   ///
   /// [View "audio-waveform" on lucide.dev](https://lucide.dev/icons/audio-waveform)
   static const IconData audioWaveform = IconData(
@@ -1056,7 +1056,7 @@ class LucideIcons {
   );
 
   /// ## award
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/award.svg" width="100">
   ///
   /// [View "award" on lucide.dev](https://lucide.dev/icons/award)
   static const IconData award = IconData(
@@ -1066,7 +1066,7 @@ class LucideIcons {
   );
 
   /// ## axe
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/axe.svg" width="100">
   ///
   /// [View "axe" on lucide.dev](https://lucide.dev/icons/axe)
   static const IconData axe = IconData(
@@ -1076,7 +1076,7 @@ class LucideIcons {
   );
 
   /// ## axis-3d
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/axis-3d.svg" width="100">
   ///
   /// [View "axis-3d" on lucide.dev](https://lucide.dev/icons/axis-3d)
   static const IconData axis3d = IconData(
@@ -1086,7 +1086,7 @@ class LucideIcons {
   );
 
   /// ## baby
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/baby.svg" width="100">
   ///
   /// [View "baby" on lucide.dev](https://lucide.dev/icons/baby)
   static const IconData baby = IconData(
@@ -1096,7 +1096,7 @@ class LucideIcons {
   );
 
   /// ## backpack
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/backpack.svg" width="100">
   ///
   /// [View "backpack" on lucide.dev](https://lucide.dev/icons/backpack)
   static const IconData backpack = IconData(
@@ -1106,7 +1106,7 @@ class LucideIcons {
   );
 
   /// ## badge-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-alert.svg" width="100">
   ///
   /// [View "badge-alert" on lucide.dev](https://lucide.dev/icons/badge-alert)
   static const IconData badgeAlert = IconData(
@@ -1116,7 +1116,7 @@ class LucideIcons {
   );
 
   /// ## badge-cent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-cent.svg" width="100">
   ///
   /// [View "badge-cent" on lucide.dev](https://lucide.dev/icons/badge-cent)
   static const IconData badgeCent = IconData(
@@ -1126,7 +1126,7 @@ class LucideIcons {
   );
 
   /// ## badge-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-check.svg" width="100">
   ///
   /// [View "badge-check" on lucide.dev](https://lucide.dev/icons/badge-check)
   static const IconData badgeCheck = IconData(
@@ -1136,7 +1136,7 @@ class LucideIcons {
   );
 
   /// ## badge-dollar-sign
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-dollar-sign.svg" width="100">
   ///
   /// [View "badge-dollar-sign" on lucide.dev](https://lucide.dev/icons/badge-dollar-sign)
   static const IconData badgeDollarSign = IconData(
@@ -1146,7 +1146,7 @@ class LucideIcons {
   );
 
   /// ## badge-euro
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-euro.svg" width="100">
   ///
   /// [View "badge-euro" on lucide.dev](https://lucide.dev/icons/badge-euro)
   static const IconData badgeEuro = IconData(
@@ -1156,7 +1156,7 @@ class LucideIcons {
   );
 
   /// ## badge-indian-rupee
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-indian-rupee.svg" width="100">
   ///
   /// [View "badge-indian-rupee" on lucide.dev](https://lucide.dev/icons/badge-indian-rupee)
   static const IconData badgeIndianRupee = IconData(
@@ -1166,7 +1166,7 @@ class LucideIcons {
   );
 
   /// ## badge-info
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-info.svg" width="100">
   ///
   /// [View "badge-info" on lucide.dev](https://lucide.dev/icons/badge-info)
   static const IconData badgeInfo = IconData(
@@ -1176,7 +1176,7 @@ class LucideIcons {
   );
 
   /// ## badge-japanese-yen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-japanese-yen.svg" width="100">
   ///
   /// [View "badge-japanese-yen" on lucide.dev](https://lucide.dev/icons/badge-japanese-yen)
   static const IconData badgeJapaneseYen = IconData(
@@ -1186,7 +1186,7 @@ class LucideIcons {
   );
 
   /// ## badge-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-minus.svg" width="100">
   ///
   /// [View "badge-minus" on lucide.dev](https://lucide.dev/icons/badge-minus)
   static const IconData badgeMinus = IconData(
@@ -1196,7 +1196,7 @@ class LucideIcons {
   );
 
   /// ## badge-percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-percent.svg" width="100">
   ///
   /// [View "badge-percent" on lucide.dev](https://lucide.dev/icons/badge-percent)
   static const IconData badgePercent = IconData(
@@ -1206,7 +1206,7 @@ class LucideIcons {
   );
 
   /// ## badge-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-plus.svg" width="100">
   ///
   /// [View "badge-plus" on lucide.dev](https://lucide.dev/icons/badge-plus)
   static const IconData badgePlus = IconData(
@@ -1216,7 +1216,7 @@ class LucideIcons {
   );
 
   /// ## badge-pound-sterling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-pound-sterling.svg" width="100">
   ///
   /// [View "badge-pound-sterling" on lucide.dev](https://lucide.dev/icons/badge-pound-sterling)
   static const IconData badgePoundSterling = IconData(
@@ -1226,7 +1226,7 @@ class LucideIcons {
   );
 
   /// ## badge-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-question-mark.svg" width="100">
   ///
   /// [View "badge-question-mark" on lucide.dev](https://lucide.dev/icons/badge-question-mark)
   static const IconData badgeQuestionMark = IconData(
@@ -1236,7 +1236,7 @@ class LucideIcons {
   );
 
   /// ## badge-russian-ruble
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-russian-ruble.svg" width="100">
   ///
   /// [View "badge-russian-ruble" on lucide.dev](https://lucide.dev/icons/badge-russian-ruble)
   static const IconData badgeRussianRuble = IconData(
@@ -1246,7 +1246,7 @@ class LucideIcons {
   );
 
   /// ## badge-swiss-franc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-swiss-franc.svg" width="100">
   ///
   /// [View "badge-swiss-franc" on lucide.dev](https://lucide.dev/icons/badge-swiss-franc)
   static const IconData badgeSwissFranc = IconData(
@@ -1256,7 +1256,7 @@ class LucideIcons {
   );
 
   /// ## badge-turkish-lira
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-turkish-lira.svg" width="100">
   ///
   /// [View "badge-turkish-lira" on lucide.dev](https://lucide.dev/icons/badge-turkish-lira)
   static const IconData badgeTurkishLira = IconData(
@@ -1266,7 +1266,7 @@ class LucideIcons {
   );
 
   /// ## badge-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge-x.svg" width="100">
   ///
   /// [View "badge-x" on lucide.dev](https://lucide.dev/icons/badge-x)
   static const IconData badgeX = IconData(
@@ -1276,7 +1276,7 @@ class LucideIcons {
   );
 
   /// ## badge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/badge.svg" width="100">
   ///
   /// [View "badge" on lucide.dev](https://lucide.dev/icons/badge)
   static const IconData badge = IconData(
@@ -1286,7 +1286,7 @@ class LucideIcons {
   );
 
   /// ## baggage-claim
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/baggage-claim.svg" width="100">
   ///
   /// [View "baggage-claim" on lucide.dev](https://lucide.dev/icons/baggage-claim)
   static const IconData baggageClaim = IconData(
@@ -1296,7 +1296,7 @@ class LucideIcons {
   );
 
   /// ## ban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ban.svg" width="100">
   ///
   /// [View "ban" on lucide.dev](https://lucide.dev/icons/ban)
   static const IconData ban = IconData(
@@ -1306,7 +1306,7 @@ class LucideIcons {
   );
 
   /// ## banana
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banana.svg" width="100">
   ///
   /// [View "banana" on lucide.dev](https://lucide.dev/icons/banana)
   static const IconData banana = IconData(
@@ -1316,7 +1316,7 @@ class LucideIcons {
   );
 
   /// ## bandage
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bandage.svg" width="100">
   ///
   /// [View "bandage" on lucide.dev](https://lucide.dev/icons/bandage)
   static const IconData bandage = IconData(
@@ -1326,7 +1326,7 @@ class LucideIcons {
   );
 
   /// ## banknote-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banknote-arrow-down.svg" width="100">
   ///
   /// [View "banknote-arrow-down" on lucide.dev](https://lucide.dev/icons/banknote-arrow-down)
   static const IconData banknoteArrowDown = IconData(
@@ -1336,7 +1336,7 @@ class LucideIcons {
   );
 
   /// ## banknote-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banknote-arrow-up.svg" width="100">
   ///
   /// [View "banknote-arrow-up" on lucide.dev](https://lucide.dev/icons/banknote-arrow-up)
   static const IconData banknoteArrowUp = IconData(
@@ -1346,7 +1346,7 @@ class LucideIcons {
   );
 
   /// ## banknote-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banknote-x.svg" width="100">
   ///
   /// [View "banknote-x" on lucide.dev](https://lucide.dev/icons/banknote-x)
   static const IconData banknoteX = IconData(
@@ -1356,7 +1356,7 @@ class LucideIcons {
   );
 
   /// ## banknote
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banknote.svg" width="100">
   ///
   /// [View "banknote" on lucide.dev](https://lucide.dev/icons/banknote)
   static const IconData banknote = IconData(
@@ -1366,7 +1366,7 @@ class LucideIcons {
   );
 
   /// ## barcode
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/barcode.svg" width="100">
   ///
   /// [View "barcode" on lucide.dev](https://lucide.dev/icons/barcode)
   static const IconData barcode = IconData(
@@ -1376,7 +1376,7 @@ class LucideIcons {
   );
 
   /// ## barrel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/barrel.svg" width="100">
   ///
   /// [View "barrel" on lucide.dev](https://lucide.dev/icons/barrel)
   static const IconData barrel = IconData(
@@ -1386,7 +1386,7 @@ class LucideIcons {
   );
 
   /// ## baseline
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/baseline.svg" width="100">
   ///
   /// [View "baseline" on lucide.dev](https://lucide.dev/icons/baseline)
   static const IconData baseline = IconData(
@@ -1396,7 +1396,7 @@ class LucideIcons {
   );
 
   /// ## bath
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bath.svg" width="100">
   ///
   /// [View "bath" on lucide.dev](https://lucide.dev/icons/bath)
   static const IconData bath = IconData(
@@ -1406,7 +1406,7 @@ class LucideIcons {
   );
 
   /// ## battery-charging
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-charging.svg" width="100">
   ///
   /// [View "battery-charging" on lucide.dev](https://lucide.dev/icons/battery-charging)
   static const IconData batteryCharging = IconData(
@@ -1416,7 +1416,7 @@ class LucideIcons {
   );
 
   /// ## battery-full
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-full.svg" width="100">
   ///
   /// [View "battery-full" on lucide.dev](https://lucide.dev/icons/battery-full)
   static const IconData batteryFull = IconData(
@@ -1426,7 +1426,7 @@ class LucideIcons {
   );
 
   /// ## battery-low
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-low.svg" width="100">
   ///
   /// [View "battery-low" on lucide.dev](https://lucide.dev/icons/battery-low)
   static const IconData batteryLow = IconData(
@@ -1436,7 +1436,7 @@ class LucideIcons {
   );
 
   /// ## battery-medium
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-medium.svg" width="100">
   ///
   /// [View "battery-medium" on lucide.dev](https://lucide.dev/icons/battery-medium)
   static const IconData batteryMedium = IconData(
@@ -1446,7 +1446,7 @@ class LucideIcons {
   );
 
   /// ## battery-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-plus.svg" width="100">
   ///
   /// [View "battery-plus" on lucide.dev](https://lucide.dev/icons/battery-plus)
   static const IconData batteryPlus = IconData(
@@ -1456,7 +1456,7 @@ class LucideIcons {
   );
 
   /// ## battery-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery-warning.svg" width="100">
   ///
   /// [View "battery-warning" on lucide.dev](https://lucide.dev/icons/battery-warning)
   static const IconData batteryWarning = IconData(
@@ -1466,7 +1466,7 @@ class LucideIcons {
   );
 
   /// ## battery
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/battery.svg" width="100">
   ///
   /// [View "battery" on lucide.dev](https://lucide.dev/icons/battery)
   static const IconData battery = IconData(
@@ -1476,7 +1476,7 @@ class LucideIcons {
   );
 
   /// ## beaker
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beaker.svg" width="100">
   ///
   /// [View "beaker" on lucide.dev](https://lucide.dev/icons/beaker)
   static const IconData beaker = IconData(
@@ -1486,7 +1486,7 @@ class LucideIcons {
   );
 
   /// ## bean-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bean-off.svg" width="100">
   ///
   /// [View "bean-off" on lucide.dev](https://lucide.dev/icons/bean-off)
   static const IconData beanOff = IconData(
@@ -1496,7 +1496,7 @@ class LucideIcons {
   );
 
   /// ## bean
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bean.svg" width="100">
   ///
   /// [View "bean" on lucide.dev](https://lucide.dev/icons/bean)
   static const IconData bean = IconData(
@@ -1506,7 +1506,7 @@ class LucideIcons {
   );
 
   /// ## bed-double
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bed-double.svg" width="100">
   ///
   /// [View "bed-double" on lucide.dev](https://lucide.dev/icons/bed-double)
   static const IconData bedDouble = IconData(
@@ -1516,7 +1516,7 @@ class LucideIcons {
   );
 
   /// ## bed-single
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bed-single.svg" width="100">
   ///
   /// [View "bed-single" on lucide.dev](https://lucide.dev/icons/bed-single)
   static const IconData bedSingle = IconData(
@@ -1526,7 +1526,7 @@ class LucideIcons {
   );
 
   /// ## bed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bed.svg" width="100">
   ///
   /// [View "bed" on lucide.dev](https://lucide.dev/icons/bed)
   static const IconData bed = IconData(
@@ -1536,7 +1536,7 @@ class LucideIcons {
   );
 
   /// ## beef
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beef.svg" width="100">
   ///
   /// [View "beef" on lucide.dev](https://lucide.dev/icons/beef)
   static const IconData beef = IconData(
@@ -1546,7 +1546,7 @@ class LucideIcons {
   );
 
   /// ## beer-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beer-off.svg" width="100">
   ///
   /// [View "beer-off" on lucide.dev](https://lucide.dev/icons/beer-off)
   static const IconData beerOff = IconData(
@@ -1556,7 +1556,7 @@ class LucideIcons {
   );
 
   /// ## beer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beer.svg" width="100">
   ///
   /// [View "beer" on lucide.dev](https://lucide.dev/icons/beer)
   static const IconData beer = IconData(
@@ -1566,7 +1566,7 @@ class LucideIcons {
   );
 
   /// ## bell-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-dot.svg" width="100">
   ///
   /// [View "bell-dot" on lucide.dev](https://lucide.dev/icons/bell-dot)
   static const IconData bellDot = IconData(
@@ -1576,7 +1576,7 @@ class LucideIcons {
   );
 
   /// ## bell-electric
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-electric.svg" width="100">
   ///
   /// [View "bell-electric" on lucide.dev](https://lucide.dev/icons/bell-electric)
   static const IconData bellElectric = IconData(
@@ -1586,7 +1586,7 @@ class LucideIcons {
   );
 
   /// ## bell-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-minus.svg" width="100">
   ///
   /// [View "bell-minus" on lucide.dev](https://lucide.dev/icons/bell-minus)
   static const IconData bellMinus = IconData(
@@ -1596,7 +1596,7 @@ class LucideIcons {
   );
 
   /// ## bell-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-off.svg" width="100">
   ///
   /// [View "bell-off" on lucide.dev](https://lucide.dev/icons/bell-off)
   static const IconData bellOff = IconData(
@@ -1606,7 +1606,7 @@ class LucideIcons {
   );
 
   /// ## bell-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-plus.svg" width="100">
   ///
   /// [View "bell-plus" on lucide.dev](https://lucide.dev/icons/bell-plus)
   static const IconData bellPlus = IconData(
@@ -1616,7 +1616,7 @@ class LucideIcons {
   );
 
   /// ## bell-ring
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell-ring.svg" width="100">
   ///
   /// [View "bell-ring" on lucide.dev](https://lucide.dev/icons/bell-ring)
   static const IconData bellRing = IconData(
@@ -1626,7 +1626,7 @@ class LucideIcons {
   );
 
   /// ## bell
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bell.svg" width="100">
   ///
   /// [View "bell" on lucide.dev](https://lucide.dev/icons/bell)
   static const IconData bell = IconData(
@@ -1636,7 +1636,7 @@ class LucideIcons {
   );
 
   /// ## between-horizontal-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/between-horizontal-end.svg" width="100">
   ///
   /// [View "between-horizontal-end" on lucide.dev](https://lucide.dev/icons/between-horizontal-end)
   static const IconData betweenHorizontalEnd = IconData(
@@ -1646,7 +1646,7 @@ class LucideIcons {
   );
 
   /// ## between-horizontal-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/between-horizontal-start.svg" width="100">
   ///
   /// [View "between-horizontal-start" on lucide.dev](https://lucide.dev/icons/between-horizontal-start)
   static const IconData betweenHorizontalStart = IconData(
@@ -1656,7 +1656,7 @@ class LucideIcons {
   );
 
   /// ## between-vertical-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/between-vertical-end.svg" width="100">
   ///
   /// [View "between-vertical-end" on lucide.dev](https://lucide.dev/icons/between-vertical-end)
   static const IconData betweenVerticalEnd = IconData(
@@ -1666,7 +1666,7 @@ class LucideIcons {
   );
 
   /// ## between-vertical-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/between-vertical-start.svg" width="100">
   ///
   /// [View "between-vertical-start" on lucide.dev](https://lucide.dev/icons/between-vertical-start)
   static const IconData betweenVerticalStart = IconData(
@@ -1676,7 +1676,7 @@ class LucideIcons {
   );
 
   /// ## biceps-flexed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/biceps-flexed.svg" width="100">
   ///
   /// [View "biceps-flexed" on lucide.dev](https://lucide.dev/icons/biceps-flexed)
   static const IconData bicepsFlexed = IconData(
@@ -1686,7 +1686,7 @@ class LucideIcons {
   );
 
   /// ## bike
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bike.svg" width="100">
   ///
   /// [View "bike" on lucide.dev](https://lucide.dev/icons/bike)
   static const IconData bike = IconData(
@@ -1696,7 +1696,7 @@ class LucideIcons {
   );
 
   /// ## binary
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/binary.svg" width="100">
   ///
   /// [View "binary" on lucide.dev](https://lucide.dev/icons/binary)
   static const IconData binary = IconData(
@@ -1706,7 +1706,7 @@ class LucideIcons {
   );
 
   /// ## binoculars
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/binoculars.svg" width="100">
   ///
   /// [View "binoculars" on lucide.dev](https://lucide.dev/icons/binoculars)
   static const IconData binoculars = IconData(
@@ -1716,7 +1716,7 @@ class LucideIcons {
   );
 
   /// ## biohazard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/biohazard.svg" width="100">
   ///
   /// [View "biohazard" on lucide.dev](https://lucide.dev/icons/biohazard)
   static const IconData biohazard = IconData(
@@ -1726,7 +1726,7 @@ class LucideIcons {
   );
 
   /// ## bird
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bird.svg" width="100">
   ///
   /// [View "bird" on lucide.dev](https://lucide.dev/icons/bird)
   static const IconData bird = IconData(
@@ -1736,7 +1736,7 @@ class LucideIcons {
   );
 
   /// ## bitcoin
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bitcoin.svg" width="100">
   ///
   /// [View "bitcoin" on lucide.dev](https://lucide.dev/icons/bitcoin)
   static const IconData bitcoin = IconData(
@@ -1746,7 +1746,7 @@ class LucideIcons {
   );
 
   /// ## blend
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/blend.svg" width="100">
   ///
   /// [View "blend" on lucide.dev](https://lucide.dev/icons/blend)
   static const IconData blend = IconData(
@@ -1756,7 +1756,7 @@ class LucideIcons {
   );
 
   /// ## blinds
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/blinds.svg" width="100">
   ///
   /// [View "blinds" on lucide.dev](https://lucide.dev/icons/blinds)
   static const IconData blinds = IconData(
@@ -1766,7 +1766,7 @@ class LucideIcons {
   );
 
   /// ## blocks
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/blocks.svg" width="100">
   ///
   /// [View "blocks" on lucide.dev](https://lucide.dev/icons/blocks)
   static const IconData blocks = IconData(
@@ -1776,7 +1776,7 @@ class LucideIcons {
   );
 
   /// ## bluetooth-connected
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bluetooth-connected.svg" width="100">
   ///
   /// [View "bluetooth-connected" on lucide.dev](https://lucide.dev/icons/bluetooth-connected)
   static const IconData bluetoothConnected = IconData(
@@ -1786,7 +1786,7 @@ class LucideIcons {
   );
 
   /// ## bluetooth-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bluetooth-off.svg" width="100">
   ///
   /// [View "bluetooth-off" on lucide.dev](https://lucide.dev/icons/bluetooth-off)
   static const IconData bluetoothOff = IconData(
@@ -1796,7 +1796,7 @@ class LucideIcons {
   );
 
   /// ## bluetooth-searching
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bluetooth-searching.svg" width="100">
   ///
   /// [View "bluetooth-searching" on lucide.dev](https://lucide.dev/icons/bluetooth-searching)
   static const IconData bluetoothSearching = IconData(
@@ -1806,7 +1806,7 @@ class LucideIcons {
   );
 
   /// ## bluetooth
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bluetooth.svg" width="100">
   ///
   /// [View "bluetooth" on lucide.dev](https://lucide.dev/icons/bluetooth)
   static const IconData bluetooth = IconData(
@@ -1816,7 +1816,7 @@ class LucideIcons {
   );
 
   /// ## bold
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bold.svg" width="100">
   ///
   /// [View "bold" on lucide.dev](https://lucide.dev/icons/bold)
   static const IconData bold = IconData(
@@ -1826,7 +1826,7 @@ class LucideIcons {
   );
 
   /// ## bolt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bolt.svg" width="100">
   ///
   /// [View "bolt" on lucide.dev](https://lucide.dev/icons/bolt)
   static const IconData bolt = IconData(
@@ -1836,7 +1836,7 @@ class LucideIcons {
   );
 
   /// ## bomb
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bomb.svg" width="100">
   ///
   /// [View "bomb" on lucide.dev](https://lucide.dev/icons/bomb)
   static const IconData bomb = IconData(
@@ -1846,7 +1846,7 @@ class LucideIcons {
   );
 
   /// ## bone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bone.svg" width="100">
   ///
   /// [View "bone" on lucide.dev](https://lucide.dev/icons/bone)
   static const IconData bone = IconData(
@@ -1856,7 +1856,7 @@ class LucideIcons {
   );
 
   /// ## book-a
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-a.svg" width="100">
   ///
   /// [View "book-a" on lucide.dev](https://lucide.dev/icons/book-a)
   static const IconData bookA = IconData(
@@ -1866,7 +1866,7 @@ class LucideIcons {
   );
 
   /// ## book-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-alert.svg" width="100">
   ///
   /// [View "book-alert" on lucide.dev](https://lucide.dev/icons/book-alert)
   static const IconData bookAlert = IconData(
@@ -1876,7 +1876,7 @@ class LucideIcons {
   );
 
   /// ## book-audio
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-audio.svg" width="100">
   ///
   /// [View "book-audio" on lucide.dev](https://lucide.dev/icons/book-audio)
   static const IconData bookAudio = IconData(
@@ -1886,7 +1886,7 @@ class LucideIcons {
   );
 
   /// ## book-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-check.svg" width="100">
   ///
   /// [View "book-check" on lucide.dev](https://lucide.dev/icons/book-check)
   static const IconData bookCheck = IconData(
@@ -1896,7 +1896,7 @@ class LucideIcons {
   );
 
   /// ## book-copy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-copy.svg" width="100">
   ///
   /// [View "book-copy" on lucide.dev](https://lucide.dev/icons/book-copy)
   static const IconData bookCopy = IconData(
@@ -1906,7 +1906,7 @@ class LucideIcons {
   );
 
   /// ## book-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-dashed.svg" width="100">
   ///
   /// [View "book-dashed" on lucide.dev](https://lucide.dev/icons/book-dashed)
   static const IconData bookDashed = IconData(
@@ -1916,7 +1916,7 @@ class LucideIcons {
   );
 
   /// ## book-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-down.svg" width="100">
   ///
   /// [View "book-down" on lucide.dev](https://lucide.dev/icons/book-down)
   static const IconData bookDown = IconData(
@@ -1926,7 +1926,7 @@ class LucideIcons {
   );
 
   /// ## book-headphones
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-headphones.svg" width="100">
   ///
   /// [View "book-headphones" on lucide.dev](https://lucide.dev/icons/book-headphones)
   static const IconData bookHeadphones = IconData(
@@ -1936,7 +1936,7 @@ class LucideIcons {
   );
 
   /// ## book-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-heart.svg" width="100">
   ///
   /// [View "book-heart" on lucide.dev](https://lucide.dev/icons/book-heart)
   static const IconData bookHeart = IconData(
@@ -1946,7 +1946,7 @@ class LucideIcons {
   );
 
   /// ## book-image
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-image.svg" width="100">
   ///
   /// [View "book-image" on lucide.dev](https://lucide.dev/icons/book-image)
   static const IconData bookImage = IconData(
@@ -1956,7 +1956,7 @@ class LucideIcons {
   );
 
   /// ## book-key
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-key.svg" width="100">
   ///
   /// [View "book-key" on lucide.dev](https://lucide.dev/icons/book-key)
   static const IconData bookKey = IconData(
@@ -1966,7 +1966,7 @@ class LucideIcons {
   );
 
   /// ## book-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-lock.svg" width="100">
   ///
   /// [View "book-lock" on lucide.dev](https://lucide.dev/icons/book-lock)
   static const IconData bookLock = IconData(
@@ -1976,7 +1976,7 @@ class LucideIcons {
   );
 
   /// ## book-marked
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-marked.svg" width="100">
   ///
   /// [View "book-marked" on lucide.dev](https://lucide.dev/icons/book-marked)
   static const IconData bookMarked = IconData(
@@ -1986,7 +1986,7 @@ class LucideIcons {
   );
 
   /// ## book-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-minus.svg" width="100">
   ///
   /// [View "book-minus" on lucide.dev](https://lucide.dev/icons/book-minus)
   static const IconData bookMinus = IconData(
@@ -1996,7 +1996,7 @@ class LucideIcons {
   );
 
   /// ## book-open-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-open-check.svg" width="100">
   ///
   /// [View "book-open-check" on lucide.dev](https://lucide.dev/icons/book-open-check)
   static const IconData bookOpenCheck = IconData(
@@ -2006,7 +2006,7 @@ class LucideIcons {
   );
 
   /// ## book-open-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-open-text.svg" width="100">
   ///
   /// [View "book-open-text" on lucide.dev](https://lucide.dev/icons/book-open-text)
   static const IconData bookOpenText = IconData(
@@ -2016,7 +2016,7 @@ class LucideIcons {
   );
 
   /// ## book-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-open.svg" width="100">
   ///
   /// [View "book-open" on lucide.dev](https://lucide.dev/icons/book-open)
   static const IconData bookOpen = IconData(
@@ -2026,7 +2026,7 @@ class LucideIcons {
   );
 
   /// ## book-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-plus.svg" width="100">
   ///
   /// [View "book-plus" on lucide.dev](https://lucide.dev/icons/book-plus)
   static const IconData bookPlus = IconData(
@@ -2036,7 +2036,7 @@ class LucideIcons {
   );
 
   /// ## book-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-text.svg" width="100">
   ///
   /// [View "book-text" on lucide.dev](https://lucide.dev/icons/book-text)
   static const IconData bookText = IconData(
@@ -2046,7 +2046,7 @@ class LucideIcons {
   );
 
   /// ## book-type
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-type.svg" width="100">
   ///
   /// [View "book-type" on lucide.dev](https://lucide.dev/icons/book-type)
   static const IconData bookType = IconData(
@@ -2056,7 +2056,7 @@ class LucideIcons {
   );
 
   /// ## book-up-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-up-2.svg" width="100">
   ///
   /// [View "book-up-2" on lucide.dev](https://lucide.dev/icons/book-up-2)
   static const IconData bookUp2 = IconData(
@@ -2066,7 +2066,7 @@ class LucideIcons {
   );
 
   /// ## book-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-up.svg" width="100">
   ///
   /// [View "book-up" on lucide.dev](https://lucide.dev/icons/book-up)
   static const IconData bookUp = IconData(
@@ -2076,7 +2076,7 @@ class LucideIcons {
   );
 
   /// ## book-user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-user.svg" width="100">
   ///
   /// [View "book-user" on lucide.dev](https://lucide.dev/icons/book-user)
   static const IconData bookUser = IconData(
@@ -2086,7 +2086,7 @@ class LucideIcons {
   );
 
   /// ## book-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book-x.svg" width="100">
   ///
   /// [View "book-x" on lucide.dev](https://lucide.dev/icons/book-x)
   static const IconData bookX = IconData(
@@ -2096,7 +2096,7 @@ class LucideIcons {
   );
 
   /// ## book
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/book.svg" width="100">
   ///
   /// [View "book" on lucide.dev](https://lucide.dev/icons/book)
   static const IconData book = IconData(
@@ -2106,7 +2106,7 @@ class LucideIcons {
   );
 
   /// ## bookmark-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-check.svg" width="100">
   ///
   /// [View "bookmark-check" on lucide.dev](https://lucide.dev/icons/bookmark-check)
   static const IconData bookmarkCheck = IconData(
@@ -2116,7 +2116,7 @@ class LucideIcons {
   );
 
   /// ## bookmark-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-minus.svg" width="100">
   ///
   /// [View "bookmark-minus" on lucide.dev](https://lucide.dev/icons/bookmark-minus)
   static const IconData bookmarkMinus = IconData(
@@ -2126,7 +2126,7 @@ class LucideIcons {
   );
 
   /// ## bookmark-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-plus.svg" width="100">
   ///
   /// [View "bookmark-plus" on lucide.dev](https://lucide.dev/icons/bookmark-plus)
   static const IconData bookmarkPlus = IconData(
@@ -2136,7 +2136,7 @@ class LucideIcons {
   );
 
   /// ## bookmark-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-x.svg" width="100">
   ///
   /// [View "bookmark-x" on lucide.dev](https://lucide.dev/icons/bookmark-x)
   static const IconData bookmarkX = IconData(
@@ -2146,7 +2146,7 @@ class LucideIcons {
   );
 
   /// ## bookmark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark.svg" width="100">
   ///
   /// [View "bookmark" on lucide.dev](https://lucide.dev/icons/bookmark)
   static const IconData bookmark = IconData(
@@ -2156,7 +2156,7 @@ class LucideIcons {
   );
 
   /// ## boom-box
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/boom-box.svg" width="100">
   ///
   /// [View "boom-box" on lucide.dev](https://lucide.dev/icons/boom-box)
   static const IconData boomBox = IconData(
@@ -2166,7 +2166,7 @@ class LucideIcons {
   );
 
   /// ## bot-message-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bot-message-square.svg" width="100">
   ///
   /// [View "bot-message-square" on lucide.dev](https://lucide.dev/icons/bot-message-square)
   static const IconData botMessageSquare = IconData(
@@ -2176,7 +2176,7 @@ class LucideIcons {
   );
 
   /// ## bot-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bot-off.svg" width="100">
   ///
   /// [View "bot-off" on lucide.dev](https://lucide.dev/icons/bot-off)
   static const IconData botOff = IconData(
@@ -2186,7 +2186,7 @@ class LucideIcons {
   );
 
   /// ## bot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bot.svg" width="100">
   ///
   /// [View "bot" on lucide.dev](https://lucide.dev/icons/bot)
   static const IconData bot = IconData(
@@ -2196,7 +2196,7 @@ class LucideIcons {
   );
 
   /// ## bottle-wine
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bottle-wine.svg" width="100">
   ///
   /// [View "bottle-wine" on lucide.dev](https://lucide.dev/icons/bottle-wine)
   static const IconData bottleWine = IconData(
@@ -2206,7 +2206,7 @@ class LucideIcons {
   );
 
   /// ## bow-arrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bow-arrow.svg" width="100">
   ///
   /// [View "bow-arrow" on lucide.dev](https://lucide.dev/icons/bow-arrow)
   static const IconData bowArrow = IconData(
@@ -2216,7 +2216,7 @@ class LucideIcons {
   );
 
   /// ## box
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/box.svg" width="100">
   ///
   /// [View "box" on lucide.dev](https://lucide.dev/icons/box)
   static const IconData box = IconData(
@@ -2226,7 +2226,7 @@ class LucideIcons {
   );
 
   /// ## boxes
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/boxes.svg" width="100">
   ///
   /// [View "boxes" on lucide.dev](https://lucide.dev/icons/boxes)
   static const IconData boxes = IconData(
@@ -2236,7 +2236,7 @@ class LucideIcons {
   );
 
   /// ## braces
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/braces.svg" width="100">
   ///
   /// [View "braces" on lucide.dev](https://lucide.dev/icons/braces)
   static const IconData braces = IconData(
@@ -2246,7 +2246,7 @@ class LucideIcons {
   );
 
   /// ## brackets
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brackets.svg" width="100">
   ///
   /// [View "brackets" on lucide.dev](https://lucide.dev/icons/brackets)
   static const IconData brackets = IconData(
@@ -2256,7 +2256,7 @@ class LucideIcons {
   );
 
   /// ## brain-circuit
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brain-circuit.svg" width="100">
   ///
   /// [View "brain-circuit" on lucide.dev](https://lucide.dev/icons/brain-circuit)
   static const IconData brainCircuit = IconData(
@@ -2266,7 +2266,7 @@ class LucideIcons {
   );
 
   /// ## brain-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brain-cog.svg" width="100">
   ///
   /// [View "brain-cog" on lucide.dev](https://lucide.dev/icons/brain-cog)
   static const IconData brainCog = IconData(
@@ -2276,7 +2276,7 @@ class LucideIcons {
   );
 
   /// ## brain
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brain.svg" width="100">
   ///
   /// [View "brain" on lucide.dev](https://lucide.dev/icons/brain)
   static const IconData brain = IconData(
@@ -2286,7 +2286,7 @@ class LucideIcons {
   );
 
   /// ## brick-wall-fire
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brick-wall-fire.svg" width="100">
   ///
   /// [View "brick-wall-fire" on lucide.dev](https://lucide.dev/icons/brick-wall-fire)
   static const IconData brickWallFire = IconData(
@@ -2296,7 +2296,7 @@ class LucideIcons {
   );
 
   /// ## brick-wall
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brick-wall.svg" width="100">
   ///
   /// [View "brick-wall" on lucide.dev](https://lucide.dev/icons/brick-wall)
   static const IconData brickWall = IconData(
@@ -2306,7 +2306,7 @@ class LucideIcons {
   );
 
   /// ## briefcase-business
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/briefcase-business.svg" width="100">
   ///
   /// [View "briefcase-business" on lucide.dev](https://lucide.dev/icons/briefcase-business)
   static const IconData briefcaseBusiness = IconData(
@@ -2316,7 +2316,7 @@ class LucideIcons {
   );
 
   /// ## briefcase-conveyor-belt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/briefcase-conveyor-belt.svg" width="100">
   ///
   /// [View "briefcase-conveyor-belt" on lucide.dev](https://lucide.dev/icons/briefcase-conveyor-belt)
   static const IconData briefcaseConveyorBelt = IconData(
@@ -2326,7 +2326,7 @@ class LucideIcons {
   );
 
   /// ## briefcase-medical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/briefcase-medical.svg" width="100">
   ///
   /// [View "briefcase-medical" on lucide.dev](https://lucide.dev/icons/briefcase-medical)
   static const IconData briefcaseMedical = IconData(
@@ -2336,7 +2336,7 @@ class LucideIcons {
   );
 
   /// ## briefcase
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/briefcase.svg" width="100">
   ///
   /// [View "briefcase" on lucide.dev](https://lucide.dev/icons/briefcase)
   static const IconData briefcase = IconData(
@@ -2346,7 +2346,7 @@ class LucideIcons {
   );
 
   /// ## bring-to-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bring-to-front.svg" width="100">
   ///
   /// [View "bring-to-front" on lucide.dev](https://lucide.dev/icons/bring-to-front)
   static const IconData bringToFront = IconData(
@@ -2356,7 +2356,7 @@ class LucideIcons {
   );
 
   /// ## brush-cleaning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brush-cleaning.svg" width="100">
   ///
   /// [View "brush-cleaning" on lucide.dev](https://lucide.dev/icons/brush-cleaning)
   static const IconData brushCleaning = IconData(
@@ -2366,7 +2366,7 @@ class LucideIcons {
   );
 
   /// ## brush
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brush.svg" width="100">
   ///
   /// [View "brush" on lucide.dev](https://lucide.dev/icons/brush)
   static const IconData brush = IconData(
@@ -2376,7 +2376,7 @@ class LucideIcons {
   );
 
   /// ## bubbles
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bubbles.svg" width="100">
   ///
   /// [View "bubbles" on lucide.dev](https://lucide.dev/icons/bubbles)
   static const IconData bubbles = IconData(
@@ -2386,7 +2386,7 @@ class LucideIcons {
   );
 
   /// ## bug-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bug-off.svg" width="100">
   ///
   /// [View "bug-off" on lucide.dev](https://lucide.dev/icons/bug-off)
   static const IconData bugOff = IconData(
@@ -2396,7 +2396,7 @@ class LucideIcons {
   );
 
   /// ## bug-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bug-play.svg" width="100">
   ///
   /// [View "bug-play" on lucide.dev](https://lucide.dev/icons/bug-play)
   static const IconData bugPlay = IconData(
@@ -2406,7 +2406,7 @@ class LucideIcons {
   );
 
   /// ## bug
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bug.svg" width="100">
   ///
   /// [View "bug" on lucide.dev](https://lucide.dev/icons/bug)
   static const IconData bug = IconData(
@@ -2416,7 +2416,7 @@ class LucideIcons {
   );
 
   /// ## building-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/building-2.svg" width="100">
   ///
   /// [View "building-2" on lucide.dev](https://lucide.dev/icons/building-2)
   static const IconData building2 = IconData(
@@ -2426,7 +2426,7 @@ class LucideIcons {
   );
 
   /// ## building
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/building.svg" width="100">
   ///
   /// [View "building" on lucide.dev](https://lucide.dev/icons/building)
   static const IconData building = IconData(
@@ -2436,7 +2436,7 @@ class LucideIcons {
   );
 
   /// ## bus-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bus-front.svg" width="100">
   ///
   /// [View "bus-front" on lucide.dev](https://lucide.dev/icons/bus-front)
   static const IconData busFront = IconData(
@@ -2446,7 +2446,7 @@ class LucideIcons {
   );
 
   /// ## bus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bus.svg" width="100">
   ///
   /// [View "bus" on lucide.dev](https://lucide.dev/icons/bus)
   static const IconData bus = IconData(
@@ -2456,7 +2456,7 @@ class LucideIcons {
   );
 
   /// ## cable-car
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cable-car.svg" width="100">
   ///
   /// [View "cable-car" on lucide.dev](https://lucide.dev/icons/cable-car)
   static const IconData cableCar = IconData(
@@ -2466,7 +2466,7 @@ class LucideIcons {
   );
 
   /// ## cable
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cable.svg" width="100">
   ///
   /// [View "cable" on lucide.dev](https://lucide.dev/icons/cable)
   static const IconData cable = IconData(
@@ -2476,7 +2476,7 @@ class LucideIcons {
   );
 
   /// ## cake-slice
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cake-slice.svg" width="100">
   ///
   /// [View "cake-slice" on lucide.dev](https://lucide.dev/icons/cake-slice)
   static const IconData cakeSlice = IconData(
@@ -2486,7 +2486,7 @@ class LucideIcons {
   );
 
   /// ## cake
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cake.svg" width="100">
   ///
   /// [View "cake" on lucide.dev](https://lucide.dev/icons/cake)
   static const IconData cake = IconData(
@@ -2496,7 +2496,7 @@ class LucideIcons {
   );
 
   /// ## calculator
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calculator.svg" width="100">
   ///
   /// [View "calculator" on lucide.dev](https://lucide.dev/icons/calculator)
   static const IconData calculator = IconData(
@@ -2506,7 +2506,7 @@ class LucideIcons {
   );
 
   /// ## calendar-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-1.svg" width="100">
   ///
   /// [View "calendar-1" on lucide.dev](https://lucide.dev/icons/calendar-1)
   static const IconData calendar1 = IconData(
@@ -2516,7 +2516,7 @@ class LucideIcons {
   );
 
   /// ## calendar-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-arrow-down.svg" width="100">
   ///
   /// [View "calendar-arrow-down" on lucide.dev](https://lucide.dev/icons/calendar-arrow-down)
   static const IconData calendarArrowDown = IconData(
@@ -2526,7 +2526,7 @@ class LucideIcons {
   );
 
   /// ## calendar-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-arrow-up.svg" width="100">
   ///
   /// [View "calendar-arrow-up" on lucide.dev](https://lucide.dev/icons/calendar-arrow-up)
   static const IconData calendarArrowUp = IconData(
@@ -2536,7 +2536,7 @@ class LucideIcons {
   );
 
   /// ## calendar-check-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-check-2.svg" width="100">
   ///
   /// [View "calendar-check-2" on lucide.dev](https://lucide.dev/icons/calendar-check-2)
   static const IconData calendarCheck2 = IconData(
@@ -2546,7 +2546,7 @@ class LucideIcons {
   );
 
   /// ## calendar-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-check.svg" width="100">
   ///
   /// [View "calendar-check" on lucide.dev](https://lucide.dev/icons/calendar-check)
   static const IconData calendarCheck = IconData(
@@ -2556,7 +2556,7 @@ class LucideIcons {
   );
 
   /// ## calendar-clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-clock.svg" width="100">
   ///
   /// [View "calendar-clock" on lucide.dev](https://lucide.dev/icons/calendar-clock)
   static const IconData calendarClock = IconData(
@@ -2566,7 +2566,7 @@ class LucideIcons {
   );
 
   /// ## calendar-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-cog.svg" width="100">
   ///
   /// [View "calendar-cog" on lucide.dev](https://lucide.dev/icons/calendar-cog)
   static const IconData calendarCog = IconData(
@@ -2576,7 +2576,7 @@ class LucideIcons {
   );
 
   /// ## calendar-days
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-days.svg" width="100">
   ///
   /// [View "calendar-days" on lucide.dev](https://lucide.dev/icons/calendar-days)
   static const IconData calendarDays = IconData(
@@ -2586,7 +2586,7 @@ class LucideIcons {
   );
 
   /// ## calendar-fold
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-fold.svg" width="100">
   ///
   /// [View "calendar-fold" on lucide.dev](https://lucide.dev/icons/calendar-fold)
   static const IconData calendarFold = IconData(
@@ -2596,7 +2596,7 @@ class LucideIcons {
   );
 
   /// ## calendar-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-heart.svg" width="100">
   ///
   /// [View "calendar-heart" on lucide.dev](https://lucide.dev/icons/calendar-heart)
   static const IconData calendarHeart = IconData(
@@ -2606,7 +2606,7 @@ class LucideIcons {
   );
 
   /// ## calendar-minus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-minus-2.svg" width="100">
   ///
   /// [View "calendar-minus-2" on lucide.dev](https://lucide.dev/icons/calendar-minus-2)
   static const IconData calendarMinus2 = IconData(
@@ -2616,7 +2616,7 @@ class LucideIcons {
   );
 
   /// ## calendar-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-minus.svg" width="100">
   ///
   /// [View "calendar-minus" on lucide.dev](https://lucide.dev/icons/calendar-minus)
   static const IconData calendarMinus = IconData(
@@ -2626,7 +2626,7 @@ class LucideIcons {
   );
 
   /// ## calendar-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-off.svg" width="100">
   ///
   /// [View "calendar-off" on lucide.dev](https://lucide.dev/icons/calendar-off)
   static const IconData calendarOff = IconData(
@@ -2636,7 +2636,7 @@ class LucideIcons {
   );
 
   /// ## calendar-plus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-plus-2.svg" width="100">
   ///
   /// [View "calendar-plus-2" on lucide.dev](https://lucide.dev/icons/calendar-plus-2)
   static const IconData calendarPlus2 = IconData(
@@ -2646,7 +2646,7 @@ class LucideIcons {
   );
 
   /// ## calendar-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-plus.svg" width="100">
   ///
   /// [View "calendar-plus" on lucide.dev](https://lucide.dev/icons/calendar-plus)
   static const IconData calendarPlus = IconData(
@@ -2656,7 +2656,7 @@ class LucideIcons {
   );
 
   /// ## calendar-range
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-range.svg" width="100">
   ///
   /// [View "calendar-range" on lucide.dev](https://lucide.dev/icons/calendar-range)
   static const IconData calendarRange = IconData(
@@ -2666,7 +2666,7 @@ class LucideIcons {
   );
 
   /// ## calendar-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-search.svg" width="100">
   ///
   /// [View "calendar-search" on lucide.dev](https://lucide.dev/icons/calendar-search)
   static const IconData calendarSearch = IconData(
@@ -2676,7 +2676,7 @@ class LucideIcons {
   );
 
   /// ## calendar-sync
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-sync.svg" width="100">
   ///
   /// [View "calendar-sync" on lucide.dev](https://lucide.dev/icons/calendar-sync)
   static const IconData calendarSync = IconData(
@@ -2686,7 +2686,7 @@ class LucideIcons {
   );
 
   /// ## calendar-x-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-x-2.svg" width="100">
   ///
   /// [View "calendar-x-2" on lucide.dev](https://lucide.dev/icons/calendar-x-2)
   static const IconData calendarX2 = IconData(
@@ -2696,7 +2696,7 @@ class LucideIcons {
   );
 
   /// ## calendar-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar-x.svg" width="100">
   ///
   /// [View "calendar-x" on lucide.dev](https://lucide.dev/icons/calendar-x)
   static const IconData calendarX = IconData(
@@ -2706,7 +2706,7 @@ class LucideIcons {
   );
 
   /// ## calendar
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendar.svg" width="100">
   ///
   /// [View "calendar" on lucide.dev](https://lucide.dev/icons/calendar)
   static const IconData calendar = IconData(
@@ -2716,7 +2716,7 @@ class LucideIcons {
   );
 
   /// ## camera-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/camera-off.svg" width="100">
   ///
   /// [View "camera-off" on lucide.dev](https://lucide.dev/icons/camera-off)
   static const IconData cameraOff = IconData(
@@ -2726,7 +2726,7 @@ class LucideIcons {
   );
 
   /// ## camera
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/camera.svg" width="100">
   ///
   /// [View "camera" on lucide.dev](https://lucide.dev/icons/camera)
   static const IconData camera = IconData(
@@ -2736,7 +2736,7 @@ class LucideIcons {
   );
 
   /// ## candy-cane
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/candy-cane.svg" width="100">
   ///
   /// [View "candy-cane" on lucide.dev](https://lucide.dev/icons/candy-cane)
   static const IconData candyCane = IconData(
@@ -2746,7 +2746,7 @@ class LucideIcons {
   );
 
   /// ## candy-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/candy-off.svg" width="100">
   ///
   /// [View "candy-off" on lucide.dev](https://lucide.dev/icons/candy-off)
   static const IconData candyOff = IconData(
@@ -2756,7 +2756,7 @@ class LucideIcons {
   );
 
   /// ## candy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/candy.svg" width="100">
   ///
   /// [View "candy" on lucide.dev](https://lucide.dev/icons/candy)
   static const IconData candy = IconData(
@@ -2766,7 +2766,7 @@ class LucideIcons {
   );
 
   /// ## cannabis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cannabis.svg" width="100">
   ///
   /// [View "cannabis" on lucide.dev](https://lucide.dev/icons/cannabis)
   static const IconData cannabis = IconData(
@@ -2776,7 +2776,7 @@ class LucideIcons {
   );
 
   /// ## captions-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/captions-off.svg" width="100">
   ///
   /// [View "captions-off" on lucide.dev](https://lucide.dev/icons/captions-off)
   static const IconData captionsOff = IconData(
@@ -2786,7 +2786,7 @@ class LucideIcons {
   );
 
   /// ## captions
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/captions.svg" width="100">
   ///
   /// [View "captions" on lucide.dev](https://lucide.dev/icons/captions)
   static const IconData captions = IconData(
@@ -2796,7 +2796,7 @@ class LucideIcons {
   );
 
   /// ## car-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/car-front.svg" width="100">
   ///
   /// [View "car-front" on lucide.dev](https://lucide.dev/icons/car-front)
   static const IconData carFront = IconData(
@@ -2806,7 +2806,7 @@ class LucideIcons {
   );
 
   /// ## car-taxi-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/car-taxi-front.svg" width="100">
   ///
   /// [View "car-taxi-front" on lucide.dev](https://lucide.dev/icons/car-taxi-front)
   static const IconData carTaxiFront = IconData(
@@ -2816,7 +2816,7 @@ class LucideIcons {
   );
 
   /// ## car
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/car.svg" width="100">
   ///
   /// [View "car" on lucide.dev](https://lucide.dev/icons/car)
   static const IconData car = IconData(
@@ -2826,7 +2826,7 @@ class LucideIcons {
   );
 
   /// ## caravan
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/caravan.svg" width="100">
   ///
   /// [View "caravan" on lucide.dev](https://lucide.dev/icons/caravan)
   static const IconData caravan = IconData(
@@ -2836,7 +2836,7 @@ class LucideIcons {
   );
 
   /// ## card-sim
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/card-sim.svg" width="100">
   ///
   /// [View "card-sim" on lucide.dev](https://lucide.dev/icons/card-sim)
   static const IconData cardSim = IconData(
@@ -2846,7 +2846,7 @@ class LucideIcons {
   );
 
   /// ## carrot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/carrot.svg" width="100">
   ///
   /// [View "carrot" on lucide.dev](https://lucide.dev/icons/carrot)
   static const IconData carrot = IconData(
@@ -2856,7 +2856,7 @@ class LucideIcons {
   );
 
   /// ## case-lower
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/case-lower.svg" width="100">
   ///
   /// [View "case-lower" on lucide.dev](https://lucide.dev/icons/case-lower)
   static const IconData caseLower = IconData(
@@ -2866,7 +2866,7 @@ class LucideIcons {
   );
 
   /// ## case-sensitive
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/case-sensitive.svg" width="100">
   ///
   /// [View "case-sensitive" on lucide.dev](https://lucide.dev/icons/case-sensitive)
   static const IconData caseSensitive = IconData(
@@ -2876,7 +2876,7 @@ class LucideIcons {
   );
 
   /// ## case-upper
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/case-upper.svg" width="100">
   ///
   /// [View "case-upper" on lucide.dev](https://lucide.dev/icons/case-upper)
   static const IconData caseUpper = IconData(
@@ -2886,7 +2886,7 @@ class LucideIcons {
   );
 
   /// ## cassette-tape
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cassette-tape.svg" width="100">
   ///
   /// [View "cassette-tape" on lucide.dev](https://lucide.dev/icons/cassette-tape)
   static const IconData cassetteTape = IconData(
@@ -2896,7 +2896,7 @@ class LucideIcons {
   );
 
   /// ## cast
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cast.svg" width="100">
   ///
   /// [View "cast" on lucide.dev](https://lucide.dev/icons/cast)
   static const IconData cast = IconData(
@@ -2906,7 +2906,7 @@ class LucideIcons {
   );
 
   /// ## castle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/castle.svg" width="100">
   ///
   /// [View "castle" on lucide.dev](https://lucide.dev/icons/castle)
   static const IconData castle = IconData(
@@ -2916,7 +2916,7 @@ class LucideIcons {
   );
 
   /// ## cat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cat.svg" width="100">
   ///
   /// [View "cat" on lucide.dev](https://lucide.dev/icons/cat)
   static const IconData cat = IconData(
@@ -2926,7 +2926,7 @@ class LucideIcons {
   );
 
   /// ## cctv
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cctv.svg" width="100">
   ///
   /// [View "cctv" on lucide.dev](https://lucide.dev/icons/cctv)
   static const IconData cctv = IconData(
@@ -2936,7 +2936,7 @@ class LucideIcons {
   );
 
   /// ## chart-area
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-area.svg" width="100">
   ///
   /// [View "chart-area" on lucide.dev](https://lucide.dev/icons/chart-area)
   static const IconData chartArea = IconData(
@@ -2946,7 +2946,7 @@ class LucideIcons {
   );
 
   /// ## chart-bar-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-bar-big.svg" width="100">
   ///
   /// [View "chart-bar-big" on lucide.dev](https://lucide.dev/icons/chart-bar-big)
   static const IconData chartBarBig = IconData(
@@ -2956,7 +2956,7 @@ class LucideIcons {
   );
 
   /// ## chart-bar-decreasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-bar-decreasing.svg" width="100">
   ///
   /// [View "chart-bar-decreasing" on lucide.dev](https://lucide.dev/icons/chart-bar-decreasing)
   static const IconData chartBarDecreasing = IconData(
@@ -2966,7 +2966,7 @@ class LucideIcons {
   );
 
   /// ## chart-bar-increasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-bar-increasing.svg" width="100">
   ///
   /// [View "chart-bar-increasing" on lucide.dev](https://lucide.dev/icons/chart-bar-increasing)
   static const IconData chartBarIncreasing = IconData(
@@ -2976,7 +2976,7 @@ class LucideIcons {
   );
 
   /// ## chart-bar-stacked
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-bar-stacked.svg" width="100">
   ///
   /// [View "chart-bar-stacked" on lucide.dev](https://lucide.dev/icons/chart-bar-stacked)
   static const IconData chartBarStacked = IconData(
@@ -2986,7 +2986,7 @@ class LucideIcons {
   );
 
   /// ## chart-bar
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-bar.svg" width="100">
   ///
   /// [View "chart-bar" on lucide.dev](https://lucide.dev/icons/chart-bar)
   static const IconData chartBar = IconData(
@@ -2996,7 +2996,7 @@ class LucideIcons {
   );
 
   /// ## chart-candlestick
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-candlestick.svg" width="100">
   ///
   /// [View "chart-candlestick" on lucide.dev](https://lucide.dev/icons/chart-candlestick)
   static const IconData chartCandlestick = IconData(
@@ -3006,7 +3006,7 @@ class LucideIcons {
   );
 
   /// ## chart-column-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-column-big.svg" width="100">
   ///
   /// [View "chart-column-big" on lucide.dev](https://lucide.dev/icons/chart-column-big)
   static const IconData chartColumnBig = IconData(
@@ -3016,7 +3016,7 @@ class LucideIcons {
   );
 
   /// ## chart-column-decreasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-column-decreasing.svg" width="100">
   ///
   /// [View "chart-column-decreasing" on lucide.dev](https://lucide.dev/icons/chart-column-decreasing)
   static const IconData chartColumnDecreasing = IconData(
@@ -3026,7 +3026,7 @@ class LucideIcons {
   );
 
   /// ## chart-column-increasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-column-increasing.svg" width="100">
   ///
   /// [View "chart-column-increasing" on lucide.dev](https://lucide.dev/icons/chart-column-increasing)
   static const IconData chartColumnIncreasing = IconData(
@@ -3036,7 +3036,7 @@ class LucideIcons {
   );
 
   /// ## chart-column-stacked
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-column-stacked.svg" width="100">
   ///
   /// [View "chart-column-stacked" on lucide.dev](https://lucide.dev/icons/chart-column-stacked)
   static const IconData chartColumnStacked = IconData(
@@ -3046,7 +3046,7 @@ class LucideIcons {
   );
 
   /// ## chart-column
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-column.svg" width="100">
   ///
   /// [View "chart-column" on lucide.dev](https://lucide.dev/icons/chart-column)
   static const IconData chartColumn = IconData(
@@ -3056,7 +3056,7 @@ class LucideIcons {
   );
 
   /// ## chart-gantt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-gantt.svg" width="100">
   ///
   /// [View "chart-gantt" on lucide.dev](https://lucide.dev/icons/chart-gantt)
   static const IconData chartGantt = IconData(
@@ -3066,7 +3066,7 @@ class LucideIcons {
   );
 
   /// ## chart-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-line.svg" width="100">
   ///
   /// [View "chart-line" on lucide.dev](https://lucide.dev/icons/chart-line)
   static const IconData chartLine = IconData(
@@ -3076,7 +3076,7 @@ class LucideIcons {
   );
 
   /// ## chart-network
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-network.svg" width="100">
   ///
   /// [View "chart-network" on lucide.dev](https://lucide.dev/icons/chart-network)
   static const IconData chartNetwork = IconData(
@@ -3086,7 +3086,7 @@ class LucideIcons {
   );
 
   /// ## chart-no-axes-column-decreasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-no-axes-column-decreasing.svg" width="100">
   ///
   /// [View "chart-no-axes-column-decreasing" on lucide.dev](https://lucide.dev/icons/chart-no-axes-column-decreasing)
   static const IconData chartNoAxesColumnDecreasing = IconData(
@@ -3096,7 +3096,7 @@ class LucideIcons {
   );
 
   /// ## chart-no-axes-column-increasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-no-axes-column-increasing.svg" width="100">
   ///
   /// [View "chart-no-axes-column-increasing" on lucide.dev](https://lucide.dev/icons/chart-no-axes-column-increasing)
   static const IconData chartNoAxesColumnIncreasing = IconData(
@@ -3106,7 +3106,7 @@ class LucideIcons {
   );
 
   /// ## chart-no-axes-column
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-no-axes-column.svg" width="100">
   ///
   /// [View "chart-no-axes-column" on lucide.dev](https://lucide.dev/icons/chart-no-axes-column)
   static const IconData chartNoAxesColumn = IconData(
@@ -3116,7 +3116,7 @@ class LucideIcons {
   );
 
   /// ## chart-no-axes-combined
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-no-axes-combined.svg" width="100">
   ///
   /// [View "chart-no-axes-combined" on lucide.dev](https://lucide.dev/icons/chart-no-axes-combined)
   static const IconData chartNoAxesCombined = IconData(
@@ -3126,7 +3126,7 @@ class LucideIcons {
   );
 
   /// ## chart-no-axes-gantt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-no-axes-gantt.svg" width="100">
   ///
   /// [View "chart-no-axes-gantt" on lucide.dev](https://lucide.dev/icons/chart-no-axes-gantt)
   static const IconData chartNoAxesGantt = IconData(
@@ -3136,7 +3136,7 @@ class LucideIcons {
   );
 
   /// ## chart-pie
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-pie.svg" width="100">
   ///
   /// [View "chart-pie" on lucide.dev](https://lucide.dev/icons/chart-pie)
   static const IconData chartPie = IconData(
@@ -3146,7 +3146,7 @@ class LucideIcons {
   );
 
   /// ## chart-scatter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-scatter.svg" width="100">
   ///
   /// [View "chart-scatter" on lucide.dev](https://lucide.dev/icons/chart-scatter)
   static const IconData chartScatter = IconData(
@@ -3156,7 +3156,7 @@ class LucideIcons {
   );
 
   /// ## chart-spline
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chart-spline.svg" width="100">
   ///
   /// [View "chart-spline" on lucide.dev](https://lucide.dev/icons/chart-spline)
   static const IconData chartSpline = IconData(
@@ -3166,7 +3166,7 @@ class LucideIcons {
   );
 
   /// ## check-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/check-check.svg" width="100">
   ///
   /// [View "check-check" on lucide.dev](https://lucide.dev/icons/check-check)
   static const IconData checkCheck = IconData(
@@ -3176,7 +3176,7 @@ class LucideIcons {
   );
 
   /// ## check-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/check-line.svg" width="100">
   ///
   /// [View "check-line" on lucide.dev](https://lucide.dev/icons/check-line)
   static const IconData checkLine = IconData(
@@ -3186,7 +3186,7 @@ class LucideIcons {
   );
 
   /// ## check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/check.svg" width="100">
   ///
   /// [View "check" on lucide.dev](https://lucide.dev/icons/check)
   static const IconData check = IconData(
@@ -3196,7 +3196,7 @@ class LucideIcons {
   );
 
   /// ## chef-hat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chef-hat.svg" width="100">
   ///
   /// [View "chef-hat" on lucide.dev](https://lucide.dev/icons/chef-hat)
   static const IconData chefHat = IconData(
@@ -3206,7 +3206,7 @@ class LucideIcons {
   );
 
   /// ## cherry
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cherry.svg" width="100">
   ///
   /// [View "cherry" on lucide.dev](https://lucide.dev/icons/cherry)
   static const IconData cherry = IconData(
@@ -3216,7 +3216,7 @@ class LucideIcons {
   );
 
   /// ## chevron-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-down.svg" width="100">
   ///
   /// [View "chevron-down" on lucide.dev](https://lucide.dev/icons/chevron-down)
   static const IconData chevronDown = IconData(
@@ -3226,7 +3226,7 @@ class LucideIcons {
   );
 
   /// ## chevron-first
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-first.svg" width="100">
   ///
   /// [View "chevron-first" on lucide.dev](https://lucide.dev/icons/chevron-first)
   static const IconData chevronFirst = IconData(
@@ -3236,7 +3236,7 @@ class LucideIcons {
   );
 
   /// ## chevron-last
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-last.svg" width="100">
   ///
   /// [View "chevron-last" on lucide.dev](https://lucide.dev/icons/chevron-last)
   static const IconData chevronLast = IconData(
@@ -3246,7 +3246,7 @@ class LucideIcons {
   );
 
   /// ## chevron-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-left.svg" width="100">
   ///
   /// [View "chevron-left" on lucide.dev](https://lucide.dev/icons/chevron-left)
   static const IconData chevronLeft = IconData(
@@ -3256,7 +3256,7 @@ class LucideIcons {
   );
 
   /// ## chevron-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-right.svg" width="100">
   ///
   /// [View "chevron-right" on lucide.dev](https://lucide.dev/icons/chevron-right)
   static const IconData chevronRight = IconData(
@@ -3266,7 +3266,7 @@ class LucideIcons {
   );
 
   /// ## chevron-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-up.svg" width="100">
   ///
   /// [View "chevron-up" on lucide.dev](https://lucide.dev/icons/chevron-up)
   static const IconData chevronUp = IconData(
@@ -3276,7 +3276,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-down-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-down-up.svg" width="100">
   ///
   /// [View "chevrons-down-up" on lucide.dev](https://lucide.dev/icons/chevrons-down-up)
   static const IconData chevronsDownUp = IconData(
@@ -3286,7 +3286,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-down.svg" width="100">
   ///
   /// [View "chevrons-down" on lucide.dev](https://lucide.dev/icons/chevrons-down)
   static const IconData chevronsDown = IconData(
@@ -3296,7 +3296,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-left-right-ellipsis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-left-right-ellipsis.svg" width="100">
   ///
   /// [View "chevrons-left-right-ellipsis" on lucide.dev](https://lucide.dev/icons/chevrons-left-right-ellipsis)
   static const IconData chevronsLeftRightEllipsis = IconData(
@@ -3306,7 +3306,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-left-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-left-right.svg" width="100">
   ///
   /// [View "chevrons-left-right" on lucide.dev](https://lucide.dev/icons/chevrons-left-right)
   static const IconData chevronsLeftRight = IconData(
@@ -3316,7 +3316,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-left.svg" width="100">
   ///
   /// [View "chevrons-left" on lucide.dev](https://lucide.dev/icons/chevrons-left)
   static const IconData chevronsLeft = IconData(
@@ -3326,7 +3326,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-right-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-right-left.svg" width="100">
   ///
   /// [View "chevrons-right-left" on lucide.dev](https://lucide.dev/icons/chevrons-right-left)
   static const IconData chevronsRightLeft = IconData(
@@ -3336,7 +3336,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-right.svg" width="100">
   ///
   /// [View "chevrons-right" on lucide.dev](https://lucide.dev/icons/chevrons-right)
   static const IconData chevronsRight = IconData(
@@ -3346,7 +3346,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-up-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-up-down.svg" width="100">
   ///
   /// [View "chevrons-up-down" on lucide.dev](https://lucide.dev/icons/chevrons-up-down)
   static const IconData chevronsUpDown = IconData(
@@ -3356,7 +3356,7 @@ class LucideIcons {
   );
 
   /// ## chevrons-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-up.svg" width="100">
   ///
   /// [View "chevrons-up" on lucide.dev](https://lucide.dev/icons/chevrons-up)
   static const IconData chevronsUp = IconData(
@@ -3366,7 +3366,7 @@ class LucideIcons {
   );
 
   /// ## chrome
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chrome.svg" width="100">
   ///
   /// [View "chrome" on lucide.dev](https://lucide.dev/icons/chrome)
   static const IconData chrome = IconData(
@@ -3376,7 +3376,7 @@ class LucideIcons {
   );
 
   /// ## church
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/church.svg" width="100">
   ///
   /// [View "church" on lucide.dev](https://lucide.dev/icons/church)
   static const IconData church = IconData(
@@ -3386,7 +3386,7 @@ class LucideIcons {
   );
 
   /// ## cigarette-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cigarette-off.svg" width="100">
   ///
   /// [View "cigarette-off" on lucide.dev](https://lucide.dev/icons/cigarette-off)
   static const IconData cigaretteOff = IconData(
@@ -3396,7 +3396,7 @@ class LucideIcons {
   );
 
   /// ## cigarette
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cigarette.svg" width="100">
   ///
   /// [View "cigarette" on lucide.dev](https://lucide.dev/icons/cigarette)
   static const IconData cigarette = IconData(
@@ -3406,7 +3406,7 @@ class LucideIcons {
   );
 
   /// ## circle-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-alert.svg" width="100">
   ///
   /// [View "circle-alert" on lucide.dev](https://lucide.dev/icons/circle-alert)
   static const IconData circleAlert = IconData(
@@ -3416,7 +3416,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-down.svg" width="100">
   ///
   /// [View "circle-arrow-down" on lucide.dev](https://lucide.dev/icons/circle-arrow-down)
   static const IconData circleArrowDown = IconData(
@@ -3426,7 +3426,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-left.svg" width="100">
   ///
   /// [View "circle-arrow-left" on lucide.dev](https://lucide.dev/icons/circle-arrow-left)
   static const IconData circleArrowLeft = IconData(
@@ -3436,7 +3436,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-out-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-out-down-left.svg" width="100">
   ///
   /// [View "circle-arrow-out-down-left" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-down-left)
   static const IconData circleArrowOutDownLeft = IconData(
@@ -3446,7 +3446,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-out-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-out-down-right.svg" width="100">
   ///
   /// [View "circle-arrow-out-down-right" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-down-right)
   static const IconData circleArrowOutDownRight = IconData(
@@ -3456,7 +3456,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-out-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-out-up-left.svg" width="100">
   ///
   /// [View "circle-arrow-out-up-left" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-up-left)
   static const IconData circleArrowOutUpLeft = IconData(
@@ -3466,7 +3466,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-out-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-out-up-right.svg" width="100">
   ///
   /// [View "circle-arrow-out-up-right" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-up-right)
   static const IconData circleArrowOutUpRight = IconData(
@@ -3476,7 +3476,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-right.svg" width="100">
   ///
   /// [View "circle-arrow-right" on lucide.dev](https://lucide.dev/icons/circle-arrow-right)
   static const IconData circleArrowRight = IconData(
@@ -3486,7 +3486,7 @@ class LucideIcons {
   );
 
   /// ## circle-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-arrow-up.svg" width="100">
   ///
   /// [View "circle-arrow-up" on lucide.dev](https://lucide.dev/icons/circle-arrow-up)
   static const IconData circleArrowUp = IconData(
@@ -3496,7 +3496,7 @@ class LucideIcons {
   );
 
   /// ## circle-check-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-check-big.svg" width="100">
   ///
   /// [View "circle-check-big" on lucide.dev](https://lucide.dev/icons/circle-check-big)
   static const IconData circleCheckBig = IconData(
@@ -3506,7 +3506,7 @@ class LucideIcons {
   );
 
   /// ## circle-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-check.svg" width="100">
   ///
   /// [View "circle-check" on lucide.dev](https://lucide.dev/icons/circle-check)
   static const IconData circleCheck = IconData(
@@ -3516,7 +3516,7 @@ class LucideIcons {
   );
 
   /// ## circle-chevron-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-chevron-down.svg" width="100">
   ///
   /// [View "circle-chevron-down" on lucide.dev](https://lucide.dev/icons/circle-chevron-down)
   static const IconData circleChevronDown = IconData(
@@ -3526,7 +3526,7 @@ class LucideIcons {
   );
 
   /// ## circle-chevron-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-chevron-left.svg" width="100">
   ///
   /// [View "circle-chevron-left" on lucide.dev](https://lucide.dev/icons/circle-chevron-left)
   static const IconData circleChevronLeft = IconData(
@@ -3536,7 +3536,7 @@ class LucideIcons {
   );
 
   /// ## circle-chevron-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-chevron-right.svg" width="100">
   ///
   /// [View "circle-chevron-right" on lucide.dev](https://lucide.dev/icons/circle-chevron-right)
   static const IconData circleChevronRight = IconData(
@@ -3546,7 +3546,7 @@ class LucideIcons {
   );
 
   /// ## circle-chevron-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-chevron-up.svg" width="100">
   ///
   /// [View "circle-chevron-up" on lucide.dev](https://lucide.dev/icons/circle-chevron-up)
   static const IconData circleChevronUp = IconData(
@@ -3556,7 +3556,7 @@ class LucideIcons {
   );
 
   /// ## circle-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dashed.svg" width="100">
   ///
   /// [View "circle-dashed" on lucide.dev](https://lucide.dev/icons/circle-dashed)
   static const IconData circleDashed = IconData(
@@ -3566,7 +3566,7 @@ class LucideIcons {
   );
 
   /// ## circle-divide
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-divide.svg" width="100">
   ///
   /// [View "circle-divide" on lucide.dev](https://lucide.dev/icons/circle-divide)
   static const IconData circleDivide = IconData(
@@ -3576,7 +3576,7 @@ class LucideIcons {
   );
 
   /// ## circle-dollar-sign
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dollar-sign.svg" width="100">
   ///
   /// [View "circle-dollar-sign" on lucide.dev](https://lucide.dev/icons/circle-dollar-sign)
   static const IconData circleDollarSign = IconData(
@@ -3586,7 +3586,7 @@ class LucideIcons {
   );
 
   /// ## circle-dot-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dot-dashed.svg" width="100">
   ///
   /// [View "circle-dot-dashed" on lucide.dev](https://lucide.dev/icons/circle-dot-dashed)
   static const IconData circleDotDashed = IconData(
@@ -3596,7 +3596,7 @@ class LucideIcons {
   );
 
   /// ## circle-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dot.svg" width="100">
   ///
   /// [View "circle-dot" on lucide.dev](https://lucide.dev/icons/circle-dot)
   static const IconData circleDot = IconData(
@@ -3606,7 +3606,7 @@ class LucideIcons {
   );
 
   /// ## circle-ellipsis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-ellipsis.svg" width="100">
   ///
   /// [View "circle-ellipsis" on lucide.dev](https://lucide.dev/icons/circle-ellipsis)
   static const IconData circleEllipsis = IconData(
@@ -3616,7 +3616,7 @@ class LucideIcons {
   );
 
   /// ## circle-equal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-equal.svg" width="100">
   ///
   /// [View "circle-equal" on lucide.dev](https://lucide.dev/icons/circle-equal)
   static const IconData circleEqual = IconData(
@@ -3626,7 +3626,7 @@ class LucideIcons {
   );
 
   /// ## circle-fading-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-fading-arrow-up.svg" width="100">
   ///
   /// [View "circle-fading-arrow-up" on lucide.dev](https://lucide.dev/icons/circle-fading-arrow-up)
   static const IconData circleFadingArrowUp = IconData(
@@ -3636,7 +3636,7 @@ class LucideIcons {
   );
 
   /// ## circle-fading-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-fading-plus.svg" width="100">
   ///
   /// [View "circle-fading-plus" on lucide.dev](https://lucide.dev/icons/circle-fading-plus)
   static const IconData circleFadingPlus = IconData(
@@ -3646,7 +3646,7 @@ class LucideIcons {
   );
 
   /// ## circle-gauge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-gauge.svg" width="100">
   ///
   /// [View "circle-gauge" on lucide.dev](https://lucide.dev/icons/circle-gauge)
   static const IconData circleGauge = IconData(
@@ -3656,7 +3656,7 @@ class LucideIcons {
   );
 
   /// ## circle-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-minus.svg" width="100">
   ///
   /// [View "circle-minus" on lucide.dev](https://lucide.dev/icons/circle-minus)
   static const IconData circleMinus = IconData(
@@ -3666,7 +3666,7 @@ class LucideIcons {
   );
 
   /// ## circle-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-off.svg" width="100">
   ///
   /// [View "circle-off" on lucide.dev](https://lucide.dev/icons/circle-off)
   static const IconData circleOff = IconData(
@@ -3676,7 +3676,7 @@ class LucideIcons {
   );
 
   /// ## circle-parking-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-parking-off.svg" width="100">
   ///
   /// [View "circle-parking-off" on lucide.dev](https://lucide.dev/icons/circle-parking-off)
   static const IconData circleParkingOff = IconData(
@@ -3686,7 +3686,7 @@ class LucideIcons {
   );
 
   /// ## circle-parking
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-parking.svg" width="100">
   ///
   /// [View "circle-parking" on lucide.dev](https://lucide.dev/icons/circle-parking)
   static const IconData circleParking = IconData(
@@ -3696,7 +3696,7 @@ class LucideIcons {
   );
 
   /// ## circle-pause
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-pause.svg" width="100">
   ///
   /// [View "circle-pause" on lucide.dev](https://lucide.dev/icons/circle-pause)
   static const IconData circlePause = IconData(
@@ -3706,7 +3706,7 @@ class LucideIcons {
   );
 
   /// ## circle-percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-percent.svg" width="100">
   ///
   /// [View "circle-percent" on lucide.dev](https://lucide.dev/icons/circle-percent)
   static const IconData circlePercent = IconData(
@@ -3716,7 +3716,7 @@ class LucideIcons {
   );
 
   /// ## circle-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-play.svg" width="100">
   ///
   /// [View "circle-play" on lucide.dev](https://lucide.dev/icons/circle-play)
   static const IconData circlePlay = IconData(
@@ -3726,7 +3726,7 @@ class LucideIcons {
   );
 
   /// ## circle-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-plus.svg" width="100">
   ///
   /// [View "circle-plus" on lucide.dev](https://lucide.dev/icons/circle-plus)
   static const IconData circlePlus = IconData(
@@ -3736,7 +3736,7 @@ class LucideIcons {
   );
 
   /// ## circle-pound-sterling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-pound-sterling.svg" width="100">
   ///
   /// [View "circle-pound-sterling" on lucide.dev](https://lucide.dev/icons/circle-pound-sterling)
   static const IconData circlePoundSterling = IconData(
@@ -3746,7 +3746,7 @@ class LucideIcons {
   );
 
   /// ## circle-power
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-power.svg" width="100">
   ///
   /// [View "circle-power" on lucide.dev](https://lucide.dev/icons/circle-power)
   static const IconData circlePower = IconData(
@@ -3756,7 +3756,7 @@ class LucideIcons {
   );
 
   /// ## circle-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-question-mark.svg" width="100">
   ///
   /// [View "circle-question-mark" on lucide.dev](https://lucide.dev/icons/circle-question-mark)
   static const IconData circleQuestionMark = IconData(
@@ -3766,7 +3766,7 @@ class LucideIcons {
   );
 
   /// ## circle-slash-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-slash-2.svg" width="100">
   ///
   /// [View "circle-slash-2" on lucide.dev](https://lucide.dev/icons/circle-slash-2)
   static const IconData circleSlash2 = IconData(
@@ -3776,7 +3776,7 @@ class LucideIcons {
   );
 
   /// ## circle-slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-slash.svg" width="100">
   ///
   /// [View "circle-slash" on lucide.dev](https://lucide.dev/icons/circle-slash)
   static const IconData circleSlash = IconData(
@@ -3786,7 +3786,7 @@ class LucideIcons {
   );
 
   /// ## circle-small
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-small.svg" width="100">
   ///
   /// [View "circle-small" on lucide.dev](https://lucide.dev/icons/circle-small)
   static const IconData circleSmall = IconData(
@@ -3796,7 +3796,7 @@ class LucideIcons {
   );
 
   /// ## circle-stop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-stop.svg" width="100">
   ///
   /// [View "circle-stop" on lucide.dev](https://lucide.dev/icons/circle-stop)
   static const IconData circleStop = IconData(
@@ -3806,7 +3806,7 @@ class LucideIcons {
   );
 
   /// ## circle-user-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-user-round.svg" width="100">
   ///
   /// [View "circle-user-round" on lucide.dev](https://lucide.dev/icons/circle-user-round)
   static const IconData circleUserRound = IconData(
@@ -3816,7 +3816,7 @@ class LucideIcons {
   );
 
   /// ## circle-user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-user.svg" width="100">
   ///
   /// [View "circle-user" on lucide.dev](https://lucide.dev/icons/circle-user)
   static const IconData circleUser = IconData(
@@ -3826,7 +3826,7 @@ class LucideIcons {
   );
 
   /// ## circle-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-x.svg" width="100">
   ///
   /// [View "circle-x" on lucide.dev](https://lucide.dev/icons/circle-x)
   static const IconData circleX = IconData(
@@ -3836,7 +3836,7 @@ class LucideIcons {
   );
 
   /// ## circle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle.svg" width="100">
   ///
   /// [View "circle" on lucide.dev](https://lucide.dev/icons/circle)
   static const IconData circle = IconData(
@@ -3846,7 +3846,7 @@ class LucideIcons {
   );
 
   /// ## circuit-board
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circuit-board.svg" width="100">
   ///
   /// [View "circuit-board" on lucide.dev](https://lucide.dev/icons/circuit-board)
   static const IconData circuitBoard = IconData(
@@ -3856,7 +3856,7 @@ class LucideIcons {
   );
 
   /// ## citrus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/citrus.svg" width="100">
   ///
   /// [View "citrus" on lucide.dev](https://lucide.dev/icons/citrus)
   static const IconData citrus = IconData(
@@ -3866,7 +3866,7 @@ class LucideIcons {
   );
 
   /// ## clapperboard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clapperboard.svg" width="100">
   ///
   /// [View "clapperboard" on lucide.dev](https://lucide.dev/icons/clapperboard)
   static const IconData clapperboard = IconData(
@@ -3876,7 +3876,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-check.svg" width="100">
   ///
   /// [View "clipboard-check" on lucide.dev](https://lucide.dev/icons/clipboard-check)
   static const IconData clipboardCheck = IconData(
@@ -3886,7 +3886,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-clock.svg" width="100">
   ///
   /// [View "clipboard-clock" on lucide.dev](https://lucide.dev/icons/clipboard-clock)
   static const IconData clipboardClock = IconData(
@@ -3896,7 +3896,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-copy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-copy.svg" width="100">
   ///
   /// [View "clipboard-copy" on lucide.dev](https://lucide.dev/icons/clipboard-copy)
   static const IconData clipboardCopy = IconData(
@@ -3906,7 +3906,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-list
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-list.svg" width="100">
   ///
   /// [View "clipboard-list" on lucide.dev](https://lucide.dev/icons/clipboard-list)
   static const IconData clipboardList = IconData(
@@ -3916,7 +3916,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-minus.svg" width="100">
   ///
   /// [View "clipboard-minus" on lucide.dev](https://lucide.dev/icons/clipboard-minus)
   static const IconData clipboardMinus = IconData(
@@ -3926,7 +3926,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-paste
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-paste.svg" width="100">
   ///
   /// [View "clipboard-paste" on lucide.dev](https://lucide.dev/icons/clipboard-paste)
   static const IconData clipboardPaste = IconData(
@@ -3936,7 +3936,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-pen-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-pen-line.svg" width="100">
   ///
   /// [View "clipboard-pen-line" on lucide.dev](https://lucide.dev/icons/clipboard-pen-line)
   static const IconData clipboardPenLine = IconData(
@@ -3946,7 +3946,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-pen.svg" width="100">
   ///
   /// [View "clipboard-pen" on lucide.dev](https://lucide.dev/icons/clipboard-pen)
   static const IconData clipboardPen = IconData(
@@ -3956,7 +3956,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-plus.svg" width="100">
   ///
   /// [View "clipboard-plus" on lucide.dev](https://lucide.dev/icons/clipboard-plus)
   static const IconData clipboardPlus = IconData(
@@ -3966,7 +3966,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-type
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-type.svg" width="100">
   ///
   /// [View "clipboard-type" on lucide.dev](https://lucide.dev/icons/clipboard-type)
   static const IconData clipboardType = IconData(
@@ -3976,7 +3976,7 @@ class LucideIcons {
   );
 
   /// ## clipboard-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard-x.svg" width="100">
   ///
   /// [View "clipboard-x" on lucide.dev](https://lucide.dev/icons/clipboard-x)
   static const IconData clipboardX = IconData(
@@ -3986,7 +3986,7 @@ class LucideIcons {
   );
 
   /// ## clipboard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clipboard.svg" width="100">
   ///
   /// [View "clipboard" on lucide.dev](https://lucide.dev/icons/clipboard)
   static const IconData clipboard = IconData(
@@ -3996,7 +3996,7 @@ class LucideIcons {
   );
 
   /// ## clock-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-1.svg" width="100">
   ///
   /// [View "clock-1" on lucide.dev](https://lucide.dev/icons/clock-1)
   static const IconData clock1 = IconData(
@@ -4006,7 +4006,7 @@ class LucideIcons {
   );
 
   /// ## clock-10
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-10.svg" width="100">
   ///
   /// [View "clock-10" on lucide.dev](https://lucide.dev/icons/clock-10)
   static const IconData clock10 = IconData(
@@ -4016,7 +4016,7 @@ class LucideIcons {
   );
 
   /// ## clock-11
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-11.svg" width="100">
   ///
   /// [View "clock-11" on lucide.dev](https://lucide.dev/icons/clock-11)
   static const IconData clock11 = IconData(
@@ -4026,7 +4026,7 @@ class LucideIcons {
   );
 
   /// ## clock-12
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-12.svg" width="100">
   ///
   /// [View "clock-12" on lucide.dev](https://lucide.dev/icons/clock-12)
   static const IconData clock12 = IconData(
@@ -4036,7 +4036,7 @@ class LucideIcons {
   );
 
   /// ## clock-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-2.svg" width="100">
   ///
   /// [View "clock-2" on lucide.dev](https://lucide.dev/icons/clock-2)
   static const IconData clock2 = IconData(
@@ -4046,7 +4046,7 @@ class LucideIcons {
   );
 
   /// ## clock-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-3.svg" width="100">
   ///
   /// [View "clock-3" on lucide.dev](https://lucide.dev/icons/clock-3)
   static const IconData clock3 = IconData(
@@ -4056,7 +4056,7 @@ class LucideIcons {
   );
 
   /// ## clock-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-4.svg" width="100">
   ///
   /// [View "clock-4" on lucide.dev](https://lucide.dev/icons/clock-4)
   static const IconData clock4 = IconData(
@@ -4066,7 +4066,7 @@ class LucideIcons {
   );
 
   /// ## clock-5
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-5.svg" width="100">
   ///
   /// [View "clock-5" on lucide.dev](https://lucide.dev/icons/clock-5)
   static const IconData clock5 = IconData(
@@ -4076,7 +4076,7 @@ class LucideIcons {
   );
 
   /// ## clock-6
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-6.svg" width="100">
   ///
   /// [View "clock-6" on lucide.dev](https://lucide.dev/icons/clock-6)
   static const IconData clock6 = IconData(
@@ -4086,7 +4086,7 @@ class LucideIcons {
   );
 
   /// ## clock-7
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-7.svg" width="100">
   ///
   /// [View "clock-7" on lucide.dev](https://lucide.dev/icons/clock-7)
   static const IconData clock7 = IconData(
@@ -4096,7 +4096,7 @@ class LucideIcons {
   );
 
   /// ## clock-8
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-8.svg" width="100">
   ///
   /// [View "clock-8" on lucide.dev](https://lucide.dev/icons/clock-8)
   static const IconData clock8 = IconData(
@@ -4106,7 +4106,7 @@ class LucideIcons {
   );
 
   /// ## clock-9
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-9.svg" width="100">
   ///
   /// [View "clock-9" on lucide.dev](https://lucide.dev/icons/clock-9)
   static const IconData clock9 = IconData(
@@ -4116,7 +4116,7 @@ class LucideIcons {
   );
 
   /// ## clock-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-alert.svg" width="100">
   ///
   /// [View "clock-alert" on lucide.dev](https://lucide.dev/icons/clock-alert)
   static const IconData clockAlert = IconData(
@@ -4126,7 +4126,7 @@ class LucideIcons {
   );
 
   /// ## clock-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-arrow-down.svg" width="100">
   ///
   /// [View "clock-arrow-down" on lucide.dev](https://lucide.dev/icons/clock-arrow-down)
   static const IconData clockArrowDown = IconData(
@@ -4136,7 +4136,7 @@ class LucideIcons {
   );
 
   /// ## clock-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-arrow-up.svg" width="100">
   ///
   /// [View "clock-arrow-up" on lucide.dev](https://lucide.dev/icons/clock-arrow-up)
   static const IconData clockArrowUp = IconData(
@@ -4146,7 +4146,7 @@ class LucideIcons {
   );
 
   /// ## clock-fading
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-fading.svg" width="100">
   ///
   /// [View "clock-fading" on lucide.dev](https://lucide.dev/icons/clock-fading)
   static const IconData clockFading = IconData(
@@ -4156,7 +4156,7 @@ class LucideIcons {
   );
 
   /// ## clock-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-plus.svg" width="100">
   ///
   /// [View "clock-plus" on lucide.dev](https://lucide.dev/icons/clock-plus)
   static const IconData clockPlus = IconData(
@@ -4166,7 +4166,7 @@ class LucideIcons {
   );
 
   /// ## clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock.svg" width="100">
   ///
   /// [View "clock" on lucide.dev](https://lucide.dev/icons/clock)
   static const IconData clock = IconData(
@@ -4176,7 +4176,7 @@ class LucideIcons {
   );
 
   /// ## closed-caption
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/closed-caption.svg" width="100">
   ///
   /// [View "closed-caption" on lucide.dev](https://lucide.dev/icons/closed-caption)
   static const IconData closedCaption = IconData(
@@ -4186,7 +4186,7 @@ class LucideIcons {
   );
 
   /// ## cloud-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-alert.svg" width="100">
   ///
   /// [View "cloud-alert" on lucide.dev](https://lucide.dev/icons/cloud-alert)
   static const IconData cloudAlert = IconData(
@@ -4196,7 +4196,7 @@ class LucideIcons {
   );
 
   /// ## cloud-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-check.svg" width="100">
   ///
   /// [View "cloud-check" on lucide.dev](https://lucide.dev/icons/cloud-check)
   static const IconData cloudCheck = IconData(
@@ -4206,7 +4206,7 @@ class LucideIcons {
   );
 
   /// ## cloud-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-cog.svg" width="100">
   ///
   /// [View "cloud-cog" on lucide.dev](https://lucide.dev/icons/cloud-cog)
   static const IconData cloudCog = IconData(
@@ -4216,7 +4216,7 @@ class LucideIcons {
   );
 
   /// ## cloud-download
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-download.svg" width="100">
   ///
   /// [View "cloud-download" on lucide.dev](https://lucide.dev/icons/cloud-download)
   static const IconData cloudDownload = IconData(
@@ -4226,7 +4226,7 @@ class LucideIcons {
   );
 
   /// ## cloud-drizzle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-drizzle.svg" width="100">
   ///
   /// [View "cloud-drizzle" on lucide.dev](https://lucide.dev/icons/cloud-drizzle)
   static const IconData cloudDrizzle = IconData(
@@ -4236,7 +4236,7 @@ class LucideIcons {
   );
 
   /// ## cloud-fog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-fog.svg" width="100">
   ///
   /// [View "cloud-fog" on lucide.dev](https://lucide.dev/icons/cloud-fog)
   static const IconData cloudFog = IconData(
@@ -4246,7 +4246,7 @@ class LucideIcons {
   );
 
   /// ## cloud-hail
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-hail.svg" width="100">
   ///
   /// [View "cloud-hail" on lucide.dev](https://lucide.dev/icons/cloud-hail)
   static const IconData cloudHail = IconData(
@@ -4256,7 +4256,7 @@ class LucideIcons {
   );
 
   /// ## cloud-lightning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-lightning.svg" width="100">
   ///
   /// [View "cloud-lightning" on lucide.dev](https://lucide.dev/icons/cloud-lightning)
   static const IconData cloudLightning = IconData(
@@ -4266,7 +4266,7 @@ class LucideIcons {
   );
 
   /// ## cloud-moon-rain
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-moon-rain.svg" width="100">
   ///
   /// [View "cloud-moon-rain" on lucide.dev](https://lucide.dev/icons/cloud-moon-rain)
   static const IconData cloudMoonRain = IconData(
@@ -4276,7 +4276,7 @@ class LucideIcons {
   );
 
   /// ## cloud-moon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-moon.svg" width="100">
   ///
   /// [View "cloud-moon" on lucide.dev](https://lucide.dev/icons/cloud-moon)
   static const IconData cloudMoon = IconData(
@@ -4286,7 +4286,7 @@ class LucideIcons {
   );
 
   /// ## cloud-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-off.svg" width="100">
   ///
   /// [View "cloud-off" on lucide.dev](https://lucide.dev/icons/cloud-off)
   static const IconData cloudOff = IconData(
@@ -4296,7 +4296,7 @@ class LucideIcons {
   );
 
   /// ## cloud-rain-wind
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-rain-wind.svg" width="100">
   ///
   /// [View "cloud-rain-wind" on lucide.dev](https://lucide.dev/icons/cloud-rain-wind)
   static const IconData cloudRainWind = IconData(
@@ -4306,7 +4306,7 @@ class LucideIcons {
   );
 
   /// ## cloud-rain
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-rain.svg" width="100">
   ///
   /// [View "cloud-rain" on lucide.dev](https://lucide.dev/icons/cloud-rain)
   static const IconData cloudRain = IconData(
@@ -4316,7 +4316,7 @@ class LucideIcons {
   );
 
   /// ## cloud-snow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-snow.svg" width="100">
   ///
   /// [View "cloud-snow" on lucide.dev](https://lucide.dev/icons/cloud-snow)
   static const IconData cloudSnow = IconData(
@@ -4326,7 +4326,7 @@ class LucideIcons {
   );
 
   /// ## cloud-sun-rain
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-sun-rain.svg" width="100">
   ///
   /// [View "cloud-sun-rain" on lucide.dev](https://lucide.dev/icons/cloud-sun-rain)
   static const IconData cloudSunRain = IconData(
@@ -4336,7 +4336,7 @@ class LucideIcons {
   );
 
   /// ## cloud-sun
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-sun.svg" width="100">
   ///
   /// [View "cloud-sun" on lucide.dev](https://lucide.dev/icons/cloud-sun)
   static const IconData cloudSun = IconData(
@@ -4346,7 +4346,7 @@ class LucideIcons {
   );
 
   /// ## cloud-upload
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud-upload.svg" width="100">
   ///
   /// [View "cloud-upload" on lucide.dev](https://lucide.dev/icons/cloud-upload)
   static const IconData cloudUpload = IconData(
@@ -4356,7 +4356,7 @@ class LucideIcons {
   );
 
   /// ## cloud
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloud.svg" width="100">
   ///
   /// [View "cloud" on lucide.dev](https://lucide.dev/icons/cloud)
   static const IconData cloud = IconData(
@@ -4366,7 +4366,7 @@ class LucideIcons {
   );
 
   /// ## cloudy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cloudy.svg" width="100">
   ///
   /// [View "cloudy" on lucide.dev](https://lucide.dev/icons/cloudy)
   static const IconData cloudy = IconData(
@@ -4376,7 +4376,7 @@ class LucideIcons {
   );
 
   /// ## clover
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clover.svg" width="100">
   ///
   /// [View "clover" on lucide.dev](https://lucide.dev/icons/clover)
   static const IconData clover = IconData(
@@ -4386,7 +4386,7 @@ class LucideIcons {
   );
 
   /// ## club
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/club.svg" width="100">
   ///
   /// [View "club" on lucide.dev](https://lucide.dev/icons/club)
   static const IconData club = IconData(
@@ -4396,7 +4396,7 @@ class LucideIcons {
   );
 
   /// ## code-xml
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/code-xml.svg" width="100">
   ///
   /// [View "code-xml" on lucide.dev](https://lucide.dev/icons/code-xml)
   static const IconData codeXml = IconData(
@@ -4406,7 +4406,7 @@ class LucideIcons {
   );
 
   /// ## code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/code.svg" width="100">
   ///
   /// [View "code" on lucide.dev](https://lucide.dev/icons/code)
   static const IconData code = IconData(
@@ -4416,7 +4416,7 @@ class LucideIcons {
   );
 
   /// ## codepen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/codepen.svg" width="100">
   ///
   /// [View "codepen" on lucide.dev](https://lucide.dev/icons/codepen)
   static const IconData codepen = IconData(
@@ -4426,7 +4426,7 @@ class LucideIcons {
   );
 
   /// ## codesandbox
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/codesandbox.svg" width="100">
   ///
   /// [View "codesandbox" on lucide.dev](https://lucide.dev/icons/codesandbox)
   static const IconData codesandbox = IconData(
@@ -4436,7 +4436,7 @@ class LucideIcons {
   );
 
   /// ## coffee
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/coffee.svg" width="100">
   ///
   /// [View "coffee" on lucide.dev](https://lucide.dev/icons/coffee)
   static const IconData coffee = IconData(
@@ -4446,7 +4446,7 @@ class LucideIcons {
   );
 
   /// ## cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cog.svg" width="100">
   ///
   /// [View "cog" on lucide.dev](https://lucide.dev/icons/cog)
   static const IconData cog = IconData(
@@ -4456,7 +4456,7 @@ class LucideIcons {
   );
 
   /// ## coins
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/coins.svg" width="100">
   ///
   /// [View "coins" on lucide.dev](https://lucide.dev/icons/coins)
   static const IconData coins = IconData(
@@ -4466,7 +4466,7 @@ class LucideIcons {
   );
 
   /// ## columns-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/columns-2.svg" width="100">
   ///
   /// [View "columns-2" on lucide.dev](https://lucide.dev/icons/columns-2)
   static const IconData columns2 = IconData(
@@ -4476,7 +4476,7 @@ class LucideIcons {
   );
 
   /// ## columns-3-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/columns-3-cog.svg" width="100">
   ///
   /// [View "columns-3-cog" on lucide.dev](https://lucide.dev/icons/columns-3-cog)
   static const IconData columns3Cog = IconData(
@@ -4486,7 +4486,7 @@ class LucideIcons {
   );
 
   /// ## columns-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/columns-3.svg" width="100">
   ///
   /// [View "columns-3" on lucide.dev](https://lucide.dev/icons/columns-3)
   static const IconData columns3 = IconData(
@@ -4496,7 +4496,7 @@ class LucideIcons {
   );
 
   /// ## columns-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/columns-4.svg" width="100">
   ///
   /// [View "columns-4" on lucide.dev](https://lucide.dev/icons/columns-4)
   static const IconData columns4 = IconData(
@@ -4506,7 +4506,7 @@ class LucideIcons {
   );
 
   /// ## combine
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/combine.svg" width="100">
   ///
   /// [View "combine" on lucide.dev](https://lucide.dev/icons/combine)
   static const IconData combine = IconData(
@@ -4516,7 +4516,7 @@ class LucideIcons {
   );
 
   /// ## command
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/command.svg" width="100">
   ///
   /// [View "command" on lucide.dev](https://lucide.dev/icons/command)
   static const IconData command = IconData(
@@ -4526,7 +4526,7 @@ class LucideIcons {
   );
 
   /// ## compass
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/compass.svg" width="100">
   ///
   /// [View "compass" on lucide.dev](https://lucide.dev/icons/compass)
   static const IconData compass = IconData(
@@ -4536,7 +4536,7 @@ class LucideIcons {
   );
 
   /// ## component
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/component.svg" width="100">
   ///
   /// [View "component" on lucide.dev](https://lucide.dev/icons/component)
   static const IconData component = IconData(
@@ -4546,7 +4546,7 @@ class LucideIcons {
   );
 
   /// ## computer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/computer.svg" width="100">
   ///
   /// [View "computer" on lucide.dev](https://lucide.dev/icons/computer)
   static const IconData computer = IconData(
@@ -4556,7 +4556,7 @@ class LucideIcons {
   );
 
   /// ## concierge-bell
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/concierge-bell.svg" width="100">
   ///
   /// [View "concierge-bell" on lucide.dev](https://lucide.dev/icons/concierge-bell)
   static const IconData conciergeBell = IconData(
@@ -4566,7 +4566,7 @@ class LucideIcons {
   );
 
   /// ## cone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cone.svg" width="100">
   ///
   /// [View "cone" on lucide.dev](https://lucide.dev/icons/cone)
   static const IconData cone = IconData(
@@ -4576,7 +4576,7 @@ class LucideIcons {
   );
 
   /// ## construction
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/construction.svg" width="100">
   ///
   /// [View "construction" on lucide.dev](https://lucide.dev/icons/construction)
   static const IconData construction = IconData(
@@ -4586,7 +4586,7 @@ class LucideIcons {
   );
 
   /// ## contact-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/contact-round.svg" width="100">
   ///
   /// [View "contact-round" on lucide.dev](https://lucide.dev/icons/contact-round)
   static const IconData contactRound = IconData(
@@ -4596,7 +4596,7 @@ class LucideIcons {
   );
 
   /// ## contact
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/contact.svg" width="100">
   ///
   /// [View "contact" on lucide.dev](https://lucide.dev/icons/contact)
   static const IconData contact = IconData(
@@ -4606,7 +4606,7 @@ class LucideIcons {
   );
 
   /// ## container
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/container.svg" width="100">
   ///
   /// [View "container" on lucide.dev](https://lucide.dev/icons/container)
   static const IconData container = IconData(
@@ -4616,7 +4616,7 @@ class LucideIcons {
   );
 
   /// ## contrast
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/contrast.svg" width="100">
   ///
   /// [View "contrast" on lucide.dev](https://lucide.dev/icons/contrast)
   static const IconData contrast = IconData(
@@ -4626,7 +4626,7 @@ class LucideIcons {
   );
 
   /// ## cookie
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cookie.svg" width="100">
   ///
   /// [View "cookie" on lucide.dev](https://lucide.dev/icons/cookie)
   static const IconData cookie = IconData(
@@ -4636,7 +4636,7 @@ class LucideIcons {
   );
 
   /// ## cooking-pot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cooking-pot.svg" width="100">
   ///
   /// [View "cooking-pot" on lucide.dev](https://lucide.dev/icons/cooking-pot)
   static const IconData cookingPot = IconData(
@@ -4646,7 +4646,7 @@ class LucideIcons {
   );
 
   /// ## copy-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy-check.svg" width="100">
   ///
   /// [View "copy-check" on lucide.dev](https://lucide.dev/icons/copy-check)
   static const IconData copyCheck = IconData(
@@ -4656,7 +4656,7 @@ class LucideIcons {
   );
 
   /// ## copy-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy-minus.svg" width="100">
   ///
   /// [View "copy-minus" on lucide.dev](https://lucide.dev/icons/copy-minus)
   static const IconData copyMinus = IconData(
@@ -4666,7 +4666,7 @@ class LucideIcons {
   );
 
   /// ## copy-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy-plus.svg" width="100">
   ///
   /// [View "copy-plus" on lucide.dev](https://lucide.dev/icons/copy-plus)
   static const IconData copyPlus = IconData(
@@ -4676,7 +4676,7 @@ class LucideIcons {
   );
 
   /// ## copy-slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy-slash.svg" width="100">
   ///
   /// [View "copy-slash" on lucide.dev](https://lucide.dev/icons/copy-slash)
   static const IconData copySlash = IconData(
@@ -4686,7 +4686,7 @@ class LucideIcons {
   );
 
   /// ## copy-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy-x.svg" width="100">
   ///
   /// [View "copy-x" on lucide.dev](https://lucide.dev/icons/copy-x)
   static const IconData copyX = IconData(
@@ -4696,7 +4696,7 @@ class LucideIcons {
   );
 
   /// ## copy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copy.svg" width="100">
   ///
   /// [View "copy" on lucide.dev](https://lucide.dev/icons/copy)
   static const IconData copy = IconData(
@@ -4706,7 +4706,7 @@ class LucideIcons {
   );
 
   /// ## copyleft
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copyleft.svg" width="100">
   ///
   /// [View "copyleft" on lucide.dev](https://lucide.dev/icons/copyleft)
   static const IconData copyleft = IconData(
@@ -4716,7 +4716,7 @@ class LucideIcons {
   );
 
   /// ## copyright
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/copyright.svg" width="100">
   ///
   /// [View "copyright" on lucide.dev](https://lucide.dev/icons/copyright)
   static const IconData copyright = IconData(
@@ -4726,7 +4726,7 @@ class LucideIcons {
   );
 
   /// ## corner-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-down-left.svg" width="100">
   ///
   /// [View "corner-down-left" on lucide.dev](https://lucide.dev/icons/corner-down-left)
   static const IconData cornerDownLeft = IconData(
@@ -4736,7 +4736,7 @@ class LucideIcons {
   );
 
   /// ## corner-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-down-right.svg" width="100">
   ///
   /// [View "corner-down-right" on lucide.dev](https://lucide.dev/icons/corner-down-right)
   static const IconData cornerDownRight = IconData(
@@ -4746,7 +4746,7 @@ class LucideIcons {
   );
 
   /// ## corner-left-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-left-down.svg" width="100">
   ///
   /// [View "corner-left-down" on lucide.dev](https://lucide.dev/icons/corner-left-down)
   static const IconData cornerLeftDown = IconData(
@@ -4756,7 +4756,7 @@ class LucideIcons {
   );
 
   /// ## corner-left-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-left-up.svg" width="100">
   ///
   /// [View "corner-left-up" on lucide.dev](https://lucide.dev/icons/corner-left-up)
   static const IconData cornerLeftUp = IconData(
@@ -4766,7 +4766,7 @@ class LucideIcons {
   );
 
   /// ## corner-right-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-right-down.svg" width="100">
   ///
   /// [View "corner-right-down" on lucide.dev](https://lucide.dev/icons/corner-right-down)
   static const IconData cornerRightDown = IconData(
@@ -4776,7 +4776,7 @@ class LucideIcons {
   );
 
   /// ## corner-right-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-right-up.svg" width="100">
   ///
   /// [View "corner-right-up" on lucide.dev](https://lucide.dev/icons/corner-right-up)
   static const IconData cornerRightUp = IconData(
@@ -4786,7 +4786,7 @@ class LucideIcons {
   );
 
   /// ## corner-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-up-left.svg" width="100">
   ///
   /// [View "corner-up-left" on lucide.dev](https://lucide.dev/icons/corner-up-left)
   static const IconData cornerUpLeft = IconData(
@@ -4796,7 +4796,7 @@ class LucideIcons {
   );
 
   /// ## corner-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/corner-up-right.svg" width="100">
   ///
   /// [View "corner-up-right" on lucide.dev](https://lucide.dev/icons/corner-up-right)
   static const IconData cornerUpRight = IconData(
@@ -4806,7 +4806,7 @@ class LucideIcons {
   );
 
   /// ## cpu
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cpu.svg" width="100">
   ///
   /// [View "cpu" on lucide.dev](https://lucide.dev/icons/cpu)
   static const IconData cpu = IconData(
@@ -4816,7 +4816,7 @@ class LucideIcons {
   );
 
   /// ## creative-commons
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/creative-commons.svg" width="100">
   ///
   /// [View "creative-commons" on lucide.dev](https://lucide.dev/icons/creative-commons)
   static const IconData creativeCommons = IconData(
@@ -4826,7 +4826,7 @@ class LucideIcons {
   );
 
   /// ## credit-card
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card.svg" width="100">
   ///
   /// [View "credit-card" on lucide.dev](https://lucide.dev/icons/credit-card)
   static const IconData creditCard = IconData(
@@ -4836,7 +4836,7 @@ class LucideIcons {
   );
 
   /// ## croissant
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/croissant.svg" width="100">
   ///
   /// [View "croissant" on lucide.dev](https://lucide.dev/icons/croissant)
   static const IconData croissant = IconData(
@@ -4846,7 +4846,7 @@ class LucideIcons {
   );
 
   /// ## crop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/crop.svg" width="100">
   ///
   /// [View "crop" on lucide.dev](https://lucide.dev/icons/crop)
   static const IconData crop = IconData(
@@ -4856,7 +4856,7 @@ class LucideIcons {
   );
 
   /// ## cross
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cross.svg" width="100">
   ///
   /// [View "cross" on lucide.dev](https://lucide.dev/icons/cross)
   static const IconData cross = IconData(
@@ -4866,7 +4866,7 @@ class LucideIcons {
   );
 
   /// ## crosshair
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/crosshair.svg" width="100">
   ///
   /// [View "crosshair" on lucide.dev](https://lucide.dev/icons/crosshair)
   static const IconData crosshair = IconData(
@@ -4876,7 +4876,7 @@ class LucideIcons {
   );
 
   /// ## crown
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/crown.svg" width="100">
   ///
   /// [View "crown" on lucide.dev](https://lucide.dev/icons/crown)
   static const IconData crown = IconData(
@@ -4886,7 +4886,7 @@ class LucideIcons {
   );
 
   /// ## cuboid
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cuboid.svg" width="100">
   ///
   /// [View "cuboid" on lucide.dev](https://lucide.dev/icons/cuboid)
   static const IconData cuboid = IconData(
@@ -4896,7 +4896,7 @@ class LucideIcons {
   );
 
   /// ## cup-soda
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cup-soda.svg" width="100">
   ///
   /// [View "cup-soda" on lucide.dev](https://lucide.dev/icons/cup-soda)
   static const IconData cupSoda = IconData(
@@ -4906,7 +4906,7 @@ class LucideIcons {
   );
 
   /// ## currency
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/currency.svg" width="100">
   ///
   /// [View "currency" on lucide.dev](https://lucide.dev/icons/currency)
   static const IconData currency = IconData(
@@ -4916,7 +4916,7 @@ class LucideIcons {
   );
 
   /// ## cylinder
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cylinder.svg" width="100">
   ///
   /// [View "cylinder" on lucide.dev](https://lucide.dev/icons/cylinder)
   static const IconData cylinder = IconData(
@@ -4926,7 +4926,7 @@ class LucideIcons {
   );
 
   /// ## dam
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dam.svg" width="100">
   ///
   /// [View "dam" on lucide.dev](https://lucide.dev/icons/dam)
   static const IconData dam = IconData(
@@ -4936,7 +4936,7 @@ class LucideIcons {
   );
 
   /// ## database-backup
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-backup.svg" width="100">
   ///
   /// [View "database-backup" on lucide.dev](https://lucide.dev/icons/database-backup)
   static const IconData databaseBackup = IconData(
@@ -4946,7 +4946,7 @@ class LucideIcons {
   );
 
   /// ## database-zap
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-zap.svg" width="100">
   ///
   /// [View "database-zap" on lucide.dev](https://lucide.dev/icons/database-zap)
   static const IconData databaseZap = IconData(
@@ -4956,7 +4956,7 @@ class LucideIcons {
   );
 
   /// ## database
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database.svg" width="100">
   ///
   /// [View "database" on lucide.dev](https://lucide.dev/icons/database)
   static const IconData database = IconData(
@@ -4966,7 +4966,7 @@ class LucideIcons {
   );
 
   /// ## decimals-arrow-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/decimals-arrow-left.svg" width="100">
   ///
   /// [View "decimals-arrow-left" on lucide.dev](https://lucide.dev/icons/decimals-arrow-left)
   static const IconData decimalsArrowLeft = IconData(
@@ -4976,7 +4976,7 @@ class LucideIcons {
   );
 
   /// ## decimals-arrow-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/decimals-arrow-right.svg" width="100">
   ///
   /// [View "decimals-arrow-right" on lucide.dev](https://lucide.dev/icons/decimals-arrow-right)
   static const IconData decimalsArrowRight = IconData(
@@ -4986,7 +4986,7 @@ class LucideIcons {
   );
 
   /// ## delete
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/delete.svg" width="100">
   ///
   /// [View "delete" on lucide.dev](https://lucide.dev/icons/delete)
   static const IconData delete = IconData(
@@ -4996,7 +4996,7 @@ class LucideIcons {
   );
 
   /// ## dessert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dessert.svg" width="100">
   ///
   /// [View "dessert" on lucide.dev](https://lucide.dev/icons/dessert)
   static const IconData dessert = IconData(
@@ -5006,7 +5006,7 @@ class LucideIcons {
   );
 
   /// ## diameter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diameter.svg" width="100">
   ///
   /// [View "diameter" on lucide.dev](https://lucide.dev/icons/diameter)
   static const IconData diameter = IconData(
@@ -5016,7 +5016,7 @@ class LucideIcons {
   );
 
   /// ## diamond-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diamond-minus.svg" width="100">
   ///
   /// [View "diamond-minus" on lucide.dev](https://lucide.dev/icons/diamond-minus)
   static const IconData diamondMinus = IconData(
@@ -5026,7 +5026,7 @@ class LucideIcons {
   );
 
   /// ## diamond-percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diamond-percent.svg" width="100">
   ///
   /// [View "diamond-percent" on lucide.dev](https://lucide.dev/icons/diamond-percent)
   static const IconData diamondPercent = IconData(
@@ -5036,7 +5036,7 @@ class LucideIcons {
   );
 
   /// ## diamond-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diamond-plus.svg" width="100">
   ///
   /// [View "diamond-plus" on lucide.dev](https://lucide.dev/icons/diamond-plus)
   static const IconData diamondPlus = IconData(
@@ -5046,7 +5046,7 @@ class LucideIcons {
   );
 
   /// ## diamond
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diamond.svg" width="100">
   ///
   /// [View "diamond" on lucide.dev](https://lucide.dev/icons/diamond)
   static const IconData diamond = IconData(
@@ -5056,7 +5056,7 @@ class LucideIcons {
   );
 
   /// ## dice-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-1.svg" width="100">
   ///
   /// [View "dice-1" on lucide.dev](https://lucide.dev/icons/dice-1)
   static const IconData dice1 = IconData(
@@ -5066,7 +5066,7 @@ class LucideIcons {
   );
 
   /// ## dice-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-2.svg" width="100">
   ///
   /// [View "dice-2" on lucide.dev](https://lucide.dev/icons/dice-2)
   static const IconData dice2 = IconData(
@@ -5076,7 +5076,7 @@ class LucideIcons {
   );
 
   /// ## dice-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-3.svg" width="100">
   ///
   /// [View "dice-3" on lucide.dev](https://lucide.dev/icons/dice-3)
   static const IconData dice3 = IconData(
@@ -5086,7 +5086,7 @@ class LucideIcons {
   );
 
   /// ## dice-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-4.svg" width="100">
   ///
   /// [View "dice-4" on lucide.dev](https://lucide.dev/icons/dice-4)
   static const IconData dice4 = IconData(
@@ -5096,7 +5096,7 @@ class LucideIcons {
   );
 
   /// ## dice-5
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-5.svg" width="100">
   ///
   /// [View "dice-5" on lucide.dev](https://lucide.dev/icons/dice-5)
   static const IconData dice5 = IconData(
@@ -5106,7 +5106,7 @@ class LucideIcons {
   );
 
   /// ## dice-6
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dice-6.svg" width="100">
   ///
   /// [View "dice-6" on lucide.dev](https://lucide.dev/icons/dice-6)
   static const IconData dice6 = IconData(
@@ -5116,7 +5116,7 @@ class LucideIcons {
   );
 
   /// ## dices
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dices.svg" width="100">
   ///
   /// [View "dices" on lucide.dev](https://lucide.dev/icons/dices)
   static const IconData dices = IconData(
@@ -5126,7 +5126,7 @@ class LucideIcons {
   );
 
   /// ## diff
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diff.svg" width="100">
   ///
   /// [View "diff" on lucide.dev](https://lucide.dev/icons/diff)
   static const IconData diff = IconData(
@@ -5136,7 +5136,7 @@ class LucideIcons {
   );
 
   /// ## disc-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/disc-2.svg" width="100">
   ///
   /// [View "disc-2" on lucide.dev](https://lucide.dev/icons/disc-2)
   static const IconData disc2 = IconData(
@@ -5146,7 +5146,7 @@ class LucideIcons {
   );
 
   /// ## disc-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/disc-3.svg" width="100">
   ///
   /// [View "disc-3" on lucide.dev](https://lucide.dev/icons/disc-3)
   static const IconData disc3 = IconData(
@@ -5156,7 +5156,7 @@ class LucideIcons {
   );
 
   /// ## disc-album
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/disc-album.svg" width="100">
   ///
   /// [View "disc-album" on lucide.dev](https://lucide.dev/icons/disc-album)
   static const IconData discAlbum = IconData(
@@ -5166,7 +5166,7 @@ class LucideIcons {
   );
 
   /// ## disc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/disc.svg" width="100">
   ///
   /// [View "disc" on lucide.dev](https://lucide.dev/icons/disc)
   static const IconData disc = IconData(
@@ -5176,7 +5176,7 @@ class LucideIcons {
   );
 
   /// ## divide
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/divide.svg" width="100">
   ///
   /// [View "divide" on lucide.dev](https://lucide.dev/icons/divide)
   static const IconData divide = IconData(
@@ -5186,7 +5186,7 @@ class LucideIcons {
   );
 
   /// ## dna-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dna-off.svg" width="100">
   ///
   /// [View "dna-off" on lucide.dev](https://lucide.dev/icons/dna-off)
   static const IconData dnaOff = IconData(
@@ -5196,7 +5196,7 @@ class LucideIcons {
   );
 
   /// ## dna
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dna.svg" width="100">
   ///
   /// [View "dna" on lucide.dev](https://lucide.dev/icons/dna)
   static const IconData dna = IconData(
@@ -5206,7 +5206,7 @@ class LucideIcons {
   );
 
   /// ## dock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dock.svg" width="100">
   ///
   /// [View "dock" on lucide.dev](https://lucide.dev/icons/dock)
   static const IconData dock = IconData(
@@ -5216,7 +5216,7 @@ class LucideIcons {
   );
 
   /// ## dog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dog.svg" width="100">
   ///
   /// [View "dog" on lucide.dev](https://lucide.dev/icons/dog)
   static const IconData dog = IconData(
@@ -5226,7 +5226,7 @@ class LucideIcons {
   );
 
   /// ## dollar-sign
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dollar-sign.svg" width="100">
   ///
   /// [View "dollar-sign" on lucide.dev](https://lucide.dev/icons/dollar-sign)
   static const IconData dollarSign = IconData(
@@ -5236,7 +5236,7 @@ class LucideIcons {
   );
 
   /// ## donut
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/donut.svg" width="100">
   ///
   /// [View "donut" on lucide.dev](https://lucide.dev/icons/donut)
   static const IconData donut = IconData(
@@ -5246,7 +5246,7 @@ class LucideIcons {
   );
 
   /// ## door-closed-locked
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/door-closed-locked.svg" width="100">
   ///
   /// [View "door-closed-locked" on lucide.dev](https://lucide.dev/icons/door-closed-locked)
   static const IconData doorClosedLocked = IconData(
@@ -5256,7 +5256,7 @@ class LucideIcons {
   );
 
   /// ## door-closed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/door-closed.svg" width="100">
   ///
   /// [View "door-closed" on lucide.dev](https://lucide.dev/icons/door-closed)
   static const IconData doorClosed = IconData(
@@ -5266,7 +5266,7 @@ class LucideIcons {
   );
 
   /// ## door-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/door-open.svg" width="100">
   ///
   /// [View "door-open" on lucide.dev](https://lucide.dev/icons/door-open)
   static const IconData doorOpen = IconData(
@@ -5276,7 +5276,7 @@ class LucideIcons {
   );
 
   /// ## dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dot.svg" width="100">
   ///
   /// [View "dot" on lucide.dev](https://lucide.dev/icons/dot)
   static const IconData dot = IconData(
@@ -5286,7 +5286,7 @@ class LucideIcons {
   );
 
   /// ## download
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/download.svg" width="100">
   ///
   /// [View "download" on lucide.dev](https://lucide.dev/icons/download)
   static const IconData download = IconData(
@@ -5296,7 +5296,7 @@ class LucideIcons {
   );
 
   /// ## drafting-compass
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drafting-compass.svg" width="100">
   ///
   /// [View "drafting-compass" on lucide.dev](https://lucide.dev/icons/drafting-compass)
   static const IconData draftingCompass = IconData(
@@ -5306,7 +5306,7 @@ class LucideIcons {
   );
 
   /// ## drama
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drama.svg" width="100">
   ///
   /// [View "drama" on lucide.dev](https://lucide.dev/icons/drama)
   static const IconData drama = IconData(
@@ -5316,7 +5316,7 @@ class LucideIcons {
   );
 
   /// ## dribbble
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dribbble.svg" width="100">
   ///
   /// [View "dribbble" on lucide.dev](https://lucide.dev/icons/dribbble)
   static const IconData dribbble = IconData(
@@ -5326,7 +5326,7 @@ class LucideIcons {
   );
 
   /// ## drill
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drill.svg" width="100">
   ///
   /// [View "drill" on lucide.dev](https://lucide.dev/icons/drill)
   static const IconData drill = IconData(
@@ -5336,7 +5336,7 @@ class LucideIcons {
   );
 
   /// ## drone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drone.svg" width="100">
   ///
   /// [View "drone" on lucide.dev](https://lucide.dev/icons/drone)
   static const IconData drone = IconData(
@@ -5346,7 +5346,7 @@ class LucideIcons {
   );
 
   /// ## droplet-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/droplet-off.svg" width="100">
   ///
   /// [View "droplet-off" on lucide.dev](https://lucide.dev/icons/droplet-off)
   static const IconData dropletOff = IconData(
@@ -5356,7 +5356,7 @@ class LucideIcons {
   );
 
   /// ## droplet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/droplet.svg" width="100">
   ///
   /// [View "droplet" on lucide.dev](https://lucide.dev/icons/droplet)
   static const IconData droplet = IconData(
@@ -5366,7 +5366,7 @@ class LucideIcons {
   );
 
   /// ## droplets
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/droplets.svg" width="100">
   ///
   /// [View "droplets" on lucide.dev](https://lucide.dev/icons/droplets)
   static const IconData droplets = IconData(
@@ -5376,7 +5376,7 @@ class LucideIcons {
   );
 
   /// ## drum
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drum.svg" width="100">
   ///
   /// [View "drum" on lucide.dev](https://lucide.dev/icons/drum)
   static const IconData drum = IconData(
@@ -5386,7 +5386,7 @@ class LucideIcons {
   );
 
   /// ## drumstick
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/drumstick.svg" width="100">
   ///
   /// [View "drumstick" on lucide.dev](https://lucide.dev/icons/drumstick)
   static const IconData drumstick = IconData(
@@ -5396,7 +5396,7 @@ class LucideIcons {
   );
 
   /// ## dumbbell
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dumbbell.svg" width="100">
   ///
   /// [View "dumbbell" on lucide.dev](https://lucide.dev/icons/dumbbell)
   static const IconData dumbbell = IconData(
@@ -5406,7 +5406,7 @@ class LucideIcons {
   );
 
   /// ## ear-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ear-off.svg" width="100">
   ///
   /// [View "ear-off" on lucide.dev](https://lucide.dev/icons/ear-off)
   static const IconData earOff = IconData(
@@ -5416,7 +5416,7 @@ class LucideIcons {
   );
 
   /// ## ear
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ear.svg" width="100">
   ///
   /// [View "ear" on lucide.dev](https://lucide.dev/icons/ear)
   static const IconData ear = IconData(
@@ -5426,7 +5426,7 @@ class LucideIcons {
   );
 
   /// ## earth-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/earth-lock.svg" width="100">
   ///
   /// [View "earth-lock" on lucide.dev](https://lucide.dev/icons/earth-lock)
   static const IconData earthLock = IconData(
@@ -5436,7 +5436,7 @@ class LucideIcons {
   );
 
   /// ## earth
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/earth.svg" width="100">
   ///
   /// [View "earth" on lucide.dev](https://lucide.dev/icons/earth)
   static const IconData earth = IconData(
@@ -5446,7 +5446,7 @@ class LucideIcons {
   );
 
   /// ## eclipse
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/eclipse.svg" width="100">
   ///
   /// [View "eclipse" on lucide.dev](https://lucide.dev/icons/eclipse)
   static const IconData eclipse = IconData(
@@ -5456,7 +5456,7 @@ class LucideIcons {
   );
 
   /// ## egg-fried
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/egg-fried.svg" width="100">
   ///
   /// [View "egg-fried" on lucide.dev](https://lucide.dev/icons/egg-fried)
   static const IconData eggFried = IconData(
@@ -5466,7 +5466,7 @@ class LucideIcons {
   );
 
   /// ## egg-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/egg-off.svg" width="100">
   ///
   /// [View "egg-off" on lucide.dev](https://lucide.dev/icons/egg-off)
   static const IconData eggOff = IconData(
@@ -5476,7 +5476,7 @@ class LucideIcons {
   );
 
   /// ## egg
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/egg.svg" width="100">
   ///
   /// [View "egg" on lucide.dev](https://lucide.dev/icons/egg)
   static const IconData egg = IconData(
@@ -5486,7 +5486,7 @@ class LucideIcons {
   );
 
   /// ## ellipsis-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ellipsis-vertical.svg" width="100">
   ///
   /// [View "ellipsis-vertical" on lucide.dev](https://lucide.dev/icons/ellipsis-vertical)
   static const IconData ellipsisVertical = IconData(
@@ -5496,7 +5496,7 @@ class LucideIcons {
   );
 
   /// ## ellipsis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ellipsis.svg" width="100">
   ///
   /// [View "ellipsis" on lucide.dev](https://lucide.dev/icons/ellipsis)
   static const IconData ellipsis = IconData(
@@ -5506,7 +5506,7 @@ class LucideIcons {
   );
 
   /// ## equal-approximately
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/equal-approximately.svg" width="100">
   ///
   /// [View "equal-approximately" on lucide.dev](https://lucide.dev/icons/equal-approximately)
   static const IconData equalApproximately = IconData(
@@ -5516,7 +5516,7 @@ class LucideIcons {
   );
 
   /// ## equal-not
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/equal-not.svg" width="100">
   ///
   /// [View "equal-not" on lucide.dev](https://lucide.dev/icons/equal-not)
   static const IconData equalNot = IconData(
@@ -5526,7 +5526,7 @@ class LucideIcons {
   );
 
   /// ## equal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/equal.svg" width="100">
   ///
   /// [View "equal" on lucide.dev](https://lucide.dev/icons/equal)
   static const IconData equal = IconData(
@@ -5536,7 +5536,7 @@ class LucideIcons {
   );
 
   /// ## eraser
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/eraser.svg" width="100">
   ///
   /// [View "eraser" on lucide.dev](https://lucide.dev/icons/eraser)
   static const IconData eraser = IconData(
@@ -5546,7 +5546,7 @@ class LucideIcons {
   );
 
   /// ## ethernet-port
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ethernet-port.svg" width="100">
   ///
   /// [View "ethernet-port" on lucide.dev](https://lucide.dev/icons/ethernet-port)
   static const IconData ethernetPort = IconData(
@@ -5556,7 +5556,7 @@ class LucideIcons {
   );
 
   /// ## euro
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/euro.svg" width="100">
   ///
   /// [View "euro" on lucide.dev](https://lucide.dev/icons/euro)
   static const IconData euro = IconData(
@@ -5566,7 +5566,7 @@ class LucideIcons {
   );
 
   /// ## expand
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/expand.svg" width="100">
   ///
   /// [View "expand" on lucide.dev](https://lucide.dev/icons/expand)
   static const IconData expand = IconData(
@@ -5576,7 +5576,7 @@ class LucideIcons {
   );
 
   /// ## external-link
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/external-link.svg" width="100">
   ///
   /// [View "external-link" on lucide.dev](https://lucide.dev/icons/external-link)
   static const IconData externalLink = IconData(
@@ -5586,7 +5586,7 @@ class LucideIcons {
   );
 
   /// ## eye-closed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/eye-closed.svg" width="100">
   ///
   /// [View "eye-closed" on lucide.dev](https://lucide.dev/icons/eye-closed)
   static const IconData eyeClosed = IconData(
@@ -5596,7 +5596,7 @@ class LucideIcons {
   );
 
   /// ## eye-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/eye-off.svg" width="100">
   ///
   /// [View "eye-off" on lucide.dev](https://lucide.dev/icons/eye-off)
   static const IconData eyeOff = IconData(
@@ -5606,7 +5606,7 @@ class LucideIcons {
   );
 
   /// ## eye
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/eye.svg" width="100">
   ///
   /// [View "eye" on lucide.dev](https://lucide.dev/icons/eye)
   static const IconData eye = IconData(
@@ -5616,7 +5616,7 @@ class LucideIcons {
   );
 
   /// ## facebook
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/facebook.svg" width="100">
   ///
   /// [View "facebook" on lucide.dev](https://lucide.dev/icons/facebook)
   static const IconData facebook = IconData(
@@ -5626,7 +5626,7 @@ class LucideIcons {
   );
 
   /// ## factory
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/factory.svg" width="100">
   ///
   /// [View "factory" on lucide.dev](https://lucide.dev/icons/factory)
   static const IconData factory = IconData(
@@ -5636,7 +5636,7 @@ class LucideIcons {
   );
 
   /// ## fan
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fan.svg" width="100">
   ///
   /// [View "fan" on lucide.dev](https://lucide.dev/icons/fan)
   static const IconData fan = IconData(
@@ -5646,7 +5646,7 @@ class LucideIcons {
   );
 
   /// ## fast-forward
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fast-forward.svg" width="100">
   ///
   /// [View "fast-forward" on lucide.dev](https://lucide.dev/icons/fast-forward)
   static const IconData fastForward = IconData(
@@ -5656,7 +5656,7 @@ class LucideIcons {
   );
 
   /// ## feather
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/feather.svg" width="100">
   ///
   /// [View "feather" on lucide.dev](https://lucide.dev/icons/feather)
   static const IconData feather = IconData(
@@ -5666,7 +5666,7 @@ class LucideIcons {
   );
 
   /// ## fence
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fence.svg" width="100">
   ///
   /// [View "fence" on lucide.dev](https://lucide.dev/icons/fence)
   static const IconData fence = IconData(
@@ -5676,7 +5676,7 @@ class LucideIcons {
   );
 
   /// ## ferris-wheel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ferris-wheel.svg" width="100">
   ///
   /// [View "ferris-wheel" on lucide.dev](https://lucide.dev/icons/ferris-wheel)
   static const IconData ferrisWheel = IconData(
@@ -5686,7 +5686,7 @@ class LucideIcons {
   );
 
   /// ## figma
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/figma.svg" width="100">
   ///
   /// [View "figma" on lucide.dev](https://lucide.dev/icons/figma)
   static const IconData figma = IconData(
@@ -5696,7 +5696,7 @@ class LucideIcons {
   );
 
   /// ## file-archive
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-archive.svg" width="100">
   ///
   /// [View "file-archive" on lucide.dev](https://lucide.dev/icons/file-archive)
   static const IconData fileArchive = IconData(
@@ -5706,7 +5706,7 @@ class LucideIcons {
   );
 
   /// ## file-audio-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-audio-2.svg" width="100">
   ///
   /// [View "file-audio-2" on lucide.dev](https://lucide.dev/icons/file-audio-2)
   static const IconData fileAudio2 = IconData(
@@ -5716,7 +5716,7 @@ class LucideIcons {
   );
 
   /// ## file-audio
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-audio.svg" width="100">
   ///
   /// [View "file-audio" on lucide.dev](https://lucide.dev/icons/file-audio)
   static const IconData fileAudio = IconData(
@@ -5726,7 +5726,7 @@ class LucideIcons {
   );
 
   /// ## file-axis-3d
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-axis-3d.svg" width="100">
   ///
   /// [View "file-axis-3d" on lucide.dev](https://lucide.dev/icons/file-axis-3d)
   static const IconData fileAxis3d = IconData(
@@ -5736,7 +5736,7 @@ class LucideIcons {
   );
 
   /// ## file-badge-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-badge-2.svg" width="100">
   ///
   /// [View "file-badge-2" on lucide.dev](https://lucide.dev/icons/file-badge-2)
   static const IconData fileBadge2 = IconData(
@@ -5746,7 +5746,7 @@ class LucideIcons {
   );
 
   /// ## file-badge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-badge.svg" width="100">
   ///
   /// [View "file-badge" on lucide.dev](https://lucide.dev/icons/file-badge)
   static const IconData fileBadge = IconData(
@@ -5756,7 +5756,7 @@ class LucideIcons {
   );
 
   /// ## file-box
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-box.svg" width="100">
   ///
   /// [View "file-box" on lucide.dev](https://lucide.dev/icons/file-box)
   static const IconData fileBox = IconData(
@@ -5766,7 +5766,7 @@ class LucideIcons {
   );
 
   /// ## file-chart-column-increasing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-chart-column-increasing.svg" width="100">
   ///
   /// [View "file-chart-column-increasing" on lucide.dev](https://lucide.dev/icons/file-chart-column-increasing)
   static const IconData fileChartColumnIncreasing = IconData(
@@ -5776,7 +5776,7 @@ class LucideIcons {
   );
 
   /// ## file-chart-column
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-chart-column.svg" width="100">
   ///
   /// [View "file-chart-column" on lucide.dev](https://lucide.dev/icons/file-chart-column)
   static const IconData fileChartColumn = IconData(
@@ -5786,7 +5786,7 @@ class LucideIcons {
   );
 
   /// ## file-chart-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-chart-line.svg" width="100">
   ///
   /// [View "file-chart-line" on lucide.dev](https://lucide.dev/icons/file-chart-line)
   static const IconData fileChartLine = IconData(
@@ -5796,7 +5796,7 @@ class LucideIcons {
   );
 
   /// ## file-chart-pie
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-chart-pie.svg" width="100">
   ///
   /// [View "file-chart-pie" on lucide.dev](https://lucide.dev/icons/file-chart-pie)
   static const IconData fileChartPie = IconData(
@@ -5806,7 +5806,7 @@ class LucideIcons {
   );
 
   /// ## file-check-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-check-2.svg" width="100">
   ///
   /// [View "file-check-2" on lucide.dev](https://lucide.dev/icons/file-check-2)
   static const IconData fileCheck2 = IconData(
@@ -5816,7 +5816,7 @@ class LucideIcons {
   );
 
   /// ## file-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-check.svg" width="100">
   ///
   /// [View "file-check" on lucide.dev](https://lucide.dev/icons/file-check)
   static const IconData fileCheck = IconData(
@@ -5826,7 +5826,7 @@ class LucideIcons {
   );
 
   /// ## file-clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-clock.svg" width="100">
   ///
   /// [View "file-clock" on lucide.dev](https://lucide.dev/icons/file-clock)
   static const IconData fileClock = IconData(
@@ -5836,7 +5836,7 @@ class LucideIcons {
   );
 
   /// ## file-code-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-code-2.svg" width="100">
   ///
   /// [View "file-code-2" on lucide.dev](https://lucide.dev/icons/file-code-2)
   static const IconData fileCode2 = IconData(
@@ -5846,7 +5846,7 @@ class LucideIcons {
   );
 
   /// ## file-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-code.svg" width="100">
   ///
   /// [View "file-code" on lucide.dev](https://lucide.dev/icons/file-code)
   static const IconData fileCode = IconData(
@@ -5856,7 +5856,7 @@ class LucideIcons {
   );
 
   /// ## file-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-cog.svg" width="100">
   ///
   /// [View "file-cog" on lucide.dev](https://lucide.dev/icons/file-cog)
   static const IconData fileCog = IconData(
@@ -5866,7 +5866,7 @@ class LucideIcons {
   );
 
   /// ## file-diff
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-diff.svg" width="100">
   ///
   /// [View "file-diff" on lucide.dev](https://lucide.dev/icons/file-diff)
   static const IconData fileDiff = IconData(
@@ -5876,7 +5876,7 @@ class LucideIcons {
   );
 
   /// ## file-digit
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-digit.svg" width="100">
   ///
   /// [View "file-digit" on lucide.dev](https://lucide.dev/icons/file-digit)
   static const IconData fileDigit = IconData(
@@ -5886,7 +5886,7 @@ class LucideIcons {
   );
 
   /// ## file-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-down.svg" width="100">
   ///
   /// [View "file-down" on lucide.dev](https://lucide.dev/icons/file-down)
   static const IconData fileDown = IconData(
@@ -5896,7 +5896,7 @@ class LucideIcons {
   );
 
   /// ## file-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-heart.svg" width="100">
   ///
   /// [View "file-heart" on lucide.dev](https://lucide.dev/icons/file-heart)
   static const IconData fileHeart = IconData(
@@ -5906,7 +5906,7 @@ class LucideIcons {
   );
 
   /// ## file-image
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-image.svg" width="100">
   ///
   /// [View "file-image" on lucide.dev](https://lucide.dev/icons/file-image)
   static const IconData fileImage = IconData(
@@ -5916,7 +5916,7 @@ class LucideIcons {
   );
 
   /// ## file-input
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-input.svg" width="100">
   ///
   /// [View "file-input" on lucide.dev](https://lucide.dev/icons/file-input)
   static const IconData fileInput = IconData(
@@ -5926,7 +5926,7 @@ class LucideIcons {
   );
 
   /// ## file-json-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-json-2.svg" width="100">
   ///
   /// [View "file-json-2" on lucide.dev](https://lucide.dev/icons/file-json-2)
   static const IconData fileJson2 = IconData(
@@ -5936,7 +5936,7 @@ class LucideIcons {
   );
 
   /// ## file-json
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-json.svg" width="100">
   ///
   /// [View "file-json" on lucide.dev](https://lucide.dev/icons/file-json)
   static const IconData fileJson = IconData(
@@ -5946,7 +5946,7 @@ class LucideIcons {
   );
 
   /// ## file-key-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-key-2.svg" width="100">
   ///
   /// [View "file-key-2" on lucide.dev](https://lucide.dev/icons/file-key-2)
   static const IconData fileKey2 = IconData(
@@ -5956,7 +5956,7 @@ class LucideIcons {
   );
 
   /// ## file-key
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-key.svg" width="100">
   ///
   /// [View "file-key" on lucide.dev](https://lucide.dev/icons/file-key)
   static const IconData fileKey = IconData(
@@ -5966,7 +5966,7 @@ class LucideIcons {
   );
 
   /// ## file-lock-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-lock-2.svg" width="100">
   ///
   /// [View "file-lock-2" on lucide.dev](https://lucide.dev/icons/file-lock-2)
   static const IconData fileLock2 = IconData(
@@ -5976,7 +5976,7 @@ class LucideIcons {
   );
 
   /// ## file-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-lock.svg" width="100">
   ///
   /// [View "file-lock" on lucide.dev](https://lucide.dev/icons/file-lock)
   static const IconData fileLock = IconData(
@@ -5986,7 +5986,7 @@ class LucideIcons {
   );
 
   /// ## file-minus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-minus-2.svg" width="100">
   ///
   /// [View "file-minus-2" on lucide.dev](https://lucide.dev/icons/file-minus-2)
   static const IconData fileMinus2 = IconData(
@@ -5996,7 +5996,7 @@ class LucideIcons {
   );
 
   /// ## file-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-minus.svg" width="100">
   ///
   /// [View "file-minus" on lucide.dev](https://lucide.dev/icons/file-minus)
   static const IconData fileMinus = IconData(
@@ -6006,7 +6006,7 @@ class LucideIcons {
   );
 
   /// ## file-music
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-music.svg" width="100">
   ///
   /// [View "file-music" on lucide.dev](https://lucide.dev/icons/file-music)
   static const IconData fileMusic = IconData(
@@ -6016,7 +6016,7 @@ class LucideIcons {
   );
 
   /// ## file-output
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-output.svg" width="100">
   ///
   /// [View "file-output" on lucide.dev](https://lucide.dev/icons/file-output)
   static const IconData fileOutput = IconData(
@@ -6026,7 +6026,7 @@ class LucideIcons {
   );
 
   /// ## file-pen-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-pen-line.svg" width="100">
   ///
   /// [View "file-pen-line" on lucide.dev](https://lucide.dev/icons/file-pen-line)
   static const IconData filePenLine = IconData(
@@ -6036,7 +6036,7 @@ class LucideIcons {
   );
 
   /// ## file-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-pen.svg" width="100">
   ///
   /// [View "file-pen" on lucide.dev](https://lucide.dev/icons/file-pen)
   static const IconData filePen = IconData(
@@ -6046,7 +6046,7 @@ class LucideIcons {
   );
 
   /// ## file-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-play.svg" width="100">
   ///
   /// [View "file-play" on lucide.dev](https://lucide.dev/icons/file-play)
   static const IconData filePlay = IconData(
@@ -6056,7 +6056,7 @@ class LucideIcons {
   );
 
   /// ## file-plus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-plus-2.svg" width="100">
   ///
   /// [View "file-plus-2" on lucide.dev](https://lucide.dev/icons/file-plus-2)
   static const IconData filePlus2 = IconData(
@@ -6066,7 +6066,7 @@ class LucideIcons {
   );
 
   /// ## file-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-plus.svg" width="100">
   ///
   /// [View "file-plus" on lucide.dev](https://lucide.dev/icons/file-plus)
   static const IconData filePlus = IconData(
@@ -6076,7 +6076,7 @@ class LucideIcons {
   );
 
   /// ## file-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-question-mark.svg" width="100">
   ///
   /// [View "file-question-mark" on lucide.dev](https://lucide.dev/icons/file-question-mark)
   static const IconData fileQuestionMark = IconData(
@@ -6086,7 +6086,7 @@ class LucideIcons {
   );
 
   /// ## file-scan
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-scan.svg" width="100">
   ///
   /// [View "file-scan" on lucide.dev](https://lucide.dev/icons/file-scan)
   static const IconData fileScan = IconData(
@@ -6096,7 +6096,7 @@ class LucideIcons {
   );
 
   /// ## file-search-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-search-2.svg" width="100">
   ///
   /// [View "file-search-2" on lucide.dev](https://lucide.dev/icons/file-search-2)
   static const IconData fileSearch2 = IconData(
@@ -6106,7 +6106,7 @@ class LucideIcons {
   );
 
   /// ## file-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-search.svg" width="100">
   ///
   /// [View "file-search" on lucide.dev](https://lucide.dev/icons/file-search)
   static const IconData fileSearch = IconData(
@@ -6116,7 +6116,7 @@ class LucideIcons {
   );
 
   /// ## file-sliders
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-sliders.svg" width="100">
   ///
   /// [View "file-sliders" on lucide.dev](https://lucide.dev/icons/file-sliders)
   static const IconData fileSliders = IconData(
@@ -6126,7 +6126,7 @@ class LucideIcons {
   );
 
   /// ## file-spreadsheet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-spreadsheet.svg" width="100">
   ///
   /// [View "file-spreadsheet" on lucide.dev](https://lucide.dev/icons/file-spreadsheet)
   static const IconData fileSpreadsheet = IconData(
@@ -6136,7 +6136,7 @@ class LucideIcons {
   );
 
   /// ## file-stack
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-stack.svg" width="100">
   ///
   /// [View "file-stack" on lucide.dev](https://lucide.dev/icons/file-stack)
   static const IconData fileStack = IconData(
@@ -6146,7 +6146,7 @@ class LucideIcons {
   );
 
   /// ## file-symlink
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-symlink.svg" width="100">
   ///
   /// [View "file-symlink" on lucide.dev](https://lucide.dev/icons/file-symlink)
   static const IconData fileSymlink = IconData(
@@ -6156,7 +6156,7 @@ class LucideIcons {
   );
 
   /// ## file-terminal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-terminal.svg" width="100">
   ///
   /// [View "file-terminal" on lucide.dev](https://lucide.dev/icons/file-terminal)
   static const IconData fileTerminal = IconData(
@@ -6166,7 +6166,7 @@ class LucideIcons {
   );
 
   /// ## file-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-text.svg" width="100">
   ///
   /// [View "file-text" on lucide.dev](https://lucide.dev/icons/file-text)
   static const IconData fileText = IconData(
@@ -6176,7 +6176,7 @@ class LucideIcons {
   );
 
   /// ## file-type-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-type-2.svg" width="100">
   ///
   /// [View "file-type-2" on lucide.dev](https://lucide.dev/icons/file-type-2)
   static const IconData fileType2 = IconData(
@@ -6186,7 +6186,7 @@ class LucideIcons {
   );
 
   /// ## file-type
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-type.svg" width="100">
   ///
   /// [View "file-type" on lucide.dev](https://lucide.dev/icons/file-type)
   static const IconData fileType = IconData(
@@ -6196,7 +6196,7 @@ class LucideIcons {
   );
 
   /// ## file-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-up.svg" width="100">
   ///
   /// [View "file-up" on lucide.dev](https://lucide.dev/icons/file-up)
   static const IconData fileUp = IconData(
@@ -6206,7 +6206,7 @@ class LucideIcons {
   );
 
   /// ## file-user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-user.svg" width="100">
   ///
   /// [View "file-user" on lucide.dev](https://lucide.dev/icons/file-user)
   static const IconData fileUser = IconData(
@@ -6216,7 +6216,7 @@ class LucideIcons {
   );
 
   /// ## file-video-camera
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-video-camera.svg" width="100">
   ///
   /// [View "file-video-camera" on lucide.dev](https://lucide.dev/icons/file-video-camera)
   static const IconData fileVideoCamera = IconData(
@@ -6226,7 +6226,7 @@ class LucideIcons {
   );
 
   /// ## file-volume-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-volume-2.svg" width="100">
   ///
   /// [View "file-volume-2" on lucide.dev](https://lucide.dev/icons/file-volume-2)
   static const IconData fileVolume2 = IconData(
@@ -6236,7 +6236,7 @@ class LucideIcons {
   );
 
   /// ## file-volume
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-volume.svg" width="100">
   ///
   /// [View "file-volume" on lucide.dev](https://lucide.dev/icons/file-volume)
   static const IconData fileVolume = IconData(
@@ -6246,7 +6246,7 @@ class LucideIcons {
   );
 
   /// ## file-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-warning.svg" width="100">
   ///
   /// [View "file-warning" on lucide.dev](https://lucide.dev/icons/file-warning)
   static const IconData fileWarning = IconData(
@@ -6256,7 +6256,7 @@ class LucideIcons {
   );
 
   /// ## file-x-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-x-2.svg" width="100">
   ///
   /// [View "file-x-2" on lucide.dev](https://lucide.dev/icons/file-x-2)
   static const IconData fileX2 = IconData(
@@ -6266,7 +6266,7 @@ class LucideIcons {
   );
 
   /// ## file-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-x.svg" width="100">
   ///
   /// [View "file-x" on lucide.dev](https://lucide.dev/icons/file-x)
   static const IconData fileX = IconData(
@@ -6276,7 +6276,7 @@ class LucideIcons {
   );
 
   /// ## file
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file.svg" width="100">
   ///
   /// [View "file" on lucide.dev](https://lucide.dev/icons/file)
   static const IconData file = IconData(
@@ -6286,7 +6286,7 @@ class LucideIcons {
   );
 
   /// ## files
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/files.svg" width="100">
   ///
   /// [View "files" on lucide.dev](https://lucide.dev/icons/files)
   static const IconData files = IconData(
@@ -6296,7 +6296,7 @@ class LucideIcons {
   );
 
   /// ## film
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/film.svg" width="100">
   ///
   /// [View "film" on lucide.dev](https://lucide.dev/icons/film)
   static const IconData film = IconData(
@@ -6306,7 +6306,7 @@ class LucideIcons {
   );
 
   /// ## fingerprint
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fingerprint.svg" width="100">
   ///
   /// [View "fingerprint" on lucide.dev](https://lucide.dev/icons/fingerprint)
   static const IconData fingerprint = IconData(
@@ -6316,7 +6316,7 @@ class LucideIcons {
   );
 
   /// ## fire-extinguisher
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fire-extinguisher.svg" width="100">
   ///
   /// [View "fire-extinguisher" on lucide.dev](https://lucide.dev/icons/fire-extinguisher)
   static const IconData fireExtinguisher = IconData(
@@ -6326,7 +6326,7 @@ class LucideIcons {
   );
 
   /// ## fish-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fish-off.svg" width="100">
   ///
   /// [View "fish-off" on lucide.dev](https://lucide.dev/icons/fish-off)
   static const IconData fishOff = IconData(
@@ -6336,7 +6336,7 @@ class LucideIcons {
   );
 
   /// ## fish-symbol
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fish-symbol.svg" width="100">
   ///
   /// [View "fish-symbol" on lucide.dev](https://lucide.dev/icons/fish-symbol)
   static const IconData fishSymbol = IconData(
@@ -6346,7 +6346,7 @@ class LucideIcons {
   );
 
   /// ## fish
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fish.svg" width="100">
   ///
   /// [View "fish" on lucide.dev](https://lucide.dev/icons/fish)
   static const IconData fish = IconData(
@@ -6356,7 +6356,7 @@ class LucideIcons {
   );
 
   /// ## flag-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flag-off.svg" width="100">
   ///
   /// [View "flag-off" on lucide.dev](https://lucide.dev/icons/flag-off)
   static const IconData flagOff = IconData(
@@ -6366,7 +6366,7 @@ class LucideIcons {
   );
 
   /// ## flag-triangle-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flag-triangle-left.svg" width="100">
   ///
   /// [View "flag-triangle-left" on lucide.dev](https://lucide.dev/icons/flag-triangle-left)
   static const IconData flagTriangleLeft = IconData(
@@ -6376,7 +6376,7 @@ class LucideIcons {
   );
 
   /// ## flag-triangle-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flag-triangle-right.svg" width="100">
   ///
   /// [View "flag-triangle-right" on lucide.dev](https://lucide.dev/icons/flag-triangle-right)
   static const IconData flagTriangleRight = IconData(
@@ -6386,7 +6386,7 @@ class LucideIcons {
   );
 
   /// ## flag
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flag.svg" width="100">
   ///
   /// [View "flag" on lucide.dev](https://lucide.dev/icons/flag)
   static const IconData flag = IconData(
@@ -6396,7 +6396,7 @@ class LucideIcons {
   );
 
   /// ## flame-kindling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flame-kindling.svg" width="100">
   ///
   /// [View "flame-kindling" on lucide.dev](https://lucide.dev/icons/flame-kindling)
   static const IconData flameKindling = IconData(
@@ -6406,7 +6406,7 @@ class LucideIcons {
   );
 
   /// ## flame
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flame.svg" width="100">
   ///
   /// [View "flame" on lucide.dev](https://lucide.dev/icons/flame)
   static const IconData flame = IconData(
@@ -6416,7 +6416,7 @@ class LucideIcons {
   );
 
   /// ## flashlight-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flashlight-off.svg" width="100">
   ///
   /// [View "flashlight-off" on lucide.dev](https://lucide.dev/icons/flashlight-off)
   static const IconData flashlightOff = IconData(
@@ -6426,7 +6426,7 @@ class LucideIcons {
   );
 
   /// ## flashlight
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flashlight.svg" width="100">
   ///
   /// [View "flashlight" on lucide.dev](https://lucide.dev/icons/flashlight)
   static const IconData flashlight = IconData(
@@ -6436,7 +6436,7 @@ class LucideIcons {
   );
 
   /// ## flask-conical-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flask-conical-off.svg" width="100">
   ///
   /// [View "flask-conical-off" on lucide.dev](https://lucide.dev/icons/flask-conical-off)
   static const IconData flaskConicalOff = IconData(
@@ -6446,7 +6446,7 @@ class LucideIcons {
   );
 
   /// ## flask-conical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flask-conical.svg" width="100">
   ///
   /// [View "flask-conical" on lucide.dev](https://lucide.dev/icons/flask-conical)
   static const IconData flaskConical = IconData(
@@ -6456,7 +6456,7 @@ class LucideIcons {
   );
 
   /// ## flask-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flask-round.svg" width="100">
   ///
   /// [View "flask-round" on lucide.dev](https://lucide.dev/icons/flask-round)
   static const IconData flaskRound = IconData(
@@ -6466,7 +6466,7 @@ class LucideIcons {
   );
 
   /// ## flip-horizontal-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-horizontal-2.svg" width="100">
   ///
   /// [View "flip-horizontal-2" on lucide.dev](https://lucide.dev/icons/flip-horizontal-2)
   static const IconData flipHorizontal2 = IconData(
@@ -6476,7 +6476,7 @@ class LucideIcons {
   );
 
   /// ## flip-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-horizontal.svg" width="100">
   ///
   /// [View "flip-horizontal" on lucide.dev](https://lucide.dev/icons/flip-horizontal)
   static const IconData flipHorizontal = IconData(
@@ -6486,7 +6486,7 @@ class LucideIcons {
   );
 
   /// ## flip-vertical-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-vertical-2.svg" width="100">
   ///
   /// [View "flip-vertical-2" on lucide.dev](https://lucide.dev/icons/flip-vertical-2)
   static const IconData flipVertical2 = IconData(
@@ -6496,7 +6496,7 @@ class LucideIcons {
   );
 
   /// ## flip-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-vertical.svg" width="100">
   ///
   /// [View "flip-vertical" on lucide.dev](https://lucide.dev/icons/flip-vertical)
   static const IconData flipVertical = IconData(
@@ -6506,7 +6506,7 @@ class LucideIcons {
   );
 
   /// ## flower-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flower-2.svg" width="100">
   ///
   /// [View "flower-2" on lucide.dev](https://lucide.dev/icons/flower-2)
   static const IconData flower2 = IconData(
@@ -6516,7 +6516,7 @@ class LucideIcons {
   );
 
   /// ## flower
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flower.svg" width="100">
   ///
   /// [View "flower" on lucide.dev](https://lucide.dev/icons/flower)
   static const IconData flower = IconData(
@@ -6526,7 +6526,7 @@ class LucideIcons {
   );
 
   /// ## focus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/focus.svg" width="100">
   ///
   /// [View "focus" on lucide.dev](https://lucide.dev/icons/focus)
   static const IconData focus = IconData(
@@ -6536,7 +6536,7 @@ class LucideIcons {
   );
 
   /// ## fold-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fold-horizontal.svg" width="100">
   ///
   /// [View "fold-horizontal" on lucide.dev](https://lucide.dev/icons/fold-horizontal)
   static const IconData foldHorizontal = IconData(
@@ -6546,7 +6546,7 @@ class LucideIcons {
   );
 
   /// ## fold-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fold-vertical.svg" width="100">
   ///
   /// [View "fold-vertical" on lucide.dev](https://lucide.dev/icons/fold-vertical)
   static const IconData foldVertical = IconData(
@@ -6556,7 +6556,7 @@ class LucideIcons {
   );
 
   /// ## folder-archive
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-archive.svg" width="100">
   ///
   /// [View "folder-archive" on lucide.dev](https://lucide.dev/icons/folder-archive)
   static const IconData folderArchive = IconData(
@@ -6566,7 +6566,7 @@ class LucideIcons {
   );
 
   /// ## folder-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-check.svg" width="100">
   ///
   /// [View "folder-check" on lucide.dev](https://lucide.dev/icons/folder-check)
   static const IconData folderCheck = IconData(
@@ -6576,7 +6576,7 @@ class LucideIcons {
   );
 
   /// ## folder-clock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-clock.svg" width="100">
   ///
   /// [View "folder-clock" on lucide.dev](https://lucide.dev/icons/folder-clock)
   static const IconData folderClock = IconData(
@@ -6586,7 +6586,7 @@ class LucideIcons {
   );
 
   /// ## folder-closed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-closed.svg" width="100">
   ///
   /// [View "folder-closed" on lucide.dev](https://lucide.dev/icons/folder-closed)
   static const IconData folderClosed = IconData(
@@ -6596,7 +6596,7 @@ class LucideIcons {
   );
 
   /// ## folder-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-code.svg" width="100">
   ///
   /// [View "folder-code" on lucide.dev](https://lucide.dev/icons/folder-code)
   static const IconData folderCode = IconData(
@@ -6606,7 +6606,7 @@ class LucideIcons {
   );
 
   /// ## folder-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-cog.svg" width="100">
   ///
   /// [View "folder-cog" on lucide.dev](https://lucide.dev/icons/folder-cog)
   static const IconData folderCog = IconData(
@@ -6616,7 +6616,7 @@ class LucideIcons {
   );
 
   /// ## folder-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-dot.svg" width="100">
   ///
   /// [View "folder-dot" on lucide.dev](https://lucide.dev/icons/folder-dot)
   static const IconData folderDot = IconData(
@@ -6626,7 +6626,7 @@ class LucideIcons {
   );
 
   /// ## folder-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-down.svg" width="100">
   ///
   /// [View "folder-down" on lucide.dev](https://lucide.dev/icons/folder-down)
   static const IconData folderDown = IconData(
@@ -6636,7 +6636,7 @@ class LucideIcons {
   );
 
   /// ## folder-git-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-git-2.svg" width="100">
   ///
   /// [View "folder-git-2" on lucide.dev](https://lucide.dev/icons/folder-git-2)
   static const IconData folderGit2 = IconData(
@@ -6646,7 +6646,7 @@ class LucideIcons {
   );
 
   /// ## folder-git
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-git.svg" width="100">
   ///
   /// [View "folder-git" on lucide.dev](https://lucide.dev/icons/folder-git)
   static const IconData folderGit = IconData(
@@ -6656,7 +6656,7 @@ class LucideIcons {
   );
 
   /// ## folder-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-heart.svg" width="100">
   ///
   /// [View "folder-heart" on lucide.dev](https://lucide.dev/icons/folder-heart)
   static const IconData folderHeart = IconData(
@@ -6666,7 +6666,7 @@ class LucideIcons {
   );
 
   /// ## folder-input
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-input.svg" width="100">
   ///
   /// [View "folder-input" on lucide.dev](https://lucide.dev/icons/folder-input)
   static const IconData folderInput = IconData(
@@ -6676,7 +6676,7 @@ class LucideIcons {
   );
 
   /// ## folder-kanban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-kanban.svg" width="100">
   ///
   /// [View "folder-kanban" on lucide.dev](https://lucide.dev/icons/folder-kanban)
   static const IconData folderKanban = IconData(
@@ -6686,7 +6686,7 @@ class LucideIcons {
   );
 
   /// ## folder-key
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-key.svg" width="100">
   ///
   /// [View "folder-key" on lucide.dev](https://lucide.dev/icons/folder-key)
   static const IconData folderKey = IconData(
@@ -6696,7 +6696,7 @@ class LucideIcons {
   );
 
   /// ## folder-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-lock.svg" width="100">
   ///
   /// [View "folder-lock" on lucide.dev](https://lucide.dev/icons/folder-lock)
   static const IconData folderLock = IconData(
@@ -6706,7 +6706,7 @@ class LucideIcons {
   );
 
   /// ## folder-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-minus.svg" width="100">
   ///
   /// [View "folder-minus" on lucide.dev](https://lucide.dev/icons/folder-minus)
   static const IconData folderMinus = IconData(
@@ -6716,7 +6716,7 @@ class LucideIcons {
   );
 
   /// ## folder-open-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-open-dot.svg" width="100">
   ///
   /// [View "folder-open-dot" on lucide.dev](https://lucide.dev/icons/folder-open-dot)
   static const IconData folderOpenDot = IconData(
@@ -6726,7 +6726,7 @@ class LucideIcons {
   );
 
   /// ## folder-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-open.svg" width="100">
   ///
   /// [View "folder-open" on lucide.dev](https://lucide.dev/icons/folder-open)
   static const IconData folderOpen = IconData(
@@ -6736,7 +6736,7 @@ class LucideIcons {
   );
 
   /// ## folder-output
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-output.svg" width="100">
   ///
   /// [View "folder-output" on lucide.dev](https://lucide.dev/icons/folder-output)
   static const IconData folderOutput = IconData(
@@ -6746,7 +6746,7 @@ class LucideIcons {
   );
 
   /// ## folder-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-pen.svg" width="100">
   ///
   /// [View "folder-pen" on lucide.dev](https://lucide.dev/icons/folder-pen)
   static const IconData folderPen = IconData(
@@ -6756,7 +6756,7 @@ class LucideIcons {
   );
 
   /// ## folder-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-plus.svg" width="100">
   ///
   /// [View "folder-plus" on lucide.dev](https://lucide.dev/icons/folder-plus)
   static const IconData folderPlus = IconData(
@@ -6766,7 +6766,7 @@ class LucideIcons {
   );
 
   /// ## folder-root
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-root.svg" width="100">
   ///
   /// [View "folder-root" on lucide.dev](https://lucide.dev/icons/folder-root)
   static const IconData folderRoot = IconData(
@@ -6776,7 +6776,7 @@ class LucideIcons {
   );
 
   /// ## folder-search-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-search-2.svg" width="100">
   ///
   /// [View "folder-search-2" on lucide.dev](https://lucide.dev/icons/folder-search-2)
   static const IconData folderSearch2 = IconData(
@@ -6786,7 +6786,7 @@ class LucideIcons {
   );
 
   /// ## folder-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-search.svg" width="100">
   ///
   /// [View "folder-search" on lucide.dev](https://lucide.dev/icons/folder-search)
   static const IconData folderSearch = IconData(
@@ -6796,7 +6796,7 @@ class LucideIcons {
   );
 
   /// ## folder-symlink
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-symlink.svg" width="100">
   ///
   /// [View "folder-symlink" on lucide.dev](https://lucide.dev/icons/folder-symlink)
   static const IconData folderSymlink = IconData(
@@ -6806,7 +6806,7 @@ class LucideIcons {
   );
 
   /// ## folder-sync
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-sync.svg" width="100">
   ///
   /// [View "folder-sync" on lucide.dev](https://lucide.dev/icons/folder-sync)
   static const IconData folderSync = IconData(
@@ -6816,7 +6816,7 @@ class LucideIcons {
   );
 
   /// ## folder-tree
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-tree.svg" width="100">
   ///
   /// [View "folder-tree" on lucide.dev](https://lucide.dev/icons/folder-tree)
   static const IconData folderTree = IconData(
@@ -6826,7 +6826,7 @@ class LucideIcons {
   );
 
   /// ## folder-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-up.svg" width="100">
   ///
   /// [View "folder-up" on lucide.dev](https://lucide.dev/icons/folder-up)
   static const IconData folderUp = IconData(
@@ -6836,7 +6836,7 @@ class LucideIcons {
   );
 
   /// ## folder-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-x.svg" width="100">
   ///
   /// [View "folder-x" on lucide.dev](https://lucide.dev/icons/folder-x)
   static const IconData folderX = IconData(
@@ -6846,7 +6846,7 @@ class LucideIcons {
   );
 
   /// ## folder
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder.svg" width="100">
   ///
   /// [View "folder" on lucide.dev](https://lucide.dev/icons/folder)
   static const IconData folder = IconData(
@@ -6856,7 +6856,7 @@ class LucideIcons {
   );
 
   /// ## folders
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folders.svg" width="100">
   ///
   /// [View "folders" on lucide.dev](https://lucide.dev/icons/folders)
   static const IconData folders = IconData(
@@ -6866,7 +6866,7 @@ class LucideIcons {
   );
 
   /// ## footprints
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/footprints.svg" width="100">
   ///
   /// [View "footprints" on lucide.dev](https://lucide.dev/icons/footprints)
   static const IconData footprints = IconData(
@@ -6876,7 +6876,7 @@ class LucideIcons {
   );
 
   /// ## forklift
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/forklift.svg" width="100">
   ///
   /// [View "forklift" on lucide.dev](https://lucide.dev/icons/forklift)
   static const IconData forklift = IconData(
@@ -6886,7 +6886,7 @@ class LucideIcons {
   );
 
   /// ## forward
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/forward.svg" width="100">
   ///
   /// [View "forward" on lucide.dev](https://lucide.dev/icons/forward)
   static const IconData forward = IconData(
@@ -6896,7 +6896,7 @@ class LucideIcons {
   );
 
   /// ## frame
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/frame.svg" width="100">
   ///
   /// [View "frame" on lucide.dev](https://lucide.dev/icons/frame)
   static const IconData frame = IconData(
@@ -6906,7 +6906,7 @@ class LucideIcons {
   );
 
   /// ## framer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/framer.svg" width="100">
   ///
   /// [View "framer" on lucide.dev](https://lucide.dev/icons/framer)
   static const IconData framer = IconData(
@@ -6916,7 +6916,7 @@ class LucideIcons {
   );
 
   /// ## frown
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/frown.svg" width="100">
   ///
   /// [View "frown" on lucide.dev](https://lucide.dev/icons/frown)
   static const IconData frown = IconData(
@@ -6926,7 +6926,7 @@ class LucideIcons {
   );
 
   /// ## fuel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fuel.svg" width="100">
   ///
   /// [View "fuel" on lucide.dev](https://lucide.dev/icons/fuel)
   static const IconData fuel = IconData(
@@ -6936,7 +6936,7 @@ class LucideIcons {
   );
 
   /// ## fullscreen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fullscreen.svg" width="100">
   ///
   /// [View "fullscreen" on lucide.dev](https://lucide.dev/icons/fullscreen)
   static const IconData fullscreen = IconData(
@@ -6946,7 +6946,7 @@ class LucideIcons {
   );
 
   /// ## funnel-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/funnel-plus.svg" width="100">
   ///
   /// [View "funnel-plus" on lucide.dev](https://lucide.dev/icons/funnel-plus)
   static const IconData funnelPlus = IconData(
@@ -6956,7 +6956,7 @@ class LucideIcons {
   );
 
   /// ## funnel-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/funnel-x.svg" width="100">
   ///
   /// [View "funnel-x" on lucide.dev](https://lucide.dev/icons/funnel-x)
   static const IconData funnelX = IconData(
@@ -6966,7 +6966,7 @@ class LucideIcons {
   );
 
   /// ## funnel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/funnel.svg" width="100">
   ///
   /// [View "funnel" on lucide.dev](https://lucide.dev/icons/funnel)
   static const IconData funnel = IconData(
@@ -6976,7 +6976,7 @@ class LucideIcons {
   );
 
   /// ## gallery-horizontal-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-horizontal-end.svg" width="100">
   ///
   /// [View "gallery-horizontal-end" on lucide.dev](https://lucide.dev/icons/gallery-horizontal-end)
   static const IconData galleryHorizontalEnd = IconData(
@@ -6986,7 +6986,7 @@ class LucideIcons {
   );
 
   /// ## gallery-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-horizontal.svg" width="100">
   ///
   /// [View "gallery-horizontal" on lucide.dev](https://lucide.dev/icons/gallery-horizontal)
   static const IconData galleryHorizontal = IconData(
@@ -6996,7 +6996,7 @@ class LucideIcons {
   );
 
   /// ## gallery-thumbnails
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-thumbnails.svg" width="100">
   ///
   /// [View "gallery-thumbnails" on lucide.dev](https://lucide.dev/icons/gallery-thumbnails)
   static const IconData galleryThumbnails = IconData(
@@ -7006,7 +7006,7 @@ class LucideIcons {
   );
 
   /// ## gallery-vertical-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-vertical-end.svg" width="100">
   ///
   /// [View "gallery-vertical-end" on lucide.dev](https://lucide.dev/icons/gallery-vertical-end)
   static const IconData galleryVerticalEnd = IconData(
@@ -7016,7 +7016,7 @@ class LucideIcons {
   );
 
   /// ## gallery-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-vertical.svg" width="100">
   ///
   /// [View "gallery-vertical" on lucide.dev](https://lucide.dev/icons/gallery-vertical)
   static const IconData galleryVertical = IconData(
@@ -7026,7 +7026,7 @@ class LucideIcons {
   );
 
   /// ## gamepad-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gamepad-2.svg" width="100">
   ///
   /// [View "gamepad-2" on lucide.dev](https://lucide.dev/icons/gamepad-2)
   static const IconData gamepad2 = IconData(
@@ -7036,7 +7036,7 @@ class LucideIcons {
   );
 
   /// ## gamepad
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gamepad.svg" width="100">
   ///
   /// [View "gamepad" on lucide.dev](https://lucide.dev/icons/gamepad)
   static const IconData gamepad = IconData(
@@ -7046,7 +7046,7 @@ class LucideIcons {
   );
 
   /// ## gauge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gauge.svg" width="100">
   ///
   /// [View "gauge" on lucide.dev](https://lucide.dev/icons/gauge)
   static const IconData gauge = IconData(
@@ -7056,7 +7056,7 @@ class LucideIcons {
   );
 
   /// ## gavel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gavel.svg" width="100">
   ///
   /// [View "gavel" on lucide.dev](https://lucide.dev/icons/gavel)
   static const IconData gavel = IconData(
@@ -7066,7 +7066,7 @@ class LucideIcons {
   );
 
   /// ## gem
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gem.svg" width="100">
   ///
   /// [View "gem" on lucide.dev](https://lucide.dev/icons/gem)
   static const IconData gem = IconData(
@@ -7076,7 +7076,7 @@ class LucideIcons {
   );
 
   /// ## georgian-lari
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/georgian-lari.svg" width="100">
   ///
   /// [View "georgian-lari" on lucide.dev](https://lucide.dev/icons/georgian-lari)
   static const IconData georgianLari = IconData(
@@ -7086,7 +7086,7 @@ class LucideIcons {
   );
 
   /// ## ghost
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ghost.svg" width="100">
   ///
   /// [View "ghost" on lucide.dev](https://lucide.dev/icons/ghost)
   static const IconData ghost = IconData(
@@ -7096,7 +7096,7 @@ class LucideIcons {
   );
 
   /// ## gift
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gift.svg" width="100">
   ///
   /// [View "gift" on lucide.dev](https://lucide.dev/icons/gift)
   static const IconData gift = IconData(
@@ -7106,7 +7106,7 @@ class LucideIcons {
   );
 
   /// ## git-branch-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-branch-plus.svg" width="100">
   ///
   /// [View "git-branch-plus" on lucide.dev](https://lucide.dev/icons/git-branch-plus)
   static const IconData gitBranchPlus = IconData(
@@ -7116,7 +7116,7 @@ class LucideIcons {
   );
 
   /// ## git-branch
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-branch.svg" width="100">
   ///
   /// [View "git-branch" on lucide.dev](https://lucide.dev/icons/git-branch)
   static const IconData gitBranch = IconData(
@@ -7126,7 +7126,7 @@ class LucideIcons {
   );
 
   /// ## git-commit-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-commit-horizontal.svg" width="100">
   ///
   /// [View "git-commit-horizontal" on lucide.dev](https://lucide.dev/icons/git-commit-horizontal)
   static const IconData gitCommitHorizontal = IconData(
@@ -7136,7 +7136,7 @@ class LucideIcons {
   );
 
   /// ## git-commit-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-commit-vertical.svg" width="100">
   ///
   /// [View "git-commit-vertical" on lucide.dev](https://lucide.dev/icons/git-commit-vertical)
   static const IconData gitCommitVertical = IconData(
@@ -7146,7 +7146,7 @@ class LucideIcons {
   );
 
   /// ## git-compare-arrows
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-compare-arrows.svg" width="100">
   ///
   /// [View "git-compare-arrows" on lucide.dev](https://lucide.dev/icons/git-compare-arrows)
   static const IconData gitCompareArrows = IconData(
@@ -7156,7 +7156,7 @@ class LucideIcons {
   );
 
   /// ## git-compare
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-compare.svg" width="100">
   ///
   /// [View "git-compare" on lucide.dev](https://lucide.dev/icons/git-compare)
   static const IconData gitCompare = IconData(
@@ -7166,7 +7166,7 @@ class LucideIcons {
   );
 
   /// ## git-fork
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-fork.svg" width="100">
   ///
   /// [View "git-fork" on lucide.dev](https://lucide.dev/icons/git-fork)
   static const IconData gitFork = IconData(
@@ -7176,7 +7176,7 @@ class LucideIcons {
   );
 
   /// ## git-graph
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-graph.svg" width="100">
   ///
   /// [View "git-graph" on lucide.dev](https://lucide.dev/icons/git-graph)
   static const IconData gitGraph = IconData(
@@ -7186,7 +7186,7 @@ class LucideIcons {
   );
 
   /// ## git-merge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-merge.svg" width="100">
   ///
   /// [View "git-merge" on lucide.dev](https://lucide.dev/icons/git-merge)
   static const IconData gitMerge = IconData(
@@ -7196,7 +7196,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request-arrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request-arrow.svg" width="100">
   ///
   /// [View "git-pull-request-arrow" on lucide.dev](https://lucide.dev/icons/git-pull-request-arrow)
   static const IconData gitPullRequestArrow = IconData(
@@ -7206,7 +7206,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request-closed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request-closed.svg" width="100">
   ///
   /// [View "git-pull-request-closed" on lucide.dev](https://lucide.dev/icons/git-pull-request-closed)
   static const IconData gitPullRequestClosed = IconData(
@@ -7216,7 +7216,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request-create-arrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request-create-arrow.svg" width="100">
   ///
   /// [View "git-pull-request-create-arrow" on lucide.dev](https://lucide.dev/icons/git-pull-request-create-arrow)
   static const IconData gitPullRequestCreateArrow = IconData(
@@ -7226,7 +7226,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request-create
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request-create.svg" width="100">
   ///
   /// [View "git-pull-request-create" on lucide.dev](https://lucide.dev/icons/git-pull-request-create)
   static const IconData gitPullRequestCreate = IconData(
@@ -7236,7 +7236,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request-draft
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request-draft.svg" width="100">
   ///
   /// [View "git-pull-request-draft" on lucide.dev](https://lucide.dev/icons/git-pull-request-draft)
   static const IconData gitPullRequestDraft = IconData(
@@ -7246,7 +7246,7 @@ class LucideIcons {
   );
 
   /// ## git-pull-request
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-pull-request.svg" width="100">
   ///
   /// [View "git-pull-request" on lucide.dev](https://lucide.dev/icons/git-pull-request)
   static const IconData gitPullRequest = IconData(
@@ -7256,7 +7256,7 @@ class LucideIcons {
   );
 
   /// ## github
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/github.svg" width="100">
   ///
   /// [View "github" on lucide.dev](https://lucide.dev/icons/github)
   static const IconData github = IconData(
@@ -7266,7 +7266,7 @@ class LucideIcons {
   );
 
   /// ## gitlab
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gitlab.svg" width="100">
   ///
   /// [View "gitlab" on lucide.dev](https://lucide.dev/icons/gitlab)
   static const IconData gitlab = IconData(
@@ -7276,7 +7276,7 @@ class LucideIcons {
   );
 
   /// ## glass-water
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/glass-water.svg" width="100">
   ///
   /// [View "glass-water" on lucide.dev](https://lucide.dev/icons/glass-water)
   static const IconData glassWater = IconData(
@@ -7286,7 +7286,7 @@ class LucideIcons {
   );
 
   /// ## glasses
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/glasses.svg" width="100">
   ///
   /// [View "glasses" on lucide.dev](https://lucide.dev/icons/glasses)
   static const IconData glasses = IconData(
@@ -7296,7 +7296,7 @@ class LucideIcons {
   );
 
   /// ## globe-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-lock.svg" width="100">
   ///
   /// [View "globe-lock" on lucide.dev](https://lucide.dev/icons/globe-lock)
   static const IconData globeLock = IconData(
@@ -7306,7 +7306,7 @@ class LucideIcons {
   );
 
   /// ## globe
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe.svg" width="100">
   ///
   /// [View "globe" on lucide.dev](https://lucide.dev/icons/globe)
   static const IconData globe = IconData(
@@ -7316,7 +7316,7 @@ class LucideIcons {
   );
 
   /// ## goal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/goal.svg" width="100">
   ///
   /// [View "goal" on lucide.dev](https://lucide.dev/icons/goal)
   static const IconData goal = IconData(
@@ -7326,7 +7326,7 @@ class LucideIcons {
   );
 
   /// ## gpu
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gpu.svg" width="100">
   ///
   /// [View "gpu" on lucide.dev](https://lucide.dev/icons/gpu)
   static const IconData gpu = IconData(
@@ -7336,7 +7336,7 @@ class LucideIcons {
   );
 
   /// ## graduation-cap
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/graduation-cap.svg" width="100">
   ///
   /// [View "graduation-cap" on lucide.dev](https://lucide.dev/icons/graduation-cap)
   static const IconData graduationCap = IconData(
@@ -7346,7 +7346,7 @@ class LucideIcons {
   );
 
   /// ## grape
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grape.svg" width="100">
   ///
   /// [View "grape" on lucide.dev](https://lucide.dev/icons/grape)
   static const IconData grape = IconData(
@@ -7356,7 +7356,7 @@ class LucideIcons {
   );
 
   /// ## grid-2x2-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-2x2-check.svg" width="100">
   ///
   /// [View "grid-2x2-check" on lucide.dev](https://lucide.dev/icons/grid-2x2-check)
   static const IconData grid2x2Check = IconData(
@@ -7366,7 +7366,7 @@ class LucideIcons {
   );
 
   /// ## grid-2x2-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-2x2-plus.svg" width="100">
   ///
   /// [View "grid-2x2-plus" on lucide.dev](https://lucide.dev/icons/grid-2x2-plus)
   static const IconData grid2x2Plus = IconData(
@@ -7376,7 +7376,7 @@ class LucideIcons {
   );
 
   /// ## grid-2x2-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-2x2-x.svg" width="100">
   ///
   /// [View "grid-2x2-x" on lucide.dev](https://lucide.dev/icons/grid-2x2-x)
   static const IconData grid2x2X = IconData(
@@ -7386,7 +7386,7 @@ class LucideIcons {
   );
 
   /// ## grid-2x2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-2x2.svg" width="100">
   ///
   /// [View "grid-2x2" on lucide.dev](https://lucide.dev/icons/grid-2x2)
   static const IconData grid2x2 = IconData(
@@ -7396,7 +7396,7 @@ class LucideIcons {
   );
 
   /// ## grid-3x2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-3x2.svg" width="100">
   ///
   /// [View "grid-3x2" on lucide.dev](https://lucide.dev/icons/grid-3x2)
   static const IconData grid3x2 = IconData(
@@ -7406,7 +7406,7 @@ class LucideIcons {
   );
 
   /// ## grid-3x3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grid-3x3.svg" width="100">
   ///
   /// [View "grid-3x3" on lucide.dev](https://lucide.dev/icons/grid-3x3)
   static const IconData grid3x3 = IconData(
@@ -7416,7 +7416,7 @@ class LucideIcons {
   );
 
   /// ## grip-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grip-horizontal.svg" width="100">
   ///
   /// [View "grip-horizontal" on lucide.dev](https://lucide.dev/icons/grip-horizontal)
   static const IconData gripHorizontal = IconData(
@@ -7426,7 +7426,7 @@ class LucideIcons {
   );
 
   /// ## grip-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grip-vertical.svg" width="100">
   ///
   /// [View "grip-vertical" on lucide.dev](https://lucide.dev/icons/grip-vertical)
   static const IconData gripVertical = IconData(
@@ -7436,7 +7436,7 @@ class LucideIcons {
   );
 
   /// ## grip
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/grip.svg" width="100">
   ///
   /// [View "grip" on lucide.dev](https://lucide.dev/icons/grip)
   static const IconData grip = IconData(
@@ -7446,7 +7446,7 @@ class LucideIcons {
   );
 
   /// ## group
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/group.svg" width="100">
   ///
   /// [View "group" on lucide.dev](https://lucide.dev/icons/group)
   static const IconData group = IconData(
@@ -7456,7 +7456,7 @@ class LucideIcons {
   );
 
   /// ## guitar
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/guitar.svg" width="100">
   ///
   /// [View "guitar" on lucide.dev](https://lucide.dev/icons/guitar)
   static const IconData guitar = IconData(
@@ -7466,7 +7466,7 @@ class LucideIcons {
   );
 
   /// ## ham
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ham.svg" width="100">
   ///
   /// [View "ham" on lucide.dev](https://lucide.dev/icons/ham)
   static const IconData ham = IconData(
@@ -7476,7 +7476,7 @@ class LucideIcons {
   );
 
   /// ## hamburger
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hamburger.svg" width="100">
   ///
   /// [View "hamburger" on lucide.dev](https://lucide.dev/icons/hamburger)
   static const IconData hamburger = IconData(
@@ -7486,7 +7486,7 @@ class LucideIcons {
   );
 
   /// ## hammer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hammer.svg" width="100">
   ///
   /// [View "hammer" on lucide.dev](https://lucide.dev/icons/hammer)
   static const IconData hammer = IconData(
@@ -7496,7 +7496,7 @@ class LucideIcons {
   );
 
   /// ## hand-coins
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-coins.svg" width="100">
   ///
   /// [View "hand-coins" on lucide.dev](https://lucide.dev/icons/hand-coins)
   static const IconData handCoins = IconData(
@@ -7506,7 +7506,7 @@ class LucideIcons {
   );
 
   /// ## hand-fist
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-fist.svg" width="100">
   ///
   /// [View "hand-fist" on lucide.dev](https://lucide.dev/icons/hand-fist)
   static const IconData handFist = IconData(
@@ -7516,7 +7516,7 @@ class LucideIcons {
   );
 
   /// ## hand-grab
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-grab.svg" width="100">
   ///
   /// [View "hand-grab" on lucide.dev](https://lucide.dev/icons/hand-grab)
   static const IconData handGrab = IconData(
@@ -7526,7 +7526,7 @@ class LucideIcons {
   );
 
   /// ## hand-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-heart.svg" width="100">
   ///
   /// [View "hand-heart" on lucide.dev](https://lucide.dev/icons/hand-heart)
   static const IconData handHeart = IconData(
@@ -7536,7 +7536,7 @@ class LucideIcons {
   );
 
   /// ## hand-helping
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-helping.svg" width="100">
   ///
   /// [View "hand-helping" on lucide.dev](https://lucide.dev/icons/hand-helping)
   static const IconData handHelping = IconData(
@@ -7546,7 +7546,7 @@ class LucideIcons {
   );
 
   /// ## hand-metal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-metal.svg" width="100">
   ///
   /// [View "hand-metal" on lucide.dev](https://lucide.dev/icons/hand-metal)
   static const IconData handMetal = IconData(
@@ -7556,7 +7556,7 @@ class LucideIcons {
   );
 
   /// ## hand-platter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand-platter.svg" width="100">
   ///
   /// [View "hand-platter" on lucide.dev](https://lucide.dev/icons/hand-platter)
   static const IconData handPlatter = IconData(
@@ -7566,7 +7566,7 @@ class LucideIcons {
   );
 
   /// ## hand
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hand.svg" width="100">
   ///
   /// [View "hand" on lucide.dev](https://lucide.dev/icons/hand)
   static const IconData hand = IconData(
@@ -7576,7 +7576,7 @@ class LucideIcons {
   );
 
   /// ## handbag
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/handbag.svg" width="100">
   ///
   /// [View "handbag" on lucide.dev](https://lucide.dev/icons/handbag)
   static const IconData handbag = IconData(
@@ -7586,7 +7586,7 @@ class LucideIcons {
   );
 
   /// ## handshake
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/handshake.svg" width="100">
   ///
   /// [View "handshake" on lucide.dev](https://lucide.dev/icons/handshake)
   static const IconData handshake = IconData(
@@ -7596,7 +7596,7 @@ class LucideIcons {
   );
 
   /// ## hard-drive-download
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hard-drive-download.svg" width="100">
   ///
   /// [View "hard-drive-download" on lucide.dev](https://lucide.dev/icons/hard-drive-download)
   static const IconData hardDriveDownload = IconData(
@@ -7606,7 +7606,7 @@ class LucideIcons {
   );
 
   /// ## hard-drive-upload
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hard-drive-upload.svg" width="100">
   ///
   /// [View "hard-drive-upload" on lucide.dev](https://lucide.dev/icons/hard-drive-upload)
   static const IconData hardDriveUpload = IconData(
@@ -7616,7 +7616,7 @@ class LucideIcons {
   );
 
   /// ## hard-drive
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hard-drive.svg" width="100">
   ///
   /// [View "hard-drive" on lucide.dev](https://lucide.dev/icons/hard-drive)
   static const IconData hardDrive = IconData(
@@ -7626,7 +7626,7 @@ class LucideIcons {
   );
 
   /// ## hard-hat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hard-hat.svg" width="100">
   ///
   /// [View "hard-hat" on lucide.dev](https://lucide.dev/icons/hard-hat)
   static const IconData hardHat = IconData(
@@ -7636,7 +7636,7 @@ class LucideIcons {
   );
 
   /// ## hash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hash.svg" width="100">
   ///
   /// [View "hash" on lucide.dev](https://lucide.dev/icons/hash)
   static const IconData hash = IconData(
@@ -7646,7 +7646,7 @@ class LucideIcons {
   );
 
   /// ## hat-glasses
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hat-glasses.svg" width="100">
   ///
   /// [View "hat-glasses" on lucide.dev](https://lucide.dev/icons/hat-glasses)
   static const IconData hatGlasses = IconData(
@@ -7656,7 +7656,7 @@ class LucideIcons {
   );
 
   /// ## haze
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/haze.svg" width="100">
   ///
   /// [View "haze" on lucide.dev](https://lucide.dev/icons/haze)
   static const IconData haze = IconData(
@@ -7666,7 +7666,7 @@ class LucideIcons {
   );
 
   /// ## hdmi-port
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hdmi-port.svg" width="100">
   ///
   /// [View "hdmi-port" on lucide.dev](https://lucide.dev/icons/hdmi-port)
   static const IconData hdmiPort = IconData(
@@ -7676,7 +7676,7 @@ class LucideIcons {
   );
 
   /// ## heading-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-1.svg" width="100">
   ///
   /// [View "heading-1" on lucide.dev](https://lucide.dev/icons/heading-1)
   static const IconData heading1 = IconData(
@@ -7686,7 +7686,7 @@ class LucideIcons {
   );
 
   /// ## heading-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-2.svg" width="100">
   ///
   /// [View "heading-2" on lucide.dev](https://lucide.dev/icons/heading-2)
   static const IconData heading2 = IconData(
@@ -7696,7 +7696,7 @@ class LucideIcons {
   );
 
   /// ## heading-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-3.svg" width="100">
   ///
   /// [View "heading-3" on lucide.dev](https://lucide.dev/icons/heading-3)
   static const IconData heading3 = IconData(
@@ -7706,7 +7706,7 @@ class LucideIcons {
   );
 
   /// ## heading-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-4.svg" width="100">
   ///
   /// [View "heading-4" on lucide.dev](https://lucide.dev/icons/heading-4)
   static const IconData heading4 = IconData(
@@ -7716,7 +7716,7 @@ class LucideIcons {
   );
 
   /// ## heading-5
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-5.svg" width="100">
   ///
   /// [View "heading-5" on lucide.dev](https://lucide.dev/icons/heading-5)
   static const IconData heading5 = IconData(
@@ -7726,7 +7726,7 @@ class LucideIcons {
   );
 
   /// ## heading-6
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading-6.svg" width="100">
   ///
   /// [View "heading-6" on lucide.dev](https://lucide.dev/icons/heading-6)
   static const IconData heading6 = IconData(
@@ -7736,7 +7736,7 @@ class LucideIcons {
   );
 
   /// ## heading
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heading.svg" width="100">
   ///
   /// [View "heading" on lucide.dev](https://lucide.dev/icons/heading)
   static const IconData heading = IconData(
@@ -7746,7 +7746,7 @@ class LucideIcons {
   );
 
   /// ## headphone-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/headphone-off.svg" width="100">
   ///
   /// [View "headphone-off" on lucide.dev](https://lucide.dev/icons/headphone-off)
   static const IconData headphoneOff = IconData(
@@ -7756,7 +7756,7 @@ class LucideIcons {
   );
 
   /// ## headphones
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/headphones.svg" width="100">
   ///
   /// [View "headphones" on lucide.dev](https://lucide.dev/icons/headphones)
   static const IconData headphones = IconData(
@@ -7766,7 +7766,7 @@ class LucideIcons {
   );
 
   /// ## headset
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/headset.svg" width="100">
   ///
   /// [View "headset" on lucide.dev](https://lucide.dev/icons/headset)
   static const IconData headset = IconData(
@@ -7776,7 +7776,7 @@ class LucideIcons {
   );
 
   /// ## heart-crack
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-crack.svg" width="100">
   ///
   /// [View "heart-crack" on lucide.dev](https://lucide.dev/icons/heart-crack)
   static const IconData heartCrack = IconData(
@@ -7786,7 +7786,7 @@ class LucideIcons {
   );
 
   /// ## heart-handshake
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-handshake.svg" width="100">
   ///
   /// [View "heart-handshake" on lucide.dev](https://lucide.dev/icons/heart-handshake)
   static const IconData heartHandshake = IconData(
@@ -7796,7 +7796,7 @@ class LucideIcons {
   );
 
   /// ## heart-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-minus.svg" width="100">
   ///
   /// [View "heart-minus" on lucide.dev](https://lucide.dev/icons/heart-minus)
   static const IconData heartMinus = IconData(
@@ -7806,7 +7806,7 @@ class LucideIcons {
   );
 
   /// ## heart-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-off.svg" width="100">
   ///
   /// [View "heart-off" on lucide.dev](https://lucide.dev/icons/heart-off)
   static const IconData heartOff = IconData(
@@ -7816,7 +7816,7 @@ class LucideIcons {
   );
 
   /// ## heart-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-plus.svg" width="100">
   ///
   /// [View "heart-plus" on lucide.dev](https://lucide.dev/icons/heart-plus)
   static const IconData heartPlus = IconData(
@@ -7826,7 +7826,7 @@ class LucideIcons {
   );
 
   /// ## heart-pulse
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart-pulse.svg" width="100">
   ///
   /// [View "heart-pulse" on lucide.dev](https://lucide.dev/icons/heart-pulse)
   static const IconData heartPulse = IconData(
@@ -7836,7 +7836,7 @@ class LucideIcons {
   );
 
   /// ## heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heart.svg" width="100">
   ///
   /// [View "heart" on lucide.dev](https://lucide.dev/icons/heart)
   static const IconData heart = IconData(
@@ -7846,7 +7846,7 @@ class LucideIcons {
   );
 
   /// ## heater
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/heater.svg" width="100">
   ///
   /// [View "heater" on lucide.dev](https://lucide.dev/icons/heater)
   static const IconData heater = IconData(
@@ -7856,7 +7856,7 @@ class LucideIcons {
   );
 
   /// ## hexagon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hexagon.svg" width="100">
   ///
   /// [View "hexagon" on lucide.dev](https://lucide.dev/icons/hexagon)
   static const IconData hexagon = IconData(
@@ -7866,7 +7866,7 @@ class LucideIcons {
   );
 
   /// ## highlighter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/highlighter.svg" width="100">
   ///
   /// [View "highlighter" on lucide.dev](https://lucide.dev/icons/highlighter)
   static const IconData highlighter = IconData(
@@ -7876,7 +7876,7 @@ class LucideIcons {
   );
 
   /// ## history
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/history.svg" width="100">
   ///
   /// [View "history" on lucide.dev](https://lucide.dev/icons/history)
   static const IconData history = IconData(
@@ -7886,7 +7886,7 @@ class LucideIcons {
   );
 
   /// ## hop-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hop-off.svg" width="100">
   ///
   /// [View "hop-off" on lucide.dev](https://lucide.dev/icons/hop-off)
   static const IconData hopOff = IconData(
@@ -7896,7 +7896,7 @@ class LucideIcons {
   );
 
   /// ## hop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hop.svg" width="100">
   ///
   /// [View "hop" on lucide.dev](https://lucide.dev/icons/hop)
   static const IconData hop = IconData(
@@ -7906,7 +7906,7 @@ class LucideIcons {
   );
 
   /// ## hospital
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hospital.svg" width="100">
   ///
   /// [View "hospital" on lucide.dev](https://lucide.dev/icons/hospital)
   static const IconData hospital = IconData(
@@ -7916,7 +7916,7 @@ class LucideIcons {
   );
 
   /// ## hotel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hotel.svg" width="100">
   ///
   /// [View "hotel" on lucide.dev](https://lucide.dev/icons/hotel)
   static const IconData hotel = IconData(
@@ -7926,7 +7926,7 @@ class LucideIcons {
   );
 
   /// ## hourglass
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hourglass.svg" width="100">
   ///
   /// [View "hourglass" on lucide.dev](https://lucide.dev/icons/hourglass)
   static const IconData hourglass = IconData(
@@ -7936,7 +7936,7 @@ class LucideIcons {
   );
 
   /// ## house-plug
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/house-plug.svg" width="100">
   ///
   /// [View "house-plug" on lucide.dev](https://lucide.dev/icons/house-plug)
   static const IconData housePlug = IconData(
@@ -7946,7 +7946,7 @@ class LucideIcons {
   );
 
   /// ## house-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/house-plus.svg" width="100">
   ///
   /// [View "house-plus" on lucide.dev](https://lucide.dev/icons/house-plus)
   static const IconData housePlus = IconData(
@@ -7956,7 +7956,7 @@ class LucideIcons {
   );
 
   /// ## house-wifi
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/house-wifi.svg" width="100">
   ///
   /// [View "house-wifi" on lucide.dev](https://lucide.dev/icons/house-wifi)
   static const IconData houseWifi = IconData(
@@ -7966,7 +7966,7 @@ class LucideIcons {
   );
 
   /// ## house
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/house.svg" width="100">
   ///
   /// [View "house" on lucide.dev](https://lucide.dev/icons/house)
   static const IconData house = IconData(
@@ -7976,7 +7976,7 @@ class LucideIcons {
   );
 
   /// ## ice-cream-bowl
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ice-cream-bowl.svg" width="100">
   ///
   /// [View "ice-cream-bowl" on lucide.dev](https://lucide.dev/icons/ice-cream-bowl)
   static const IconData iceCreamBowl = IconData(
@@ -7986,7 +7986,7 @@ class LucideIcons {
   );
 
   /// ## ice-cream-cone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ice-cream-cone.svg" width="100">
   ///
   /// [View "ice-cream-cone" on lucide.dev](https://lucide.dev/icons/ice-cream-cone)
   static const IconData iceCreamCone = IconData(
@@ -7996,7 +7996,7 @@ class LucideIcons {
   );
 
   /// ## id-card-lanyard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/id-card-lanyard.svg" width="100">
   ///
   /// [View "id-card-lanyard" on lucide.dev](https://lucide.dev/icons/id-card-lanyard)
   static const IconData idCardLanyard = IconData(
@@ -8006,7 +8006,7 @@ class LucideIcons {
   );
 
   /// ## id-card
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/id-card.svg" width="100">
   ///
   /// [View "id-card" on lucide.dev](https://lucide.dev/icons/id-card)
   static const IconData idCard = IconData(
@@ -8016,7 +8016,7 @@ class LucideIcons {
   );
 
   /// ## image-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-down.svg" width="100">
   ///
   /// [View "image-down" on lucide.dev](https://lucide.dev/icons/image-down)
   static const IconData imageDown = IconData(
@@ -8026,7 +8026,7 @@ class LucideIcons {
   );
 
   /// ## image-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-minus.svg" width="100">
   ///
   /// [View "image-minus" on lucide.dev](https://lucide.dev/icons/image-minus)
   static const IconData imageMinus = IconData(
@@ -8036,7 +8036,7 @@ class LucideIcons {
   );
 
   /// ## image-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-off.svg" width="100">
   ///
   /// [View "image-off" on lucide.dev](https://lucide.dev/icons/image-off)
   static const IconData imageOff = IconData(
@@ -8046,7 +8046,7 @@ class LucideIcons {
   );
 
   /// ## image-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-play.svg" width="100">
   ///
   /// [View "image-play" on lucide.dev](https://lucide.dev/icons/image-play)
   static const IconData imagePlay = IconData(
@@ -8056,7 +8056,7 @@ class LucideIcons {
   );
 
   /// ## image-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-plus.svg" width="100">
   ///
   /// [View "image-plus" on lucide.dev](https://lucide.dev/icons/image-plus)
   static const IconData imagePlus = IconData(
@@ -8066,7 +8066,7 @@ class LucideIcons {
   );
 
   /// ## image-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-up.svg" width="100">
   ///
   /// [View "image-up" on lucide.dev](https://lucide.dev/icons/image-up)
   static const IconData imageUp = IconData(
@@ -8076,7 +8076,7 @@ class LucideIcons {
   );
 
   /// ## image-upscale
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image-upscale.svg" width="100">
   ///
   /// [View "image-upscale" on lucide.dev](https://lucide.dev/icons/image-upscale)
   static const IconData imageUpscale = IconData(
@@ -8086,7 +8086,7 @@ class LucideIcons {
   );
 
   /// ## image
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/image.svg" width="100">
   ///
   /// [View "image" on lucide.dev](https://lucide.dev/icons/image)
   static const IconData image = IconData(
@@ -8096,7 +8096,7 @@ class LucideIcons {
   );
 
   /// ## images
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/images.svg" width="100">
   ///
   /// [View "images" on lucide.dev](https://lucide.dev/icons/images)
   static const IconData images = IconData(
@@ -8106,7 +8106,7 @@ class LucideIcons {
   );
 
   /// ## import
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/import.svg" width="100">
   ///
   /// [View "import" on lucide.dev](https://lucide.dev/icons/import)
   static const IconData import = IconData(
@@ -8116,7 +8116,7 @@ class LucideIcons {
   );
 
   /// ## inbox
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/inbox.svg" width="100">
   ///
   /// [View "inbox" on lucide.dev](https://lucide.dev/icons/inbox)
   static const IconData inbox = IconData(
@@ -8126,7 +8126,7 @@ class LucideIcons {
   );
 
   /// ## indent-decrease
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/indent-decrease.svg" width="100">
   ///
   /// [View "indent-decrease" on lucide.dev](https://lucide.dev/icons/indent-decrease)
   static const IconData indentDecrease = IconData(
@@ -8136,7 +8136,7 @@ class LucideIcons {
   );
 
   /// ## indent-increase
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/indent-increase.svg" width="100">
   ///
   /// [View "indent-increase" on lucide.dev](https://lucide.dev/icons/indent-increase)
   static const IconData indentIncrease = IconData(
@@ -8146,7 +8146,7 @@ class LucideIcons {
   );
 
   /// ## indian-rupee
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/indian-rupee.svg" width="100">
   ///
   /// [View "indian-rupee" on lucide.dev](https://lucide.dev/icons/indian-rupee)
   static const IconData indianRupee = IconData(
@@ -8156,7 +8156,7 @@ class LucideIcons {
   );
 
   /// ## infinity
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/infinity.svg" width="100">
   ///
   /// [View "infinity" on lucide.dev](https://lucide.dev/icons/infinity)
   static const IconData infinity = IconData(
@@ -8166,7 +8166,7 @@ class LucideIcons {
   );
 
   /// ## info
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/info.svg" width="100">
   ///
   /// [View "info" on lucide.dev](https://lucide.dev/icons/info)
   static const IconData info = IconData(
@@ -8176,7 +8176,7 @@ class LucideIcons {
   );
 
   /// ## inspection-panel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/inspection-panel.svg" width="100">
   ///
   /// [View "inspection-panel" on lucide.dev](https://lucide.dev/icons/inspection-panel)
   static const IconData inspectionPanel = IconData(
@@ -8186,7 +8186,7 @@ class LucideIcons {
   );
 
   /// ## instagram
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/instagram.svg" width="100">
   ///
   /// [View "instagram" on lucide.dev](https://lucide.dev/icons/instagram)
   static const IconData instagram = IconData(
@@ -8196,7 +8196,7 @@ class LucideIcons {
   );
 
   /// ## italic
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/italic.svg" width="100">
   ///
   /// [View "italic" on lucide.dev](https://lucide.dev/icons/italic)
   static const IconData italic = IconData(
@@ -8206,7 +8206,7 @@ class LucideIcons {
   );
 
   /// ## iteration-ccw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/iteration-ccw.svg" width="100">
   ///
   /// [View "iteration-ccw" on lucide.dev](https://lucide.dev/icons/iteration-ccw)
   static const IconData iterationCcw = IconData(
@@ -8216,7 +8216,7 @@ class LucideIcons {
   );
 
   /// ## iteration-cw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/iteration-cw.svg" width="100">
   ///
   /// [View "iteration-cw" on lucide.dev](https://lucide.dev/icons/iteration-cw)
   static const IconData iterationCw = IconData(
@@ -8226,7 +8226,7 @@ class LucideIcons {
   );
 
   /// ## japanese-yen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/japanese-yen.svg" width="100">
   ///
   /// [View "japanese-yen" on lucide.dev](https://lucide.dev/icons/japanese-yen)
   static const IconData japaneseYen = IconData(
@@ -8236,7 +8236,7 @@ class LucideIcons {
   );
 
   /// ## joystick
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/joystick.svg" width="100">
   ///
   /// [View "joystick" on lucide.dev](https://lucide.dev/icons/joystick)
   static const IconData joystick = IconData(
@@ -8246,7 +8246,7 @@ class LucideIcons {
   );
 
   /// ## kanban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/kanban.svg" width="100">
   ///
   /// [View "kanban" on lucide.dev](https://lucide.dev/icons/kanban)
   static const IconData kanban = IconData(
@@ -8256,7 +8256,7 @@ class LucideIcons {
   );
 
   /// ## key-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/key-round.svg" width="100">
   ///
   /// [View "key-round" on lucide.dev](https://lucide.dev/icons/key-round)
   static const IconData keyRound = IconData(
@@ -8266,7 +8266,7 @@ class LucideIcons {
   );
 
   /// ## key-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/key-square.svg" width="100">
   ///
   /// [View "key-square" on lucide.dev](https://lucide.dev/icons/key-square)
   static const IconData keySquare = IconData(
@@ -8276,7 +8276,7 @@ class LucideIcons {
   );
 
   /// ## key
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/key.svg" width="100">
   ///
   /// [View "key" on lucide.dev](https://lucide.dev/icons/key)
   static const IconData key = IconData(
@@ -8286,7 +8286,7 @@ class LucideIcons {
   );
 
   /// ## keyboard-music
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/keyboard-music.svg" width="100">
   ///
   /// [View "keyboard-music" on lucide.dev](https://lucide.dev/icons/keyboard-music)
   static const IconData keyboardMusic = IconData(
@@ -8296,7 +8296,7 @@ class LucideIcons {
   );
 
   /// ## keyboard-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/keyboard-off.svg" width="100">
   ///
   /// [View "keyboard-off" on lucide.dev](https://lucide.dev/icons/keyboard-off)
   static const IconData keyboardOff = IconData(
@@ -8306,7 +8306,7 @@ class LucideIcons {
   );
 
   /// ## keyboard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/keyboard.svg" width="100">
   ///
   /// [View "keyboard" on lucide.dev](https://lucide.dev/icons/keyboard)
   static const IconData keyboard = IconData(
@@ -8316,7 +8316,7 @@ class LucideIcons {
   );
 
   /// ## lamp-ceiling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp-ceiling.svg" width="100">
   ///
   /// [View "lamp-ceiling" on lucide.dev](https://lucide.dev/icons/lamp-ceiling)
   static const IconData lampCeiling = IconData(
@@ -8326,7 +8326,7 @@ class LucideIcons {
   );
 
   /// ## lamp-desk
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp-desk.svg" width="100">
   ///
   /// [View "lamp-desk" on lucide.dev](https://lucide.dev/icons/lamp-desk)
   static const IconData lampDesk = IconData(
@@ -8336,7 +8336,7 @@ class LucideIcons {
   );
 
   /// ## lamp-floor
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp-floor.svg" width="100">
   ///
   /// [View "lamp-floor" on lucide.dev](https://lucide.dev/icons/lamp-floor)
   static const IconData lampFloor = IconData(
@@ -8346,7 +8346,7 @@ class LucideIcons {
   );
 
   /// ## lamp-wall-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp-wall-down.svg" width="100">
   ///
   /// [View "lamp-wall-down" on lucide.dev](https://lucide.dev/icons/lamp-wall-down)
   static const IconData lampWallDown = IconData(
@@ -8356,7 +8356,7 @@ class LucideIcons {
   );
 
   /// ## lamp-wall-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp-wall-up.svg" width="100">
   ///
   /// [View "lamp-wall-up" on lucide.dev](https://lucide.dev/icons/lamp-wall-up)
   static const IconData lampWallUp = IconData(
@@ -8366,7 +8366,7 @@ class LucideIcons {
   );
 
   /// ## lamp
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lamp.svg" width="100">
   ///
   /// [View "lamp" on lucide.dev](https://lucide.dev/icons/lamp)
   static const IconData lamp = IconData(
@@ -8376,7 +8376,7 @@ class LucideIcons {
   );
 
   /// ## land-plot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/land-plot.svg" width="100">
   ///
   /// [View "land-plot" on lucide.dev](https://lucide.dev/icons/land-plot)
   static const IconData landPlot = IconData(
@@ -8386,7 +8386,7 @@ class LucideIcons {
   );
 
   /// ## landmark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/landmark.svg" width="100">
   ///
   /// [View "landmark" on lucide.dev](https://lucide.dev/icons/landmark)
   static const IconData landmark = IconData(
@@ -8396,7 +8396,7 @@ class LucideIcons {
   );
 
   /// ## languages
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/languages.svg" width="100">
   ///
   /// [View "languages" on lucide.dev](https://lucide.dev/icons/languages)
   static const IconData languages = IconData(
@@ -8406,7 +8406,7 @@ class LucideIcons {
   );
 
   /// ## laptop-minimal-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/laptop-minimal-check.svg" width="100">
   ///
   /// [View "laptop-minimal-check" on lucide.dev](https://lucide.dev/icons/laptop-minimal-check)
   static const IconData laptopMinimalCheck = IconData(
@@ -8416,7 +8416,7 @@ class LucideIcons {
   );
 
   /// ## laptop-minimal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/laptop-minimal.svg" width="100">
   ///
   /// [View "laptop-minimal" on lucide.dev](https://lucide.dev/icons/laptop-minimal)
   static const IconData laptopMinimal = IconData(
@@ -8426,7 +8426,7 @@ class LucideIcons {
   );
 
   /// ## laptop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/laptop.svg" width="100">
   ///
   /// [View "laptop" on lucide.dev](https://lucide.dev/icons/laptop)
   static const IconData laptop = IconData(
@@ -8436,7 +8436,7 @@ class LucideIcons {
   );
 
   /// ## lasso-select
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lasso-select.svg" width="100">
   ///
   /// [View "lasso-select" on lucide.dev](https://lucide.dev/icons/lasso-select)
   static const IconData lassoSelect = IconData(
@@ -8446,7 +8446,7 @@ class LucideIcons {
   );
 
   /// ## lasso
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lasso.svg" width="100">
   ///
   /// [View "lasso" on lucide.dev](https://lucide.dev/icons/lasso)
   static const IconData lasso = IconData(
@@ -8456,7 +8456,7 @@ class LucideIcons {
   );
 
   /// ## laugh
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/laugh.svg" width="100">
   ///
   /// [View "laugh" on lucide.dev](https://lucide.dev/icons/laugh)
   static const IconData laugh = IconData(
@@ -8466,7 +8466,7 @@ class LucideIcons {
   );
 
   /// ## layers-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layers-2.svg" width="100">
   ///
   /// [View "layers-2" on lucide.dev](https://lucide.dev/icons/layers-2)
   static const IconData layers2 = IconData(
@@ -8476,7 +8476,7 @@ class LucideIcons {
   );
 
   /// ## layers
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layers.svg" width="100">
   ///
   /// [View "layers" on lucide.dev](https://lucide.dev/icons/layers)
   static const IconData layers = IconData(
@@ -8486,7 +8486,7 @@ class LucideIcons {
   );
 
   /// ## layout-dashboard
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-dashboard.svg" width="100">
   ///
   /// [View "layout-dashboard" on lucide.dev](https://lucide.dev/icons/layout-dashboard)
   static const IconData layoutDashboard = IconData(
@@ -8496,7 +8496,7 @@ class LucideIcons {
   );
 
   /// ## layout-grid
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-grid.svg" width="100">
   ///
   /// [View "layout-grid" on lucide.dev](https://lucide.dev/icons/layout-grid)
   static const IconData layoutGrid = IconData(
@@ -8506,7 +8506,7 @@ class LucideIcons {
   );
 
   /// ## layout-list
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-list.svg" width="100">
   ///
   /// [View "layout-list" on lucide.dev](https://lucide.dev/icons/layout-list)
   static const IconData layoutList = IconData(
@@ -8516,7 +8516,7 @@ class LucideIcons {
   );
 
   /// ## layout-panel-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-panel-left.svg" width="100">
   ///
   /// [View "layout-panel-left" on lucide.dev](https://lucide.dev/icons/layout-panel-left)
   static const IconData layoutPanelLeft = IconData(
@@ -8526,7 +8526,7 @@ class LucideIcons {
   );
 
   /// ## layout-panel-top
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-panel-top.svg" width="100">
   ///
   /// [View "layout-panel-top" on lucide.dev](https://lucide.dev/icons/layout-panel-top)
   static const IconData layoutPanelTop = IconData(
@@ -8536,7 +8536,7 @@ class LucideIcons {
   );
 
   /// ## layout-template
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-template.svg" width="100">
   ///
   /// [View "layout-template" on lucide.dev](https://lucide.dev/icons/layout-template)
   static const IconData layoutTemplate = IconData(
@@ -8546,7 +8546,7 @@ class LucideIcons {
   );
 
   /// ## leaf
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/leaf.svg" width="100">
   ///
   /// [View "leaf" on lucide.dev](https://lucide.dev/icons/leaf)
   static const IconData leaf = IconData(
@@ -8556,7 +8556,7 @@ class LucideIcons {
   );
 
   /// ## leafy-green
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/leafy-green.svg" width="100">
   ///
   /// [View "leafy-green" on lucide.dev](https://lucide.dev/icons/leafy-green)
   static const IconData leafyGreen = IconData(
@@ -8566,7 +8566,7 @@ class LucideIcons {
   );
 
   /// ## lectern
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lectern.svg" width="100">
   ///
   /// [View "lectern" on lucide.dev](https://lucide.dev/icons/lectern)
   static const IconData lectern = IconData(
@@ -8576,7 +8576,7 @@ class LucideIcons {
   );
 
   /// ## letter-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/letter-text.svg" width="100">
   ///
   /// [View "letter-text" on lucide.dev](https://lucide.dev/icons/letter-text)
   static const IconData letterText = IconData(
@@ -8586,7 +8586,7 @@ class LucideIcons {
   );
 
   /// ## library-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/library-big.svg" width="100">
   ///
   /// [View "library-big" on lucide.dev](https://lucide.dev/icons/library-big)
   static const IconData libraryBig = IconData(
@@ -8596,7 +8596,7 @@ class LucideIcons {
   );
 
   /// ## library
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/library.svg" width="100">
   ///
   /// [View "library" on lucide.dev](https://lucide.dev/icons/library)
   static const IconData library = IconData(
@@ -8606,7 +8606,7 @@ class LucideIcons {
   );
 
   /// ## life-buoy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/life-buoy.svg" width="100">
   ///
   /// [View "life-buoy" on lucide.dev](https://lucide.dev/icons/life-buoy)
   static const IconData lifeBuoy = IconData(
@@ -8616,7 +8616,7 @@ class LucideIcons {
   );
 
   /// ## ligature
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ligature.svg" width="100">
   ///
   /// [View "ligature" on lucide.dev](https://lucide.dev/icons/ligature)
   static const IconData ligature = IconData(
@@ -8626,7 +8626,7 @@ class LucideIcons {
   );
 
   /// ## lightbulb-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lightbulb-off.svg" width="100">
   ///
   /// [View "lightbulb-off" on lucide.dev](https://lucide.dev/icons/lightbulb-off)
   static const IconData lightbulbOff = IconData(
@@ -8636,7 +8636,7 @@ class LucideIcons {
   );
 
   /// ## lightbulb
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lightbulb.svg" width="100">
   ///
   /// [View "lightbulb" on lucide.dev](https://lucide.dev/icons/lightbulb)
   static const IconData lightbulb = IconData(
@@ -8646,7 +8646,7 @@ class LucideIcons {
   );
 
   /// ## line-squiggle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/line-squiggle.svg" width="100">
   ///
   /// [View "line-squiggle" on lucide.dev](https://lucide.dev/icons/line-squiggle)
   static const IconData lineSquiggle = IconData(
@@ -8656,7 +8656,7 @@ class LucideIcons {
   );
 
   /// ## link-2-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/link-2-off.svg" width="100">
   ///
   /// [View "link-2-off" on lucide.dev](https://lucide.dev/icons/link-2-off)
   static const IconData link2Off = IconData(
@@ -8666,7 +8666,7 @@ class LucideIcons {
   );
 
   /// ## link-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/link-2.svg" width="100">
   ///
   /// [View "link-2" on lucide.dev](https://lucide.dev/icons/link-2)
   static const IconData link2 = IconData(
@@ -8676,7 +8676,7 @@ class LucideIcons {
   );
 
   /// ## link
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/link.svg" width="100">
   ///
   /// [View "link" on lucide.dev](https://lucide.dev/icons/link)
   static const IconData link = IconData(
@@ -8686,7 +8686,7 @@ class LucideIcons {
   );
 
   /// ## linkedin
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/linkedin.svg" width="100">
   ///
   /// [View "linkedin" on lucide.dev](https://lucide.dev/icons/linkedin)
   static const IconData linkedin = IconData(
@@ -8696,7 +8696,7 @@ class LucideIcons {
   );
 
   /// ## list-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-check.svg" width="100">
   ///
   /// [View "list-check" on lucide.dev](https://lucide.dev/icons/list-check)
   static const IconData listCheck = IconData(
@@ -8706,7 +8706,7 @@ class LucideIcons {
   );
 
   /// ## list-checks
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-checks.svg" width="100">
   ///
   /// [View "list-checks" on lucide.dev](https://lucide.dev/icons/list-checks)
   static const IconData listChecks = IconData(
@@ -8716,7 +8716,7 @@ class LucideIcons {
   );
 
   /// ## list-collapse
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-collapse.svg" width="100">
   ///
   /// [View "list-collapse" on lucide.dev](https://lucide.dev/icons/list-collapse)
   static const IconData listCollapse = IconData(
@@ -8726,7 +8726,7 @@ class LucideIcons {
   );
 
   /// ## list-end
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-end.svg" width="100">
   ///
   /// [View "list-end" on lucide.dev](https://lucide.dev/icons/list-end)
   static const IconData listEnd = IconData(
@@ -8736,7 +8736,7 @@ class LucideIcons {
   );
 
   /// ## list-filter-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-filter-plus.svg" width="100">
   ///
   /// [View "list-filter-plus" on lucide.dev](https://lucide.dev/icons/list-filter-plus)
   static const IconData listFilterPlus = IconData(
@@ -8746,7 +8746,7 @@ class LucideIcons {
   );
 
   /// ## list-filter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-filter.svg" width="100">
   ///
   /// [View "list-filter" on lucide.dev](https://lucide.dev/icons/list-filter)
   static const IconData listFilter = IconData(
@@ -8756,7 +8756,7 @@ class LucideIcons {
   );
 
   /// ## list-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-minus.svg" width="100">
   ///
   /// [View "list-minus" on lucide.dev](https://lucide.dev/icons/list-minus)
   static const IconData listMinus = IconData(
@@ -8766,7 +8766,7 @@ class LucideIcons {
   );
 
   /// ## list-music
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-music.svg" width="100">
   ///
   /// [View "list-music" on lucide.dev](https://lucide.dev/icons/list-music)
   static const IconData listMusic = IconData(
@@ -8776,7 +8776,7 @@ class LucideIcons {
   );
 
   /// ## list-ordered
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-ordered.svg" width="100">
   ///
   /// [View "list-ordered" on lucide.dev](https://lucide.dev/icons/list-ordered)
   static const IconData listOrdered = IconData(
@@ -8786,7 +8786,7 @@ class LucideIcons {
   );
 
   /// ## list-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-plus.svg" width="100">
   ///
   /// [View "list-plus" on lucide.dev](https://lucide.dev/icons/list-plus)
   static const IconData listPlus = IconData(
@@ -8796,7 +8796,7 @@ class LucideIcons {
   );
 
   /// ## list-restart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-restart.svg" width="100">
   ///
   /// [View "list-restart" on lucide.dev](https://lucide.dev/icons/list-restart)
   static const IconData listRestart = IconData(
@@ -8806,7 +8806,7 @@ class LucideIcons {
   );
 
   /// ## list-start
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-start.svg" width="100">
   ///
   /// [View "list-start" on lucide.dev](https://lucide.dev/icons/list-start)
   static const IconData listStart = IconData(
@@ -8816,7 +8816,7 @@ class LucideIcons {
   );
 
   /// ## list-todo
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-todo.svg" width="100">
   ///
   /// [View "list-todo" on lucide.dev](https://lucide.dev/icons/list-todo)
   static const IconData listTodo = IconData(
@@ -8826,7 +8826,7 @@ class LucideIcons {
   );
 
   /// ## list-tree
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-tree.svg" width="100">
   ///
   /// [View "list-tree" on lucide.dev](https://lucide.dev/icons/list-tree)
   static const IconData listTree = IconData(
@@ -8836,7 +8836,7 @@ class LucideIcons {
   );
 
   /// ## list-video
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-video.svg" width="100">
   ///
   /// [View "list-video" on lucide.dev](https://lucide.dev/icons/list-video)
   static const IconData listVideo = IconData(
@@ -8846,7 +8846,7 @@ class LucideIcons {
   );
 
   /// ## list-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-x.svg" width="100">
   ///
   /// [View "list-x" on lucide.dev](https://lucide.dev/icons/list-x)
   static const IconData listX = IconData(
@@ -8856,7 +8856,7 @@ class LucideIcons {
   );
 
   /// ## list
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list.svg" width="100">
   ///
   /// [View "list" on lucide.dev](https://lucide.dev/icons/list)
   static const IconData list = IconData(
@@ -8866,7 +8866,7 @@ class LucideIcons {
   );
 
   /// ## loader-circle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/loader-circle.svg" width="100">
   ///
   /// [View "loader-circle" on lucide.dev](https://lucide.dev/icons/loader-circle)
   static const IconData loaderCircle = IconData(
@@ -8876,7 +8876,7 @@ class LucideIcons {
   );
 
   /// ## loader-pinwheel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/loader-pinwheel.svg" width="100">
   ///
   /// [View "loader-pinwheel" on lucide.dev](https://lucide.dev/icons/loader-pinwheel)
   static const IconData loaderPinwheel = IconData(
@@ -8886,7 +8886,7 @@ class LucideIcons {
   );
 
   /// ## loader
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/loader.svg" width="100">
   ///
   /// [View "loader" on lucide.dev](https://lucide.dev/icons/loader)
   static const IconData loader = IconData(
@@ -8896,7 +8896,7 @@ class LucideIcons {
   );
 
   /// ## locate-fixed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/locate-fixed.svg" width="100">
   ///
   /// [View "locate-fixed" on lucide.dev](https://lucide.dev/icons/locate-fixed)
   static const IconData locateFixed = IconData(
@@ -8906,7 +8906,7 @@ class LucideIcons {
   );
 
   /// ## locate-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/locate-off.svg" width="100">
   ///
   /// [View "locate-off" on lucide.dev](https://lucide.dev/icons/locate-off)
   static const IconData locateOff = IconData(
@@ -8916,7 +8916,7 @@ class LucideIcons {
   );
 
   /// ## locate
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/locate.svg" width="100">
   ///
   /// [View "locate" on lucide.dev](https://lucide.dev/icons/locate)
   static const IconData locate = IconData(
@@ -8926,7 +8926,7 @@ class LucideIcons {
   );
 
   /// ## lock-keyhole-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lock-keyhole-open.svg" width="100">
   ///
   /// [View "lock-keyhole-open" on lucide.dev](https://lucide.dev/icons/lock-keyhole-open)
   static const IconData lockKeyholeOpen = IconData(
@@ -8936,7 +8936,7 @@ class LucideIcons {
   );
 
   /// ## lock-keyhole
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lock-keyhole.svg" width="100">
   ///
   /// [View "lock-keyhole" on lucide.dev](https://lucide.dev/icons/lock-keyhole)
   static const IconData lockKeyhole = IconData(
@@ -8946,7 +8946,7 @@ class LucideIcons {
   );
 
   /// ## lock-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lock-open.svg" width="100">
   ///
   /// [View "lock-open" on lucide.dev](https://lucide.dev/icons/lock-open)
   static const IconData lockOpen = IconData(
@@ -8956,7 +8956,7 @@ class LucideIcons {
   );
 
   /// ## lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lock.svg" width="100">
   ///
   /// [View "lock" on lucide.dev](https://lucide.dev/icons/lock)
   static const IconData lock = IconData(
@@ -8966,7 +8966,7 @@ class LucideIcons {
   );
 
   /// ## log-in
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/log-in.svg" width="100">
   ///
   /// [View "log-in" on lucide.dev](https://lucide.dev/icons/log-in)
   static const IconData logIn = IconData(
@@ -8976,7 +8976,7 @@ class LucideIcons {
   );
 
   /// ## log-out
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/log-out.svg" width="100">
   ///
   /// [View "log-out" on lucide.dev](https://lucide.dev/icons/log-out)
   static const IconData logOut = IconData(
@@ -8986,7 +8986,7 @@ class LucideIcons {
   );
 
   /// ## logs
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/logs.svg" width="100">
   ///
   /// [View "logs" on lucide.dev](https://lucide.dev/icons/logs)
   static const IconData logs = IconData(
@@ -8996,7 +8996,7 @@ class LucideIcons {
   );
 
   /// ## lollipop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lollipop.svg" width="100">
   ///
   /// [View "lollipop" on lucide.dev](https://lucide.dev/icons/lollipop)
   static const IconData lollipop = IconData(
@@ -9006,7 +9006,7 @@ class LucideIcons {
   );
 
   /// ## luggage
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/luggage.svg" width="100">
   ///
   /// [View "luggage" on lucide.dev](https://lucide.dev/icons/luggage)
   static const IconData luggage = IconData(
@@ -9016,7 +9016,7 @@ class LucideIcons {
   );
 
   /// ## magnet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/magnet.svg" width="100">
   ///
   /// [View "magnet" on lucide.dev](https://lucide.dev/icons/magnet)
   static const IconData magnet = IconData(
@@ -9026,7 +9026,7 @@ class LucideIcons {
   );
 
   /// ## mail-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-check.svg" width="100">
   ///
   /// [View "mail-check" on lucide.dev](https://lucide.dev/icons/mail-check)
   static const IconData mailCheck = IconData(
@@ -9036,7 +9036,7 @@ class LucideIcons {
   );
 
   /// ## mail-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-minus.svg" width="100">
   ///
   /// [View "mail-minus" on lucide.dev](https://lucide.dev/icons/mail-minus)
   static const IconData mailMinus = IconData(
@@ -9046,7 +9046,7 @@ class LucideIcons {
   );
 
   /// ## mail-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-open.svg" width="100">
   ///
   /// [View "mail-open" on lucide.dev](https://lucide.dev/icons/mail-open)
   static const IconData mailOpen = IconData(
@@ -9056,7 +9056,7 @@ class LucideIcons {
   );
 
   /// ## mail-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-plus.svg" width="100">
   ///
   /// [View "mail-plus" on lucide.dev](https://lucide.dev/icons/mail-plus)
   static const IconData mailPlus = IconData(
@@ -9066,7 +9066,7 @@ class LucideIcons {
   );
 
   /// ## mail-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-question-mark.svg" width="100">
   ///
   /// [View "mail-question-mark" on lucide.dev](https://lucide.dev/icons/mail-question-mark)
   static const IconData mailQuestionMark = IconData(
@@ -9076,7 +9076,7 @@ class LucideIcons {
   );
 
   /// ## mail-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-search.svg" width="100">
   ///
   /// [View "mail-search" on lucide.dev](https://lucide.dev/icons/mail-search)
   static const IconData mailSearch = IconData(
@@ -9086,7 +9086,7 @@ class LucideIcons {
   );
 
   /// ## mail-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-warning.svg" width="100">
   ///
   /// [View "mail-warning" on lucide.dev](https://lucide.dev/icons/mail-warning)
   static const IconData mailWarning = IconData(
@@ -9096,7 +9096,7 @@ class LucideIcons {
   );
 
   /// ## mail-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-x.svg" width="100">
   ///
   /// [View "mail-x" on lucide.dev](https://lucide.dev/icons/mail-x)
   static const IconData mailX = IconData(
@@ -9106,7 +9106,7 @@ class LucideIcons {
   );
 
   /// ## mail
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail.svg" width="100">
   ///
   /// [View "mail" on lucide.dev](https://lucide.dev/icons/mail)
   static const IconData mail = IconData(
@@ -9116,7 +9116,7 @@ class LucideIcons {
   );
 
   /// ## mailbox
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mailbox.svg" width="100">
   ///
   /// [View "mailbox" on lucide.dev](https://lucide.dev/icons/mailbox)
   static const IconData mailbox = IconData(
@@ -9126,7 +9126,7 @@ class LucideIcons {
   );
 
   /// ## mails
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mails.svg" width="100">
   ///
   /// [View "mails" on lucide.dev](https://lucide.dev/icons/mails)
   static const IconData mails = IconData(
@@ -9136,7 +9136,7 @@ class LucideIcons {
   );
 
   /// ## map-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-minus.svg" width="100">
   ///
   /// [View "map-minus" on lucide.dev](https://lucide.dev/icons/map-minus)
   static const IconData mapMinus = IconData(
@@ -9146,7 +9146,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-check-inside
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-check-inside.svg" width="100">
   ///
   /// [View "map-pin-check-inside" on lucide.dev](https://lucide.dev/icons/map-pin-check-inside)
   static const IconData mapPinCheckInside = IconData(
@@ -9156,7 +9156,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-check.svg" width="100">
   ///
   /// [View "map-pin-check" on lucide.dev](https://lucide.dev/icons/map-pin-check)
   static const IconData mapPinCheck = IconData(
@@ -9166,7 +9166,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-house
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-house.svg" width="100">
   ///
   /// [View "map-pin-house" on lucide.dev](https://lucide.dev/icons/map-pin-house)
   static const IconData mapPinHouse = IconData(
@@ -9176,7 +9176,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-minus-inside
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-minus-inside.svg" width="100">
   ///
   /// [View "map-pin-minus-inside" on lucide.dev](https://lucide.dev/icons/map-pin-minus-inside)
   static const IconData mapPinMinusInside = IconData(
@@ -9186,7 +9186,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-minus.svg" width="100">
   ///
   /// [View "map-pin-minus" on lucide.dev](https://lucide.dev/icons/map-pin-minus)
   static const IconData mapPinMinus = IconData(
@@ -9196,7 +9196,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-off.svg" width="100">
   ///
   /// [View "map-pin-off" on lucide.dev](https://lucide.dev/icons/map-pin-off)
   static const IconData mapPinOff = IconData(
@@ -9206,7 +9206,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-pen.svg" width="100">
   ///
   /// [View "map-pin-pen" on lucide.dev](https://lucide.dev/icons/map-pin-pen)
   static const IconData mapPinPen = IconData(
@@ -9216,7 +9216,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-plus-inside
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-plus-inside.svg" width="100">
   ///
   /// [View "map-pin-plus-inside" on lucide.dev](https://lucide.dev/icons/map-pin-plus-inside)
   static const IconData mapPinPlusInside = IconData(
@@ -9226,7 +9226,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-plus.svg" width="100">
   ///
   /// [View "map-pin-plus" on lucide.dev](https://lucide.dev/icons/map-pin-plus)
   static const IconData mapPinPlus = IconData(
@@ -9236,7 +9236,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-x-inside
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-x-inside.svg" width="100">
   ///
   /// [View "map-pin-x-inside" on lucide.dev](https://lucide.dev/icons/map-pin-x-inside)
   static const IconData mapPinXInside = IconData(
@@ -9246,7 +9246,7 @@ class LucideIcons {
   );
 
   /// ## map-pin-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-x.svg" width="100">
   ///
   /// [View "map-pin-x" on lucide.dev](https://lucide.dev/icons/map-pin-x)
   static const IconData mapPinX = IconData(
@@ -9256,7 +9256,7 @@ class LucideIcons {
   );
 
   /// ## map-pin
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin.svg" width="100">
   ///
   /// [View "map-pin" on lucide.dev](https://lucide.dev/icons/map-pin)
   static const IconData mapPin = IconData(
@@ -9266,7 +9266,7 @@ class LucideIcons {
   );
 
   /// ## map-pinned
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pinned.svg" width="100">
   ///
   /// [View "map-pinned" on lucide.dev](https://lucide.dev/icons/map-pinned)
   static const IconData mapPinned = IconData(
@@ -9276,7 +9276,7 @@ class LucideIcons {
   );
 
   /// ## map-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-plus.svg" width="100">
   ///
   /// [View "map-plus" on lucide.dev](https://lucide.dev/icons/map-plus)
   static const IconData mapPlus = IconData(
@@ -9286,7 +9286,7 @@ class LucideIcons {
   );
 
   /// ## map
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map.svg" width="100">
   ///
   /// [View "map" on lucide.dev](https://lucide.dev/icons/map)
   static const IconData map = IconData(
@@ -9296,7 +9296,7 @@ class LucideIcons {
   );
 
   /// ## mars-stroke
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mars-stroke.svg" width="100">
   ///
   /// [View "mars-stroke" on lucide.dev](https://lucide.dev/icons/mars-stroke)
   static const IconData marsStroke = IconData(
@@ -9306,7 +9306,7 @@ class LucideIcons {
   );
 
   /// ## mars
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mars.svg" width="100">
   ///
   /// [View "mars" on lucide.dev](https://lucide.dev/icons/mars)
   static const IconData mars = IconData(
@@ -9316,7 +9316,7 @@ class LucideIcons {
   );
 
   /// ## martini
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/martini.svg" width="100">
   ///
   /// [View "martini" on lucide.dev](https://lucide.dev/icons/martini)
   static const IconData martini = IconData(
@@ -9326,7 +9326,7 @@ class LucideIcons {
   );
 
   /// ## maximize-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/maximize-2.svg" width="100">
   ///
   /// [View "maximize-2" on lucide.dev](https://lucide.dev/icons/maximize-2)
   static const IconData maximize2 = IconData(
@@ -9336,7 +9336,7 @@ class LucideIcons {
   );
 
   /// ## maximize
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/maximize.svg" width="100">
   ///
   /// [View "maximize" on lucide.dev](https://lucide.dev/icons/maximize)
   static const IconData maximize = IconData(
@@ -9346,7 +9346,7 @@ class LucideIcons {
   );
 
   /// ## medal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/medal.svg" width="100">
   ///
   /// [View "medal" on lucide.dev](https://lucide.dev/icons/medal)
   static const IconData medal = IconData(
@@ -9356,7 +9356,7 @@ class LucideIcons {
   );
 
   /// ## megaphone-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/megaphone-off.svg" width="100">
   ///
   /// [View "megaphone-off" on lucide.dev](https://lucide.dev/icons/megaphone-off)
   static const IconData megaphoneOff = IconData(
@@ -9366,7 +9366,7 @@ class LucideIcons {
   );
 
   /// ## megaphone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/megaphone.svg" width="100">
   ///
   /// [View "megaphone" on lucide.dev](https://lucide.dev/icons/megaphone)
   static const IconData megaphone = IconData(
@@ -9376,7 +9376,7 @@ class LucideIcons {
   );
 
   /// ## meh
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/meh.svg" width="100">
   ///
   /// [View "meh" on lucide.dev](https://lucide.dev/icons/meh)
   static const IconData meh = IconData(
@@ -9386,7 +9386,7 @@ class LucideIcons {
   );
 
   /// ## memory-stick
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/memory-stick.svg" width="100">
   ///
   /// [View "memory-stick" on lucide.dev](https://lucide.dev/icons/memory-stick)
   static const IconData memoryStick = IconData(
@@ -9396,7 +9396,7 @@ class LucideIcons {
   );
 
   /// ## menu
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/menu.svg" width="100">
   ///
   /// [View "menu" on lucide.dev](https://lucide.dev/icons/menu)
   static const IconData menu = IconData(
@@ -9406,7 +9406,7 @@ class LucideIcons {
   );
 
   /// ## merge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/merge.svg" width="100">
   ///
   /// [View "merge" on lucide.dev](https://lucide.dev/icons/merge)
   static const IconData merge = IconData(
@@ -9416,7 +9416,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-code.svg" width="100">
   ///
   /// [View "message-circle-code" on lucide.dev](https://lucide.dev/icons/message-circle-code)
   static const IconData messageCircleCode = IconData(
@@ -9426,7 +9426,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-dashed.svg" width="100">
   ///
   /// [View "message-circle-dashed" on lucide.dev](https://lucide.dev/icons/message-circle-dashed)
   static const IconData messageCircleDashed = IconData(
@@ -9436,7 +9436,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-heart.svg" width="100">
   ///
   /// [View "message-circle-heart" on lucide.dev](https://lucide.dev/icons/message-circle-heart)
   static const IconData messageCircleHeart = IconData(
@@ -9446,7 +9446,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-more
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-more.svg" width="100">
   ///
   /// [View "message-circle-more" on lucide.dev](https://lucide.dev/icons/message-circle-more)
   static const IconData messageCircleMore = IconData(
@@ -9456,7 +9456,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-off.svg" width="100">
   ///
   /// [View "message-circle-off" on lucide.dev](https://lucide.dev/icons/message-circle-off)
   static const IconData messageCircleOff = IconData(
@@ -9466,7 +9466,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-plus.svg" width="100">
   ///
   /// [View "message-circle-plus" on lucide.dev](https://lucide.dev/icons/message-circle-plus)
   static const IconData messageCirclePlus = IconData(
@@ -9476,7 +9476,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-question-mark.svg" width="100">
   ///
   /// [View "message-circle-question-mark" on lucide.dev](https://lucide.dev/icons/message-circle-question-mark)
   static const IconData messageCircleQuestionMark = IconData(
@@ -9486,7 +9486,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-reply
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-reply.svg" width="100">
   ///
   /// [View "message-circle-reply" on lucide.dev](https://lucide.dev/icons/message-circle-reply)
   static const IconData messageCircleReply = IconData(
@@ -9496,7 +9496,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-warning.svg" width="100">
   ///
   /// [View "message-circle-warning" on lucide.dev](https://lucide.dev/icons/message-circle-warning)
   static const IconData messageCircleWarning = IconData(
@@ -9506,7 +9506,7 @@ class LucideIcons {
   );
 
   /// ## message-circle-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-x.svg" width="100">
   ///
   /// [View "message-circle-x" on lucide.dev](https://lucide.dev/icons/message-circle-x)
   static const IconData messageCircleX = IconData(
@@ -9516,7 +9516,7 @@ class LucideIcons {
   );
 
   /// ## message-circle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle.svg" width="100">
   ///
   /// [View "message-circle" on lucide.dev](https://lucide.dev/icons/message-circle)
   static const IconData messageCircle = IconData(
@@ -9526,7 +9526,7 @@ class LucideIcons {
   );
 
   /// ## message-square-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-code.svg" width="100">
   ///
   /// [View "message-square-code" on lucide.dev](https://lucide.dev/icons/message-square-code)
   static const IconData messageSquareCode = IconData(
@@ -9536,7 +9536,7 @@ class LucideIcons {
   );
 
   /// ## message-square-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-dashed.svg" width="100">
   ///
   /// [View "message-square-dashed" on lucide.dev](https://lucide.dev/icons/message-square-dashed)
   static const IconData messageSquareDashed = IconData(
@@ -9546,7 +9546,7 @@ class LucideIcons {
   );
 
   /// ## message-square-diff
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-diff.svg" width="100">
   ///
   /// [View "message-square-diff" on lucide.dev](https://lucide.dev/icons/message-square-diff)
   static const IconData messageSquareDiff = IconData(
@@ -9556,7 +9556,7 @@ class LucideIcons {
   );
 
   /// ## message-square-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-dot.svg" width="100">
   ///
   /// [View "message-square-dot" on lucide.dev](https://lucide.dev/icons/message-square-dot)
   static const IconData messageSquareDot = IconData(
@@ -9566,7 +9566,7 @@ class LucideIcons {
   );
 
   /// ## message-square-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-heart.svg" width="100">
   ///
   /// [View "message-square-heart" on lucide.dev](https://lucide.dev/icons/message-square-heart)
   static const IconData messageSquareHeart = IconData(
@@ -9576,7 +9576,7 @@ class LucideIcons {
   );
 
   /// ## message-square-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-lock.svg" width="100">
   ///
   /// [View "message-square-lock" on lucide.dev](https://lucide.dev/icons/message-square-lock)
   static const IconData messageSquareLock = IconData(
@@ -9586,7 +9586,7 @@ class LucideIcons {
   );
 
   /// ## message-square-more
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-more.svg" width="100">
   ///
   /// [View "message-square-more" on lucide.dev](https://lucide.dev/icons/message-square-more)
   static const IconData messageSquareMore = IconData(
@@ -9596,7 +9596,7 @@ class LucideIcons {
   );
 
   /// ## message-square-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-off.svg" width="100">
   ///
   /// [View "message-square-off" on lucide.dev](https://lucide.dev/icons/message-square-off)
   static const IconData messageSquareOff = IconData(
@@ -9606,7 +9606,7 @@ class LucideIcons {
   );
 
   /// ## message-square-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-plus.svg" width="100">
   ///
   /// [View "message-square-plus" on lucide.dev](https://lucide.dev/icons/message-square-plus)
   static const IconData messageSquarePlus = IconData(
@@ -9616,7 +9616,7 @@ class LucideIcons {
   );
 
   /// ## message-square-quote
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-quote.svg" width="100">
   ///
   /// [View "message-square-quote" on lucide.dev](https://lucide.dev/icons/message-square-quote)
   static const IconData messageSquareQuote = IconData(
@@ -9626,7 +9626,7 @@ class LucideIcons {
   );
 
   /// ## message-square-reply
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-reply.svg" width="100">
   ///
   /// [View "message-square-reply" on lucide.dev](https://lucide.dev/icons/message-square-reply)
   static const IconData messageSquareReply = IconData(
@@ -9636,7 +9636,7 @@ class LucideIcons {
   );
 
   /// ## message-square-share
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-share.svg" width="100">
   ///
   /// [View "message-square-share" on lucide.dev](https://lucide.dev/icons/message-square-share)
   static const IconData messageSquareShare = IconData(
@@ -9646,7 +9646,7 @@ class LucideIcons {
   );
 
   /// ## message-square-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-text.svg" width="100">
   ///
   /// [View "message-square-text" on lucide.dev](https://lucide.dev/icons/message-square-text)
   static const IconData messageSquareText = IconData(
@@ -9656,7 +9656,7 @@ class LucideIcons {
   );
 
   /// ## message-square-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-warning.svg" width="100">
   ///
   /// [View "message-square-warning" on lucide.dev](https://lucide.dev/icons/message-square-warning)
   static const IconData messageSquareWarning = IconData(
@@ -9666,7 +9666,7 @@ class LucideIcons {
   );
 
   /// ## message-square-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-x.svg" width="100">
   ///
   /// [View "message-square-x" on lucide.dev](https://lucide.dev/icons/message-square-x)
   static const IconData messageSquareX = IconData(
@@ -9676,7 +9676,7 @@ class LucideIcons {
   );
 
   /// ## message-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square.svg" width="100">
   ///
   /// [View "message-square" on lucide.dev](https://lucide.dev/icons/message-square)
   static const IconData messageSquare = IconData(
@@ -9686,7 +9686,7 @@ class LucideIcons {
   );
 
   /// ## messages-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/messages-square.svg" width="100">
   ///
   /// [View "messages-square" on lucide.dev](https://lucide.dev/icons/messages-square)
   static const IconData messagesSquare = IconData(
@@ -9696,7 +9696,7 @@ class LucideIcons {
   );
 
   /// ## mic-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic-off.svg" width="100">
   ///
   /// [View "mic-off" on lucide.dev](https://lucide.dev/icons/mic-off)
   static const IconData micOff = IconData(
@@ -9706,7 +9706,7 @@ class LucideIcons {
   );
 
   /// ## mic-vocal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic-vocal.svg" width="100">
   ///
   /// [View "mic-vocal" on lucide.dev](https://lucide.dev/icons/mic-vocal)
   static const IconData micVocal = IconData(
@@ -9716,7 +9716,7 @@ class LucideIcons {
   );
 
   /// ## mic
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic.svg" width="100">
   ///
   /// [View "mic" on lucide.dev](https://lucide.dev/icons/mic)
   static const IconData mic = IconData(
@@ -9726,7 +9726,7 @@ class LucideIcons {
   );
 
   /// ## microchip
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/microchip.svg" width="100">
   ///
   /// [View "microchip" on lucide.dev](https://lucide.dev/icons/microchip)
   static const IconData microchip = IconData(
@@ -9736,7 +9736,7 @@ class LucideIcons {
   );
 
   /// ## microscope
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/microscope.svg" width="100">
   ///
   /// [View "microscope" on lucide.dev](https://lucide.dev/icons/microscope)
   static const IconData microscope = IconData(
@@ -9746,7 +9746,7 @@ class LucideIcons {
   );
 
   /// ## microwave
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/microwave.svg" width="100">
   ///
   /// [View "microwave" on lucide.dev](https://lucide.dev/icons/microwave)
   static const IconData microwave = IconData(
@@ -9756,7 +9756,7 @@ class LucideIcons {
   );
 
   /// ## milestone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/milestone.svg" width="100">
   ///
   /// [View "milestone" on lucide.dev](https://lucide.dev/icons/milestone)
   static const IconData milestone = IconData(
@@ -9766,7 +9766,7 @@ class LucideIcons {
   );
 
   /// ## milk-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/milk-off.svg" width="100">
   ///
   /// [View "milk-off" on lucide.dev](https://lucide.dev/icons/milk-off)
   static const IconData milkOff = IconData(
@@ -9776,7 +9776,7 @@ class LucideIcons {
   );
 
   /// ## milk
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/milk.svg" width="100">
   ///
   /// [View "milk" on lucide.dev](https://lucide.dev/icons/milk)
   static const IconData milk = IconData(
@@ -9786,7 +9786,7 @@ class LucideIcons {
   );
 
   /// ## minimize-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/minimize-2.svg" width="100">
   ///
   /// [View "minimize-2" on lucide.dev](https://lucide.dev/icons/minimize-2)
   static const IconData minimize2 = IconData(
@@ -9796,7 +9796,7 @@ class LucideIcons {
   );
 
   /// ## minimize
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/minimize.svg" width="100">
   ///
   /// [View "minimize" on lucide.dev](https://lucide.dev/icons/minimize)
   static const IconData minimize = IconData(
@@ -9806,7 +9806,7 @@ class LucideIcons {
   );
 
   /// ## minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/minus.svg" width="100">
   ///
   /// [View "minus" on lucide.dev](https://lucide.dev/icons/minus)
   static const IconData minus = IconData(
@@ -9816,7 +9816,7 @@ class LucideIcons {
   );
 
   /// ## monitor-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-check.svg" width="100">
   ///
   /// [View "monitor-check" on lucide.dev](https://lucide.dev/icons/monitor-check)
   static const IconData monitorCheck = IconData(
@@ -9826,7 +9826,7 @@ class LucideIcons {
   );
 
   /// ## monitor-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-cog.svg" width="100">
   ///
   /// [View "monitor-cog" on lucide.dev](https://lucide.dev/icons/monitor-cog)
   static const IconData monitorCog = IconData(
@@ -9836,7 +9836,7 @@ class LucideIcons {
   );
 
   /// ## monitor-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-dot.svg" width="100">
   ///
   /// [View "monitor-dot" on lucide.dev](https://lucide.dev/icons/monitor-dot)
   static const IconData monitorDot = IconData(
@@ -9846,7 +9846,7 @@ class LucideIcons {
   );
 
   /// ## monitor-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-down.svg" width="100">
   ///
   /// [View "monitor-down" on lucide.dev](https://lucide.dev/icons/monitor-down)
   static const IconData monitorDown = IconData(
@@ -9856,7 +9856,7 @@ class LucideIcons {
   );
 
   /// ## monitor-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-off.svg" width="100">
   ///
   /// [View "monitor-off" on lucide.dev](https://lucide.dev/icons/monitor-off)
   static const IconData monitorOff = IconData(
@@ -9866,7 +9866,7 @@ class LucideIcons {
   );
 
   /// ## monitor-pause
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-pause.svg" width="100">
   ///
   /// [View "monitor-pause" on lucide.dev](https://lucide.dev/icons/monitor-pause)
   static const IconData monitorPause = IconData(
@@ -9876,7 +9876,7 @@ class LucideIcons {
   );
 
   /// ## monitor-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-play.svg" width="100">
   ///
   /// [View "monitor-play" on lucide.dev](https://lucide.dev/icons/monitor-play)
   static const IconData monitorPlay = IconData(
@@ -9886,7 +9886,7 @@ class LucideIcons {
   );
 
   /// ## monitor-smartphone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-smartphone.svg" width="100">
   ///
   /// [View "monitor-smartphone" on lucide.dev](https://lucide.dev/icons/monitor-smartphone)
   static const IconData monitorSmartphone = IconData(
@@ -9896,7 +9896,7 @@ class LucideIcons {
   );
 
   /// ## monitor-speaker
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-speaker.svg" width="100">
   ///
   /// [View "monitor-speaker" on lucide.dev](https://lucide.dev/icons/monitor-speaker)
   static const IconData monitorSpeaker = IconData(
@@ -9906,7 +9906,7 @@ class LucideIcons {
   );
 
   /// ## monitor-stop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-stop.svg" width="100">
   ///
   /// [View "monitor-stop" on lucide.dev](https://lucide.dev/icons/monitor-stop)
   static const IconData monitorStop = IconData(
@@ -9916,7 +9916,7 @@ class LucideIcons {
   );
 
   /// ## monitor-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-up.svg" width="100">
   ///
   /// [View "monitor-up" on lucide.dev](https://lucide.dev/icons/monitor-up)
   static const IconData monitorUp = IconData(
@@ -9926,7 +9926,7 @@ class LucideIcons {
   );
 
   /// ## monitor-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-x.svg" width="100">
   ///
   /// [View "monitor-x" on lucide.dev](https://lucide.dev/icons/monitor-x)
   static const IconData monitorX = IconData(
@@ -9936,7 +9936,7 @@ class LucideIcons {
   );
 
   /// ## monitor
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor.svg" width="100">
   ///
   /// [View "monitor" on lucide.dev](https://lucide.dev/icons/monitor)
   static const IconData monitor = IconData(
@@ -9946,7 +9946,7 @@ class LucideIcons {
   );
 
   /// ## moon-star
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/moon-star.svg" width="100">
   ///
   /// [View "moon-star" on lucide.dev](https://lucide.dev/icons/moon-star)
   static const IconData moonStar = IconData(
@@ -9956,7 +9956,7 @@ class LucideIcons {
   );
 
   /// ## moon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/moon.svg" width="100">
   ///
   /// [View "moon" on lucide.dev](https://lucide.dev/icons/moon)
   static const IconData moon = IconData(
@@ -9966,7 +9966,7 @@ class LucideIcons {
   );
 
   /// ## mountain-snow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mountain-snow.svg" width="100">
   ///
   /// [View "mountain-snow" on lucide.dev](https://lucide.dev/icons/mountain-snow)
   static const IconData mountainSnow = IconData(
@@ -9976,7 +9976,7 @@ class LucideIcons {
   );
 
   /// ## mountain
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mountain.svg" width="100">
   ///
   /// [View "mountain" on lucide.dev](https://lucide.dev/icons/mountain)
   static const IconData mountain = IconData(
@@ -9986,7 +9986,7 @@ class LucideIcons {
   );
 
   /// ## mouse-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-off.svg" width="100">
   ///
   /// [View "mouse-off" on lucide.dev](https://lucide.dev/icons/mouse-off)
   static const IconData mouseOff = IconData(
@@ -9996,7 +9996,7 @@ class LucideIcons {
   );
 
   /// ## mouse-pointer-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-pointer-2.svg" width="100">
   ///
   /// [View "mouse-pointer-2" on lucide.dev](https://lucide.dev/icons/mouse-pointer-2)
   static const IconData mousePointer2 = IconData(
@@ -10006,7 +10006,7 @@ class LucideIcons {
   );
 
   /// ## mouse-pointer-ban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-pointer-ban.svg" width="100">
   ///
   /// [View "mouse-pointer-ban" on lucide.dev](https://lucide.dev/icons/mouse-pointer-ban)
   static const IconData mousePointerBan = IconData(
@@ -10016,7 +10016,7 @@ class LucideIcons {
   );
 
   /// ## mouse-pointer-click
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-pointer-click.svg" width="100">
   ///
   /// [View "mouse-pointer-click" on lucide.dev](https://lucide.dev/icons/mouse-pointer-click)
   static const IconData mousePointerClick = IconData(
@@ -10026,7 +10026,7 @@ class LucideIcons {
   );
 
   /// ## mouse-pointer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-pointer.svg" width="100">
   ///
   /// [View "mouse-pointer" on lucide.dev](https://lucide.dev/icons/mouse-pointer)
   static const IconData mousePointer = IconData(
@@ -10036,7 +10036,7 @@ class LucideIcons {
   );
 
   /// ## mouse
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse.svg" width="100">
   ///
   /// [View "mouse" on lucide.dev](https://lucide.dev/icons/mouse)
   static const IconData mouse = IconData(
@@ -10046,7 +10046,7 @@ class LucideIcons {
   );
 
   /// ## move-3d
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-3d.svg" width="100">
   ///
   /// [View "move-3d" on lucide.dev](https://lucide.dev/icons/move-3d)
   static const IconData move3d = IconData(
@@ -10056,7 +10056,7 @@ class LucideIcons {
   );
 
   /// ## move-diagonal-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-diagonal-2.svg" width="100">
   ///
   /// [View "move-diagonal-2" on lucide.dev](https://lucide.dev/icons/move-diagonal-2)
   static const IconData moveDiagonal2 = IconData(
@@ -10066,7 +10066,7 @@ class LucideIcons {
   );
 
   /// ## move-diagonal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-diagonal.svg" width="100">
   ///
   /// [View "move-diagonal" on lucide.dev](https://lucide.dev/icons/move-diagonal)
   static const IconData moveDiagonal = IconData(
@@ -10076,7 +10076,7 @@ class LucideIcons {
   );
 
   /// ## move-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-down-left.svg" width="100">
   ///
   /// [View "move-down-left" on lucide.dev](https://lucide.dev/icons/move-down-left)
   static const IconData moveDownLeft = IconData(
@@ -10086,7 +10086,7 @@ class LucideIcons {
   );
 
   /// ## move-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-down-right.svg" width="100">
   ///
   /// [View "move-down-right" on lucide.dev](https://lucide.dev/icons/move-down-right)
   static const IconData moveDownRight = IconData(
@@ -10096,7 +10096,7 @@ class LucideIcons {
   );
 
   /// ## move-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-down.svg" width="100">
   ///
   /// [View "move-down" on lucide.dev](https://lucide.dev/icons/move-down)
   static const IconData moveDown = IconData(
@@ -10106,7 +10106,7 @@ class LucideIcons {
   );
 
   /// ## move-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-horizontal.svg" width="100">
   ///
   /// [View "move-horizontal" on lucide.dev](https://lucide.dev/icons/move-horizontal)
   static const IconData moveHorizontal = IconData(
@@ -10116,7 +10116,7 @@ class LucideIcons {
   );
 
   /// ## move-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-left.svg" width="100">
   ///
   /// [View "move-left" on lucide.dev](https://lucide.dev/icons/move-left)
   static const IconData moveLeft = IconData(
@@ -10126,7 +10126,7 @@ class LucideIcons {
   );
 
   /// ## move-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-right.svg" width="100">
   ///
   /// [View "move-right" on lucide.dev](https://lucide.dev/icons/move-right)
   static const IconData moveRight = IconData(
@@ -10136,7 +10136,7 @@ class LucideIcons {
   );
 
   /// ## move-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-up-left.svg" width="100">
   ///
   /// [View "move-up-left" on lucide.dev](https://lucide.dev/icons/move-up-left)
   static const IconData moveUpLeft = IconData(
@@ -10146,7 +10146,7 @@ class LucideIcons {
   );
 
   /// ## move-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-up-right.svg" width="100">
   ///
   /// [View "move-up-right" on lucide.dev](https://lucide.dev/icons/move-up-right)
   static const IconData moveUpRight = IconData(
@@ -10156,7 +10156,7 @@ class LucideIcons {
   );
 
   /// ## move-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-up.svg" width="100">
   ///
   /// [View "move-up" on lucide.dev](https://lucide.dev/icons/move-up)
   static const IconData moveUp = IconData(
@@ -10166,7 +10166,7 @@ class LucideIcons {
   );
 
   /// ## move-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move-vertical.svg" width="100">
   ///
   /// [View "move-vertical" on lucide.dev](https://lucide.dev/icons/move-vertical)
   static const IconData moveVertical = IconData(
@@ -10176,7 +10176,7 @@ class LucideIcons {
   );
 
   /// ## move
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/move.svg" width="100">
   ///
   /// [View "move" on lucide.dev](https://lucide.dev/icons/move)
   static const IconData move = IconData(
@@ -10186,7 +10186,7 @@ class LucideIcons {
   );
 
   /// ## music-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/music-2.svg" width="100">
   ///
   /// [View "music-2" on lucide.dev](https://lucide.dev/icons/music-2)
   static const IconData music2 = IconData(
@@ -10196,7 +10196,7 @@ class LucideIcons {
   );
 
   /// ## music-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/music-3.svg" width="100">
   ///
   /// [View "music-3" on lucide.dev](https://lucide.dev/icons/music-3)
   static const IconData music3 = IconData(
@@ -10206,7 +10206,7 @@ class LucideIcons {
   );
 
   /// ## music-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/music-4.svg" width="100">
   ///
   /// [View "music-4" on lucide.dev](https://lucide.dev/icons/music-4)
   static const IconData music4 = IconData(
@@ -10216,7 +10216,7 @@ class LucideIcons {
   );
 
   /// ## music
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/music.svg" width="100">
   ///
   /// [View "music" on lucide.dev](https://lucide.dev/icons/music)
   static const IconData music = IconData(
@@ -10226,7 +10226,7 @@ class LucideIcons {
   );
 
   /// ## navigation-2-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/navigation-2-off.svg" width="100">
   ///
   /// [View "navigation-2-off" on lucide.dev](https://lucide.dev/icons/navigation-2-off)
   static const IconData navigation2Off = IconData(
@@ -10236,7 +10236,7 @@ class LucideIcons {
   );
 
   /// ## navigation-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/navigation-2.svg" width="100">
   ///
   /// [View "navigation-2" on lucide.dev](https://lucide.dev/icons/navigation-2)
   static const IconData navigation2 = IconData(
@@ -10246,7 +10246,7 @@ class LucideIcons {
   );
 
   /// ## navigation-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/navigation-off.svg" width="100">
   ///
   /// [View "navigation-off" on lucide.dev](https://lucide.dev/icons/navigation-off)
   static const IconData navigationOff = IconData(
@@ -10256,7 +10256,7 @@ class LucideIcons {
   );
 
   /// ## navigation
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/navigation.svg" width="100">
   ///
   /// [View "navigation" on lucide.dev](https://lucide.dev/icons/navigation)
   static const IconData navigation = IconData(
@@ -10266,7 +10266,7 @@ class LucideIcons {
   );
 
   /// ## network
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/network.svg" width="100">
   ///
   /// [View "network" on lucide.dev](https://lucide.dev/icons/network)
   static const IconData network = IconData(
@@ -10276,7 +10276,7 @@ class LucideIcons {
   );
 
   /// ## newspaper
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/newspaper.svg" width="100">
   ///
   /// [View "newspaper" on lucide.dev](https://lucide.dev/icons/newspaper)
   static const IconData newspaper = IconData(
@@ -10286,7 +10286,7 @@ class LucideIcons {
   );
 
   /// ## nfc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/nfc.svg" width="100">
   ///
   /// [View "nfc" on lucide.dev](https://lucide.dev/icons/nfc)
   static const IconData nfc = IconData(
@@ -10296,7 +10296,7 @@ class LucideIcons {
   );
 
   /// ## non-binary
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/non-binary.svg" width="100">
   ///
   /// [View "non-binary" on lucide.dev](https://lucide.dev/icons/non-binary)
   static const IconData nonBinary = IconData(
@@ -10306,7 +10306,7 @@ class LucideIcons {
   );
 
   /// ## notebook-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notebook-pen.svg" width="100">
   ///
   /// [View "notebook-pen" on lucide.dev](https://lucide.dev/icons/notebook-pen)
   static const IconData notebookPen = IconData(
@@ -10316,7 +10316,7 @@ class LucideIcons {
   );
 
   /// ## notebook-tabs
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notebook-tabs.svg" width="100">
   ///
   /// [View "notebook-tabs" on lucide.dev](https://lucide.dev/icons/notebook-tabs)
   static const IconData notebookTabs = IconData(
@@ -10326,7 +10326,7 @@ class LucideIcons {
   );
 
   /// ## notebook-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notebook-text.svg" width="100">
   ///
   /// [View "notebook-text" on lucide.dev](https://lucide.dev/icons/notebook-text)
   static const IconData notebookText = IconData(
@@ -10336,7 +10336,7 @@ class LucideIcons {
   );
 
   /// ## notebook
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notebook.svg" width="100">
   ///
   /// [View "notebook" on lucide.dev](https://lucide.dev/icons/notebook)
   static const IconData notebook = IconData(
@@ -10346,7 +10346,7 @@ class LucideIcons {
   );
 
   /// ## notepad-text-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notepad-text-dashed.svg" width="100">
   ///
   /// [View "notepad-text-dashed" on lucide.dev](https://lucide.dev/icons/notepad-text-dashed)
   static const IconData notepadTextDashed = IconData(
@@ -10356,7 +10356,7 @@ class LucideIcons {
   );
 
   /// ## notepad-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/notepad-text.svg" width="100">
   ///
   /// [View "notepad-text" on lucide.dev](https://lucide.dev/icons/notepad-text)
   static const IconData notepadText = IconData(
@@ -10366,7 +10366,7 @@ class LucideIcons {
   );
 
   /// ## nut-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/nut-off.svg" width="100">
   ///
   /// [View "nut-off" on lucide.dev](https://lucide.dev/icons/nut-off)
   static const IconData nutOff = IconData(
@@ -10376,7 +10376,7 @@ class LucideIcons {
   );
 
   /// ## nut
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/nut.svg" width="100">
   ///
   /// [View "nut" on lucide.dev](https://lucide.dev/icons/nut)
   static const IconData nut = IconData(
@@ -10386,7 +10386,7 @@ class LucideIcons {
   );
 
   /// ## octagon-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/octagon-alert.svg" width="100">
   ///
   /// [View "octagon-alert" on lucide.dev](https://lucide.dev/icons/octagon-alert)
   static const IconData octagonAlert = IconData(
@@ -10396,7 +10396,7 @@ class LucideIcons {
   );
 
   /// ## octagon-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/octagon-minus.svg" width="100">
   ///
   /// [View "octagon-minus" on lucide.dev](https://lucide.dev/icons/octagon-minus)
   static const IconData octagonMinus = IconData(
@@ -10406,7 +10406,7 @@ class LucideIcons {
   );
 
   /// ## octagon-pause
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/octagon-pause.svg" width="100">
   ///
   /// [View "octagon-pause" on lucide.dev](https://lucide.dev/icons/octagon-pause)
   static const IconData octagonPause = IconData(
@@ -10416,7 +10416,7 @@ class LucideIcons {
   );
 
   /// ## octagon-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/octagon-x.svg" width="100">
   ///
   /// [View "octagon-x" on lucide.dev](https://lucide.dev/icons/octagon-x)
   static const IconData octagonX = IconData(
@@ -10426,7 +10426,7 @@ class LucideIcons {
   );
 
   /// ## octagon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/octagon.svg" width="100">
   ///
   /// [View "octagon" on lucide.dev](https://lucide.dev/icons/octagon)
   static const IconData octagon = IconData(
@@ -10436,7 +10436,7 @@ class LucideIcons {
   );
 
   /// ## omega
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/omega.svg" width="100">
   ///
   /// [View "omega" on lucide.dev](https://lucide.dev/icons/omega)
   static const IconData omega = IconData(
@@ -10446,7 +10446,7 @@ class LucideIcons {
   );
 
   /// ## option
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/option.svg" width="100">
   ///
   /// [View "option" on lucide.dev](https://lucide.dev/icons/option)
   static const IconData option = IconData(
@@ -10456,7 +10456,7 @@ class LucideIcons {
   );
 
   /// ## orbit
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/orbit.svg" width="100">
   ///
   /// [View "orbit" on lucide.dev](https://lucide.dev/icons/orbit)
   static const IconData orbit = IconData(
@@ -10466,7 +10466,7 @@ class LucideIcons {
   );
 
   /// ## origami
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/origami.svg" width="100">
   ///
   /// [View "origami" on lucide.dev](https://lucide.dev/icons/origami)
   static const IconData origami = IconData(
@@ -10476,7 +10476,7 @@ class LucideIcons {
   );
 
   /// ## package-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-2.svg" width="100">
   ///
   /// [View "package-2" on lucide.dev](https://lucide.dev/icons/package-2)
   static const IconData package2 = IconData(
@@ -10486,7 +10486,7 @@ class LucideIcons {
   );
 
   /// ## package-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-check.svg" width="100">
   ///
   /// [View "package-check" on lucide.dev](https://lucide.dev/icons/package-check)
   static const IconData packageCheck = IconData(
@@ -10496,7 +10496,7 @@ class LucideIcons {
   );
 
   /// ## package-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-minus.svg" width="100">
   ///
   /// [View "package-minus" on lucide.dev](https://lucide.dev/icons/package-minus)
   static const IconData packageMinus = IconData(
@@ -10506,7 +10506,7 @@ class LucideIcons {
   );
 
   /// ## package-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-open.svg" width="100">
   ///
   /// [View "package-open" on lucide.dev](https://lucide.dev/icons/package-open)
   static const IconData packageOpen = IconData(
@@ -10516,7 +10516,7 @@ class LucideIcons {
   );
 
   /// ## package-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-plus.svg" width="100">
   ///
   /// [View "package-plus" on lucide.dev](https://lucide.dev/icons/package-plus)
   static const IconData packagePlus = IconData(
@@ -10526,7 +10526,7 @@ class LucideIcons {
   );
 
   /// ## package-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-search.svg" width="100">
   ///
   /// [View "package-search" on lucide.dev](https://lucide.dev/icons/package-search)
   static const IconData packageSearch = IconData(
@@ -10536,7 +10536,7 @@ class LucideIcons {
   );
 
   /// ## package-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-x.svg" width="100">
   ///
   /// [View "package-x" on lucide.dev](https://lucide.dev/icons/package-x)
   static const IconData packageX = IconData(
@@ -10546,7 +10546,7 @@ class LucideIcons {
   );
 
   /// ## package
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package.svg" width="100">
   ///
   /// [View "package" on lucide.dev](https://lucide.dev/icons/package)
   static const IconData package = IconData(
@@ -10556,7 +10556,7 @@ class LucideIcons {
   );
 
   /// ## paint-bucket
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paint-bucket.svg" width="100">
   ///
   /// [View "paint-bucket" on lucide.dev](https://lucide.dev/icons/paint-bucket)
   static const IconData paintBucket = IconData(
@@ -10566,7 +10566,7 @@ class LucideIcons {
   );
 
   /// ## paint-roller
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paint-roller.svg" width="100">
   ///
   /// [View "paint-roller" on lucide.dev](https://lucide.dev/icons/paint-roller)
   static const IconData paintRoller = IconData(
@@ -10576,7 +10576,7 @@ class LucideIcons {
   );
 
   /// ## paintbrush-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paintbrush-vertical.svg" width="100">
   ///
   /// [View "paintbrush-vertical" on lucide.dev](https://lucide.dev/icons/paintbrush-vertical)
   static const IconData paintbrushVertical = IconData(
@@ -10586,7 +10586,7 @@ class LucideIcons {
   );
 
   /// ## paintbrush
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paintbrush.svg" width="100">
   ///
   /// [View "paintbrush" on lucide.dev](https://lucide.dev/icons/paintbrush)
   static const IconData paintbrush = IconData(
@@ -10596,7 +10596,7 @@ class LucideIcons {
   );
 
   /// ## palette
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/palette.svg" width="100">
   ///
   /// [View "palette" on lucide.dev](https://lucide.dev/icons/palette)
   static const IconData palette = IconData(
@@ -10606,7 +10606,7 @@ class LucideIcons {
   );
 
   /// ## panda
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panda.svg" width="100">
   ///
   /// [View "panda" on lucide.dev](https://lucide.dev/icons/panda)
   static const IconData panda = IconData(
@@ -10616,7 +10616,7 @@ class LucideIcons {
   );
 
   /// ## panel-bottom-close
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-bottom-close.svg" width="100">
   ///
   /// [View "panel-bottom-close" on lucide.dev](https://lucide.dev/icons/panel-bottom-close)
   static const IconData panelBottomClose = IconData(
@@ -10626,7 +10626,7 @@ class LucideIcons {
   );
 
   /// ## panel-bottom-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-bottom-dashed.svg" width="100">
   ///
   /// [View "panel-bottom-dashed" on lucide.dev](https://lucide.dev/icons/panel-bottom-dashed)
   static const IconData panelBottomDashed = IconData(
@@ -10636,7 +10636,7 @@ class LucideIcons {
   );
 
   /// ## panel-bottom-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-bottom-open.svg" width="100">
   ///
   /// [View "panel-bottom-open" on lucide.dev](https://lucide.dev/icons/panel-bottom-open)
   static const IconData panelBottomOpen = IconData(
@@ -10646,7 +10646,7 @@ class LucideIcons {
   );
 
   /// ## panel-bottom
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-bottom.svg" width="100">
   ///
   /// [View "panel-bottom" on lucide.dev](https://lucide.dev/icons/panel-bottom)
   static const IconData panelBottom = IconData(
@@ -10656,7 +10656,7 @@ class LucideIcons {
   );
 
   /// ## panel-left-close
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left-close.svg" width="100">
   ///
   /// [View "panel-left-close" on lucide.dev](https://lucide.dev/icons/panel-left-close)
   static const IconData panelLeftClose = IconData(
@@ -10666,7 +10666,7 @@ class LucideIcons {
   );
 
   /// ## panel-left-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left-dashed.svg" width="100">
   ///
   /// [View "panel-left-dashed" on lucide.dev](https://lucide.dev/icons/panel-left-dashed)
   static const IconData panelLeftDashed = IconData(
@@ -10676,7 +10676,7 @@ class LucideIcons {
   );
 
   /// ## panel-left-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left-open.svg" width="100">
   ///
   /// [View "panel-left-open" on lucide.dev](https://lucide.dev/icons/panel-left-open)
   static const IconData panelLeftOpen = IconData(
@@ -10686,7 +10686,7 @@ class LucideIcons {
   );
 
   /// ## panel-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left.svg" width="100">
   ///
   /// [View "panel-left" on lucide.dev](https://lucide.dev/icons/panel-left)
   static const IconData panelLeft = IconData(
@@ -10696,7 +10696,7 @@ class LucideIcons {
   );
 
   /// ## panel-right-close
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-right-close.svg" width="100">
   ///
   /// [View "panel-right-close" on lucide.dev](https://lucide.dev/icons/panel-right-close)
   static const IconData panelRightClose = IconData(
@@ -10706,7 +10706,7 @@ class LucideIcons {
   );
 
   /// ## panel-right-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-right-dashed.svg" width="100">
   ///
   /// [View "panel-right-dashed" on lucide.dev](https://lucide.dev/icons/panel-right-dashed)
   static const IconData panelRightDashed = IconData(
@@ -10716,7 +10716,7 @@ class LucideIcons {
   );
 
   /// ## panel-right-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-right-open.svg" width="100">
   ///
   /// [View "panel-right-open" on lucide.dev](https://lucide.dev/icons/panel-right-open)
   static const IconData panelRightOpen = IconData(
@@ -10726,7 +10726,7 @@ class LucideIcons {
   );
 
   /// ## panel-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-right.svg" width="100">
   ///
   /// [View "panel-right" on lucide.dev](https://lucide.dev/icons/panel-right)
   static const IconData panelRight = IconData(
@@ -10736,7 +10736,7 @@ class LucideIcons {
   );
 
   /// ## panel-top-close
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-top-close.svg" width="100">
   ///
   /// [View "panel-top-close" on lucide.dev](https://lucide.dev/icons/panel-top-close)
   static const IconData panelTopClose = IconData(
@@ -10746,7 +10746,7 @@ class LucideIcons {
   );
 
   /// ## panel-top-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-top-dashed.svg" width="100">
   ///
   /// [View "panel-top-dashed" on lucide.dev](https://lucide.dev/icons/panel-top-dashed)
   static const IconData panelTopDashed = IconData(
@@ -10756,7 +10756,7 @@ class LucideIcons {
   );
 
   /// ## panel-top-open
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-top-open.svg" width="100">
   ///
   /// [View "panel-top-open" on lucide.dev](https://lucide.dev/icons/panel-top-open)
   static const IconData panelTopOpen = IconData(
@@ -10766,7 +10766,7 @@ class LucideIcons {
   );
 
   /// ## panel-top
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-top.svg" width="100">
   ///
   /// [View "panel-top" on lucide.dev](https://lucide.dev/icons/panel-top)
   static const IconData panelTop = IconData(
@@ -10776,7 +10776,7 @@ class LucideIcons {
   );
 
   /// ## panels-left-bottom
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panels-left-bottom.svg" width="100">
   ///
   /// [View "panels-left-bottom" on lucide.dev](https://lucide.dev/icons/panels-left-bottom)
   static const IconData panelsLeftBottom = IconData(
@@ -10786,7 +10786,7 @@ class LucideIcons {
   );
 
   /// ## panels-right-bottom
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panels-right-bottom.svg" width="100">
   ///
   /// [View "panels-right-bottom" on lucide.dev](https://lucide.dev/icons/panels-right-bottom)
   static const IconData panelsRightBottom = IconData(
@@ -10796,7 +10796,7 @@ class LucideIcons {
   );
 
   /// ## panels-top-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panels-top-left.svg" width="100">
   ///
   /// [View "panels-top-left" on lucide.dev](https://lucide.dev/icons/panels-top-left)
   static const IconData panelsTopLeft = IconData(
@@ -10806,7 +10806,7 @@ class LucideIcons {
   );
 
   /// ## paperclip
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paperclip.svg" width="100">
   ///
   /// [View "paperclip" on lucide.dev](https://lucide.dev/icons/paperclip)
   static const IconData paperclip = IconData(
@@ -10816,7 +10816,7 @@ class LucideIcons {
   );
 
   /// ## parentheses
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/parentheses.svg" width="100">
   ///
   /// [View "parentheses" on lucide.dev](https://lucide.dev/icons/parentheses)
   static const IconData parentheses = IconData(
@@ -10826,7 +10826,7 @@ class LucideIcons {
   );
 
   /// ## parking-meter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/parking-meter.svg" width="100">
   ///
   /// [View "parking-meter" on lucide.dev](https://lucide.dev/icons/parking-meter)
   static const IconData parkingMeter = IconData(
@@ -10836,7 +10836,7 @@ class LucideIcons {
   );
 
   /// ## party-popper
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/party-popper.svg" width="100">
   ///
   /// [View "party-popper" on lucide.dev](https://lucide.dev/icons/party-popper)
   static const IconData partyPopper = IconData(
@@ -10846,7 +10846,7 @@ class LucideIcons {
   );
 
   /// ## pause
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pause.svg" width="100">
   ///
   /// [View "pause" on lucide.dev](https://lucide.dev/icons/pause)
   static const IconData pause = IconData(
@@ -10856,7 +10856,7 @@ class LucideIcons {
   );
 
   /// ## paw-print
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paw-print.svg" width="100">
   ///
   /// [View "paw-print" on lucide.dev](https://lucide.dev/icons/paw-print)
   static const IconData pawPrint = IconData(
@@ -10866,7 +10866,7 @@ class LucideIcons {
   );
 
   /// ## pc-case
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pc-case.svg" width="100">
   ///
   /// [View "pc-case" on lucide.dev](https://lucide.dev/icons/pc-case)
   static const IconData pcCase = IconData(
@@ -10876,7 +10876,7 @@ class LucideIcons {
   );
 
   /// ## pen-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pen-line.svg" width="100">
   ///
   /// [View "pen-line" on lucide.dev](https://lucide.dev/icons/pen-line)
   static const IconData penLine = IconData(
@@ -10886,7 +10886,7 @@ class LucideIcons {
   );
 
   /// ## pen-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pen-off.svg" width="100">
   ///
   /// [View "pen-off" on lucide.dev](https://lucide.dev/icons/pen-off)
   static const IconData penOff = IconData(
@@ -10896,7 +10896,7 @@ class LucideIcons {
   );
 
   /// ## pen-tool
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pen-tool.svg" width="100">
   ///
   /// [View "pen-tool" on lucide.dev](https://lucide.dev/icons/pen-tool)
   static const IconData penTool = IconData(
@@ -10906,7 +10906,7 @@ class LucideIcons {
   );
 
   /// ## pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pen.svg" width="100">
   ///
   /// [View "pen" on lucide.dev](https://lucide.dev/icons/pen)
   static const IconData pen = IconData(
@@ -10916,7 +10916,7 @@ class LucideIcons {
   );
 
   /// ## pencil-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pencil-line.svg" width="100">
   ///
   /// [View "pencil-line" on lucide.dev](https://lucide.dev/icons/pencil-line)
   static const IconData pencilLine = IconData(
@@ -10926,7 +10926,7 @@ class LucideIcons {
   );
 
   /// ## pencil-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pencil-off.svg" width="100">
   ///
   /// [View "pencil-off" on lucide.dev](https://lucide.dev/icons/pencil-off)
   static const IconData pencilOff = IconData(
@@ -10936,7 +10936,7 @@ class LucideIcons {
   );
 
   /// ## pencil-ruler
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pencil-ruler.svg" width="100">
   ///
   /// [View "pencil-ruler" on lucide.dev](https://lucide.dev/icons/pencil-ruler)
   static const IconData pencilRuler = IconData(
@@ -10946,7 +10946,7 @@ class LucideIcons {
   );
 
   /// ## pencil
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pencil.svg" width="100">
   ///
   /// [View "pencil" on lucide.dev](https://lucide.dev/icons/pencil)
   static const IconData pencil = IconData(
@@ -10956,7 +10956,7 @@ class LucideIcons {
   );
 
   /// ## pentagon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pentagon.svg" width="100">
   ///
   /// [View "pentagon" on lucide.dev](https://lucide.dev/icons/pentagon)
   static const IconData pentagon = IconData(
@@ -10966,7 +10966,7 @@ class LucideIcons {
   );
 
   /// ## percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/percent.svg" width="100">
   ///
   /// [View "percent" on lucide.dev](https://lucide.dev/icons/percent)
   static const IconData percent = IconData(
@@ -10976,7 +10976,7 @@ class LucideIcons {
   );
 
   /// ## person-standing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/person-standing.svg" width="100">
   ///
   /// [View "person-standing" on lucide.dev](https://lucide.dev/icons/person-standing)
   static const IconData personStanding = IconData(
@@ -10986,7 +10986,7 @@ class LucideIcons {
   );
 
   /// ## philippine-peso
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/philippine-peso.svg" width="100">
   ///
   /// [View "philippine-peso" on lucide.dev](https://lucide.dev/icons/philippine-peso)
   static const IconData philippinePeso = IconData(
@@ -10996,7 +10996,7 @@ class LucideIcons {
   );
 
   /// ## phone-call
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-call.svg" width="100">
   ///
   /// [View "phone-call" on lucide.dev](https://lucide.dev/icons/phone-call)
   static const IconData phoneCall = IconData(
@@ -11006,7 +11006,7 @@ class LucideIcons {
   );
 
   /// ## phone-forwarded
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-forwarded.svg" width="100">
   ///
   /// [View "phone-forwarded" on lucide.dev](https://lucide.dev/icons/phone-forwarded)
   static const IconData phoneForwarded = IconData(
@@ -11016,7 +11016,7 @@ class LucideIcons {
   );
 
   /// ## phone-incoming
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-incoming.svg" width="100">
   ///
   /// [View "phone-incoming" on lucide.dev](https://lucide.dev/icons/phone-incoming)
   static const IconData phoneIncoming = IconData(
@@ -11026,7 +11026,7 @@ class LucideIcons {
   );
 
   /// ## phone-missed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-missed.svg" width="100">
   ///
   /// [View "phone-missed" on lucide.dev](https://lucide.dev/icons/phone-missed)
   static const IconData phoneMissed = IconData(
@@ -11036,7 +11036,7 @@ class LucideIcons {
   );
 
   /// ## phone-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-off.svg" width="100">
   ///
   /// [View "phone-off" on lucide.dev](https://lucide.dev/icons/phone-off)
   static const IconData phoneOff = IconData(
@@ -11046,7 +11046,7 @@ class LucideIcons {
   );
 
   /// ## phone-outgoing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone-outgoing.svg" width="100">
   ///
   /// [View "phone-outgoing" on lucide.dev](https://lucide.dev/icons/phone-outgoing)
   static const IconData phoneOutgoing = IconData(
@@ -11056,7 +11056,7 @@ class LucideIcons {
   );
 
   /// ## phone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phone.svg" width="100">
   ///
   /// [View "phone" on lucide.dev](https://lucide.dev/icons/phone)
   static const IconData phone = IconData(
@@ -11066,7 +11066,7 @@ class LucideIcons {
   );
 
   /// ## pi
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pi.svg" width="100">
   ///
   /// [View "pi" on lucide.dev](https://lucide.dev/icons/pi)
   static const IconData pi = IconData(
@@ -11076,7 +11076,7 @@ class LucideIcons {
   );
 
   /// ## piano
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/piano.svg" width="100">
   ///
   /// [View "piano" on lucide.dev](https://lucide.dev/icons/piano)
   static const IconData piano = IconData(
@@ -11086,7 +11086,7 @@ class LucideIcons {
   );
 
   /// ## pickaxe
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pickaxe.svg" width="100">
   ///
   /// [View "pickaxe" on lucide.dev](https://lucide.dev/icons/pickaxe)
   static const IconData pickaxe = IconData(
@@ -11096,7 +11096,7 @@ class LucideIcons {
   );
 
   /// ## picture-in-picture-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/picture-in-picture-2.svg" width="100">
   ///
   /// [View "picture-in-picture-2" on lucide.dev](https://lucide.dev/icons/picture-in-picture-2)
   static const IconData pictureInPicture2 = IconData(
@@ -11106,7 +11106,7 @@ class LucideIcons {
   );
 
   /// ## picture-in-picture
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/picture-in-picture.svg" width="100">
   ///
   /// [View "picture-in-picture" on lucide.dev](https://lucide.dev/icons/picture-in-picture)
   static const IconData pictureInPicture = IconData(
@@ -11116,7 +11116,7 @@ class LucideIcons {
   );
 
   /// ## piggy-bank
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/piggy-bank.svg" width="100">
   ///
   /// [View "piggy-bank" on lucide.dev](https://lucide.dev/icons/piggy-bank)
   static const IconData piggyBank = IconData(
@@ -11126,7 +11126,7 @@ class LucideIcons {
   );
 
   /// ## pilcrow-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pilcrow-left.svg" width="100">
   ///
   /// [View "pilcrow-left" on lucide.dev](https://lucide.dev/icons/pilcrow-left)
   static const IconData pilcrowLeft = IconData(
@@ -11136,7 +11136,7 @@ class LucideIcons {
   );
 
   /// ## pilcrow-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pilcrow-right.svg" width="100">
   ///
   /// [View "pilcrow-right" on lucide.dev](https://lucide.dev/icons/pilcrow-right)
   static const IconData pilcrowRight = IconData(
@@ -11146,7 +11146,7 @@ class LucideIcons {
   );
 
   /// ## pilcrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pilcrow.svg" width="100">
   ///
   /// [View "pilcrow" on lucide.dev](https://lucide.dev/icons/pilcrow)
   static const IconData pilcrow = IconData(
@@ -11156,7 +11156,7 @@ class LucideIcons {
   );
 
   /// ## pill-bottle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pill-bottle.svg" width="100">
   ///
   /// [View "pill-bottle" on lucide.dev](https://lucide.dev/icons/pill-bottle)
   static const IconData pillBottle = IconData(
@@ -11166,7 +11166,7 @@ class LucideIcons {
   );
 
   /// ## pill
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pill.svg" width="100">
   ///
   /// [View "pill" on lucide.dev](https://lucide.dev/icons/pill)
   static const IconData pill = IconData(
@@ -11176,7 +11176,7 @@ class LucideIcons {
   );
 
   /// ## pin-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pin-off.svg" width="100">
   ///
   /// [View "pin-off" on lucide.dev](https://lucide.dev/icons/pin-off)
   static const IconData pinOff = IconData(
@@ -11186,7 +11186,7 @@ class LucideIcons {
   );
 
   /// ## pin
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pin.svg" width="100">
   ///
   /// [View "pin" on lucide.dev](https://lucide.dev/icons/pin)
   static const IconData pin = IconData(
@@ -11196,7 +11196,7 @@ class LucideIcons {
   );
 
   /// ## pipette
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pipette.svg" width="100">
   ///
   /// [View "pipette" on lucide.dev](https://lucide.dev/icons/pipette)
   static const IconData pipette = IconData(
@@ -11206,7 +11206,7 @@ class LucideIcons {
   );
 
   /// ## pizza
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pizza.svg" width="100">
   ///
   /// [View "pizza" on lucide.dev](https://lucide.dev/icons/pizza)
   static const IconData pizza = IconData(
@@ -11216,7 +11216,7 @@ class LucideIcons {
   );
 
   /// ## plane-landing
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plane-landing.svg" width="100">
   ///
   /// [View "plane-landing" on lucide.dev](https://lucide.dev/icons/plane-landing)
   static const IconData planeLanding = IconData(
@@ -11226,7 +11226,7 @@ class LucideIcons {
   );
 
   /// ## plane-takeoff
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plane-takeoff.svg" width="100">
   ///
   /// [View "plane-takeoff" on lucide.dev](https://lucide.dev/icons/plane-takeoff)
   static const IconData planeTakeoff = IconData(
@@ -11236,7 +11236,7 @@ class LucideIcons {
   );
 
   /// ## plane
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plane.svg" width="100">
   ///
   /// [View "plane" on lucide.dev](https://lucide.dev/icons/plane)
   static const IconData plane = IconData(
@@ -11246,7 +11246,7 @@ class LucideIcons {
   );
 
   /// ## play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/play.svg" width="100">
   ///
   /// [View "play" on lucide.dev](https://lucide.dev/icons/play)
   static const IconData play = IconData(
@@ -11256,7 +11256,7 @@ class LucideIcons {
   );
 
   /// ## plug-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plug-2.svg" width="100">
   ///
   /// [View "plug-2" on lucide.dev](https://lucide.dev/icons/plug-2)
   static const IconData plug2 = IconData(
@@ -11266,7 +11266,7 @@ class LucideIcons {
   );
 
   /// ## plug-zap
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plug-zap.svg" width="100">
   ///
   /// [View "plug-zap" on lucide.dev](https://lucide.dev/icons/plug-zap)
   static const IconData plugZap = IconData(
@@ -11276,7 +11276,7 @@ class LucideIcons {
   );
 
   /// ## plug
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plug.svg" width="100">
   ///
   /// [View "plug" on lucide.dev](https://lucide.dev/icons/plug)
   static const IconData plug = IconData(
@@ -11286,7 +11286,7 @@ class LucideIcons {
   );
 
   /// ## plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plus.svg" width="100">
   ///
   /// [View "plus" on lucide.dev](https://lucide.dev/icons/plus)
   static const IconData plus = IconData(
@@ -11296,7 +11296,7 @@ class LucideIcons {
   );
 
   /// ## pocket-knife
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pocket-knife.svg" width="100">
   ///
   /// [View "pocket-knife" on lucide.dev](https://lucide.dev/icons/pocket-knife)
   static const IconData pocketKnife = IconData(
@@ -11306,7 +11306,7 @@ class LucideIcons {
   );
 
   /// ## pocket
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pocket.svg" width="100">
   ///
   /// [View "pocket" on lucide.dev](https://lucide.dev/icons/pocket)
   static const IconData pocket = IconData(
@@ -11316,7 +11316,7 @@ class LucideIcons {
   );
 
   /// ## podcast
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/podcast.svg" width="100">
   ///
   /// [View "podcast" on lucide.dev](https://lucide.dev/icons/podcast)
   static const IconData podcast = IconData(
@@ -11326,7 +11326,7 @@ class LucideIcons {
   );
 
   /// ## pointer-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pointer-off.svg" width="100">
   ///
   /// [View "pointer-off" on lucide.dev](https://lucide.dev/icons/pointer-off)
   static const IconData pointerOff = IconData(
@@ -11336,7 +11336,7 @@ class LucideIcons {
   );
 
   /// ## pointer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pointer.svg" width="100">
   ///
   /// [View "pointer" on lucide.dev](https://lucide.dev/icons/pointer)
   static const IconData pointer = IconData(
@@ -11346,7 +11346,7 @@ class LucideIcons {
   );
 
   /// ## popcorn
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/popcorn.svg" width="100">
   ///
   /// [View "popcorn" on lucide.dev](https://lucide.dev/icons/popcorn)
   static const IconData popcorn = IconData(
@@ -11356,7 +11356,7 @@ class LucideIcons {
   );
 
   /// ## popsicle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/popsicle.svg" width="100">
   ///
   /// [View "popsicle" on lucide.dev](https://lucide.dev/icons/popsicle)
   static const IconData popsicle = IconData(
@@ -11366,7 +11366,7 @@ class LucideIcons {
   );
 
   /// ## pound-sterling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pound-sterling.svg" width="100">
   ///
   /// [View "pound-sterling" on lucide.dev](https://lucide.dev/icons/pound-sterling)
   static const IconData poundSterling = IconData(
@@ -11376,7 +11376,7 @@ class LucideIcons {
   );
 
   /// ## power-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/power-off.svg" width="100">
   ///
   /// [View "power-off" on lucide.dev](https://lucide.dev/icons/power-off)
   static const IconData powerOff = IconData(
@@ -11386,7 +11386,7 @@ class LucideIcons {
   );
 
   /// ## power
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/power.svg" width="100">
   ///
   /// [View "power" on lucide.dev](https://lucide.dev/icons/power)
   static const IconData power = IconData(
@@ -11396,7 +11396,7 @@ class LucideIcons {
   );
 
   /// ## presentation
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/presentation.svg" width="100">
   ///
   /// [View "presentation" on lucide.dev](https://lucide.dev/icons/presentation)
   static const IconData presentation = IconData(
@@ -11406,7 +11406,7 @@ class LucideIcons {
   );
 
   /// ## printer-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer-check.svg" width="100">
   ///
   /// [View "printer-check" on lucide.dev](https://lucide.dev/icons/printer-check)
   static const IconData printerCheck = IconData(
@@ -11416,7 +11416,7 @@ class LucideIcons {
   );
 
   /// ## printer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer.svg" width="100">
   ///
   /// [View "printer" on lucide.dev](https://lucide.dev/icons/printer)
   static const IconData printer = IconData(
@@ -11426,7 +11426,7 @@ class LucideIcons {
   );
 
   /// ## projector
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/projector.svg" width="100">
   ///
   /// [View "projector" on lucide.dev](https://lucide.dev/icons/projector)
   static const IconData projector = IconData(
@@ -11436,7 +11436,7 @@ class LucideIcons {
   );
 
   /// ## proportions
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/proportions.svg" width="100">
   ///
   /// [View "proportions" on lucide.dev](https://lucide.dev/icons/proportions)
   static const IconData proportions = IconData(
@@ -11446,7 +11446,7 @@ class LucideIcons {
   );
 
   /// ## puzzle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/puzzle.svg" width="100">
   ///
   /// [View "puzzle" on lucide.dev](https://lucide.dev/icons/puzzle)
   static const IconData puzzle = IconData(
@@ -11456,7 +11456,7 @@ class LucideIcons {
   );
 
   /// ## pyramid
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/pyramid.svg" width="100">
   ///
   /// [View "pyramid" on lucide.dev](https://lucide.dev/icons/pyramid)
   static const IconData pyramid = IconData(
@@ -11466,7 +11466,7 @@ class LucideIcons {
   );
 
   /// ## qr-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/qr-code.svg" width="100">
   ///
   /// [View "qr-code" on lucide.dev](https://lucide.dev/icons/qr-code)
   static const IconData qrCode = IconData(
@@ -11476,7 +11476,7 @@ class LucideIcons {
   );
 
   /// ## quote
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/quote.svg" width="100">
   ///
   /// [View "quote" on lucide.dev](https://lucide.dev/icons/quote)
   static const IconData quote = IconData(
@@ -11486,7 +11486,7 @@ class LucideIcons {
   );
 
   /// ## rabbit
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rabbit.svg" width="100">
   ///
   /// [View "rabbit" on lucide.dev](https://lucide.dev/icons/rabbit)
   static const IconData rabbit = IconData(
@@ -11496,7 +11496,7 @@ class LucideIcons {
   );
 
   /// ## radar
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radar.svg" width="100">
   ///
   /// [View "radar" on lucide.dev](https://lucide.dev/icons/radar)
   static const IconData radar = IconData(
@@ -11506,7 +11506,7 @@ class LucideIcons {
   );
 
   /// ## radiation
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radiation.svg" width="100">
   ///
   /// [View "radiation" on lucide.dev](https://lucide.dev/icons/radiation)
   static const IconData radiation = IconData(
@@ -11516,7 +11516,7 @@ class LucideIcons {
   );
 
   /// ## radical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radical.svg" width="100">
   ///
   /// [View "radical" on lucide.dev](https://lucide.dev/icons/radical)
   static const IconData radical = IconData(
@@ -11526,7 +11526,7 @@ class LucideIcons {
   );
 
   /// ## radio-receiver
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radio-receiver.svg" width="100">
   ///
   /// [View "radio-receiver" on lucide.dev](https://lucide.dev/icons/radio-receiver)
   static const IconData radioReceiver = IconData(
@@ -11536,7 +11536,7 @@ class LucideIcons {
   );
 
   /// ## radio-tower
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radio-tower.svg" width="100">
   ///
   /// [View "radio-tower" on lucide.dev](https://lucide.dev/icons/radio-tower)
   static const IconData radioTower = IconData(
@@ -11546,7 +11546,7 @@ class LucideIcons {
   );
 
   /// ## radio
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radio.svg" width="100">
   ///
   /// [View "radio" on lucide.dev](https://lucide.dev/icons/radio)
   static const IconData radio = IconData(
@@ -11556,7 +11556,7 @@ class LucideIcons {
   );
 
   /// ## radius
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radius.svg" width="100">
   ///
   /// [View "radius" on lucide.dev](https://lucide.dev/icons/radius)
   static const IconData radius = IconData(
@@ -11566,7 +11566,7 @@ class LucideIcons {
   );
 
   /// ## rail-symbol
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rail-symbol.svg" width="100">
   ///
   /// [View "rail-symbol" on lucide.dev](https://lucide.dev/icons/rail-symbol)
   static const IconData railSymbol = IconData(
@@ -11576,7 +11576,7 @@ class LucideIcons {
   );
 
   /// ## rainbow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rainbow.svg" width="100">
   ///
   /// [View "rainbow" on lucide.dev](https://lucide.dev/icons/rainbow)
   static const IconData rainbow = IconData(
@@ -11586,7 +11586,7 @@ class LucideIcons {
   );
 
   /// ## rat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rat.svg" width="100">
   ///
   /// [View "rat" on lucide.dev](https://lucide.dev/icons/rat)
   static const IconData rat = IconData(
@@ -11596,7 +11596,7 @@ class LucideIcons {
   );
 
   /// ## ratio
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ratio.svg" width="100">
   ///
   /// [View "ratio" on lucide.dev](https://lucide.dev/icons/ratio)
   static const IconData ratio = IconData(
@@ -11606,7 +11606,7 @@ class LucideIcons {
   );
 
   /// ## receipt-cent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-cent.svg" width="100">
   ///
   /// [View "receipt-cent" on lucide.dev](https://lucide.dev/icons/receipt-cent)
   static const IconData receiptCent = IconData(
@@ -11616,7 +11616,7 @@ class LucideIcons {
   );
 
   /// ## receipt-euro
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-euro.svg" width="100">
   ///
   /// [View "receipt-euro" on lucide.dev](https://lucide.dev/icons/receipt-euro)
   static const IconData receiptEuro = IconData(
@@ -11626,7 +11626,7 @@ class LucideIcons {
   );
 
   /// ## receipt-indian-rupee
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-indian-rupee.svg" width="100">
   ///
   /// [View "receipt-indian-rupee" on lucide.dev](https://lucide.dev/icons/receipt-indian-rupee)
   static const IconData receiptIndianRupee = IconData(
@@ -11636,7 +11636,7 @@ class LucideIcons {
   );
 
   /// ## receipt-japanese-yen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-japanese-yen.svg" width="100">
   ///
   /// [View "receipt-japanese-yen" on lucide.dev](https://lucide.dev/icons/receipt-japanese-yen)
   static const IconData receiptJapaneseYen = IconData(
@@ -11646,7 +11646,7 @@ class LucideIcons {
   );
 
   /// ## receipt-pound-sterling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-pound-sterling.svg" width="100">
   ///
   /// [View "receipt-pound-sterling" on lucide.dev](https://lucide.dev/icons/receipt-pound-sterling)
   static const IconData receiptPoundSterling = IconData(
@@ -11656,7 +11656,7 @@ class LucideIcons {
   );
 
   /// ## receipt-russian-ruble
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-russian-ruble.svg" width="100">
   ///
   /// [View "receipt-russian-ruble" on lucide.dev](https://lucide.dev/icons/receipt-russian-ruble)
   static const IconData receiptRussianRuble = IconData(
@@ -11666,7 +11666,7 @@ class LucideIcons {
   );
 
   /// ## receipt-swiss-franc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-swiss-franc.svg" width="100">
   ///
   /// [View "receipt-swiss-franc" on lucide.dev](https://lucide.dev/icons/receipt-swiss-franc)
   static const IconData receiptSwissFranc = IconData(
@@ -11676,7 +11676,7 @@ class LucideIcons {
   );
 
   /// ## receipt-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-text.svg" width="100">
   ///
   /// [View "receipt-text" on lucide.dev](https://lucide.dev/icons/receipt-text)
   static const IconData receiptText = IconData(
@@ -11686,7 +11686,7 @@ class LucideIcons {
   );
 
   /// ## receipt-turkish-lira
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt-turkish-lira.svg" width="100">
   ///
   /// [View "receipt-turkish-lira" on lucide.dev](https://lucide.dev/icons/receipt-turkish-lira)
   static const IconData receiptTurkishLira = IconData(
@@ -11696,7 +11696,7 @@ class LucideIcons {
   );
 
   /// ## receipt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/receipt.svg" width="100">
   ///
   /// [View "receipt" on lucide.dev](https://lucide.dev/icons/receipt)
   static const IconData receipt = IconData(
@@ -11706,7 +11706,7 @@ class LucideIcons {
   );
 
   /// ## rectangle-circle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-circle.svg" width="100">
   ///
   /// [View "rectangle-circle" on lucide.dev](https://lucide.dev/icons/rectangle-circle)
   static const IconData rectangleCircle = IconData(
@@ -11716,7 +11716,7 @@ class LucideIcons {
   );
 
   /// ## rectangle-ellipsis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-ellipsis.svg" width="100">
   ///
   /// [View "rectangle-ellipsis" on lucide.dev](https://lucide.dev/icons/rectangle-ellipsis)
   static const IconData rectangleEllipsis = IconData(
@@ -11726,7 +11726,7 @@ class LucideIcons {
   );
 
   /// ## rectangle-goggles
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-goggles.svg" width="100">
   ///
   /// [View "rectangle-goggles" on lucide.dev](https://lucide.dev/icons/rectangle-goggles)
   static const IconData rectangleGoggles = IconData(
@@ -11736,7 +11736,7 @@ class LucideIcons {
   );
 
   /// ## rectangle-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-horizontal.svg" width="100">
   ///
   /// [View "rectangle-horizontal" on lucide.dev](https://lucide.dev/icons/rectangle-horizontal)
   static const IconData rectangleHorizontal = IconData(
@@ -11746,7 +11746,7 @@ class LucideIcons {
   );
 
   /// ## rectangle-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-vertical.svg" width="100">
   ///
   /// [View "rectangle-vertical" on lucide.dev](https://lucide.dev/icons/rectangle-vertical)
   static const IconData rectangleVertical = IconData(
@@ -11756,7 +11756,7 @@ class LucideIcons {
   );
 
   /// ## recycle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/recycle.svg" width="100">
   ///
   /// [View "recycle" on lucide.dev](https://lucide.dev/icons/recycle)
   static const IconData recycle = IconData(
@@ -11766,7 +11766,7 @@ class LucideIcons {
   );
 
   /// ## redo-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/redo-2.svg" width="100">
   ///
   /// [View "redo-2" on lucide.dev](https://lucide.dev/icons/redo-2)
   static const IconData redo2 = IconData(
@@ -11776,7 +11776,7 @@ class LucideIcons {
   );
 
   /// ## redo-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/redo-dot.svg" width="100">
   ///
   /// [View "redo-dot" on lucide.dev](https://lucide.dev/icons/redo-dot)
   static const IconData redoDot = IconData(
@@ -11786,7 +11786,7 @@ class LucideIcons {
   );
 
   /// ## redo
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/redo.svg" width="100">
   ///
   /// [View "redo" on lucide.dev](https://lucide.dev/icons/redo)
   static const IconData redo = IconData(
@@ -11796,7 +11796,7 @@ class LucideIcons {
   );
 
   /// ## refresh-ccw-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/refresh-ccw-dot.svg" width="100">
   ///
   /// [View "refresh-ccw-dot" on lucide.dev](https://lucide.dev/icons/refresh-ccw-dot)
   static const IconData refreshCcwDot = IconData(
@@ -11806,7 +11806,7 @@ class LucideIcons {
   );
 
   /// ## refresh-ccw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/refresh-ccw.svg" width="100">
   ///
   /// [View "refresh-ccw" on lucide.dev](https://lucide.dev/icons/refresh-ccw)
   static const IconData refreshCcw = IconData(
@@ -11816,7 +11816,7 @@ class LucideIcons {
   );
 
   /// ## refresh-cw-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/refresh-cw-off.svg" width="100">
   ///
   /// [View "refresh-cw-off" on lucide.dev](https://lucide.dev/icons/refresh-cw-off)
   static const IconData refreshCwOff = IconData(
@@ -11826,7 +11826,7 @@ class LucideIcons {
   );
 
   /// ## refresh-cw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/refresh-cw.svg" width="100">
   ///
   /// [View "refresh-cw" on lucide.dev](https://lucide.dev/icons/refresh-cw)
   static const IconData refreshCw = IconData(
@@ -11836,7 +11836,7 @@ class LucideIcons {
   );
 
   /// ## refrigerator
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/refrigerator.svg" width="100">
   ///
   /// [View "refrigerator" on lucide.dev](https://lucide.dev/icons/refrigerator)
   static const IconData refrigerator = IconData(
@@ -11846,7 +11846,7 @@ class LucideIcons {
   );
 
   /// ## regex
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/regex.svg" width="100">
   ///
   /// [View "regex" on lucide.dev](https://lucide.dev/icons/regex)
   static const IconData regex = IconData(
@@ -11856,7 +11856,7 @@ class LucideIcons {
   );
 
   /// ## remove-formatting
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/remove-formatting.svg" width="100">
   ///
   /// [View "remove-formatting" on lucide.dev](https://lucide.dev/icons/remove-formatting)
   static const IconData removeFormatting = IconData(
@@ -11866,7 +11866,7 @@ class LucideIcons {
   );
 
   /// ## repeat-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/repeat-1.svg" width="100">
   ///
   /// [View "repeat-1" on lucide.dev](https://lucide.dev/icons/repeat-1)
   static const IconData repeat1 = IconData(
@@ -11876,7 +11876,7 @@ class LucideIcons {
   );
 
   /// ## repeat-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/repeat-2.svg" width="100">
   ///
   /// [View "repeat-2" on lucide.dev](https://lucide.dev/icons/repeat-2)
   static const IconData repeat2 = IconData(
@@ -11886,7 +11886,7 @@ class LucideIcons {
   );
 
   /// ## repeat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/repeat.svg" width="100">
   ///
   /// [View "repeat" on lucide.dev](https://lucide.dev/icons/repeat)
   static const IconData repeat = IconData(
@@ -11896,7 +11896,7 @@ class LucideIcons {
   );
 
   /// ## replace-all
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/replace-all.svg" width="100">
   ///
   /// [View "replace-all" on lucide.dev](https://lucide.dev/icons/replace-all)
   static const IconData replaceAll = IconData(
@@ -11906,7 +11906,7 @@ class LucideIcons {
   );
 
   /// ## replace
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/replace.svg" width="100">
   ///
   /// [View "replace" on lucide.dev](https://lucide.dev/icons/replace)
   static const IconData replace = IconData(
@@ -11916,7 +11916,7 @@ class LucideIcons {
   );
 
   /// ## reply-all
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/reply-all.svg" width="100">
   ///
   /// [View "reply-all" on lucide.dev](https://lucide.dev/icons/reply-all)
   static const IconData replyAll = IconData(
@@ -11926,7 +11926,7 @@ class LucideIcons {
   );
 
   /// ## reply
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/reply.svg" width="100">
   ///
   /// [View "reply" on lucide.dev](https://lucide.dev/icons/reply)
   static const IconData reply = IconData(
@@ -11936,7 +11936,7 @@ class LucideIcons {
   );
 
   /// ## rewind
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rewind.svg" width="100">
   ///
   /// [View "rewind" on lucide.dev](https://lucide.dev/icons/rewind)
   static const IconData rewind = IconData(
@@ -11946,7 +11946,7 @@ class LucideIcons {
   );
 
   /// ## ribbon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ribbon.svg" width="100">
   ///
   /// [View "ribbon" on lucide.dev](https://lucide.dev/icons/ribbon)
   static const IconData ribbon = IconData(
@@ -11956,7 +11956,7 @@ class LucideIcons {
   );
 
   /// ## rocket
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rocket.svg" width="100">
   ///
   /// [View "rocket" on lucide.dev](https://lucide.dev/icons/rocket)
   static const IconData rocket = IconData(
@@ -11966,7 +11966,7 @@ class LucideIcons {
   );
 
   /// ## rocking-chair
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rocking-chair.svg" width="100">
   ///
   /// [View "rocking-chair" on lucide.dev](https://lucide.dev/icons/rocking-chair)
   static const IconData rockingChair = IconData(
@@ -11976,7 +11976,7 @@ class LucideIcons {
   );
 
   /// ## roller-coaster
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/roller-coaster.svg" width="100">
   ///
   /// [View "roller-coaster" on lucide.dev](https://lucide.dev/icons/roller-coaster)
   static const IconData rollerCoaster = IconData(
@@ -11986,7 +11986,7 @@ class LucideIcons {
   );
 
   /// ## rotate-3d
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-3d.svg" width="100">
   ///
   /// [View "rotate-3d" on lucide.dev](https://lucide.dev/icons/rotate-3d)
   static const IconData rotate3d = IconData(
@@ -11996,7 +11996,7 @@ class LucideIcons {
   );
 
   /// ## rotate-ccw-key
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-ccw-key.svg" width="100">
   ///
   /// [View "rotate-ccw-key" on lucide.dev](https://lucide.dev/icons/rotate-ccw-key)
   static const IconData rotateCcwKey = IconData(
@@ -12006,7 +12006,7 @@ class LucideIcons {
   );
 
   /// ## rotate-ccw-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-ccw-square.svg" width="100">
   ///
   /// [View "rotate-ccw-square" on lucide.dev](https://lucide.dev/icons/rotate-ccw-square)
   static const IconData rotateCcwSquare = IconData(
@@ -12016,7 +12016,7 @@ class LucideIcons {
   );
 
   /// ## rotate-ccw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-ccw.svg" width="100">
   ///
   /// [View "rotate-ccw" on lucide.dev](https://lucide.dev/icons/rotate-ccw)
   static const IconData rotateCcw = IconData(
@@ -12026,7 +12026,7 @@ class LucideIcons {
   );
 
   /// ## rotate-cw-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-cw-square.svg" width="100">
   ///
   /// [View "rotate-cw-square" on lucide.dev](https://lucide.dev/icons/rotate-cw-square)
   static const IconData rotateCwSquare = IconData(
@@ -12036,7 +12036,7 @@ class LucideIcons {
   );
 
   /// ## rotate-cw
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-cw.svg" width="100">
   ///
   /// [View "rotate-cw" on lucide.dev](https://lucide.dev/icons/rotate-cw)
   static const IconData rotateCw = IconData(
@@ -12046,7 +12046,7 @@ class LucideIcons {
   );
 
   /// ## route-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/route-off.svg" width="100">
   ///
   /// [View "route-off" on lucide.dev](https://lucide.dev/icons/route-off)
   static const IconData routeOff = IconData(
@@ -12056,7 +12056,7 @@ class LucideIcons {
   );
 
   /// ## route
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/route.svg" width="100">
   ///
   /// [View "route" on lucide.dev](https://lucide.dev/icons/route)
   static const IconData route = IconData(
@@ -12066,7 +12066,7 @@ class LucideIcons {
   );
 
   /// ## router
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/router.svg" width="100">
   ///
   /// [View "router" on lucide.dev](https://lucide.dev/icons/router)
   static const IconData router = IconData(
@@ -12076,7 +12076,7 @@ class LucideIcons {
   );
 
   /// ## rows-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rows-2.svg" width="100">
   ///
   /// [View "rows-2" on lucide.dev](https://lucide.dev/icons/rows-2)
   static const IconData rows2 = IconData(
@@ -12086,7 +12086,7 @@ class LucideIcons {
   );
 
   /// ## rows-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rows-3.svg" width="100">
   ///
   /// [View "rows-3" on lucide.dev](https://lucide.dev/icons/rows-3)
   static const IconData rows3 = IconData(
@@ -12096,7 +12096,7 @@ class LucideIcons {
   );
 
   /// ## rows-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rows-4.svg" width="100">
   ///
   /// [View "rows-4" on lucide.dev](https://lucide.dev/icons/rows-4)
   static const IconData rows4 = IconData(
@@ -12106,7 +12106,7 @@ class LucideIcons {
   );
 
   /// ## rss
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rss.svg" width="100">
   ///
   /// [View "rss" on lucide.dev](https://lucide.dev/icons/rss)
   static const IconData rss = IconData(
@@ -12116,7 +12116,7 @@ class LucideIcons {
   );
 
   /// ## ruler-dimension-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ruler-dimension-line.svg" width="100">
   ///
   /// [View "ruler-dimension-line" on lucide.dev](https://lucide.dev/icons/ruler-dimension-line)
   static const IconData rulerDimensionLine = IconData(
@@ -12126,7 +12126,7 @@ class LucideIcons {
   );
 
   /// ## ruler
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ruler.svg" width="100">
   ///
   /// [View "ruler" on lucide.dev](https://lucide.dev/icons/ruler)
   static const IconData ruler = IconData(
@@ -12136,7 +12136,7 @@ class LucideIcons {
   );
 
   /// ## russian-ruble
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/russian-ruble.svg" width="100">
   ///
   /// [View "russian-ruble" on lucide.dev](https://lucide.dev/icons/russian-ruble)
   static const IconData russianRuble = IconData(
@@ -12146,7 +12146,7 @@ class LucideIcons {
   );
 
   /// ## sailboat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sailboat.svg" width="100">
   ///
   /// [View "sailboat" on lucide.dev](https://lucide.dev/icons/sailboat)
   static const IconData sailboat = IconData(
@@ -12156,7 +12156,7 @@ class LucideIcons {
   );
 
   /// ## salad
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/salad.svg" width="100">
   ///
   /// [View "salad" on lucide.dev](https://lucide.dev/icons/salad)
   static const IconData salad = IconData(
@@ -12166,7 +12166,7 @@ class LucideIcons {
   );
 
   /// ## sandwich
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sandwich.svg" width="100">
   ///
   /// [View "sandwich" on lucide.dev](https://lucide.dev/icons/sandwich)
   static const IconData sandwich = IconData(
@@ -12176,7 +12176,7 @@ class LucideIcons {
   );
 
   /// ## satellite-dish
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/satellite-dish.svg" width="100">
   ///
   /// [View "satellite-dish" on lucide.dev](https://lucide.dev/icons/satellite-dish)
   static const IconData satelliteDish = IconData(
@@ -12186,7 +12186,7 @@ class LucideIcons {
   );
 
   /// ## satellite
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/satellite.svg" width="100">
   ///
   /// [View "satellite" on lucide.dev](https://lucide.dev/icons/satellite)
   static const IconData satellite = IconData(
@@ -12196,7 +12196,7 @@ class LucideIcons {
   );
 
   /// ## saudi-riyal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/saudi-riyal.svg" width="100">
   ///
   /// [View "saudi-riyal" on lucide.dev](https://lucide.dev/icons/saudi-riyal)
   static const IconData saudiRiyal = IconData(
@@ -12206,7 +12206,7 @@ class LucideIcons {
   );
 
   /// ## save-all
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/save-all.svg" width="100">
   ///
   /// [View "save-all" on lucide.dev](https://lucide.dev/icons/save-all)
   static const IconData saveAll = IconData(
@@ -12216,7 +12216,7 @@ class LucideIcons {
   );
 
   /// ## save-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/save-off.svg" width="100">
   ///
   /// [View "save-off" on lucide.dev](https://lucide.dev/icons/save-off)
   static const IconData saveOff = IconData(
@@ -12226,7 +12226,7 @@ class LucideIcons {
   );
 
   /// ## save
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/save.svg" width="100">
   ///
   /// [View "save" on lucide.dev](https://lucide.dev/icons/save)
   static const IconData save = IconData(
@@ -12236,7 +12236,7 @@ class LucideIcons {
   );
 
   /// ## scale-3d
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scale-3d.svg" width="100">
   ///
   /// [View "scale-3d" on lucide.dev](https://lucide.dev/icons/scale-3d)
   static const IconData scale3d = IconData(
@@ -12246,7 +12246,7 @@ class LucideIcons {
   );
 
   /// ## scale
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scale.svg" width="100">
   ///
   /// [View "scale" on lucide.dev](https://lucide.dev/icons/scale)
   static const IconData scale = IconData(
@@ -12256,7 +12256,7 @@ class LucideIcons {
   );
 
   /// ## scaling
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scaling.svg" width="100">
   ///
   /// [View "scaling" on lucide.dev](https://lucide.dev/icons/scaling)
   static const IconData scaling = IconData(
@@ -12266,7 +12266,7 @@ class LucideIcons {
   );
 
   /// ## scan-barcode
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-barcode.svg" width="100">
   ///
   /// [View "scan-barcode" on lucide.dev](https://lucide.dev/icons/scan-barcode)
   static const IconData scanBarcode = IconData(
@@ -12276,7 +12276,7 @@ class LucideIcons {
   );
 
   /// ## scan-eye
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-eye.svg" width="100">
   ///
   /// [View "scan-eye" on lucide.dev](https://lucide.dev/icons/scan-eye)
   static const IconData scanEye = IconData(
@@ -12286,7 +12286,7 @@ class LucideIcons {
   );
 
   /// ## scan-face
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-face.svg" width="100">
   ///
   /// [View "scan-face" on lucide.dev](https://lucide.dev/icons/scan-face)
   static const IconData scanFace = IconData(
@@ -12296,7 +12296,7 @@ class LucideIcons {
   );
 
   /// ## scan-heart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-heart.svg" width="100">
   ///
   /// [View "scan-heart" on lucide.dev](https://lucide.dev/icons/scan-heart)
   static const IconData scanHeart = IconData(
@@ -12306,7 +12306,7 @@ class LucideIcons {
   );
 
   /// ## scan-line
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-line.svg" width="100">
   ///
   /// [View "scan-line" on lucide.dev](https://lucide.dev/icons/scan-line)
   static const IconData scanLine = IconData(
@@ -12316,7 +12316,7 @@ class LucideIcons {
   );
 
   /// ## scan-qr-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-qr-code.svg" width="100">
   ///
   /// [View "scan-qr-code" on lucide.dev](https://lucide.dev/icons/scan-qr-code)
   static const IconData scanQrCode = IconData(
@@ -12326,7 +12326,7 @@ class LucideIcons {
   );
 
   /// ## scan-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-search.svg" width="100">
   ///
   /// [View "scan-search" on lucide.dev](https://lucide.dev/icons/scan-search)
   static const IconData scanSearch = IconData(
@@ -12336,7 +12336,7 @@ class LucideIcons {
   );
 
   /// ## scan-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-text.svg" width="100">
   ///
   /// [View "scan-text" on lucide.dev](https://lucide.dev/icons/scan-text)
   static const IconData scanText = IconData(
@@ -12346,7 +12346,7 @@ class LucideIcons {
   );
 
   /// ## scan
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan.svg" width="100">
   ///
   /// [View "scan" on lucide.dev](https://lucide.dev/icons/scan)
   static const IconData scan = IconData(
@@ -12356,7 +12356,7 @@ class LucideIcons {
   );
 
   /// ## school
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/school.svg" width="100">
   ///
   /// [View "school" on lucide.dev](https://lucide.dev/icons/school)
   static const IconData school = IconData(
@@ -12366,7 +12366,7 @@ class LucideIcons {
   );
 
   /// ## scissors-line-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scissors-line-dashed.svg" width="100">
   ///
   /// [View "scissors-line-dashed" on lucide.dev](https://lucide.dev/icons/scissors-line-dashed)
   static const IconData scissorsLineDashed = IconData(
@@ -12376,7 +12376,7 @@ class LucideIcons {
   );
 
   /// ## scissors
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scissors.svg" width="100">
   ///
   /// [View "scissors" on lucide.dev](https://lucide.dev/icons/scissors)
   static const IconData scissors = IconData(
@@ -12386,7 +12386,7 @@ class LucideIcons {
   );
 
   /// ## screen-share-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/screen-share-off.svg" width="100">
   ///
   /// [View "screen-share-off" on lucide.dev](https://lucide.dev/icons/screen-share-off)
   static const IconData screenShareOff = IconData(
@@ -12396,7 +12396,7 @@ class LucideIcons {
   );
 
   /// ## screen-share
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/screen-share.svg" width="100">
   ///
   /// [View "screen-share" on lucide.dev](https://lucide.dev/icons/screen-share)
   static const IconData screenShare = IconData(
@@ -12406,7 +12406,7 @@ class LucideIcons {
   );
 
   /// ## scroll-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scroll-text.svg" width="100">
   ///
   /// [View "scroll-text" on lucide.dev](https://lucide.dev/icons/scroll-text)
   static const IconData scrollText = IconData(
@@ -12416,7 +12416,7 @@ class LucideIcons {
   );
 
   /// ## scroll
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scroll.svg" width="100">
   ///
   /// [View "scroll" on lucide.dev](https://lucide.dev/icons/scroll)
   static const IconData scroll = IconData(
@@ -12426,7 +12426,7 @@ class LucideIcons {
   );
 
   /// ## search-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/search-check.svg" width="100">
   ///
   /// [View "search-check" on lucide.dev](https://lucide.dev/icons/search-check)
   static const IconData searchCheck = IconData(
@@ -12436,7 +12436,7 @@ class LucideIcons {
   );
 
   /// ## search-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/search-code.svg" width="100">
   ///
   /// [View "search-code" on lucide.dev](https://lucide.dev/icons/search-code)
   static const IconData searchCode = IconData(
@@ -12446,7 +12446,7 @@ class LucideIcons {
   );
 
   /// ## search-slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/search-slash.svg" width="100">
   ///
   /// [View "search-slash" on lucide.dev](https://lucide.dev/icons/search-slash)
   static const IconData searchSlash = IconData(
@@ -12456,7 +12456,7 @@ class LucideIcons {
   );
 
   /// ## search-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/search-x.svg" width="100">
   ///
   /// [View "search-x" on lucide.dev](https://lucide.dev/icons/search-x)
   static const IconData searchX = IconData(
@@ -12466,7 +12466,7 @@ class LucideIcons {
   );
 
   /// ## search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/search.svg" width="100">
   ///
   /// [View "search" on lucide.dev](https://lucide.dev/icons/search)
   static const IconData search = IconData(
@@ -12476,7 +12476,7 @@ class LucideIcons {
   );
 
   /// ## section
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/section.svg" width="100">
   ///
   /// [View "section" on lucide.dev](https://lucide.dev/icons/section)
   static const IconData section = IconData(
@@ -12486,7 +12486,7 @@ class LucideIcons {
   );
 
   /// ## send-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/send-horizontal.svg" width="100">
   ///
   /// [View "send-horizontal" on lucide.dev](https://lucide.dev/icons/send-horizontal)
   static const IconData sendHorizontal = IconData(
@@ -12496,7 +12496,7 @@ class LucideIcons {
   );
 
   /// ## send-to-back
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/send-to-back.svg" width="100">
   ///
   /// [View "send-to-back" on lucide.dev](https://lucide.dev/icons/send-to-back)
   static const IconData sendToBack = IconData(
@@ -12506,7 +12506,7 @@ class LucideIcons {
   );
 
   /// ## send
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/send.svg" width="100">
   ///
   /// [View "send" on lucide.dev](https://lucide.dev/icons/send)
   static const IconData send = IconData(
@@ -12516,7 +12516,7 @@ class LucideIcons {
   );
 
   /// ## separator-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/separator-horizontal.svg" width="100">
   ///
   /// [View "separator-horizontal" on lucide.dev](https://lucide.dev/icons/separator-horizontal)
   static const IconData separatorHorizontal = IconData(
@@ -12526,7 +12526,7 @@ class LucideIcons {
   );
 
   /// ## separator-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/separator-vertical.svg" width="100">
   ///
   /// [View "separator-vertical" on lucide.dev](https://lucide.dev/icons/separator-vertical)
   static const IconData separatorVertical = IconData(
@@ -12536,7 +12536,7 @@ class LucideIcons {
   );
 
   /// ## server-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/server-cog.svg" width="100">
   ///
   /// [View "server-cog" on lucide.dev](https://lucide.dev/icons/server-cog)
   static const IconData serverCog = IconData(
@@ -12546,7 +12546,7 @@ class LucideIcons {
   );
 
   /// ## server-crash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/server-crash.svg" width="100">
   ///
   /// [View "server-crash" on lucide.dev](https://lucide.dev/icons/server-crash)
   static const IconData serverCrash = IconData(
@@ -12556,7 +12556,7 @@ class LucideIcons {
   );
 
   /// ## server-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/server-off.svg" width="100">
   ///
   /// [View "server-off" on lucide.dev](https://lucide.dev/icons/server-off)
   static const IconData serverOff = IconData(
@@ -12566,7 +12566,7 @@ class LucideIcons {
   );
 
   /// ## server
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/server.svg" width="100">
   ///
   /// [View "server" on lucide.dev](https://lucide.dev/icons/server)
   static const IconData server = IconData(
@@ -12576,7 +12576,7 @@ class LucideIcons {
   );
 
   /// ## settings-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/settings-2.svg" width="100">
   ///
   /// [View "settings-2" on lucide.dev](https://lucide.dev/icons/settings-2)
   static const IconData settings2 = IconData(
@@ -12586,7 +12586,7 @@ class LucideIcons {
   );
 
   /// ## settings
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/settings.svg" width="100">
   ///
   /// [View "settings" on lucide.dev](https://lucide.dev/icons/settings)
   static const IconData settings = IconData(
@@ -12596,7 +12596,7 @@ class LucideIcons {
   );
 
   /// ## shapes
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shapes.svg" width="100">
   ///
   /// [View "shapes" on lucide.dev](https://lucide.dev/icons/shapes)
   static const IconData shapes = IconData(
@@ -12606,7 +12606,7 @@ class LucideIcons {
   );
 
   /// ## share-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/share-2.svg" width="100">
   ///
   /// [View "share-2" on lucide.dev](https://lucide.dev/icons/share-2)
   static const IconData share2 = IconData(
@@ -12616,7 +12616,7 @@ class LucideIcons {
   );
 
   /// ## share
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/share.svg" width="100">
   ///
   /// [View "share" on lucide.dev](https://lucide.dev/icons/share)
   static const IconData share = IconData(
@@ -12626,7 +12626,7 @@ class LucideIcons {
   );
 
   /// ## sheet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sheet.svg" width="100">
   ///
   /// [View "sheet" on lucide.dev](https://lucide.dev/icons/sheet)
   static const IconData sheet = IconData(
@@ -12636,7 +12636,7 @@ class LucideIcons {
   );
 
   /// ## shell
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shell.svg" width="100">
   ///
   /// [View "shell" on lucide.dev](https://lucide.dev/icons/shell)
   static const IconData shell = IconData(
@@ -12646,7 +12646,7 @@ class LucideIcons {
   );
 
   /// ## shield-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-alert.svg" width="100">
   ///
   /// [View "shield-alert" on lucide.dev](https://lucide.dev/icons/shield-alert)
   static const IconData shieldAlert = IconData(
@@ -12656,7 +12656,7 @@ class LucideIcons {
   );
 
   /// ## shield-ban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-ban.svg" width="100">
   ///
   /// [View "shield-ban" on lucide.dev](https://lucide.dev/icons/shield-ban)
   static const IconData shieldBan = IconData(
@@ -12666,7 +12666,7 @@ class LucideIcons {
   );
 
   /// ## shield-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-check.svg" width="100">
   ///
   /// [View "shield-check" on lucide.dev](https://lucide.dev/icons/shield-check)
   static const IconData shieldCheck = IconData(
@@ -12676,7 +12676,7 @@ class LucideIcons {
   );
 
   /// ## shield-ellipsis
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-ellipsis.svg" width="100">
   ///
   /// [View "shield-ellipsis" on lucide.dev](https://lucide.dev/icons/shield-ellipsis)
   static const IconData shieldEllipsis = IconData(
@@ -12686,7 +12686,7 @@ class LucideIcons {
   );
 
   /// ## shield-half
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-half.svg" width="100">
   ///
   /// [View "shield-half" on lucide.dev](https://lucide.dev/icons/shield-half)
   static const IconData shieldHalf = IconData(
@@ -12696,7 +12696,7 @@ class LucideIcons {
   );
 
   /// ## shield-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-minus.svg" width="100">
   ///
   /// [View "shield-minus" on lucide.dev](https://lucide.dev/icons/shield-minus)
   static const IconData shieldMinus = IconData(
@@ -12706,7 +12706,7 @@ class LucideIcons {
   );
 
   /// ## shield-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-off.svg" width="100">
   ///
   /// [View "shield-off" on lucide.dev](https://lucide.dev/icons/shield-off)
   static const IconData shieldOff = IconData(
@@ -12716,7 +12716,7 @@ class LucideIcons {
   );
 
   /// ## shield-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-plus.svg" width="100">
   ///
   /// [View "shield-plus" on lucide.dev](https://lucide.dev/icons/shield-plus)
   static const IconData shieldPlus = IconData(
@@ -12726,7 +12726,7 @@ class LucideIcons {
   );
 
   /// ## shield-question-mark
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-question-mark.svg" width="100">
   ///
   /// [View "shield-question-mark" on lucide.dev](https://lucide.dev/icons/shield-question-mark)
   static const IconData shieldQuestionMark = IconData(
@@ -12736,7 +12736,7 @@ class LucideIcons {
   );
 
   /// ## shield-user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-user.svg" width="100">
   ///
   /// [View "shield-user" on lucide.dev](https://lucide.dev/icons/shield-user)
   static const IconData shieldUser = IconData(
@@ -12746,7 +12746,7 @@ class LucideIcons {
   );
 
   /// ## shield-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-x.svg" width="100">
   ///
   /// [View "shield-x" on lucide.dev](https://lucide.dev/icons/shield-x)
   static const IconData shieldX = IconData(
@@ -12756,7 +12756,7 @@ class LucideIcons {
   );
 
   /// ## shield
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield.svg" width="100">
   ///
   /// [View "shield" on lucide.dev](https://lucide.dev/icons/shield)
   static const IconData shield = IconData(
@@ -12766,7 +12766,7 @@ class LucideIcons {
   );
 
   /// ## ship-wheel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ship-wheel.svg" width="100">
   ///
   /// [View "ship-wheel" on lucide.dev](https://lucide.dev/icons/ship-wheel)
   static const IconData shipWheel = IconData(
@@ -12776,7 +12776,7 @@ class LucideIcons {
   );
 
   /// ## ship
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ship.svg" width="100">
   ///
   /// [View "ship" on lucide.dev](https://lucide.dev/icons/ship)
   static const IconData ship = IconData(
@@ -12786,7 +12786,7 @@ class LucideIcons {
   );
 
   /// ## shirt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shirt.svg" width="100">
   ///
   /// [View "shirt" on lucide.dev](https://lucide.dev/icons/shirt)
   static const IconData shirt = IconData(
@@ -12796,7 +12796,7 @@ class LucideIcons {
   );
 
   /// ## shopping-bag
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-bag.svg" width="100">
   ///
   /// [View "shopping-bag" on lucide.dev](https://lucide.dev/icons/shopping-bag)
   static const IconData shoppingBag = IconData(
@@ -12806,7 +12806,7 @@ class LucideIcons {
   );
 
   /// ## shopping-basket
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-basket.svg" width="100">
   ///
   /// [View "shopping-basket" on lucide.dev](https://lucide.dev/icons/shopping-basket)
   static const IconData shoppingBasket = IconData(
@@ -12816,7 +12816,7 @@ class LucideIcons {
   );
 
   /// ## shopping-cart
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-cart.svg" width="100">
   ///
   /// [View "shopping-cart" on lucide.dev](https://lucide.dev/icons/shopping-cart)
   static const IconData shoppingCart = IconData(
@@ -12826,7 +12826,7 @@ class LucideIcons {
   );
 
   /// ## shovel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shovel.svg" width="100">
   ///
   /// [View "shovel" on lucide.dev](https://lucide.dev/icons/shovel)
   static const IconData shovel = IconData(
@@ -12836,7 +12836,7 @@ class LucideIcons {
   );
 
   /// ## shower-head
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shower-head.svg" width="100">
   ///
   /// [View "shower-head" on lucide.dev](https://lucide.dev/icons/shower-head)
   static const IconData showerHead = IconData(
@@ -12846,7 +12846,7 @@ class LucideIcons {
   );
 
   /// ## shredder
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shredder.svg" width="100">
   ///
   /// [View "shredder" on lucide.dev](https://lucide.dev/icons/shredder)
   static const IconData shredder = IconData(
@@ -12856,7 +12856,7 @@ class LucideIcons {
   );
 
   /// ## shrimp
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shrimp.svg" width="100">
   ///
   /// [View "shrimp" on lucide.dev](https://lucide.dev/icons/shrimp)
   static const IconData shrimp = IconData(
@@ -12866,7 +12866,7 @@ class LucideIcons {
   );
 
   /// ## shrink
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shrink.svg" width="100">
   ///
   /// [View "shrink" on lucide.dev](https://lucide.dev/icons/shrink)
   static const IconData shrink = IconData(
@@ -12876,7 +12876,7 @@ class LucideIcons {
   );
 
   /// ## shrub
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shrub.svg" width="100">
   ///
   /// [View "shrub" on lucide.dev](https://lucide.dev/icons/shrub)
   static const IconData shrub = IconData(
@@ -12886,7 +12886,7 @@ class LucideIcons {
   );
 
   /// ## shuffle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shuffle.svg" width="100">
   ///
   /// [View "shuffle" on lucide.dev](https://lucide.dev/icons/shuffle)
   static const IconData shuffle = IconData(
@@ -12896,7 +12896,7 @@ class LucideIcons {
   );
 
   /// ## sigma
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sigma.svg" width="100">
   ///
   /// [View "sigma" on lucide.dev](https://lucide.dev/icons/sigma)
   static const IconData sigma = IconData(
@@ -12906,7 +12906,7 @@ class LucideIcons {
   );
 
   /// ## signal-high
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signal-high.svg" width="100">
   ///
   /// [View "signal-high" on lucide.dev](https://lucide.dev/icons/signal-high)
   static const IconData signalHigh = IconData(
@@ -12916,7 +12916,7 @@ class LucideIcons {
   );
 
   /// ## signal-low
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signal-low.svg" width="100">
   ///
   /// [View "signal-low" on lucide.dev](https://lucide.dev/icons/signal-low)
   static const IconData signalLow = IconData(
@@ -12926,7 +12926,7 @@ class LucideIcons {
   );
 
   /// ## signal-medium
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signal-medium.svg" width="100">
   ///
   /// [View "signal-medium" on lucide.dev](https://lucide.dev/icons/signal-medium)
   static const IconData signalMedium = IconData(
@@ -12936,7 +12936,7 @@ class LucideIcons {
   );
 
   /// ## signal-zero
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signal-zero.svg" width="100">
   ///
   /// [View "signal-zero" on lucide.dev](https://lucide.dev/icons/signal-zero)
   static const IconData signalZero = IconData(
@@ -12946,7 +12946,7 @@ class LucideIcons {
   );
 
   /// ## signal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signal.svg" width="100">
   ///
   /// [View "signal" on lucide.dev](https://lucide.dev/icons/signal)
   static const IconData signal = IconData(
@@ -12956,7 +12956,7 @@ class LucideIcons {
   );
 
   /// ## signature
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signature.svg" width="100">
   ///
   /// [View "signature" on lucide.dev](https://lucide.dev/icons/signature)
   static const IconData signature = IconData(
@@ -12966,7 +12966,7 @@ class LucideIcons {
   );
 
   /// ## signpost-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signpost-big.svg" width="100">
   ///
   /// [View "signpost-big" on lucide.dev](https://lucide.dev/icons/signpost-big)
   static const IconData signpostBig = IconData(
@@ -12976,7 +12976,7 @@ class LucideIcons {
   );
 
   /// ## signpost
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/signpost.svg" width="100">
   ///
   /// [View "signpost" on lucide.dev](https://lucide.dev/icons/signpost)
   static const IconData signpost = IconData(
@@ -12986,7 +12986,7 @@ class LucideIcons {
   );
 
   /// ## siren
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/siren.svg" width="100">
   ///
   /// [View "siren" on lucide.dev](https://lucide.dev/icons/siren)
   static const IconData siren = IconData(
@@ -12996,7 +12996,7 @@ class LucideIcons {
   );
 
   /// ## skip-back
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/skip-back.svg" width="100">
   ///
   /// [View "skip-back" on lucide.dev](https://lucide.dev/icons/skip-back)
   static const IconData skipBack = IconData(
@@ -13006,7 +13006,7 @@ class LucideIcons {
   );
 
   /// ## skip-forward
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/skip-forward.svg" width="100">
   ///
   /// [View "skip-forward" on lucide.dev](https://lucide.dev/icons/skip-forward)
   static const IconData skipForward = IconData(
@@ -13016,7 +13016,7 @@ class LucideIcons {
   );
 
   /// ## skull
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/skull.svg" width="100">
   ///
   /// [View "skull" on lucide.dev](https://lucide.dev/icons/skull)
   static const IconData skull = IconData(
@@ -13026,7 +13026,7 @@ class LucideIcons {
   );
 
   /// ## slack
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/slack.svg" width="100">
   ///
   /// [View "slack" on lucide.dev](https://lucide.dev/icons/slack)
   static const IconData slack = IconData(
@@ -13036,7 +13036,7 @@ class LucideIcons {
   );
 
   /// ## slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/slash.svg" width="100">
   ///
   /// [View "slash" on lucide.dev](https://lucide.dev/icons/slash)
   static const IconData slash = IconData(
@@ -13046,7 +13046,7 @@ class LucideIcons {
   );
 
   /// ## slice
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/slice.svg" width="100">
   ///
   /// [View "slice" on lucide.dev](https://lucide.dev/icons/slice)
   static const IconData slice = IconData(
@@ -13056,7 +13056,7 @@ class LucideIcons {
   );
 
   /// ## sliders-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sliders-horizontal.svg" width="100">
   ///
   /// [View "sliders-horizontal" on lucide.dev](https://lucide.dev/icons/sliders-horizontal)
   static const IconData slidersHorizontal = IconData(
@@ -13066,7 +13066,7 @@ class LucideIcons {
   );
 
   /// ## sliders-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sliders-vertical.svg" width="100">
   ///
   /// [View "sliders-vertical" on lucide.dev](https://lucide.dev/icons/sliders-vertical)
   static const IconData slidersVertical = IconData(
@@ -13076,7 +13076,7 @@ class LucideIcons {
   );
 
   /// ## smartphone-charging
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/smartphone-charging.svg" width="100">
   ///
   /// [View "smartphone-charging" on lucide.dev](https://lucide.dev/icons/smartphone-charging)
   static const IconData smartphoneCharging = IconData(
@@ -13086,7 +13086,7 @@ class LucideIcons {
   );
 
   /// ## smartphone-nfc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/smartphone-nfc.svg" width="100">
   ///
   /// [View "smartphone-nfc" on lucide.dev](https://lucide.dev/icons/smartphone-nfc)
   static const IconData smartphoneNfc = IconData(
@@ -13096,7 +13096,7 @@ class LucideIcons {
   );
 
   /// ## smartphone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/smartphone.svg" width="100">
   ///
   /// [View "smartphone" on lucide.dev](https://lucide.dev/icons/smartphone)
   static const IconData smartphone = IconData(
@@ -13106,7 +13106,7 @@ class LucideIcons {
   );
 
   /// ## smile-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/smile-plus.svg" width="100">
   ///
   /// [View "smile-plus" on lucide.dev](https://lucide.dev/icons/smile-plus)
   static const IconData smilePlus = IconData(
@@ -13116,7 +13116,7 @@ class LucideIcons {
   );
 
   /// ## smile
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/smile.svg" width="100">
   ///
   /// [View "smile" on lucide.dev](https://lucide.dev/icons/smile)
   static const IconData smile = IconData(
@@ -13126,7 +13126,7 @@ class LucideIcons {
   );
 
   /// ## snail
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/snail.svg" width="100">
   ///
   /// [View "snail" on lucide.dev](https://lucide.dev/icons/snail)
   static const IconData snail = IconData(
@@ -13136,7 +13136,7 @@ class LucideIcons {
   );
 
   /// ## snowflake
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/snowflake.svg" width="100">
   ///
   /// [View "snowflake" on lucide.dev](https://lucide.dev/icons/snowflake)
   static const IconData snowflake = IconData(
@@ -13146,7 +13146,7 @@ class LucideIcons {
   );
 
   /// ## soap-dispenser-droplet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/soap-dispenser-droplet.svg" width="100">
   ///
   /// [View "soap-dispenser-droplet" on lucide.dev](https://lucide.dev/icons/soap-dispenser-droplet)
   static const IconData soapDispenserDroplet = IconData(
@@ -13156,7 +13156,7 @@ class LucideIcons {
   );
 
   /// ## sofa
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sofa.svg" width="100">
   ///
   /// [View "sofa" on lucide.dev](https://lucide.dev/icons/sofa)
   static const IconData sofa = IconData(
@@ -13166,7 +13166,7 @@ class LucideIcons {
   );
 
   /// ## soup
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/soup.svg" width="100">
   ///
   /// [View "soup" on lucide.dev](https://lucide.dev/icons/soup)
   static const IconData soup = IconData(
@@ -13176,7 +13176,7 @@ class LucideIcons {
   );
 
   /// ## space
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/space.svg" width="100">
   ///
   /// [View "space" on lucide.dev](https://lucide.dev/icons/space)
   static const IconData space = IconData(
@@ -13186,7 +13186,7 @@ class LucideIcons {
   );
 
   /// ## spade
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spade.svg" width="100">
   ///
   /// [View "spade" on lucide.dev](https://lucide.dev/icons/spade)
   static const IconData spade = IconData(
@@ -13196,7 +13196,7 @@ class LucideIcons {
   );
 
   /// ## sparkle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sparkle.svg" width="100">
   ///
   /// [View "sparkle" on lucide.dev](https://lucide.dev/icons/sparkle)
   static const IconData sparkle = IconData(
@@ -13206,7 +13206,7 @@ class LucideIcons {
   );
 
   /// ## sparkles
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sparkles.svg" width="100">
   ///
   /// [View "sparkles" on lucide.dev](https://lucide.dev/icons/sparkles)
   static const IconData sparkles = IconData(
@@ -13216,7 +13216,7 @@ class LucideIcons {
   );
 
   /// ## speaker
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/speaker.svg" width="100">
   ///
   /// [View "speaker" on lucide.dev](https://lucide.dev/icons/speaker)
   static const IconData speaker = IconData(
@@ -13226,7 +13226,7 @@ class LucideIcons {
   );
 
   /// ## speech
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/speech.svg" width="100">
   ///
   /// [View "speech" on lucide.dev](https://lucide.dev/icons/speech)
   static const IconData speech = IconData(
@@ -13236,7 +13236,7 @@ class LucideIcons {
   );
 
   /// ## spell-check-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spell-check-2.svg" width="100">
   ///
   /// [View "spell-check-2" on lucide.dev](https://lucide.dev/icons/spell-check-2)
   static const IconData spellCheck2 = IconData(
@@ -13246,7 +13246,7 @@ class LucideIcons {
   );
 
   /// ## spell-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spell-check.svg" width="100">
   ///
   /// [View "spell-check" on lucide.dev](https://lucide.dev/icons/spell-check)
   static const IconData spellCheck = IconData(
@@ -13256,7 +13256,7 @@ class LucideIcons {
   );
 
   /// ## spline-pointer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spline-pointer.svg" width="100">
   ///
   /// [View "spline-pointer" on lucide.dev](https://lucide.dev/icons/spline-pointer)
   static const IconData splinePointer = IconData(
@@ -13266,7 +13266,7 @@ class LucideIcons {
   );
 
   /// ## spline
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spline.svg" width="100">
   ///
   /// [View "spline" on lucide.dev](https://lucide.dev/icons/spline)
   static const IconData spline = IconData(
@@ -13276,7 +13276,7 @@ class LucideIcons {
   );
 
   /// ## split
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/split.svg" width="100">
   ///
   /// [View "split" on lucide.dev](https://lucide.dev/icons/split)
   static const IconData split = IconData(
@@ -13286,7 +13286,7 @@ class LucideIcons {
   );
 
   /// ## spool
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spool.svg" width="100">
   ///
   /// [View "spool" on lucide.dev](https://lucide.dev/icons/spool)
   static const IconData spool = IconData(
@@ -13296,7 +13296,7 @@ class LucideIcons {
   );
 
   /// ## spotlight
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spotlight.svg" width="100">
   ///
   /// [View "spotlight" on lucide.dev](https://lucide.dev/icons/spotlight)
   static const IconData spotlight = IconData(
@@ -13306,7 +13306,7 @@ class LucideIcons {
   );
 
   /// ## spray-can
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/spray-can.svg" width="100">
   ///
   /// [View "spray-can" on lucide.dev](https://lucide.dev/icons/spray-can)
   static const IconData sprayCan = IconData(
@@ -13316,7 +13316,7 @@ class LucideIcons {
   );
 
   /// ## sprout
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sprout.svg" width="100">
   ///
   /// [View "sprout" on lucide.dev](https://lucide.dev/icons/sprout)
   static const IconData sprout = IconData(
@@ -13326,7 +13326,7 @@ class LucideIcons {
   );
 
   /// ## square-activity
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-activity.svg" width="100">
   ///
   /// [View "square-activity" on lucide.dev](https://lucide.dev/icons/square-activity)
   static const IconData squareActivity = IconData(
@@ -13336,7 +13336,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-down-left.svg" width="100">
   ///
   /// [View "square-arrow-down-left" on lucide.dev](https://lucide.dev/icons/square-arrow-down-left)
   static const IconData squareArrowDownLeft = IconData(
@@ -13346,7 +13346,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-down-right.svg" width="100">
   ///
   /// [View "square-arrow-down-right" on lucide.dev](https://lucide.dev/icons/square-arrow-down-right)
   static const IconData squareArrowDownRight = IconData(
@@ -13356,7 +13356,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-down.svg" width="100">
   ///
   /// [View "square-arrow-down" on lucide.dev](https://lucide.dev/icons/square-arrow-down)
   static const IconData squareArrowDown = IconData(
@@ -13366,7 +13366,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-left.svg" width="100">
   ///
   /// [View "square-arrow-left" on lucide.dev](https://lucide.dev/icons/square-arrow-left)
   static const IconData squareArrowLeft = IconData(
@@ -13376,7 +13376,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-out-down-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-out-down-left.svg" width="100">
   ///
   /// [View "square-arrow-out-down-left" on lucide.dev](https://lucide.dev/icons/square-arrow-out-down-left)
   static const IconData squareArrowOutDownLeft = IconData(
@@ -13386,7 +13386,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-out-down-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-out-down-right.svg" width="100">
   ///
   /// [View "square-arrow-out-down-right" on lucide.dev](https://lucide.dev/icons/square-arrow-out-down-right)
   static const IconData squareArrowOutDownRight = IconData(
@@ -13396,7 +13396,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-out-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-out-up-left.svg" width="100">
   ///
   /// [View "square-arrow-out-up-left" on lucide.dev](https://lucide.dev/icons/square-arrow-out-up-left)
   static const IconData squareArrowOutUpLeft = IconData(
@@ -13406,7 +13406,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-out-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-out-up-right.svg" width="100">
   ///
   /// [View "square-arrow-out-up-right" on lucide.dev](https://lucide.dev/icons/square-arrow-out-up-right)
   static const IconData squareArrowOutUpRight = IconData(
@@ -13416,7 +13416,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-right.svg" width="100">
   ///
   /// [View "square-arrow-right" on lucide.dev](https://lucide.dev/icons/square-arrow-right)
   static const IconData squareArrowRight = IconData(
@@ -13426,7 +13426,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-up-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-up-left.svg" width="100">
   ///
   /// [View "square-arrow-up-left" on lucide.dev](https://lucide.dev/icons/square-arrow-up-left)
   static const IconData squareArrowUpLeft = IconData(
@@ -13436,7 +13436,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-up-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-up-right.svg" width="100">
   ///
   /// [View "square-arrow-up-right" on lucide.dev](https://lucide.dev/icons/square-arrow-up-right)
   static const IconData squareArrowUpRight = IconData(
@@ -13446,7 +13446,7 @@ class LucideIcons {
   );
 
   /// ## square-arrow-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-up.svg" width="100">
   ///
   /// [View "square-arrow-up" on lucide.dev](https://lucide.dev/icons/square-arrow-up)
   static const IconData squareArrowUp = IconData(
@@ -13456,7 +13456,7 @@ class LucideIcons {
   );
 
   /// ## square-asterisk
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-asterisk.svg" width="100">
   ///
   /// [View "square-asterisk" on lucide.dev](https://lucide.dev/icons/square-asterisk)
   static const IconData squareAsterisk = IconData(
@@ -13466,7 +13466,7 @@ class LucideIcons {
   );
 
   /// ## square-bottom-dashed-scissors
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-bottom-dashed-scissors.svg" width="100">
   ///
   /// [View "square-bottom-dashed-scissors" on lucide.dev](https://lucide.dev/icons/square-bottom-dashed-scissors)
   static const IconData squareBottomDashedScissors = IconData(
@@ -13476,7 +13476,7 @@ class LucideIcons {
   );
 
   /// ## square-chart-gantt
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-chart-gantt.svg" width="100">
   ///
   /// [View "square-chart-gantt" on lucide.dev](https://lucide.dev/icons/square-chart-gantt)
   static const IconData squareChartGantt = IconData(
@@ -13486,7 +13486,7 @@ class LucideIcons {
   );
 
   /// ## square-check-big
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-check-big.svg" width="100">
   ///
   /// [View "square-check-big" on lucide.dev](https://lucide.dev/icons/square-check-big)
   static const IconData squareCheckBig = IconData(
@@ -13496,7 +13496,7 @@ class LucideIcons {
   );
 
   /// ## square-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-check.svg" width="100">
   ///
   /// [View "square-check" on lucide.dev](https://lucide.dev/icons/square-check)
   static const IconData squareCheck = IconData(
@@ -13506,7 +13506,7 @@ class LucideIcons {
   );
 
   /// ## square-chevron-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-chevron-down.svg" width="100">
   ///
   /// [View "square-chevron-down" on lucide.dev](https://lucide.dev/icons/square-chevron-down)
   static const IconData squareChevronDown = IconData(
@@ -13516,7 +13516,7 @@ class LucideIcons {
   );
 
   /// ## square-chevron-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-chevron-left.svg" width="100">
   ///
   /// [View "square-chevron-left" on lucide.dev](https://lucide.dev/icons/square-chevron-left)
   static const IconData squareChevronLeft = IconData(
@@ -13526,7 +13526,7 @@ class LucideIcons {
   );
 
   /// ## square-chevron-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-chevron-right.svg" width="100">
   ///
   /// [View "square-chevron-right" on lucide.dev](https://lucide.dev/icons/square-chevron-right)
   static const IconData squareChevronRight = IconData(
@@ -13536,7 +13536,7 @@ class LucideIcons {
   );
 
   /// ## square-chevron-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-chevron-up.svg" width="100">
   ///
   /// [View "square-chevron-up" on lucide.dev](https://lucide.dev/icons/square-chevron-up)
   static const IconData squareChevronUp = IconData(
@@ -13546,7 +13546,7 @@ class LucideIcons {
   );
 
   /// ## square-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-code.svg" width="100">
   ///
   /// [View "square-code" on lucide.dev](https://lucide.dev/icons/square-code)
   static const IconData squareCode = IconData(
@@ -13556,7 +13556,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed-bottom-code
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-bottom-code.svg" width="100">
   ///
   /// [View "square-dashed-bottom-code" on lucide.dev](https://lucide.dev/icons/square-dashed-bottom-code)
   static const IconData squareDashedBottomCode = IconData(
@@ -13566,7 +13566,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed-bottom
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-bottom.svg" width="100">
   ///
   /// [View "square-dashed-bottom" on lucide.dev](https://lucide.dev/icons/square-dashed-bottom)
   static const IconData squareDashedBottom = IconData(
@@ -13576,7 +13576,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed-kanban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-kanban.svg" width="100">
   ///
   /// [View "square-dashed-kanban" on lucide.dev](https://lucide.dev/icons/square-dashed-kanban)
   static const IconData squareDashedKanban = IconData(
@@ -13586,7 +13586,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed-mouse-pointer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-mouse-pointer.svg" width="100">
   ///
   /// [View "square-dashed-mouse-pointer" on lucide.dev](https://lucide.dev/icons/square-dashed-mouse-pointer)
   static const IconData squareDashedMousePointer = IconData(
@@ -13596,7 +13596,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed-top-solid
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-top-solid.svg" width="100">
   ///
   /// [View "square-dashed-top-solid" on lucide.dev](https://lucide.dev/icons/square-dashed-top-solid)
   static const IconData squareDashedTopSolid = IconData(
@@ -13606,7 +13606,7 @@ class LucideIcons {
   );
 
   /// ## square-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed.svg" width="100">
   ///
   /// [View "square-dashed" on lucide.dev](https://lucide.dev/icons/square-dashed)
   static const IconData squareDashed = IconData(
@@ -13616,7 +13616,7 @@ class LucideIcons {
   );
 
   /// ## square-divide
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-divide.svg" width="100">
   ///
   /// [View "square-divide" on lucide.dev](https://lucide.dev/icons/square-divide)
   static const IconData squareDivide = IconData(
@@ -13626,7 +13626,7 @@ class LucideIcons {
   );
 
   /// ## square-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dot.svg" width="100">
   ///
   /// [View "square-dot" on lucide.dev](https://lucide.dev/icons/square-dot)
   static const IconData squareDot = IconData(
@@ -13636,7 +13636,7 @@ class LucideIcons {
   );
 
   /// ## square-equal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-equal.svg" width="100">
   ///
   /// [View "square-equal" on lucide.dev](https://lucide.dev/icons/square-equal)
   static const IconData squareEqual = IconData(
@@ -13646,7 +13646,7 @@ class LucideIcons {
   );
 
   /// ## square-function
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-function.svg" width="100">
   ///
   /// [View "square-function" on lucide.dev](https://lucide.dev/icons/square-function)
   static const IconData squareFunction = IconData(
@@ -13656,7 +13656,7 @@ class LucideIcons {
   );
 
   /// ## square-kanban
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-kanban.svg" width="100">
   ///
   /// [View "square-kanban" on lucide.dev](https://lucide.dev/icons/square-kanban)
   static const IconData squareKanban = IconData(
@@ -13666,7 +13666,7 @@ class LucideIcons {
   );
 
   /// ## square-library
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-library.svg" width="100">
   ///
   /// [View "square-library" on lucide.dev](https://lucide.dev/icons/square-library)
   static const IconData squareLibrary = IconData(
@@ -13676,7 +13676,7 @@ class LucideIcons {
   );
 
   /// ## square-m
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-m.svg" width="100">
   ///
   /// [View "square-m" on lucide.dev](https://lucide.dev/icons/square-m)
   static const IconData squareM = IconData(
@@ -13686,7 +13686,7 @@ class LucideIcons {
   );
 
   /// ## square-menu
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-menu.svg" width="100">
   ///
   /// [View "square-menu" on lucide.dev](https://lucide.dev/icons/square-menu)
   static const IconData squareMenu = IconData(
@@ -13696,7 +13696,7 @@ class LucideIcons {
   );
 
   /// ## square-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-minus.svg" width="100">
   ///
   /// [View "square-minus" on lucide.dev](https://lucide.dev/icons/square-minus)
   static const IconData squareMinus = IconData(
@@ -13706,7 +13706,7 @@ class LucideIcons {
   );
 
   /// ## square-mouse-pointer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-mouse-pointer.svg" width="100">
   ///
   /// [View "square-mouse-pointer" on lucide.dev](https://lucide.dev/icons/square-mouse-pointer)
   static const IconData squareMousePointer = IconData(
@@ -13716,7 +13716,7 @@ class LucideIcons {
   );
 
   /// ## square-parking-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-parking-off.svg" width="100">
   ///
   /// [View "square-parking-off" on lucide.dev](https://lucide.dev/icons/square-parking-off)
   static const IconData squareParkingOff = IconData(
@@ -13726,7 +13726,7 @@ class LucideIcons {
   );
 
   /// ## square-parking
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-parking.svg" width="100">
   ///
   /// [View "square-parking" on lucide.dev](https://lucide.dev/icons/square-parking)
   static const IconData squareParking = IconData(
@@ -13736,7 +13736,7 @@ class LucideIcons {
   );
 
   /// ## square-pause
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-pause.svg" width="100">
   ///
   /// [View "square-pause" on lucide.dev](https://lucide.dev/icons/square-pause)
   static const IconData squarePause = IconData(
@@ -13746,7 +13746,7 @@ class LucideIcons {
   );
 
   /// ## square-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-pen.svg" width="100">
   ///
   /// [View "square-pen" on lucide.dev](https://lucide.dev/icons/square-pen)
   static const IconData squarePen = IconData(
@@ -13756,7 +13756,7 @@ class LucideIcons {
   );
 
   /// ## square-percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-percent.svg" width="100">
   ///
   /// [View "square-percent" on lucide.dev](https://lucide.dev/icons/square-percent)
   static const IconData squarePercent = IconData(
@@ -13766,7 +13766,7 @@ class LucideIcons {
   );
 
   /// ## square-pi
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-pi.svg" width="100">
   ///
   /// [View "square-pi" on lucide.dev](https://lucide.dev/icons/square-pi)
   static const IconData squarePi = IconData(
@@ -13776,7 +13776,7 @@ class LucideIcons {
   );
 
   /// ## square-pilcrow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-pilcrow.svg" width="100">
   ///
   /// [View "square-pilcrow" on lucide.dev](https://lucide.dev/icons/square-pilcrow)
   static const IconData squarePilcrow = IconData(
@@ -13786,7 +13786,7 @@ class LucideIcons {
   );
 
   /// ## square-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-play.svg" width="100">
   ///
   /// [View "square-play" on lucide.dev](https://lucide.dev/icons/square-play)
   static const IconData squarePlay = IconData(
@@ -13796,7 +13796,7 @@ class LucideIcons {
   );
 
   /// ## square-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-plus.svg" width="100">
   ///
   /// [View "square-plus" on lucide.dev](https://lucide.dev/icons/square-plus)
   static const IconData squarePlus = IconData(
@@ -13806,7 +13806,7 @@ class LucideIcons {
   );
 
   /// ## square-power
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-power.svg" width="100">
   ///
   /// [View "square-power" on lucide.dev](https://lucide.dev/icons/square-power)
   static const IconData squarePower = IconData(
@@ -13816,7 +13816,7 @@ class LucideIcons {
   );
 
   /// ## square-radical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-radical.svg" width="100">
   ///
   /// [View "square-radical" on lucide.dev](https://lucide.dev/icons/square-radical)
   static const IconData squareRadical = IconData(
@@ -13826,7 +13826,7 @@ class LucideIcons {
   );
 
   /// ## square-round-corner
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-round-corner.svg" width="100">
   ///
   /// [View "square-round-corner" on lucide.dev](https://lucide.dev/icons/square-round-corner)
   static const IconData squareRoundCorner = IconData(
@@ -13836,7 +13836,7 @@ class LucideIcons {
   );
 
   /// ## square-scissors
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-scissors.svg" width="100">
   ///
   /// [View "square-scissors" on lucide.dev](https://lucide.dev/icons/square-scissors)
   static const IconData squareScissors = IconData(
@@ -13846,7 +13846,7 @@ class LucideIcons {
   );
 
   /// ## square-sigma
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-sigma.svg" width="100">
   ///
   /// [View "square-sigma" on lucide.dev](https://lucide.dev/icons/square-sigma)
   static const IconData squareSigma = IconData(
@@ -13856,7 +13856,7 @@ class LucideIcons {
   );
 
   /// ## square-slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-slash.svg" width="100">
   ///
   /// [View "square-slash" on lucide.dev](https://lucide.dev/icons/square-slash)
   static const IconData squareSlash = IconData(
@@ -13866,7 +13866,7 @@ class LucideIcons {
   );
 
   /// ## square-split-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-split-horizontal.svg" width="100">
   ///
   /// [View "square-split-horizontal" on lucide.dev](https://lucide.dev/icons/square-split-horizontal)
   static const IconData squareSplitHorizontal = IconData(
@@ -13876,7 +13876,7 @@ class LucideIcons {
   );
 
   /// ## square-split-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-split-vertical.svg" width="100">
   ///
   /// [View "square-split-vertical" on lucide.dev](https://lucide.dev/icons/square-split-vertical)
   static const IconData squareSplitVertical = IconData(
@@ -13886,7 +13886,7 @@ class LucideIcons {
   );
 
   /// ## square-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-square.svg" width="100">
   ///
   /// [View "square-square" on lucide.dev](https://lucide.dev/icons/square-square)
   static const IconData squareSquare = IconData(
@@ -13896,7 +13896,7 @@ class LucideIcons {
   );
 
   /// ## square-stack
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-stack.svg" width="100">
   ///
   /// [View "square-stack" on lucide.dev](https://lucide.dev/icons/square-stack)
   static const IconData squareStack = IconData(
@@ -13906,7 +13906,7 @@ class LucideIcons {
   );
 
   /// ## square-stop
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-stop.svg" width="100">
   ///
   /// [View "square-stop" on lucide.dev](https://lucide.dev/icons/square-stop)
   static const IconData squareStop = IconData(
@@ -13916,7 +13916,7 @@ class LucideIcons {
   );
 
   /// ## square-terminal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-terminal.svg" width="100">
   ///
   /// [View "square-terminal" on lucide.dev](https://lucide.dev/icons/square-terminal)
   static const IconData squareTerminal = IconData(
@@ -13926,7 +13926,7 @@ class LucideIcons {
   );
 
   /// ## square-user-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-user-round.svg" width="100">
   ///
   /// [View "square-user-round" on lucide.dev](https://lucide.dev/icons/square-user-round)
   static const IconData squareUserRound = IconData(
@@ -13936,7 +13936,7 @@ class LucideIcons {
   );
 
   /// ## square-user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-user.svg" width="100">
   ///
   /// [View "square-user" on lucide.dev](https://lucide.dev/icons/square-user)
   static const IconData squareUser = IconData(
@@ -13946,7 +13946,7 @@ class LucideIcons {
   );
 
   /// ## square-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-x.svg" width="100">
   ///
   /// [View "square-x" on lucide.dev](https://lucide.dev/icons/square-x)
   static const IconData squareX = IconData(
@@ -13956,7 +13956,7 @@ class LucideIcons {
   );
 
   /// ## square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square.svg" width="100">
   ///
   /// [View "square" on lucide.dev](https://lucide.dev/icons/square)
   static const IconData square = IconData(
@@ -13966,7 +13966,7 @@ class LucideIcons {
   );
 
   /// ## squares-exclude
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squares-exclude.svg" width="100">
   ///
   /// [View "squares-exclude" on lucide.dev](https://lucide.dev/icons/squares-exclude)
   static const IconData squaresExclude = IconData(
@@ -13976,7 +13976,7 @@ class LucideIcons {
   );
 
   /// ## squares-intersect
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squares-intersect.svg" width="100">
   ///
   /// [View "squares-intersect" on lucide.dev](https://lucide.dev/icons/squares-intersect)
   static const IconData squaresIntersect = IconData(
@@ -13986,7 +13986,7 @@ class LucideIcons {
   );
 
   /// ## squares-subtract
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squares-subtract.svg" width="100">
   ///
   /// [View "squares-subtract" on lucide.dev](https://lucide.dev/icons/squares-subtract)
   static const IconData squaresSubtract = IconData(
@@ -13996,7 +13996,7 @@ class LucideIcons {
   );
 
   /// ## squares-unite
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squares-unite.svg" width="100">
   ///
   /// [View "squares-unite" on lucide.dev](https://lucide.dev/icons/squares-unite)
   static const IconData squaresUnite = IconData(
@@ -14006,7 +14006,7 @@ class LucideIcons {
   );
 
   /// ## squircle-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squircle-dashed.svg" width="100">
   ///
   /// [View "squircle-dashed" on lucide.dev](https://lucide.dev/icons/squircle-dashed)
   static const IconData squircleDashed = IconData(
@@ -14016,7 +14016,7 @@ class LucideIcons {
   );
 
   /// ## squircle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squircle.svg" width="100">
   ///
   /// [View "squircle" on lucide.dev](https://lucide.dev/icons/squircle)
   static const IconData squircle = IconData(
@@ -14026,7 +14026,7 @@ class LucideIcons {
   );
 
   /// ## squirrel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/squirrel.svg" width="100">
   ///
   /// [View "squirrel" on lucide.dev](https://lucide.dev/icons/squirrel)
   static const IconData squirrel = IconData(
@@ -14036,7 +14036,7 @@ class LucideIcons {
   );
 
   /// ## stamp
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stamp.svg" width="100">
   ///
   /// [View "stamp" on lucide.dev](https://lucide.dev/icons/stamp)
   static const IconData stamp = IconData(
@@ -14046,7 +14046,7 @@ class LucideIcons {
   );
 
   /// ## star-half
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/star-half.svg" width="100">
   ///
   /// [View "star-half" on lucide.dev](https://lucide.dev/icons/star-half)
   static const IconData starHalf = IconData(
@@ -14056,7 +14056,7 @@ class LucideIcons {
   );
 
   /// ## star-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/star-off.svg" width="100">
   ///
   /// [View "star-off" on lucide.dev](https://lucide.dev/icons/star-off)
   static const IconData starOff = IconData(
@@ -14066,7 +14066,7 @@ class LucideIcons {
   );
 
   /// ## star
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/star.svg" width="100">
   ///
   /// [View "star" on lucide.dev](https://lucide.dev/icons/star)
   static const IconData star = IconData(
@@ -14076,7 +14076,7 @@ class LucideIcons {
   );
 
   /// ## step-back
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/step-back.svg" width="100">
   ///
   /// [View "step-back" on lucide.dev](https://lucide.dev/icons/step-back)
   static const IconData stepBack = IconData(
@@ -14086,7 +14086,7 @@ class LucideIcons {
   );
 
   /// ## step-forward
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/step-forward.svg" width="100">
   ///
   /// [View "step-forward" on lucide.dev](https://lucide.dev/icons/step-forward)
   static const IconData stepForward = IconData(
@@ -14096,7 +14096,7 @@ class LucideIcons {
   );
 
   /// ## stethoscope
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stethoscope.svg" width="100">
   ///
   /// [View "stethoscope" on lucide.dev](https://lucide.dev/icons/stethoscope)
   static const IconData stethoscope = IconData(
@@ -14106,7 +14106,7 @@ class LucideIcons {
   );
 
   /// ## sticker
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticker.svg" width="100">
   ///
   /// [View "sticker" on lucide.dev](https://lucide.dev/icons/sticker)
   static const IconData sticker = IconData(
@@ -14116,7 +14116,7 @@ class LucideIcons {
   );
 
   /// ## sticky-note
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note.svg" width="100">
   ///
   /// [View "sticky-note" on lucide.dev](https://lucide.dev/icons/sticky-note)
   static const IconData stickyNote = IconData(
@@ -14126,7 +14126,7 @@ class LucideIcons {
   );
 
   /// ## store
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/store.svg" width="100">
   ///
   /// [View "store" on lucide.dev](https://lucide.dev/icons/store)
   static const IconData store = IconData(
@@ -14136,7 +14136,7 @@ class LucideIcons {
   );
 
   /// ## stretch-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stretch-horizontal.svg" width="100">
   ///
   /// [View "stretch-horizontal" on lucide.dev](https://lucide.dev/icons/stretch-horizontal)
   static const IconData stretchHorizontal = IconData(
@@ -14146,7 +14146,7 @@ class LucideIcons {
   );
 
   /// ## stretch-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stretch-vertical.svg" width="100">
   ///
   /// [View "stretch-vertical" on lucide.dev](https://lucide.dev/icons/stretch-vertical)
   static const IconData stretchVertical = IconData(
@@ -14156,7 +14156,7 @@ class LucideIcons {
   );
 
   /// ## strikethrough
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/strikethrough.svg" width="100">
   ///
   /// [View "strikethrough" on lucide.dev](https://lucide.dev/icons/strikethrough)
   static const IconData strikethrough = IconData(
@@ -14166,7 +14166,7 @@ class LucideIcons {
   );
 
   /// ## subscript
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/subscript.svg" width="100">
   ///
   /// [View "subscript" on lucide.dev](https://lucide.dev/icons/subscript)
   static const IconData subscript = IconData(
@@ -14176,7 +14176,7 @@ class LucideIcons {
   );
 
   /// ## sun-dim
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sun-dim.svg" width="100">
   ///
   /// [View "sun-dim" on lucide.dev](https://lucide.dev/icons/sun-dim)
   static const IconData sunDim = IconData(
@@ -14186,7 +14186,7 @@ class LucideIcons {
   );
 
   /// ## sun-medium
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sun-medium.svg" width="100">
   ///
   /// [View "sun-medium" on lucide.dev](https://lucide.dev/icons/sun-medium)
   static const IconData sunMedium = IconData(
@@ -14196,7 +14196,7 @@ class LucideIcons {
   );
 
   /// ## sun-moon
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sun-moon.svg" width="100">
   ///
   /// [View "sun-moon" on lucide.dev](https://lucide.dev/icons/sun-moon)
   static const IconData sunMoon = IconData(
@@ -14206,7 +14206,7 @@ class LucideIcons {
   );
 
   /// ## sun-snow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sun-snow.svg" width="100">
   ///
   /// [View "sun-snow" on lucide.dev](https://lucide.dev/icons/sun-snow)
   static const IconData sunSnow = IconData(
@@ -14216,7 +14216,7 @@ class LucideIcons {
   );
 
   /// ## sun
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sun.svg" width="100">
   ///
   /// [View "sun" on lucide.dev](https://lucide.dev/icons/sun)
   static const IconData sun = IconData(
@@ -14226,7 +14226,7 @@ class LucideIcons {
   );
 
   /// ## sunrise
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sunrise.svg" width="100">
   ///
   /// [View "sunrise" on lucide.dev](https://lucide.dev/icons/sunrise)
   static const IconData sunrise = IconData(
@@ -14236,7 +14236,7 @@ class LucideIcons {
   );
 
   /// ## sunset
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sunset.svg" width="100">
   ///
   /// [View "sunset" on lucide.dev](https://lucide.dev/icons/sunset)
   static const IconData sunset = IconData(
@@ -14246,7 +14246,7 @@ class LucideIcons {
   );
 
   /// ## superscript
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/superscript.svg" width="100">
   ///
   /// [View "superscript" on lucide.dev](https://lucide.dev/icons/superscript)
   static const IconData superscript = IconData(
@@ -14256,7 +14256,7 @@ class LucideIcons {
   );
 
   /// ## swatch-book
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/swatch-book.svg" width="100">
   ///
   /// [View "swatch-book" on lucide.dev](https://lucide.dev/icons/swatch-book)
   static const IconData swatchBook = IconData(
@@ -14266,7 +14266,7 @@ class LucideIcons {
   );
 
   /// ## swiss-franc
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/swiss-franc.svg" width="100">
   ///
   /// [View "swiss-franc" on lucide.dev](https://lucide.dev/icons/swiss-franc)
   static const IconData swissFranc = IconData(
@@ -14276,7 +14276,7 @@ class LucideIcons {
   );
 
   /// ## switch-camera
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/switch-camera.svg" width="100">
   ///
   /// [View "switch-camera" on lucide.dev](https://lucide.dev/icons/switch-camera)
   static const IconData switchCamera = IconData(
@@ -14286,7 +14286,7 @@ class LucideIcons {
   );
 
   /// ## sword
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sword.svg" width="100">
   ///
   /// [View "sword" on lucide.dev](https://lucide.dev/icons/sword)
   static const IconData sword = IconData(
@@ -14296,7 +14296,7 @@ class LucideIcons {
   );
 
   /// ## swords
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/swords.svg" width="100">
   ///
   /// [View "swords" on lucide.dev](https://lucide.dev/icons/swords)
   static const IconData swords = IconData(
@@ -14306,7 +14306,7 @@ class LucideIcons {
   );
 
   /// ## syringe
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/syringe.svg" width="100">
   ///
   /// [View "syringe" on lucide.dev](https://lucide.dev/icons/syringe)
   static const IconData syringe = IconData(
@@ -14316,7 +14316,7 @@ class LucideIcons {
   );
 
   /// ## table-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-2.svg" width="100">
   ///
   /// [View "table-2" on lucide.dev](https://lucide.dev/icons/table-2)
   static const IconData table2 = IconData(
@@ -14326,7 +14326,7 @@ class LucideIcons {
   );
 
   /// ## table-cells-merge
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-cells-merge.svg" width="100">
   ///
   /// [View "table-cells-merge" on lucide.dev](https://lucide.dev/icons/table-cells-merge)
   static const IconData tableCellsMerge = IconData(
@@ -14336,7 +14336,7 @@ class LucideIcons {
   );
 
   /// ## table-cells-split
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-cells-split.svg" width="100">
   ///
   /// [View "table-cells-split" on lucide.dev](https://lucide.dev/icons/table-cells-split)
   static const IconData tableCellsSplit = IconData(
@@ -14346,7 +14346,7 @@ class LucideIcons {
   );
 
   /// ## table-columns-split
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-columns-split.svg" width="100">
   ///
   /// [View "table-columns-split" on lucide.dev](https://lucide.dev/icons/table-columns-split)
   static const IconData tableColumnsSplit = IconData(
@@ -14356,7 +14356,7 @@ class LucideIcons {
   );
 
   /// ## table-of-contents
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-of-contents.svg" width="100">
   ///
   /// [View "table-of-contents" on lucide.dev](https://lucide.dev/icons/table-of-contents)
   static const IconData tableOfContents = IconData(
@@ -14366,7 +14366,7 @@ class LucideIcons {
   );
 
   /// ## table-properties
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-properties.svg" width="100">
   ///
   /// [View "table-properties" on lucide.dev](https://lucide.dev/icons/table-properties)
   static const IconData tableProperties = IconData(
@@ -14376,7 +14376,7 @@ class LucideIcons {
   );
 
   /// ## table-rows-split
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table-rows-split.svg" width="100">
   ///
   /// [View "table-rows-split" on lucide.dev](https://lucide.dev/icons/table-rows-split)
   static const IconData tableRowsSplit = IconData(
@@ -14386,7 +14386,7 @@ class LucideIcons {
   );
 
   /// ## table
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/table.svg" width="100">
   ///
   /// [View "table" on lucide.dev](https://lucide.dev/icons/table)
   static const IconData table = IconData(
@@ -14396,7 +14396,7 @@ class LucideIcons {
   );
 
   /// ## tablet-smartphone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tablet-smartphone.svg" width="100">
   ///
   /// [View "tablet-smartphone" on lucide.dev](https://lucide.dev/icons/tablet-smartphone)
   static const IconData tabletSmartphone = IconData(
@@ -14406,7 +14406,7 @@ class LucideIcons {
   );
 
   /// ## tablet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tablet.svg" width="100">
   ///
   /// [View "tablet" on lucide.dev](https://lucide.dev/icons/tablet)
   static const IconData tablet = IconData(
@@ -14416,7 +14416,7 @@ class LucideIcons {
   );
 
   /// ## tablets
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tablets.svg" width="100">
   ///
   /// [View "tablets" on lucide.dev](https://lucide.dev/icons/tablets)
   static const IconData tablets = IconData(
@@ -14426,7 +14426,7 @@ class LucideIcons {
   );
 
   /// ## tag
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tag.svg" width="100">
   ///
   /// [View "tag" on lucide.dev](https://lucide.dev/icons/tag)
   static const IconData tag = IconData(
@@ -14436,7 +14436,7 @@ class LucideIcons {
   );
 
   /// ## tags
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tags.svg" width="100">
   ///
   /// [View "tags" on lucide.dev](https://lucide.dev/icons/tags)
   static const IconData tags = IconData(
@@ -14446,7 +14446,7 @@ class LucideIcons {
   );
 
   /// ## tally-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tally-1.svg" width="100">
   ///
   /// [View "tally-1" on lucide.dev](https://lucide.dev/icons/tally-1)
   static const IconData tally1 = IconData(
@@ -14456,7 +14456,7 @@ class LucideIcons {
   );
 
   /// ## tally-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tally-2.svg" width="100">
   ///
   /// [View "tally-2" on lucide.dev](https://lucide.dev/icons/tally-2)
   static const IconData tally2 = IconData(
@@ -14466,7 +14466,7 @@ class LucideIcons {
   );
 
   /// ## tally-3
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tally-3.svg" width="100">
   ///
   /// [View "tally-3" on lucide.dev](https://lucide.dev/icons/tally-3)
   static const IconData tally3 = IconData(
@@ -14476,7 +14476,7 @@ class LucideIcons {
   );
 
   /// ## tally-4
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tally-4.svg" width="100">
   ///
   /// [View "tally-4" on lucide.dev](https://lucide.dev/icons/tally-4)
   static const IconData tally4 = IconData(
@@ -14486,7 +14486,7 @@ class LucideIcons {
   );
 
   /// ## tally-5
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tally-5.svg" width="100">
   ///
   /// [View "tally-5" on lucide.dev](https://lucide.dev/icons/tally-5)
   static const IconData tally5 = IconData(
@@ -14496,7 +14496,7 @@ class LucideIcons {
   );
 
   /// ## tangent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tangent.svg" width="100">
   ///
   /// [View "tangent" on lucide.dev](https://lucide.dev/icons/tangent)
   static const IconData tangent = IconData(
@@ -14506,7 +14506,7 @@ class LucideIcons {
   );
 
   /// ## target
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/target.svg" width="100">
   ///
   /// [View "target" on lucide.dev](https://lucide.dev/icons/target)
   static const IconData target = IconData(
@@ -14516,7 +14516,7 @@ class LucideIcons {
   );
 
   /// ## telescope
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/telescope.svg" width="100">
   ///
   /// [View "telescope" on lucide.dev](https://lucide.dev/icons/telescope)
   static const IconData telescope = IconData(
@@ -14526,7 +14526,7 @@ class LucideIcons {
   );
 
   /// ## tent-tree
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tent-tree.svg" width="100">
   ///
   /// [View "tent-tree" on lucide.dev](https://lucide.dev/icons/tent-tree)
   static const IconData tentTree = IconData(
@@ -14536,7 +14536,7 @@ class LucideIcons {
   );
 
   /// ## tent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tent.svg" width="100">
   ///
   /// [View "tent" on lucide.dev](https://lucide.dev/icons/tent)
   static const IconData tent = IconData(
@@ -14546,7 +14546,7 @@ class LucideIcons {
   );
 
   /// ## terminal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/terminal.svg" width="100">
   ///
   /// [View "terminal" on lucide.dev](https://lucide.dev/icons/terminal)
   static const IconData terminal = IconData(
@@ -14556,7 +14556,7 @@ class LucideIcons {
   );
 
   /// ## test-tube-diagonal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/test-tube-diagonal.svg" width="100">
   ///
   /// [View "test-tube-diagonal" on lucide.dev](https://lucide.dev/icons/test-tube-diagonal)
   static const IconData testTubeDiagonal = IconData(
@@ -14566,7 +14566,7 @@ class LucideIcons {
   );
 
   /// ## test-tube
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/test-tube.svg" width="100">
   ///
   /// [View "test-tube" on lucide.dev](https://lucide.dev/icons/test-tube)
   static const IconData testTube = IconData(
@@ -14576,7 +14576,7 @@ class LucideIcons {
   );
 
   /// ## test-tubes
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/test-tubes.svg" width="100">
   ///
   /// [View "test-tubes" on lucide.dev](https://lucide.dev/icons/test-tubes)
   static const IconData testTubes = IconData(
@@ -14586,7 +14586,7 @@ class LucideIcons {
   );
 
   /// ## text-cursor-input
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-cursor-input.svg" width="100">
   ///
   /// [View "text-cursor-input" on lucide.dev](https://lucide.dev/icons/text-cursor-input)
   static const IconData textCursorInput = IconData(
@@ -14596,7 +14596,7 @@ class LucideIcons {
   );
 
   /// ## text-cursor
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-cursor.svg" width="100">
   ///
   /// [View "text-cursor" on lucide.dev](https://lucide.dev/icons/text-cursor)
   static const IconData textCursor = IconData(
@@ -14606,7 +14606,7 @@ class LucideIcons {
   );
 
   /// ## text-quote
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-quote.svg" width="100">
   ///
   /// [View "text-quote" on lucide.dev](https://lucide.dev/icons/text-quote)
   static const IconData textQuote = IconData(
@@ -14616,7 +14616,7 @@ class LucideIcons {
   );
 
   /// ## text-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-search.svg" width="100">
   ///
   /// [View "text-search" on lucide.dev](https://lucide.dev/icons/text-search)
   static const IconData textSearch = IconData(
@@ -14626,7 +14626,7 @@ class LucideIcons {
   );
 
   /// ## text-select
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-select.svg" width="100">
   ///
   /// [View "text-select" on lucide.dev](https://lucide.dev/icons/text-select)
   static const IconData textSelect = IconData(
@@ -14636,7 +14636,7 @@ class LucideIcons {
   );
 
   /// ## text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text.svg" width="100">
   ///
   /// [View "text" on lucide.dev](https://lucide.dev/icons/text)
   static const IconData text = IconData(
@@ -14646,7 +14646,7 @@ class LucideIcons {
   );
 
   /// ## theater
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/theater.svg" width="100">
   ///
   /// [View "theater" on lucide.dev](https://lucide.dev/icons/theater)
   static const IconData theater = IconData(
@@ -14656,7 +14656,7 @@ class LucideIcons {
   );
 
   /// ## thermometer-snowflake
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/thermometer-snowflake.svg" width="100">
   ///
   /// [View "thermometer-snowflake" on lucide.dev](https://lucide.dev/icons/thermometer-snowflake)
   static const IconData thermometerSnowflake = IconData(
@@ -14666,7 +14666,7 @@ class LucideIcons {
   );
 
   /// ## thermometer-sun
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/thermometer-sun.svg" width="100">
   ///
   /// [View "thermometer-sun" on lucide.dev](https://lucide.dev/icons/thermometer-sun)
   static const IconData thermometerSun = IconData(
@@ -14676,7 +14676,7 @@ class LucideIcons {
   );
 
   /// ## thermometer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/thermometer.svg" width="100">
   ///
   /// [View "thermometer" on lucide.dev](https://lucide.dev/icons/thermometer)
   static const IconData thermometer = IconData(
@@ -14686,7 +14686,7 @@ class LucideIcons {
   );
 
   /// ## thumbs-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/thumbs-down.svg" width="100">
   ///
   /// [View "thumbs-down" on lucide.dev](https://lucide.dev/icons/thumbs-down)
   static const IconData thumbsDown = IconData(
@@ -14696,7 +14696,7 @@ class LucideIcons {
   );
 
   /// ## thumbs-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/thumbs-up.svg" width="100">
   ///
   /// [View "thumbs-up" on lucide.dev](https://lucide.dev/icons/thumbs-up)
   static const IconData thumbsUp = IconData(
@@ -14706,7 +14706,7 @@ class LucideIcons {
   );
 
   /// ## ticket-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-check.svg" width="100">
   ///
   /// [View "ticket-check" on lucide.dev](https://lucide.dev/icons/ticket-check)
   static const IconData ticketCheck = IconData(
@@ -14716,7 +14716,7 @@ class LucideIcons {
   );
 
   /// ## ticket-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-minus.svg" width="100">
   ///
   /// [View "ticket-minus" on lucide.dev](https://lucide.dev/icons/ticket-minus)
   static const IconData ticketMinus = IconData(
@@ -14726,7 +14726,7 @@ class LucideIcons {
   );
 
   /// ## ticket-percent
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-percent.svg" width="100">
   ///
   /// [View "ticket-percent" on lucide.dev](https://lucide.dev/icons/ticket-percent)
   static const IconData ticketPercent = IconData(
@@ -14736,7 +14736,7 @@ class LucideIcons {
   );
 
   /// ## ticket-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-plus.svg" width="100">
   ///
   /// [View "ticket-plus" on lucide.dev](https://lucide.dev/icons/ticket-plus)
   static const IconData ticketPlus = IconData(
@@ -14746,7 +14746,7 @@ class LucideIcons {
   );
 
   /// ## ticket-slash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-slash.svg" width="100">
   ///
   /// [View "ticket-slash" on lucide.dev](https://lucide.dev/icons/ticket-slash)
   static const IconData ticketSlash = IconData(
@@ -14756,7 +14756,7 @@ class LucideIcons {
   );
 
   /// ## ticket-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-x.svg" width="100">
   ///
   /// [View "ticket-x" on lucide.dev](https://lucide.dev/icons/ticket-x)
   static const IconData ticketX = IconData(
@@ -14766,7 +14766,7 @@ class LucideIcons {
   );
 
   /// ## ticket
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket.svg" width="100">
   ///
   /// [View "ticket" on lucide.dev](https://lucide.dev/icons/ticket)
   static const IconData ticket = IconData(
@@ -14776,7 +14776,7 @@ class LucideIcons {
   );
 
   /// ## tickets-plane
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tickets-plane.svg" width="100">
   ///
   /// [View "tickets-plane" on lucide.dev](https://lucide.dev/icons/tickets-plane)
   static const IconData ticketsPlane = IconData(
@@ -14786,7 +14786,7 @@ class LucideIcons {
   );
 
   /// ## tickets
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tickets.svg" width="100">
   ///
   /// [View "tickets" on lucide.dev](https://lucide.dev/icons/tickets)
   static const IconData tickets = IconData(
@@ -14796,7 +14796,7 @@ class LucideIcons {
   );
 
   /// ## timer-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/timer-off.svg" width="100">
   ///
   /// [View "timer-off" on lucide.dev](https://lucide.dev/icons/timer-off)
   static const IconData timerOff = IconData(
@@ -14806,7 +14806,7 @@ class LucideIcons {
   );
 
   /// ## timer-reset
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/timer-reset.svg" width="100">
   ///
   /// [View "timer-reset" on lucide.dev](https://lucide.dev/icons/timer-reset)
   static const IconData timerReset = IconData(
@@ -14816,7 +14816,7 @@ class LucideIcons {
   );
 
   /// ## timer
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/timer.svg" width="100">
   ///
   /// [View "timer" on lucide.dev](https://lucide.dev/icons/timer)
   static const IconData timer = IconData(
@@ -14826,7 +14826,7 @@ class LucideIcons {
   );
 
   /// ## toggle-left
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toggle-left.svg" width="100">
   ///
   /// [View "toggle-left" on lucide.dev](https://lucide.dev/icons/toggle-left)
   static const IconData toggleLeft = IconData(
@@ -14836,7 +14836,7 @@ class LucideIcons {
   );
 
   /// ## toggle-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toggle-right.svg" width="100">
   ///
   /// [View "toggle-right" on lucide.dev](https://lucide.dev/icons/toggle-right)
   static const IconData toggleRight = IconData(
@@ -14846,7 +14846,7 @@ class LucideIcons {
   );
 
   /// ## toilet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toilet.svg" width="100">
   ///
   /// [View "toilet" on lucide.dev](https://lucide.dev/icons/toilet)
   static const IconData toilet = IconData(
@@ -14856,7 +14856,7 @@ class LucideIcons {
   );
 
   /// ## tool-case
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tool-case.svg" width="100">
   ///
   /// [View "tool-case" on lucide.dev](https://lucide.dev/icons/tool-case)
   static const IconData toolCase = IconData(
@@ -14866,7 +14866,7 @@ class LucideIcons {
   );
 
   /// ## tornado
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tornado.svg" width="100">
   ///
   /// [View "tornado" on lucide.dev](https://lucide.dev/icons/tornado)
   static const IconData tornado = IconData(
@@ -14876,7 +14876,7 @@ class LucideIcons {
   );
 
   /// ## torus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/torus.svg" width="100">
   ///
   /// [View "torus" on lucide.dev](https://lucide.dev/icons/torus)
   static const IconData torus = IconData(
@@ -14886,7 +14886,7 @@ class LucideIcons {
   );
 
   /// ## touchpad-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/touchpad-off.svg" width="100">
   ///
   /// [View "touchpad-off" on lucide.dev](https://lucide.dev/icons/touchpad-off)
   static const IconData touchpadOff = IconData(
@@ -14896,7 +14896,7 @@ class LucideIcons {
   );
 
   /// ## touchpad
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/touchpad.svg" width="100">
   ///
   /// [View "touchpad" on lucide.dev](https://lucide.dev/icons/touchpad)
   static const IconData touchpad = IconData(
@@ -14906,7 +14906,7 @@ class LucideIcons {
   );
 
   /// ## tower-control
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tower-control.svg" width="100">
   ///
   /// [View "tower-control" on lucide.dev](https://lucide.dev/icons/tower-control)
   static const IconData towerControl = IconData(
@@ -14916,7 +14916,7 @@ class LucideIcons {
   );
 
   /// ## toy-brick
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toy-brick.svg" width="100">
   ///
   /// [View "toy-brick" on lucide.dev](https://lucide.dev/icons/toy-brick)
   static const IconData toyBrick = IconData(
@@ -14926,7 +14926,7 @@ class LucideIcons {
   );
 
   /// ## tractor
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tractor.svg" width="100">
   ///
   /// [View "tractor" on lucide.dev](https://lucide.dev/icons/tractor)
   static const IconData tractor = IconData(
@@ -14936,7 +14936,7 @@ class LucideIcons {
   );
 
   /// ## traffic-cone
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/traffic-cone.svg" width="100">
   ///
   /// [View "traffic-cone" on lucide.dev](https://lucide.dev/icons/traffic-cone)
   static const IconData trafficCone = IconData(
@@ -14946,7 +14946,7 @@ class LucideIcons {
   );
 
   /// ## train-front-tunnel
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/train-front-tunnel.svg" width="100">
   ///
   /// [View "train-front-tunnel" on lucide.dev](https://lucide.dev/icons/train-front-tunnel)
   static const IconData trainFrontTunnel = IconData(
@@ -14956,7 +14956,7 @@ class LucideIcons {
   );
 
   /// ## train-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/train-front.svg" width="100">
   ///
   /// [View "train-front" on lucide.dev](https://lucide.dev/icons/train-front)
   static const IconData trainFront = IconData(
@@ -14966,7 +14966,7 @@ class LucideIcons {
   );
 
   /// ## train-track
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/train-track.svg" width="100">
   ///
   /// [View "train-track" on lucide.dev](https://lucide.dev/icons/train-track)
   static const IconData trainTrack = IconData(
@@ -14976,7 +14976,7 @@ class LucideIcons {
   );
 
   /// ## tram-front
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tram-front.svg" width="100">
   ///
   /// [View "tram-front" on lucide.dev](https://lucide.dev/icons/tram-front)
   static const IconData tramFront = IconData(
@@ -14986,7 +14986,7 @@ class LucideIcons {
   );
 
   /// ## transgender
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/transgender.svg" width="100">
   ///
   /// [View "transgender" on lucide.dev](https://lucide.dev/icons/transgender)
   static const IconData transgender = IconData(
@@ -14996,7 +14996,7 @@ class LucideIcons {
   );
 
   /// ## trash-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trash-2.svg" width="100">
   ///
   /// [View "trash-2" on lucide.dev](https://lucide.dev/icons/trash-2)
   static const IconData trash2 = IconData(
@@ -15006,7 +15006,7 @@ class LucideIcons {
   );
 
   /// ## trash
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trash.svg" width="100">
   ///
   /// [View "trash" on lucide.dev](https://lucide.dev/icons/trash)
   static const IconData trash = IconData(
@@ -15016,7 +15016,7 @@ class LucideIcons {
   );
 
   /// ## tree-deciduous
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tree-deciduous.svg" width="100">
   ///
   /// [View "tree-deciduous" on lucide.dev](https://lucide.dev/icons/tree-deciduous)
   static const IconData treeDeciduous = IconData(
@@ -15026,7 +15026,7 @@ class LucideIcons {
   );
 
   /// ## tree-palm
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tree-palm.svg" width="100">
   ///
   /// [View "tree-palm" on lucide.dev](https://lucide.dev/icons/tree-palm)
   static const IconData treePalm = IconData(
@@ -15036,7 +15036,7 @@ class LucideIcons {
   );
 
   /// ## tree-pine
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tree-pine.svg" width="100">
   ///
   /// [View "tree-pine" on lucide.dev](https://lucide.dev/icons/tree-pine)
   static const IconData treePine = IconData(
@@ -15046,7 +15046,7 @@ class LucideIcons {
   );
 
   /// ## trees
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trees.svg" width="100">
   ///
   /// [View "trees" on lucide.dev](https://lucide.dev/icons/trees)
   static const IconData trees = IconData(
@@ -15056,7 +15056,7 @@ class LucideIcons {
   );
 
   /// ## trello
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trello.svg" width="100">
   ///
   /// [View "trello" on lucide.dev](https://lucide.dev/icons/trello)
   static const IconData trello = IconData(
@@ -15066,7 +15066,7 @@ class LucideIcons {
   );
 
   /// ## trending-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trending-down.svg" width="100">
   ///
   /// [View "trending-down" on lucide.dev](https://lucide.dev/icons/trending-down)
   static const IconData trendingDown = IconData(
@@ -15076,7 +15076,7 @@ class LucideIcons {
   );
 
   /// ## trending-up-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trending-up-down.svg" width="100">
   ///
   /// [View "trending-up-down" on lucide.dev](https://lucide.dev/icons/trending-up-down)
   static const IconData trendingUpDown = IconData(
@@ -15086,7 +15086,7 @@ class LucideIcons {
   );
 
   /// ## trending-up
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trending-up.svg" width="100">
   ///
   /// [View "trending-up" on lucide.dev](https://lucide.dev/icons/trending-up)
   static const IconData trendingUp = IconData(
@@ -15096,7 +15096,7 @@ class LucideIcons {
   );
 
   /// ## triangle-alert
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangle-alert.svg" width="100">
   ///
   /// [View "triangle-alert" on lucide.dev](https://lucide.dev/icons/triangle-alert)
   static const IconData triangleAlert = IconData(
@@ -15106,7 +15106,7 @@ class LucideIcons {
   );
 
   /// ## triangle-dashed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangle-dashed.svg" width="100">
   ///
   /// [View "triangle-dashed" on lucide.dev](https://lucide.dev/icons/triangle-dashed)
   static const IconData triangleDashed = IconData(
@@ -15116,7 +15116,7 @@ class LucideIcons {
   );
 
   /// ## triangle-right
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangle-right.svg" width="100">
   ///
   /// [View "triangle-right" on lucide.dev](https://lucide.dev/icons/triangle-right)
   static const IconData triangleRight = IconData(
@@ -15126,7 +15126,7 @@ class LucideIcons {
   );
 
   /// ## triangle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangle.svg" width="100">
   ///
   /// [View "triangle" on lucide.dev](https://lucide.dev/icons/triangle)
   static const IconData triangle = IconData(
@@ -15136,7 +15136,7 @@ class LucideIcons {
   );
 
   /// ## trophy
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trophy.svg" width="100">
   ///
   /// [View "trophy" on lucide.dev](https://lucide.dev/icons/trophy)
   static const IconData trophy = IconData(
@@ -15146,7 +15146,7 @@ class LucideIcons {
   );
 
   /// ## truck-electric
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/truck-electric.svg" width="100">
   ///
   /// [View "truck-electric" on lucide.dev](https://lucide.dev/icons/truck-electric)
   static const IconData truckElectric = IconData(
@@ -15156,7 +15156,7 @@ class LucideIcons {
   );
 
   /// ## truck
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/truck.svg" width="100">
   ///
   /// [View "truck" on lucide.dev](https://lucide.dev/icons/truck)
   static const IconData truck = IconData(
@@ -15166,7 +15166,7 @@ class LucideIcons {
   );
 
   /// ## turkish-lira
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/turkish-lira.svg" width="100">
   ///
   /// [View "turkish-lira" on lucide.dev](https://lucide.dev/icons/turkish-lira)
   static const IconData turkishLira = IconData(
@@ -15176,7 +15176,7 @@ class LucideIcons {
   );
 
   /// ## turntable
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/turntable.svg" width="100">
   ///
   /// [View "turntable" on lucide.dev](https://lucide.dev/icons/turntable)
   static const IconData turntable = IconData(
@@ -15186,7 +15186,7 @@ class LucideIcons {
   );
 
   /// ## turtle
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/turtle.svg" width="100">
   ///
   /// [View "turtle" on lucide.dev](https://lucide.dev/icons/turtle)
   static const IconData turtle = IconData(
@@ -15196,7 +15196,7 @@ class LucideIcons {
   );
 
   /// ## tv-minimal-play
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tv-minimal-play.svg" width="100">
   ///
   /// [View "tv-minimal-play" on lucide.dev](https://lucide.dev/icons/tv-minimal-play)
   static const IconData tvMinimalPlay = IconData(
@@ -15206,7 +15206,7 @@ class LucideIcons {
   );
 
   /// ## tv-minimal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tv-minimal.svg" width="100">
   ///
   /// [View "tv-minimal" on lucide.dev](https://lucide.dev/icons/tv-minimal)
   static const IconData tvMinimal = IconData(
@@ -15216,7 +15216,7 @@ class LucideIcons {
   );
 
   /// ## tv
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tv.svg" width="100">
   ///
   /// [View "tv" on lucide.dev](https://lucide.dev/icons/tv)
   static const IconData tv = IconData(
@@ -15226,7 +15226,7 @@ class LucideIcons {
   );
 
   /// ## twitch
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/twitch.svg" width="100">
   ///
   /// [View "twitch" on lucide.dev](https://lucide.dev/icons/twitch)
   static const IconData twitch = IconData(
@@ -15236,7 +15236,7 @@ class LucideIcons {
   );
 
   /// ## twitter
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/twitter.svg" width="100">
   ///
   /// [View "twitter" on lucide.dev](https://lucide.dev/icons/twitter)
   static const IconData twitter = IconData(
@@ -15246,7 +15246,7 @@ class LucideIcons {
   );
 
   /// ## type-outline
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/type-outline.svg" width="100">
   ///
   /// [View "type-outline" on lucide.dev](https://lucide.dev/icons/type-outline)
   static const IconData typeOutline = IconData(
@@ -15256,7 +15256,7 @@ class LucideIcons {
   );
 
   /// ## type
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/type.svg" width="100">
   ///
   /// [View "type" on lucide.dev](https://lucide.dev/icons/type)
   static const IconData type = IconData(
@@ -15266,7 +15266,7 @@ class LucideIcons {
   );
 
   /// ## umbrella-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/umbrella-off.svg" width="100">
   ///
   /// [View "umbrella-off" on lucide.dev](https://lucide.dev/icons/umbrella-off)
   static const IconData umbrellaOff = IconData(
@@ -15276,7 +15276,7 @@ class LucideIcons {
   );
 
   /// ## umbrella
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/umbrella.svg" width="100">
   ///
   /// [View "umbrella" on lucide.dev](https://lucide.dev/icons/umbrella)
   static const IconData umbrella = IconData(
@@ -15286,7 +15286,7 @@ class LucideIcons {
   );
 
   /// ## underline
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/underline.svg" width="100">
   ///
   /// [View "underline" on lucide.dev](https://lucide.dev/icons/underline)
   static const IconData underline = IconData(
@@ -15296,7 +15296,7 @@ class LucideIcons {
   );
 
   /// ## undo-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/undo-2.svg" width="100">
   ///
   /// [View "undo-2" on lucide.dev](https://lucide.dev/icons/undo-2)
   static const IconData undo2 = IconData(
@@ -15306,7 +15306,7 @@ class LucideIcons {
   );
 
   /// ## undo-dot
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/undo-dot.svg" width="100">
   ///
   /// [View "undo-dot" on lucide.dev](https://lucide.dev/icons/undo-dot)
   static const IconData undoDot = IconData(
@@ -15316,7 +15316,7 @@ class LucideIcons {
   );
 
   /// ## undo
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/undo.svg" width="100">
   ///
   /// [View "undo" on lucide.dev](https://lucide.dev/icons/undo)
   static const IconData undo = IconData(
@@ -15326,7 +15326,7 @@ class LucideIcons {
   );
 
   /// ## unfold-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/unfold-horizontal.svg" width="100">
   ///
   /// [View "unfold-horizontal" on lucide.dev](https://lucide.dev/icons/unfold-horizontal)
   static const IconData unfoldHorizontal = IconData(
@@ -15336,7 +15336,7 @@ class LucideIcons {
   );
 
   /// ## unfold-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/unfold-vertical.svg" width="100">
   ///
   /// [View "unfold-vertical" on lucide.dev](https://lucide.dev/icons/unfold-vertical)
   static const IconData unfoldVertical = IconData(
@@ -15346,7 +15346,7 @@ class LucideIcons {
   );
 
   /// ## ungroup
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ungroup.svg" width="100">
   ///
   /// [View "ungroup" on lucide.dev](https://lucide.dev/icons/ungroup)
   static const IconData ungroup = IconData(
@@ -15356,7 +15356,7 @@ class LucideIcons {
   );
 
   /// ## university
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/university.svg" width="100">
   ///
   /// [View "university" on lucide.dev](https://lucide.dev/icons/university)
   static const IconData university = IconData(
@@ -15366,7 +15366,7 @@ class LucideIcons {
   );
 
   /// ## unlink-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/unlink-2.svg" width="100">
   ///
   /// [View "unlink-2" on lucide.dev](https://lucide.dev/icons/unlink-2)
   static const IconData unlink2 = IconData(
@@ -15376,7 +15376,7 @@ class LucideIcons {
   );
 
   /// ## unlink
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/unlink.svg" width="100">
   ///
   /// [View "unlink" on lucide.dev](https://lucide.dev/icons/unlink)
   static const IconData unlink = IconData(
@@ -15386,7 +15386,7 @@ class LucideIcons {
   );
 
   /// ## unplug
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/unplug.svg" width="100">
   ///
   /// [View "unplug" on lucide.dev](https://lucide.dev/icons/unplug)
   static const IconData unplug = IconData(
@@ -15396,7 +15396,7 @@ class LucideIcons {
   );
 
   /// ## upload
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/upload.svg" width="100">
   ///
   /// [View "upload" on lucide.dev](https://lucide.dev/icons/upload)
   static const IconData upload = IconData(
@@ -15406,7 +15406,7 @@ class LucideIcons {
   );
 
   /// ## usb
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/usb.svg" width="100">
   ///
   /// [View "usb" on lucide.dev](https://lucide.dev/icons/usb)
   static const IconData usb = IconData(
@@ -15416,7 +15416,7 @@ class LucideIcons {
   );
 
   /// ## user-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-check.svg" width="100">
   ///
   /// [View "user-check" on lucide.dev](https://lucide.dev/icons/user-check)
   static const IconData userCheck = IconData(
@@ -15426,7 +15426,7 @@ class LucideIcons {
   );
 
   /// ## user-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-cog.svg" width="100">
   ///
   /// [View "user-cog" on lucide.dev](https://lucide.dev/icons/user-cog)
   static const IconData userCog = IconData(
@@ -15436,7 +15436,7 @@ class LucideIcons {
   );
 
   /// ## user-lock
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-lock.svg" width="100">
   ///
   /// [View "user-lock" on lucide.dev](https://lucide.dev/icons/user-lock)
   static const IconData userLock = IconData(
@@ -15446,7 +15446,7 @@ class LucideIcons {
   );
 
   /// ## user-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-minus.svg" width="100">
   ///
   /// [View "user-minus" on lucide.dev](https://lucide.dev/icons/user-minus)
   static const IconData userMinus = IconData(
@@ -15456,7 +15456,7 @@ class LucideIcons {
   );
 
   /// ## user-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-pen.svg" width="100">
   ///
   /// [View "user-pen" on lucide.dev](https://lucide.dev/icons/user-pen)
   static const IconData userPen = IconData(
@@ -15466,7 +15466,7 @@ class LucideIcons {
   );
 
   /// ## user-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-plus.svg" width="100">
   ///
   /// [View "user-plus" on lucide.dev](https://lucide.dev/icons/user-plus)
   static const IconData userPlus = IconData(
@@ -15476,7 +15476,7 @@ class LucideIcons {
   );
 
   /// ## user-round-check
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-check.svg" width="100">
   ///
   /// [View "user-round-check" on lucide.dev](https://lucide.dev/icons/user-round-check)
   static const IconData userRoundCheck = IconData(
@@ -15486,7 +15486,7 @@ class LucideIcons {
   );
 
   /// ## user-round-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-cog.svg" width="100">
   ///
   /// [View "user-round-cog" on lucide.dev](https://lucide.dev/icons/user-round-cog)
   static const IconData userRoundCog = IconData(
@@ -15496,7 +15496,7 @@ class LucideIcons {
   );
 
   /// ## user-round-minus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-minus.svg" width="100">
   ///
   /// [View "user-round-minus" on lucide.dev](https://lucide.dev/icons/user-round-minus)
   static const IconData userRoundMinus = IconData(
@@ -15506,7 +15506,7 @@ class LucideIcons {
   );
 
   /// ## user-round-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-pen.svg" width="100">
   ///
   /// [View "user-round-pen" on lucide.dev](https://lucide.dev/icons/user-round-pen)
   static const IconData userRoundPen = IconData(
@@ -15516,7 +15516,7 @@ class LucideIcons {
   );
 
   /// ## user-round-plus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-plus.svg" width="100">
   ///
   /// [View "user-round-plus" on lucide.dev](https://lucide.dev/icons/user-round-plus)
   static const IconData userRoundPlus = IconData(
@@ -15526,7 +15526,7 @@ class LucideIcons {
   );
 
   /// ## user-round-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-search.svg" width="100">
   ///
   /// [View "user-round-search" on lucide.dev](https://lucide.dev/icons/user-round-search)
   static const IconData userRoundSearch = IconData(
@@ -15536,7 +15536,7 @@ class LucideIcons {
   );
 
   /// ## user-round-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-x.svg" width="100">
   ///
   /// [View "user-round-x" on lucide.dev](https://lucide.dev/icons/user-round-x)
   static const IconData userRoundX = IconData(
@@ -15546,7 +15546,7 @@ class LucideIcons {
   );
 
   /// ## user-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round.svg" width="100">
   ///
   /// [View "user-round" on lucide.dev](https://lucide.dev/icons/user-round)
   static const IconData userRound = IconData(
@@ -15556,7 +15556,7 @@ class LucideIcons {
   );
 
   /// ## user-search
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-search.svg" width="100">
   ///
   /// [View "user-search" on lucide.dev](https://lucide.dev/icons/user-search)
   static const IconData userSearch = IconData(
@@ -15566,7 +15566,7 @@ class LucideIcons {
   );
 
   /// ## user-star
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-star.svg" width="100">
   ///
   /// [View "user-star" on lucide.dev](https://lucide.dev/icons/user-star)
   static const IconData userStar = IconData(
@@ -15576,7 +15576,7 @@ class LucideIcons {
   );
 
   /// ## user-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-x.svg" width="100">
   ///
   /// [View "user-x" on lucide.dev](https://lucide.dev/icons/user-x)
   static const IconData userX = IconData(
@@ -15586,7 +15586,7 @@ class LucideIcons {
   );
 
   /// ## user
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user.svg" width="100">
   ///
   /// [View "user" on lucide.dev](https://lucide.dev/icons/user)
   static const IconData user = IconData(
@@ -15596,7 +15596,7 @@ class LucideIcons {
   );
 
   /// ## users-round
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/users-round.svg" width="100">
   ///
   /// [View "users-round" on lucide.dev](https://lucide.dev/icons/users-round)
   static const IconData usersRound = IconData(
@@ -15606,7 +15606,7 @@ class LucideIcons {
   );
 
   /// ## users
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/users.svg" width="100">
   ///
   /// [View "users" on lucide.dev](https://lucide.dev/icons/users)
   static const IconData users = IconData(
@@ -15616,7 +15616,7 @@ class LucideIcons {
   );
 
   /// ## utensils-crossed
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/utensils-crossed.svg" width="100">
   ///
   /// [View "utensils-crossed" on lucide.dev](https://lucide.dev/icons/utensils-crossed)
   static const IconData utensilsCrossed = IconData(
@@ -15626,7 +15626,7 @@ class LucideIcons {
   );
 
   /// ## utensils
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/utensils.svg" width="100">
   ///
   /// [View "utensils" on lucide.dev](https://lucide.dev/icons/utensils)
   static const IconData utensils = IconData(
@@ -15636,7 +15636,7 @@ class LucideIcons {
   );
 
   /// ## utility-pole
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/utility-pole.svg" width="100">
   ///
   /// [View "utility-pole" on lucide.dev](https://lucide.dev/icons/utility-pole)
   static const IconData utilityPole = IconData(
@@ -15646,7 +15646,7 @@ class LucideIcons {
   );
 
   /// ## variable
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/variable.svg" width="100">
   ///
   /// [View "variable" on lucide.dev](https://lucide.dev/icons/variable)
   static const IconData variable = IconData(
@@ -15656,7 +15656,7 @@ class LucideIcons {
   );
 
   /// ## vault
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vault.svg" width="100">
   ///
   /// [View "vault" on lucide.dev](https://lucide.dev/icons/vault)
   static const IconData vault = IconData(
@@ -15666,7 +15666,7 @@ class LucideIcons {
   );
 
   /// ## vector-square
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vector-square.svg" width="100">
   ///
   /// [View "vector-square" on lucide.dev](https://lucide.dev/icons/vector-square)
   static const IconData vectorSquare = IconData(
@@ -15676,7 +15676,7 @@ class LucideIcons {
   );
 
   /// ## vegan
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vegan.svg" width="100">
   ///
   /// [View "vegan" on lucide.dev](https://lucide.dev/icons/vegan)
   static const IconData vegan = IconData(
@@ -15686,7 +15686,7 @@ class LucideIcons {
   );
 
   /// ## venetian-mask
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/venetian-mask.svg" width="100">
   ///
   /// [View "venetian-mask" on lucide.dev](https://lucide.dev/icons/venetian-mask)
   static const IconData venetianMask = IconData(
@@ -15696,7 +15696,7 @@ class LucideIcons {
   );
 
   /// ## venus-and-mars
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/venus-and-mars.svg" width="100">
   ///
   /// [View "venus-and-mars" on lucide.dev](https://lucide.dev/icons/venus-and-mars)
   static const IconData venusAndMars = IconData(
@@ -15706,7 +15706,7 @@ class LucideIcons {
   );
 
   /// ## venus
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/venus.svg" width="100">
   ///
   /// [View "venus" on lucide.dev](https://lucide.dev/icons/venus)
   static const IconData venus = IconData(
@@ -15716,7 +15716,7 @@ class LucideIcons {
   );
 
   /// ## vibrate-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vibrate-off.svg" width="100">
   ///
   /// [View "vibrate-off" on lucide.dev](https://lucide.dev/icons/vibrate-off)
   static const IconData vibrateOff = IconData(
@@ -15726,7 +15726,7 @@ class LucideIcons {
   );
 
   /// ## vibrate
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vibrate.svg" width="100">
   ///
   /// [View "vibrate" on lucide.dev](https://lucide.dev/icons/vibrate)
   static const IconData vibrate = IconData(
@@ -15736,7 +15736,7 @@ class LucideIcons {
   );
 
   /// ## video-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/video-off.svg" width="100">
   ///
   /// [View "video-off" on lucide.dev](https://lucide.dev/icons/video-off)
   static const IconData videoOff = IconData(
@@ -15746,7 +15746,7 @@ class LucideIcons {
   );
 
   /// ## video
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/video.svg" width="100">
   ///
   /// [View "video" on lucide.dev](https://lucide.dev/icons/video)
   static const IconData video = IconData(
@@ -15756,7 +15756,7 @@ class LucideIcons {
   );
 
   /// ## videotape
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/videotape.svg" width="100">
   ///
   /// [View "videotape" on lucide.dev](https://lucide.dev/icons/videotape)
   static const IconData videotape = IconData(
@@ -15766,7 +15766,7 @@ class LucideIcons {
   );
 
   /// ## view
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/view.svg" width="100">
   ///
   /// [View "view" on lucide.dev](https://lucide.dev/icons/view)
   static const IconData view = IconData(
@@ -15776,7 +15776,7 @@ class LucideIcons {
   );
 
   /// ## voicemail
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/voicemail.svg" width="100">
   ///
   /// [View "voicemail" on lucide.dev](https://lucide.dev/icons/voicemail)
   static const IconData voicemail = IconData(
@@ -15786,7 +15786,7 @@ class LucideIcons {
   );
 
   /// ## volleyball
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volleyball.svg" width="100">
   ///
   /// [View "volleyball" on lucide.dev](https://lucide.dev/icons/volleyball)
   static const IconData volleyball = IconData(
@@ -15796,7 +15796,7 @@ class LucideIcons {
   );
 
   /// ## volume-1
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volume-1.svg" width="100">
   ///
   /// [View "volume-1" on lucide.dev](https://lucide.dev/icons/volume-1)
   static const IconData volume1 = IconData(
@@ -15806,7 +15806,7 @@ class LucideIcons {
   );
 
   /// ## volume-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volume-2.svg" width="100">
   ///
   /// [View "volume-2" on lucide.dev](https://lucide.dev/icons/volume-2)
   static const IconData volume2 = IconData(
@@ -15816,7 +15816,7 @@ class LucideIcons {
   );
 
   /// ## volume-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volume-off.svg" width="100">
   ///
   /// [View "volume-off" on lucide.dev](https://lucide.dev/icons/volume-off)
   static const IconData volumeOff = IconData(
@@ -15826,7 +15826,7 @@ class LucideIcons {
   );
 
   /// ## volume-x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volume-x.svg" width="100">
   ///
   /// [View "volume-x" on lucide.dev](https://lucide.dev/icons/volume-x)
   static const IconData volumeX = IconData(
@@ -15836,7 +15836,7 @@ class LucideIcons {
   );
 
   /// ## volume
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/volume.svg" width="100">
   ///
   /// [View "volume" on lucide.dev](https://lucide.dev/icons/volume)
   static const IconData volume = IconData(
@@ -15846,7 +15846,7 @@ class LucideIcons {
   );
 
   /// ## vote
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/vote.svg" width="100">
   ///
   /// [View "vote" on lucide.dev](https://lucide.dev/icons/vote)
   static const IconData vote = IconData(
@@ -15856,7 +15856,7 @@ class LucideIcons {
   );
 
   /// ## wallet-cards
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wallet-cards.svg" width="100">
   ///
   /// [View "wallet-cards" on lucide.dev](https://lucide.dev/icons/wallet-cards)
   static const IconData walletCards = IconData(
@@ -15866,7 +15866,7 @@ class LucideIcons {
   );
 
   /// ## wallet-minimal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wallet-minimal.svg" width="100">
   ///
   /// [View "wallet-minimal" on lucide.dev](https://lucide.dev/icons/wallet-minimal)
   static const IconData walletMinimal = IconData(
@@ -15876,7 +15876,7 @@ class LucideIcons {
   );
 
   /// ## wallet
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wallet.svg" width="100">
   ///
   /// [View "wallet" on lucide.dev](https://lucide.dev/icons/wallet)
   static const IconData wallet = IconData(
@@ -15886,7 +15886,7 @@ class LucideIcons {
   );
 
   /// ## wallpaper
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wallpaper.svg" width="100">
   ///
   /// [View "wallpaper" on lucide.dev](https://lucide.dev/icons/wallpaper)
   static const IconData wallpaper = IconData(
@@ -15896,7 +15896,7 @@ class LucideIcons {
   );
 
   /// ## wand-sparkles
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wand-sparkles.svg" width="100">
   ///
   /// [View "wand-sparkles" on lucide.dev](https://lucide.dev/icons/wand-sparkles)
   static const IconData wandSparkles = IconData(
@@ -15906,7 +15906,7 @@ class LucideIcons {
   );
 
   /// ## wand
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wand.svg" width="100">
   ///
   /// [View "wand" on lucide.dev](https://lucide.dev/icons/wand)
   static const IconData wand = IconData(
@@ -15916,7 +15916,7 @@ class LucideIcons {
   );
 
   /// ## warehouse
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/warehouse.svg" width="100">
   ///
   /// [View "warehouse" on lucide.dev](https://lucide.dev/icons/warehouse)
   static const IconData warehouse = IconData(
@@ -15926,7 +15926,7 @@ class LucideIcons {
   );
 
   /// ## washing-machine
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/washing-machine.svg" width="100">
   ///
   /// [View "washing-machine" on lucide.dev](https://lucide.dev/icons/washing-machine)
   static const IconData washingMachine = IconData(
@@ -15936,7 +15936,7 @@ class LucideIcons {
   );
 
   /// ## watch
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/watch.svg" width="100">
   ///
   /// [View "watch" on lucide.dev](https://lucide.dev/icons/watch)
   static const IconData watch = IconData(
@@ -15946,7 +15946,7 @@ class LucideIcons {
   );
 
   /// ## waves-ladder
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-ladder.svg" width="100">
   ///
   /// [View "waves-ladder" on lucide.dev](https://lucide.dev/icons/waves-ladder)
   static const IconData wavesLadder = IconData(
@@ -15956,7 +15956,7 @@ class LucideIcons {
   );
 
   /// ## waves
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves.svg" width="100">
   ///
   /// [View "waves" on lucide.dev](https://lucide.dev/icons/waves)
   static const IconData waves = IconData(
@@ -15966,7 +15966,7 @@ class LucideIcons {
   );
 
   /// ## waypoints
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waypoints.svg" width="100">
   ///
   /// [View "waypoints" on lucide.dev](https://lucide.dev/icons/waypoints)
   static const IconData waypoints = IconData(
@@ -15976,7 +15976,7 @@ class LucideIcons {
   );
 
   /// ## webcam
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/webcam.svg" width="100">
   ///
   /// [View "webcam" on lucide.dev](https://lucide.dev/icons/webcam)
   static const IconData webcam = IconData(
@@ -15986,7 +15986,7 @@ class LucideIcons {
   );
 
   /// ## webhook-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/webhook-off.svg" width="100">
   ///
   /// [View "webhook-off" on lucide.dev](https://lucide.dev/icons/webhook-off)
   static const IconData webhookOff = IconData(
@@ -15996,7 +15996,7 @@ class LucideIcons {
   );
 
   /// ## webhook
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/webhook.svg" width="100">
   ///
   /// [View "webhook" on lucide.dev](https://lucide.dev/icons/webhook)
   static const IconData webhook = IconData(
@@ -16006,7 +16006,7 @@ class LucideIcons {
   );
 
   /// ## weight
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/weight.svg" width="100">
   ///
   /// [View "weight" on lucide.dev](https://lucide.dev/icons/weight)
   static const IconData weight = IconData(
@@ -16016,7 +16016,7 @@ class LucideIcons {
   );
 
   /// ## wheat-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wheat-off.svg" width="100">
   ///
   /// [View "wheat-off" on lucide.dev](https://lucide.dev/icons/wheat-off)
   static const IconData wheatOff = IconData(
@@ -16026,7 +16026,7 @@ class LucideIcons {
   );
 
   /// ## wheat
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wheat.svg" width="100">
   ///
   /// [View "wheat" on lucide.dev](https://lucide.dev/icons/wheat)
   static const IconData wheat = IconData(
@@ -16036,7 +16036,7 @@ class LucideIcons {
   );
 
   /// ## whole-word
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/whole-word.svg" width="100">
   ///
   /// [View "whole-word" on lucide.dev](https://lucide.dev/icons/whole-word)
   static const IconData wholeWord = IconData(
@@ -16046,7 +16046,7 @@ class LucideIcons {
   );
 
   /// ## wifi-cog
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-cog.svg" width="100">
   ///
   /// [View "wifi-cog" on lucide.dev](https://lucide.dev/icons/wifi-cog)
   static const IconData wifiCog = IconData(
@@ -16056,7 +16056,7 @@ class LucideIcons {
   );
 
   /// ## wifi-high
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-high.svg" width="100">
   ///
   /// [View "wifi-high" on lucide.dev](https://lucide.dev/icons/wifi-high)
   static const IconData wifiHigh = IconData(
@@ -16066,7 +16066,7 @@ class LucideIcons {
   );
 
   /// ## wifi-low
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-low.svg" width="100">
   ///
   /// [View "wifi-low" on lucide.dev](https://lucide.dev/icons/wifi-low)
   static const IconData wifiLow = IconData(
@@ -16076,7 +16076,7 @@ class LucideIcons {
   );
 
   /// ## wifi-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-off.svg" width="100">
   ///
   /// [View "wifi-off" on lucide.dev](https://lucide.dev/icons/wifi-off)
   static const IconData wifiOff = IconData(
@@ -16086,7 +16086,7 @@ class LucideIcons {
   );
 
   /// ## wifi-pen
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-pen.svg" width="100">
   ///
   /// [View "wifi-pen" on lucide.dev](https://lucide.dev/icons/wifi-pen)
   static const IconData wifiPen = IconData(
@@ -16096,7 +16096,7 @@ class LucideIcons {
   );
 
   /// ## wifi-sync
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-sync.svg" width="100">
   ///
   /// [View "wifi-sync" on lucide.dev](https://lucide.dev/icons/wifi-sync)
   static const IconData wifiSync = IconData(
@@ -16106,7 +16106,7 @@ class LucideIcons {
   );
 
   /// ## wifi-zero
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi-zero.svg" width="100">
   ///
   /// [View "wifi-zero" on lucide.dev](https://lucide.dev/icons/wifi-zero)
   static const IconData wifiZero = IconData(
@@ -16116,7 +16116,7 @@ class LucideIcons {
   );
 
   /// ## wifi
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wifi.svg" width="100">
   ///
   /// [View "wifi" on lucide.dev](https://lucide.dev/icons/wifi)
   static const IconData wifi = IconData(
@@ -16126,7 +16126,7 @@ class LucideIcons {
   );
 
   /// ## wind-arrow-down
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wind-arrow-down.svg" width="100">
   ///
   /// [View "wind-arrow-down" on lucide.dev](https://lucide.dev/icons/wind-arrow-down)
   static const IconData windArrowDown = IconData(
@@ -16136,7 +16136,7 @@ class LucideIcons {
   );
 
   /// ## wind
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wind.svg" width="100">
   ///
   /// [View "wind" on lucide.dev](https://lucide.dev/icons/wind)
   static const IconData wind = IconData(
@@ -16146,7 +16146,7 @@ class LucideIcons {
   );
 
   /// ## wine-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wine-off.svg" width="100">
   ///
   /// [View "wine-off" on lucide.dev](https://lucide.dev/icons/wine-off)
   static const IconData wineOff = IconData(
@@ -16156,7 +16156,7 @@ class LucideIcons {
   );
 
   /// ## wine
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wine.svg" width="100">
   ///
   /// [View "wine" on lucide.dev](https://lucide.dev/icons/wine)
   static const IconData wine = IconData(
@@ -16166,7 +16166,7 @@ class LucideIcons {
   );
 
   /// ## workflow
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/workflow.svg" width="100">
   ///
   /// [View "workflow" on lucide.dev](https://lucide.dev/icons/workflow)
   static const IconData workflow = IconData(
@@ -16176,7 +16176,7 @@ class LucideIcons {
   );
 
   /// ## worm
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/worm.svg" width="100">
   ///
   /// [View "worm" on lucide.dev](https://lucide.dev/icons/worm)
   static const IconData worm = IconData(
@@ -16186,7 +16186,7 @@ class LucideIcons {
   );
 
   /// ## wrap-text
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wrap-text.svg" width="100">
   ///
   /// [View "wrap-text" on lucide.dev](https://lucide.dev/icons/wrap-text)
   static const IconData wrapText = IconData(
@@ -16196,7 +16196,7 @@ class LucideIcons {
   );
 
   /// ## wrench
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wrench.svg" width="100">
   ///
   /// [View "wrench" on lucide.dev](https://lucide.dev/icons/wrench)
   static const IconData wrench = IconData(
@@ -16206,7 +16206,7 @@ class LucideIcons {
   );
 
   /// ## x
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/x.svg" width="100">
   ///
   /// [View "x" on lucide.dev](https://lucide.dev/icons/x)
   static const IconData x = IconData(
@@ -16216,7 +16216,7 @@ class LucideIcons {
   );
 
   /// ## youtube
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/youtube.svg" width="100">
   ///
   /// [View "youtube" on lucide.dev](https://lucide.dev/icons/youtube)
   static const IconData youtube = IconData(
@@ -16226,7 +16226,7 @@ class LucideIcons {
   );
 
   /// ## zap-off
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/zap-off.svg" width="100">
   ///
   /// [View "zap-off" on lucide.dev](https://lucide.dev/icons/zap-off)
   static const IconData zapOff = IconData(
@@ -16236,7 +16236,7 @@ class LucideIcons {
   );
 
   /// ## zap
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/zap.svg" width="100">
   ///
   /// [View "zap" on lucide.dev](https://lucide.dev/icons/zap)
   static const IconData zap = IconData(
@@ -16246,7 +16246,7 @@ class LucideIcons {
   );
 
   /// ## zoom-in
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/zoom-in.svg" width="100">
   ///
   /// [View "zoom-in" on lucide.dev](https://lucide.dev/icons/zoom-in)
   static const IconData zoomIn = IconData(
@@ -16256,7 +16256,7 @@ class LucideIcons {
   );
 
   /// ## zoom-out
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg" width="100">
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/zoom-out.svg" width="100">
   ///
   /// [View "zoom-out" on lucide.dev](https://lucide.dev/icons/zoom-out)
   static const IconData zoomOut = IconData(

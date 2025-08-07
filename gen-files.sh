@@ -39,7 +39,7 @@ function genIconMethod() {
   local icon_id="$2"
 
   echo "/// ## $icon_name"
-  echo "/// <img src=\"https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/a-arrow-down.svg\" width=\"100\">"
+  echo "/// <img src=\"https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/$icon_name.svg\" width=\"100\">"
   echo "///"
   echo "/// [View \"$icon_name\" on lucide.dev](https://lucide.dev/icons/$icon_name)"
   echo "static const IconData $(toCamelCase "$icon_name") = IconData($icon_id, fontFamily: 'LucideIcons', fontPackage: 'cliq_icons');"
