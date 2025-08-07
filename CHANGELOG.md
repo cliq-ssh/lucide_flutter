@@ -1,3 +1,7 @@
+## 1.2.1
+
+- Fix repository URL in `pubspec.yaml`
+
 ## 1.2.0
 
 - Rename from `cliq_icons` to `lucide_flutter`
