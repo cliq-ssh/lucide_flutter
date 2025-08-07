@@ -1,0 +1,16 @@
+name: cliq_icons
+description: A starting point for Dart libraries or applications.
+version: 0.536.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: LucideIcons
+      fonts:
+        - asset: assets/lucide.ttf
