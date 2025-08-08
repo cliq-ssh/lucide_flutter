@@ -1,5 +1,6 @@
-## 1.3.0
+## 1.0.0-lucide0.539.0
 
+- Adjusted versioning scheme to include Lucide version.
 - Update Lucide Icons to `v0.539.0` 
 
 ## 1.2.2
