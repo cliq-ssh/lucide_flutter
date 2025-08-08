@@ -2295,6 +2295,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## brick-wall-shield
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brick-wall-shield.svg" width="100">
+  ///
+  /// [View "brick-wall-shield" on lucide.dev](https://lucide.dev/icons/brick-wall-shield)
+  static const IconData brickWallShield = IconData(
+    59029,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## brick-wall
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/brick-wall.svg" width="100">
   ///
@@ -8261,6 +8271,16 @@ class LucideIcons {
   /// [View "kanban" on lucide.dev](https://lucide.dev/icons/kanban)
   static const IconData kanban = IconData(
     58593,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## kayak
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/kayak.svg" width="100">
+  ///
+  /// [View "kayak" on lucide.dev](https://lucide.dev/icons/kayak)
+  static const IconData kayak = IconData(
+    59028,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );

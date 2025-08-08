@@ -1,3 +1,7 @@
+## 1.3.0
+
+- Update Lucide Icons to `v0.539.0` 
+
 ## 1.2.2
 
 - Fix `packageLibrary` in `icons.g.dart`
