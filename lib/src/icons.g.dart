@@ -12015,6 +12015,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## rose
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rose.svg" width="100">
+  ///
+  /// [View "rose" on lucide.dev](https://lucide.dev/icons/rose)
+  static const IconData rose = IconData(
+    59030,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## rotate-3d
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-3d.svg" width="100">
   ///
