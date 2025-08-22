@@ -3375,11 +3375,11 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## chrome
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chrome.svg" width="100">
+  /// ## chromium
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chromium.svg" width="100">
   ///
-  /// [View "chrome" on lucide.dev](https://lucide.dev/icons/chrome)
-  static const IconData chrome = IconData(
+  /// [View "chromium" on lucide.dev](https://lucide.dev/icons/chromium)
+  static const IconData chromium = IconData(
     57465,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -10715,6 +10715,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## panel-left-right-dashed
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left-right-dashed.svg" width="100">
+  ///
+  /// [View "panel-left-right-dashed" on lucide.dev](https://lucide.dev/icons/panel-left-right-dashed)
+  static const IconData panelLeftRightDashed = IconData(
+    59031,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## panel-left
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-left.svg" width="100">
   ///
@@ -10761,6 +10771,16 @@ class LucideIcons {
   /// [View "panel-right" on lucide.dev](https://lucide.dev/icons/panel-right)
   static const IconData panelRight = IconData(
     58422,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## panel-top-bottom-dashed
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/panel-top-bottom-dashed.svg" width="100">
+  ///
+  /// [View "panel-top-bottom-dashed" on lucide.dev](https://lucide.dev/icons/panel-top-bottom-dashed)
+  static const IconData panelTopBottomDashed = IconData(
+    59032,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
