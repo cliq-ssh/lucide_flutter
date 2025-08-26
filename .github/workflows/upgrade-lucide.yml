@@ -144,7 +144,7 @@ jobs:
         latest="${{ steps.upgrade.outputs.latest }}"
         base="${{ env.BASE_BRANCH }}"
         pr_title="chore: upgrade lucide to ${latest}"
-        pr_body="Automated upgrade to lucide release **${latest}**.\n\nThis PR was created by workflow \`${{ github.workflow }}\` (run id: ${{ github.run_id }}). Please review the changes and merge when ready."
+        pr_body="Automated upgrade to lucide release **${latest}**. This PR was created by workflow \`${{ github.workflow }}\` (run id: ${{ github.run_id }}). Please review the changes and merge when ready."
 
         create_api="https://api.github.com/repos/${{ github.repository }}/pulls"
         response=$(curl -s -X POST \
