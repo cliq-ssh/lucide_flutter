@@ -9,8 +9,8 @@ fi
 lucide_version=$1
 archive_url=$"https://github.com/lucide-icons/lucide/releases/download/$lucide_version/lucide-font-$lucide_version.zip"
 script_dir=$(dirname "$(readlink -f "$0")")
-target_dir="$script_dir/.dart_tool"
-assets_dir="$script_dir/assets"
+target_dir="$script_dir/../.dart_tool"
+assets_dir="$script_dir/../assets"
 
 if ! curl --output /dev/null --silent --head --fail "$archive_url"; then
   echo "Could not download archive from: $archive_url" >&2
@@ -33,12 +33,6 @@ function checkIfDirIsEmpty() {
 
   if [ -d "$target_dir" ] && [ "$(ls -A "$target_dir")" ]; then
     echo "'$target_dir' is not empty. Existing files will be deleted."
-    read -p "Are you sure you want to continue? (y/n): " confirm
-    if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
-      echo "Aborting." >&2
-      return 1
-    fi
-
     rm -rf "$target_dir"/*
     if [ $? -ne 0 ]; then
       echo "Failed to clear target directory: $target_dir" >&2

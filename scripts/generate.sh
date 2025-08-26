@@ -1,8 +1,8 @@
 #!/bin/bash
 
 script_dir=$(dirname "$(readlink -f "$0")")
-target_file="$script_dir/lib/src/icons.g.dart"
-files_dir="$script_dir/.dart_tool/lucide-font"
+target_file="$script_dir/../lib/src/icons.g.dart"
+files_dir="$script_dir/../.dart_tool/lucide-font"
 
 if ! command -v jq >/dev/null 2>&1; then
   echo "jq is required but not installed." >&2
