@@ -1,0 +1,147 @@
+name: "Upgrade lucide (daily/manual)"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  UPSTREAM_OWNER: lucide-icons
+  UPSTREAM_REPO: lucide
+  LAST_RELEASE_FILE: .lucide_latest_release
+  BASE_BRANCH: main
+
+jobs:
+  check-and-upgrade:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository (full history)
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Install utilities
+      run: |
+        sudo apt-get update -y
+        sudo apt-get install -y jq
+
+    - name: Get latest release tag from lucide-icons/lucide
+      id: upstream
+      run: |
+        api="https://api.github.com/repos/${{ env.UPSTREAM_OWNER }}/${{ env.UPSTREAM_REPO }}/releases/latest"
+        echo "Querying $api"
+        body=$(curl -s -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          "$api")
+        tag=$(echo "$body" | jq -r .tag_name)
+        if [ -z "$tag" ] || [ "$tag" = "null" ]; then
+          echo "No release tag found upstream. Exiting."
+          echo "latest_tag="
+          echo "::set-output name=latest_tag::"
+          exit 0
+        fi
+        echo "latest_tag=$tag" >> $GITHUB_OUTPUT
+
+    - name: Read latest recorded release
+      id: last
+      run: |
+        if [ -f "${{ env.LAST_RELEASE_FILE }}" ]; then
+          last=$(cat "${{ env.LAST_RELEASE_FILE }}" | tr -d ' \t\n\r')
+        else
+          last=""
+        fi
+        echo "last_release=$last" >> $GITHUB_OUTPUT
+
+    - name: Decide whether to upgrade
+      id: decide
+      run: |
+        latest="${{ steps.upstream.outputs.latest_tag }}"
+        last="${{ steps.last.outputs.last_release }}"
+        echo "Upstream latest: '$latest'"
+        echo "Repo recorded last: '$last'"
+        if [ -z "$latest" ]; then
+          echo "no_new_release=true" >> $GITHUB_OUTPUT
+          echo "reason=upstream_no_tag" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        if [ "$latest" = "$last" ]; then
+          echo "no_new_release=true" >> $GITHUB_OUTPUT
+          echo "reason=already_up_to_date" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        echo "no_new_release=false" >> $GITHUB_OUTPUT
+        echo "reason=new_release_found" >> $GITHUB_OUTPUT
+
+    - name: Upgrade & Create PR
+      if: steps.decide.outputs.no_new_release == 'false'
+      id: upgrade
+      run: |
+        set -euo pipefail
+        latest="${{ steps.upstream.outputs.latest_tag }}"
+        short_latest=$(echo "$latest" | sed 's/^v//; s/[^A-Za-z0-9._-]/-/g')
+        timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
+        branch="upgrade/lucide-${short_latest}-${timestamp}"
+
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        base="${{ env.BASE_BRANCH }}"
+        git fetch origin "$base":"$base"
+        git checkout -b "$branch" "origin/$base"
+
+        if [ ! -f "./scripts/upgrade.sh" ]; then
+          echo "ERROR: ./scripts/upgrade.sh not found. Aborting."
+          exit 1
+        fi
+        chmod +x ./scripts/upgrade.sh
+        ./scripts/upgrade.sh "$latest" || {
+          echo "upgrade.sh finished with non-zero exit code; not committing / PRing"
+          exit 1
+        }
+
+        echo "$latest" > "${{ env.LAST_RELEASE_FILE }}"
+
+        git add -A
+        if git diff --cached --quiet; then
+          echo "No changes produced by upgrade script (no commit). Exiting job."
+          exit 0
+        fi
+
+        git commit -m "[chore] upgrade lucide to ${latest}"
+        git push --set-upstream origin "$branch"
+
+        echo "branch=$branch" >> $GITHUB_OUTPUT
+        echo "latest=$latest" >> $GITHUB_OUTPUT
+
+    - name: Create Pull Request
+      if: steps.upgrade.outputs.branch != ''
+      run: |
+        set -euo pipefail
+        branch="${{ steps.upgrade.outputs.branch }}"
+        latest="${{ steps.upgrade.outputs.latest }}"
+        base="${{ env.BASE_BRANCH }}"
+        pr_title="chore: upgrade lucide to ${latest}"
+        pr_body="Automated upgrade to lucide release **${latest}**.\n\nThis PR was created by workflow \`${{ github.workflow }}\` (run id: ${{ github.run_id }}). Please review the changes and merge when ready."
+
+        create_api="https://api.github.com/repos/${{ github.repository }}/pulls"
+        response=$(curl -s -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          "$create_api" \
+          -d "$(jq -n --arg t "$pr_title" --arg h "$branch" --arg b "$base" --arg body "$pr_body" \
+              '{title:$t, head:$h, base:$b, body:$body}')")
+
+        pr_url=$(echo "$response" | jq -r .html_url)
+        if [ "$pr_url" = "null" ] || [ -z "$pr_url" ]; then
+          echo "Failed to create PR. Response:"
+          echo "$response"
+          exit 1
+        fi
+        echo "Pull Request created: $pr_url"
+        echo "::notice::PR created: $pr_url"
