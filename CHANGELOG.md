@@ -1,3 +1,8 @@
+## 0.542.0
+
+- Add example app & improved README
+- Update lucide version to 0.542.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/0.542.0)
+
 ## 0.541.0
 
 - Update lucide version to 0.541.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/0.541.0)

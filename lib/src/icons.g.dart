@@ -8745,6 +8745,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## list-chevrons-down-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-chevrons-down-up.svg" width="100">
+  ///
+  /// [View "list-chevrons-down-up" on lucide.dev](https://lucide.dev/icons/list-chevrons-down-up)
+  static const IconData listChevronsDownUp = IconData(
+    59033,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## list-collapse
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/list-collapse.svg" width="100">
   ///
