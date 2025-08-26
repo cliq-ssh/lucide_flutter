@@ -16,7 +16,7 @@ changelog_file="$script_dir/../CHANGELOG.md"
 # prepend changelog entry
 {
   echo "## $lucide_version"
-  echo "- Upgraded Lucide icons to version $lucide_version (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/$lucide_version)"
+  echo "- Update lucide version to $lucide_version (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/$lucide_version)"
   echo ""
   cat "$changelog_file"
 } > "$changelog_file.tmp" && mv "$changelog_file.tmp" "$changelog_file"
