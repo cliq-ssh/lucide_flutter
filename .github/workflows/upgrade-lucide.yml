@@ -35,7 +35,6 @@ jobs:
       id: upstream
       run: |
         api="https://api.github.com/repos/${{ env.UPSTREAM_OWNER }}/${{ env.UPSTREAM_REPO }}/releases/latest"
-        echo "Querying $api"
         body=$(curl -s -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           "$api")
@@ -43,7 +42,7 @@ jobs:
         if [ -z "$tag" ] || [ "$tag" = "null" ]; then
           echo "No release tag found upstream. Exiting."
           echo "latest_tag="
-          echo "::set-output name=latest_tag::"
+          echo "latest_tag=" >> $GITHUB_OUTPUT
           exit 0
         fi
         echo "latest_tag=$tag" >> $GITHUB_OUTPUT
@@ -63,8 +62,6 @@ jobs:
       run: |
         latest="${{ steps.upstream.outputs.latest_tag }}"
         last="${{ steps.last.outputs.last_release }}"
-        echo "Upstream latest: '$latest'"
-        echo "Repo recorded last: '$last'"
         if [ -z "$latest" ]; then
           echo "no_new_release=true" >> $GITHUB_OUTPUT
           echo "reason=upstream_no_tag" >> $GITHUB_OUTPUT
@@ -78,30 +75,37 @@ jobs:
         echo "no_new_release=false" >> $GITHUB_OUTPUT
         echo "reason=new_release_found" >> $GITHUB_OUTPUT
 
-    - name: Upgrade & Create PR
+    - name: Upgrade Lucide
       if: steps.decide.outputs.no_new_release == 'false'
       id: upgrade
       run: |
         set -euo pipefail
         latest="${{ steps.upstream.outputs.latest_tag }}"
-        short_latest=$(echo "$latest" | sed 's/^v//; s/[^A-Za-z0-9._-]/-/g')
-        timestamp=$(date -u +"%Y%m%dT%H%M%SZ")
-        branch="upgrade/lucide-${short_latest}-${timestamp}"
+
+        VERSION="${latest#v}"
+        BRANCH="upgrade/lucide-${latest}"
+        BRANCH="$(echo "$BRANCH" | tr -s ' ')"
 
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
         base="${{ env.BASE_BRANCH }}"
         git fetch origin "$base":"$base"
-        git checkout -b "$branch" "origin/$base"
+        git checkout -b "$BRANCH" "origin/$base"
+
+        if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+          echo "Remote branch '$BRANCH' already exists. Exiting without changes."
+          exit 0
+        fi
 
         if [ ! -f "./scripts/upgrade.sh" ]; then
           echo "ERROR: ./scripts/upgrade.sh not found. Aborting."
           exit 1
         fi
         chmod +x ./scripts/upgrade.sh
-        ./scripts/upgrade.sh "$latest" || {
-          echo "upgrade.sh finished with non-zero exit code; not committing / PRing"
+
+        ./scripts/upgrade.sh "$VERSION" || {
+          echo "upgrade.sh returned non-zero; Aborting."
           exit 1
         }
 
@@ -114,10 +118,11 @@ jobs:
         fi
 
         git commit -m "[chore] upgrade lucide to ${latest}"
-        git push --set-upstream origin "$branch"
+        git push --set-upstream origin "$BRANCH"
 
-        echo "branch=$branch" >> $GITHUB_OUTPUT
+        echo "branch=$BRANCH" >> $GITHUB_OUTPUT
         echo "latest=$latest" >> $GITHUB_OUTPUT
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
 
     - name: Create Pull Request
       if: steps.upgrade.outputs.branch != ''
