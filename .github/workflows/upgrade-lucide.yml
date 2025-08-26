@@ -84,19 +84,19 @@ jobs:
 
         VERSION="${latest#v}"
         BRANCH="upgrade/lucide-${latest}"
-        BRANCH="$(echo "$BRANCH" | tr -s ' ')"
 
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
         base="${{ env.BASE_BRANCH }}"
-        git fetch origin "$base":"$base"
-        git checkout -b "$BRANCH" "origin/$base"
 
+        git fetch --no-tags origin "$base"
         if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
           echo "Remote branch '$BRANCH' already exists. Exiting without changes."
           exit 0
         fi
+
+        git checkout -b "$BRANCH" "origin/$base"
 
         if [ ! -f "./scripts/upgrade.sh" ]; then
           echo "ERROR: ./scripts/upgrade.sh not found. Aborting."
