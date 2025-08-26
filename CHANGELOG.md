@@ -1,5 +1,6 @@
 ## 0.542.0
-- Upgraded Lucide icons to version 0.542.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/0.542.0)
+- Add example app
+- Update lucide version to 0.542.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/0.542.0)
 
 ## 0.541.0
 
