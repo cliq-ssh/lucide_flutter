@@ -26,10 +26,17 @@ jobs:
         fetch-depth: 0
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Install utilities
+    - name: Restore APT cache
+      uses: actions/cache@v4
+      id: apt-cache
+      with:
+        path: /var/cache/apt/archives
+        key: apt-cache-${{ runner.os }}-v1
+
+    - name: Install packages
       run: |
-        sudo apt-get update -y
-        sudo apt-get install -y jq
+        sudo apt update -y
+        sudo apt install -y --no-install-recommends jq libarchive-tools unzip curl
 
     - name: Get latest release tag from lucide-icons/lucide
       id: upstream
@@ -38,10 +45,9 @@ jobs:
         body=$(curl -s -H "Accept: application/vnd.github+json" \
           -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           "$api")
-        tag=$(echo "$body" | jq -r .tag_name)
+        tag=$(echo "$body" | jq -r .tag_name 2>/dev/null || echo "")
         if [ -z "$tag" ] || [ "$tag" = "null" ]; then
           echo "No release tag found upstream. Exiting."
-          echo "latest_tag="
           echo "latest_tag=" >> $GITHUB_OUTPUT
           exit 0
         fi
@@ -75,13 +81,19 @@ jobs:
         echo "no_new_release=false" >> $GITHUB_OUTPUT
         echo "reason=new_release_found" >> $GITHUB_OUTPUT
 
+    - name: Setup Dart SDK
+      if: steps.decide.outputs.no_new_release == 'false'
+      uses: dart-lang/setup-dart@v1
+      with:
+        sdk: stable
+
     - name: Upgrade Lucide
       if: steps.decide.outputs.no_new_release == 'false'
       id: upgrade
       run: |
         set -euo pipefail
         latest="${{ steps.upstream.outputs.latest_tag }}"
-
+        
         VERSION="${latest#v}"
         BRANCH="upgrade/lucide-${latest}"
 
