@@ -5545,6 +5545,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## ev-charger
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ev-charger.svg" width="100">
+  ///
+  /// [View "ev-charger" on lucide.dev](https://lucide.dev/icons/ev-charger)
+  static const IconData evCharger = IconData(
+    59035,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## expand
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/expand.svg" width="100">
   ///
