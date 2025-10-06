@@ -9985,6 +9985,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## motorbike
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/motorbike.svg" width="100">
+  ///
+  /// [View "motorbike" on lucide.dev](https://lucide.dev/icons/motorbike)
+  static const IconData motorbike = IconData(
+    59036,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## mountain-snow
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mountain-snow.svg" width="100">
   ///
