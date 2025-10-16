@@ -9845,6 +9845,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## monitor-cloud
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-cloud.svg" width="100">
+  ///
+  /// [View "monitor-cloud" on lucide.dev](https://lucide.dev/icons/monitor-cloud)
+  static const IconData monitorCloud = IconData(
+    59037,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## monitor-cog
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/monitor-cog.svg" width="100">
   ///
