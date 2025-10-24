@@ -1695,6 +1695,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## birdhouse
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/birdhouse.svg" width="100">
+  ///
+  /// [View "birdhouse" on lucide.dev](https://lucide.dev/icons/birdhouse)
+  static const IconData birdhouse = IconData(
+    59038,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## bitcoin
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bitcoin.svg" width="100">
   ///
