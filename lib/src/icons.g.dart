@@ -7035,6 +7035,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## gamepad-directional
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gamepad-directional.svg" width="100">
+  ///
+  /// [View "gamepad-directional" on lucide.dev](https://lucide.dev/icons/gamepad-directional)
+  static const IconData gamepadDirectional = IconData(
+    59039,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## gamepad
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gamepad.svg" width="100">
   ///
