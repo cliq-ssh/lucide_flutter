@@ -4135,6 +4135,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## clock-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-check.svg" width="100">
+  ///
+  /// [View "clock-check" on lucide.dev](https://lucide.dev/icons/clock-check)
+  static const IconData clockCheck = IconData(
+    59042,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## clock-fading
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-fading.svg" width="100">
   ///
@@ -7115,6 +7125,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## git-branch-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-branch-minus.svg" width="100">
+  ///
+  /// [View "git-branch-minus" on lucide.dev](https://lucide.dev/icons/git-branch-minus)
+  static const IconData gitBranchMinus = IconData(
+    59040,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## git-branch-plus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-branch-plus.svg" width="100">
   ///
@@ -7861,6 +7881,16 @@ class LucideIcons {
   /// [View "heater" on lucide.dev](https://lucide.dev/icons/heater)
   static const IconData heater = IconData(
     58770,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## helicopter
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/helicopter.svg" width="100">
+  ///
+  /// [View "helicopter" on lucide.dev](https://lucide.dev/icons/helicopter)
+  static const IconData helicopter = IconData(
+    59041,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
