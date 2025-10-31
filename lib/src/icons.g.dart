@@ -10,7 +10,7 @@ class LucideIcons {
   ///
   /// [View "a-arrow-down" on lucide.dev](https://lucide.dev/icons/a-arrow-down)
   static const IconData aArrowDown = IconData(
-    58761,
+    58757,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -20,7 +20,7 @@ class LucideIcons {
   ///
   /// [View "a-arrow-up" on lucide.dev](https://lucide.dev/icons/a-arrow-up)
   static const IconData aArrowUp = IconData(
-    58762,
+    58758,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -30,7 +30,7 @@ class LucideIcons {
   ///
   /// [View "a-large-small" on lucide.dev](https://lucide.dev/icons/a-large-small)
   static const IconData aLargeSmall = IconData(
-    58763,
+    58759,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -60,7 +60,7 @@ class LucideIcons {
   ///
   /// [View "air-vent" on lucide.dev](https://lucide.dev/icons/air-vent)
   static const IconData airVent = IconData(
-    58193,
+    58189,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -130,7 +130,7 @@ class LucideIcons {
   ///
   /// [View "alarm-smoke" on lucide.dev](https://lucide.dev/icons/alarm-smoke)
   static const IconData alarmSmoke = IconData(
-    58751,
+    58747,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -370,7 +370,7 @@ class LucideIcons {
   ///
   /// [View "ambulance" on lucide.dev](https://lucide.dev/icons/ambulance)
   static const IconData ambulance = IconData(
-    58815,
+    58811,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -380,7 +380,7 @@ class LucideIcons {
   ///
   /// [View "ampersand" on lucide.dev](https://lucide.dev/icons/ampersand)
   static const IconData ampersand = IconData(
-    58528,
+    58524,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -390,7 +390,7 @@ class LucideIcons {
   ///
   /// [View "ampersands" on lucide.dev](https://lucide.dev/icons/ampersands)
   static const IconData ampersands = IconData(
-    58529,
+    58525,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -400,7 +400,7 @@ class LucideIcons {
   ///
   /// [View "amphora" on lucide.dev](https://lucide.dev/icons/amphora)
   static const IconData amphora = IconData(
-    58911,
+    58907,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -440,7 +440,7 @@ class LucideIcons {
   ///
   /// [View "antenna" on lucide.dev](https://lucide.dev/icons/antenna)
   static const IconData antenna = IconData(
-    58598,
+    58594,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -450,7 +450,7 @@ class LucideIcons {
   ///
   /// [View "anvil" on lucide.dev](https://lucide.dev/icons/anvil)
   static const IconData anvil = IconData(
-    58756,
+    58752,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -470,7 +470,7 @@ class LucideIcons {
   ///
   /// [View "app-window-mac" on lucide.dev](https://lucide.dev/icons/app-window-mac)
   static const IconData appWindowMac = IconData(
-    58838,
+    58834,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -480,7 +480,7 @@ class LucideIcons {
   ///
   /// [View "app-window" on lucide.dev](https://lucide.dev/icons/app-window)
   static const IconData appWindow = IconData(
-    58410,
+    58406,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -490,7 +490,7 @@ class LucideIcons {
   ///
   /// [View "apple" on lucide.dev](https://lucide.dev/icons/apple)
   static const IconData apple = IconData(
-    58194,
+    58190,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -510,7 +510,7 @@ class LucideIcons {
   ///
   /// [View "archive-x" on lucide.dev](https://lucide.dev/icons/archive-x)
   static const IconData archiveX = IconData(
-    58640,
+    58636,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -540,7 +540,7 @@ class LucideIcons {
   ///
   /// [View "arrow-big-down-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-down-dash)
   static const IconData arrowBigDownDash = IconData(
-    58401,
+    58397,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -560,7 +560,7 @@ class LucideIcons {
   ///
   /// [View "arrow-big-left-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-left-dash)
   static const IconData arrowBigLeftDash = IconData(
-    58402,
+    58398,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -580,7 +580,7 @@ class LucideIcons {
   ///
   /// [View "arrow-big-right-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-right-dash)
   static const IconData arrowBigRightDash = IconData(
-    58403,
+    58399,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -600,7 +600,7 @@ class LucideIcons {
   ///
   /// [View "arrow-big-up-dash" on lucide.dev](https://lucide.dev/icons/arrow-big-up-dash)
   static const IconData arrowBigUpDash = IconData(
-    58404,
+    58400,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -620,7 +620,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-0-1" on lucide.dev](https://lucide.dev/icons/arrow-down-0-1)
   static const IconData arrowDown01 = IconData(
-    58391,
+    58387,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -630,7 +630,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-1-0" on lucide.dev](https://lucide.dev/icons/arrow-down-1-0)
   static const IconData arrowDown10 = IconData(
-    58392,
+    58388,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -640,7 +640,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-a-z" on lucide.dev](https://lucide.dev/icons/arrow-down-a-z)
   static const IconData arrowDownAZ = IconData(
-    58393,
+    58389,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -650,7 +650,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-from-line" on lucide.dev](https://lucide.dev/icons/arrow-down-from-line)
   static const IconData arrowDownFromLine = IconData(
-    58456,
+    58452,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -690,7 +690,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-to-dot" on lucide.dev](https://lucide.dev/icons/arrow-down-to-dot)
   static const IconData arrowDownToDot = IconData(
-    58449,
+    58445,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -700,7 +700,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-to-line" on lucide.dev](https://lucide.dev/icons/arrow-down-to-line)
   static const IconData arrowDownToLine = IconData(
-    58457,
+    58453,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -730,7 +730,7 @@ class LucideIcons {
   ///
   /// [View "arrow-down-z-a" on lucide.dev](https://lucide.dev/icons/arrow-down-z-a)
   static const IconData arrowDownZA = IconData(
-    58394,
+    58390,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -750,7 +750,7 @@ class LucideIcons {
   ///
   /// [View "arrow-left-from-line" on lucide.dev](https://lucide.dev/icons/arrow-left-from-line)
   static const IconData arrowLeftFromLine = IconData(
-    58458,
+    58454,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -770,7 +770,7 @@ class LucideIcons {
   ///
   /// [View "arrow-left-to-line" on lucide.dev](https://lucide.dev/icons/arrow-left-to-line)
   static const IconData arrowLeftToLine = IconData(
-    58459,
+    58455,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -790,7 +790,7 @@ class LucideIcons {
   ///
   /// [View "arrow-right-from-line" on lucide.dev](https://lucide.dev/icons/arrow-right-from-line)
   static const IconData arrowRightFromLine = IconData(
-    58460,
+    58456,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -800,7 +800,7 @@ class LucideIcons {
   ///
   /// [View "arrow-right-left" on lucide.dev](https://lucide.dev/icons/arrow-right-left)
   static const IconData arrowRightLeft = IconData(
-    58395,
+    58391,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -810,7 +810,7 @@ class LucideIcons {
   ///
   /// [View "arrow-right-to-line" on lucide.dev](https://lucide.dev/icons/arrow-right-to-line)
   static const IconData arrowRightToLine = IconData(
-    58461,
+    58457,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -830,7 +830,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-0-1" on lucide.dev](https://lucide.dev/icons/arrow-up-0-1)
   static const IconData arrowUp01 = IconData(
-    58396,
+    58392,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -840,7 +840,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-1-0" on lucide.dev](https://lucide.dev/icons/arrow-up-1-0)
   static const IconData arrowUp10 = IconData(
-    58397,
+    58393,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -850,7 +850,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-a-z" on lucide.dev](https://lucide.dev/icons/arrow-up-a-z)
   static const IconData arrowUpAZ = IconData(
-    58398,
+    58394,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -860,7 +860,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-down" on lucide.dev](https://lucide.dev/icons/arrow-up-down)
   static const IconData arrowUpDown = IconData(
-    58241,
+    58237,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -870,7 +870,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-from-dot" on lucide.dev](https://lucide.dev/icons/arrow-up-from-dot)
   static const IconData arrowUpFromDot = IconData(
-    58450,
+    58446,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -880,7 +880,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-from-line" on lucide.dev](https://lucide.dev/icons/arrow-up-from-line)
   static const IconData arrowUpFromLine = IconData(
-    58462,
+    58458,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -920,7 +920,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-to-line" on lucide.dev](https://lucide.dev/icons/arrow-up-to-line)
   static const IconData arrowUpToLine = IconData(
-    58463,
+    58459,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -930,7 +930,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-wide-narrow" on lucide.dev](https://lucide.dev/icons/arrow-up-wide-narrow)
   static const IconData arrowUpWideNarrow = IconData(
-    58399,
+    58395,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -940,7 +940,7 @@ class LucideIcons {
   ///
   /// [View "arrow-up-z-a" on lucide.dev](https://lucide.dev/icons/arrow-up-z-a)
   static const IconData arrowUpZA = IconData(
-    58400,
+    58396,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -960,7 +960,7 @@ class LucideIcons {
   ///
   /// [View "arrows-up-from-line" on lucide.dev](https://lucide.dev/icons/arrows-up-from-line)
   static const IconData arrowsUpFromLine = IconData(
-    58584,
+    58580,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -990,7 +990,7 @@ class LucideIcons {
   ///
   /// [View "atom" on lucide.dev](https://lucide.dev/icons/atom)
   static const IconData atom = IconData(
-    58331,
+    58327,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1000,7 +1000,7 @@ class LucideIcons {
   ///
   /// [View "audio-lines" on lucide.dev](https://lucide.dev/icons/audio-lines)
   static const IconData audioLines = IconData(
-    58718,
+    58714,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1010,7 +1010,7 @@ class LucideIcons {
   ///
   /// [View "audio-waveform" on lucide.dev](https://lucide.dev/icons/audio-waveform)
   static const IconData audioWaveform = IconData(
-    58719,
+    58715,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1070,7 +1070,7 @@ class LucideIcons {
   ///
   /// [View "badge-alert" on lucide.dev](https://lucide.dev/icons/badge-alert)
   static const IconData badgeAlert = IconData(
-    58489,
+    58485,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1080,7 +1080,7 @@ class LucideIcons {
   ///
   /// [View "badge-cent" on lucide.dev](https://lucide.dev/icons/badge-cent)
   static const IconData badgeCent = IconData(
-    58643,
+    58639,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1100,7 +1100,7 @@ class LucideIcons {
   ///
   /// [View "badge-dollar-sign" on lucide.dev](https://lucide.dev/icons/badge-dollar-sign)
   static const IconData badgeDollarSign = IconData(
-    58490,
+    58486,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1110,7 +1110,7 @@ class LucideIcons {
   ///
   /// [View "badge-euro" on lucide.dev](https://lucide.dev/icons/badge-euro)
   static const IconData badgeEuro = IconData(
-    58644,
+    58640,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1120,7 +1120,7 @@ class LucideIcons {
   ///
   /// [View "badge-indian-rupee" on lucide.dev](https://lucide.dev/icons/badge-indian-rupee)
   static const IconData badgeIndianRupee = IconData(
-    58645,
+    58641,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1130,7 +1130,7 @@ class LucideIcons {
   ///
   /// [View "badge-info" on lucide.dev](https://lucide.dev/icons/badge-info)
   static const IconData badgeInfo = IconData(
-    58491,
+    58487,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1140,7 +1140,7 @@ class LucideIcons {
   ///
   /// [View "badge-japanese-yen" on lucide.dev](https://lucide.dev/icons/badge-japanese-yen)
   static const IconData badgeJapaneseYen = IconData(
-    58646,
+    58642,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1150,7 +1150,7 @@ class LucideIcons {
   ///
   /// [View "badge-minus" on lucide.dev](https://lucide.dev/icons/badge-minus)
   static const IconData badgeMinus = IconData(
-    58492,
+    58488,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1160,7 +1160,7 @@ class LucideIcons {
   ///
   /// [View "badge-percent" on lucide.dev](https://lucide.dev/icons/badge-percent)
   static const IconData badgePercent = IconData(
-    58493,
+    58489,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1170,7 +1170,7 @@ class LucideIcons {
   ///
   /// [View "badge-plus" on lucide.dev](https://lucide.dev/icons/badge-plus)
   static const IconData badgePlus = IconData(
-    58494,
+    58490,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1180,7 +1180,7 @@ class LucideIcons {
   ///
   /// [View "badge-pound-sterling" on lucide.dev](https://lucide.dev/icons/badge-pound-sterling)
   static const IconData badgePoundSterling = IconData(
-    58647,
+    58643,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1190,7 +1190,7 @@ class LucideIcons {
   ///
   /// [View "badge-question-mark" on lucide.dev](https://lucide.dev/icons/badge-question-mark)
   static const IconData badgeQuestionMark = IconData(
-    58495,
+    58491,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1200,7 +1200,7 @@ class LucideIcons {
   ///
   /// [View "badge-russian-ruble" on lucide.dev](https://lucide.dev/icons/badge-russian-ruble)
   static const IconData badgeRussianRuble = IconData(
-    58648,
+    58644,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1210,7 +1210,7 @@ class LucideIcons {
   ///
   /// [View "badge-swiss-franc" on lucide.dev](https://lucide.dev/icons/badge-swiss-franc)
   static const IconData badgeSwissFranc = IconData(
-    58649,
+    58645,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1220,7 +1220,7 @@ class LucideIcons {
   ///
   /// [View "badge-turkish-lira" on lucide.dev](https://lucide.dev/icons/badge-turkish-lira)
   static const IconData badgeTurkishLira = IconData(
-    59010,
+    59006,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1230,7 +1230,7 @@ class LucideIcons {
   ///
   /// [View "badge-x" on lucide.dev](https://lucide.dev/icons/badge-x)
   static const IconData badgeX = IconData(
-    58496,
+    58492,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1240,7 +1240,7 @@ class LucideIcons {
   ///
   /// [View "badge" on lucide.dev](https://lucide.dev/icons/badge)
   static const IconData badge = IconData(
-    58488,
+    58484,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1270,7 +1270,7 @@ class LucideIcons {
   ///
   /// [View "banana" on lucide.dev](https://lucide.dev/icons/banana)
   static const IconData banana = IconData(
-    58195,
+    58191,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1280,7 +1280,7 @@ class LucideIcons {
   ///
   /// [View "bandage" on lucide.dev](https://lucide.dev/icons/bandage)
   static const IconData bandage = IconData(
-    58913,
+    58909,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1290,7 +1290,7 @@ class LucideIcons {
   ///
   /// [View "banknote-arrow-down" on lucide.dev](https://lucide.dev/icons/banknote-arrow-down)
   static const IconData banknoteArrowDown = IconData(
-    58960,
+    58956,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1300,7 +1300,7 @@ class LucideIcons {
   ///
   /// [View "banknote-arrow-up" on lucide.dev](https://lucide.dev/icons/banknote-arrow-up)
   static const IconData banknoteArrowUp = IconData(
-    58961,
+    58957,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1310,7 +1310,7 @@ class LucideIcons {
   ///
   /// [View "banknote-x" on lucide.dev](https://lucide.dev/icons/banknote-x)
   static const IconData banknoteX = IconData(
-    58962,
+    58958,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1330,7 +1330,7 @@ class LucideIcons {
   ///
   /// [View "barcode" on lucide.dev](https://lucide.dev/icons/barcode)
   static const IconData barcode = IconData(
-    58679,
+    58675,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1340,7 +1340,7 @@ class LucideIcons {
   ///
   /// [View "barrel" on lucide.dev](https://lucide.dev/icons/barrel)
   static const IconData barrel = IconData(
-    59001,
+    58997,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1410,7 +1410,7 @@ class LucideIcons {
   ///
   /// [View "battery-plus" on lucide.dev](https://lucide.dev/icons/battery-plus)
   static const IconData batteryPlus = IconData(
-    58946,
+    58942,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1420,7 +1420,7 @@ class LucideIcons {
   ///
   /// [View "battery-warning" on lucide.dev](https://lucide.dev/icons/battery-warning)
   static const IconData batteryWarning = IconData(
-    58288,
+    58284,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1450,7 +1450,7 @@ class LucideIcons {
   ///
   /// [View "bean-off" on lucide.dev](https://lucide.dev/icons/bean-off)
   static const IconData beanOff = IconData(
-    58260,
+    58256,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1460,7 +1460,7 @@ class LucideIcons {
   ///
   /// [View "bean" on lucide.dev](https://lucide.dev/icons/bean)
   static const IconData bean = IconData(
-    58259,
+    58255,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1500,7 +1500,7 @@ class LucideIcons {
   ///
   /// [View "beef" on lucide.dev](https://lucide.dev/icons/beef)
   static const IconData beef = IconData(
-    58281,
+    58277,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1510,7 +1510,7 @@ class LucideIcons {
   ///
   /// [View "beer-off" on lucide.dev](https://lucide.dev/icons/beer-off)
   static const IconData beerOff = IconData(
-    58845,
+    58841,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1530,7 +1530,7 @@ class LucideIcons {
   ///
   /// [View "bell-dot" on lucide.dev](https://lucide.dev/icons/bell-dot)
   static const IconData bellDot = IconData(
-    58415,
+    58411,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1540,7 +1540,7 @@ class LucideIcons {
   ///
   /// [View "bell-electric" on lucide.dev](https://lucide.dev/icons/bell-electric)
   static const IconData bellElectric = IconData(
-    58752,
+    58748,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1600,7 +1600,7 @@ class LucideIcons {
   ///
   /// [View "between-horizontal-end" on lucide.dev](https://lucide.dev/icons/between-horizontal-end)
   static const IconData betweenHorizontalEnd = IconData(
-    58773,
+    58769,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1610,7 +1610,7 @@ class LucideIcons {
   ///
   /// [View "between-horizontal-start" on lucide.dev](https://lucide.dev/icons/between-horizontal-start)
   static const IconData betweenHorizontalStart = IconData(
-    58774,
+    58770,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1620,7 +1620,7 @@ class LucideIcons {
   ///
   /// [View "between-vertical-end" on lucide.dev](https://lucide.dev/icons/between-vertical-end)
   static const IconData betweenVerticalEnd = IconData(
-    58775,
+    58771,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1630,7 +1630,7 @@ class LucideIcons {
   ///
   /// [View "between-vertical-start" on lucide.dev](https://lucide.dev/icons/between-vertical-start)
   static const IconData betweenVerticalStart = IconData(
-    58776,
+    58772,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1640,7 +1640,7 @@ class LucideIcons {
   ///
   /// [View "biceps-flexed" on lucide.dev](https://lucide.dev/icons/biceps-flexed)
   static const IconData bicepsFlexed = IconData(
-    58863,
+    58859,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1670,7 +1670,7 @@ class LucideIcons {
   ///
   /// [View "binoculars" on lucide.dev](https://lucide.dev/icons/binoculars)
   static const IconData binoculars = IconData(
-    58917,
+    58913,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1680,7 +1680,7 @@ class LucideIcons {
   ///
   /// [View "biohazard" on lucide.dev](https://lucide.dev/icons/biohazard)
   static const IconData biohazard = IconData(
-    58437,
+    58433,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1690,7 +1690,7 @@ class LucideIcons {
   ///
   /// [View "bird" on lucide.dev](https://lucide.dev/icons/bird)
   static const IconData bird = IconData(
-    58313,
+    58309,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1700,7 +1700,7 @@ class LucideIcons {
   ///
   /// [View "birdhouse" on lucide.dev](https://lucide.dev/icons/birdhouse)
   static const IconData birdhouse = IconData(
-    59038,
+    59034,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1720,7 +1720,7 @@ class LucideIcons {
   ///
   /// [View "blend" on lucide.dev](https://lucide.dev/icons/blend)
   static const IconData blend = IconData(
-    58784,
+    58780,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1730,7 +1730,7 @@ class LucideIcons {
   ///
   /// [View "blinds" on lucide.dev](https://lucide.dev/icons/blinds)
   static const IconData blinds = IconData(
-    58308,
+    58304,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1740,7 +1740,7 @@ class LucideIcons {
   ///
   /// [View "blocks" on lucide.dev](https://lucide.dev/icons/blocks)
   static const IconData blocks = IconData(
-    58622,
+    58618,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1800,7 +1800,7 @@ class LucideIcons {
   ///
   /// [View "bolt" on lucide.dev](https://lucide.dev/icons/bolt)
   static const IconData bolt = IconData(
-    58768,
+    58764,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1820,7 +1820,7 @@ class LucideIcons {
   ///
   /// [View "bone" on lucide.dev](https://lucide.dev/icons/bone)
   static const IconData bone = IconData(
-    58204,
+    58200,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1830,7 +1830,7 @@ class LucideIcons {
   ///
   /// [View "book-a" on lucide.dev](https://lucide.dev/icons/book-a)
   static const IconData bookA = IconData(
-    58696,
+    58692,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1840,7 +1840,7 @@ class LucideIcons {
   ///
   /// [View "book-alert" on lucide.dev](https://lucide.dev/icons/book-alert)
   static const IconData bookAlert = IconData(
-    58998,
+    58994,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1850,7 +1850,7 @@ class LucideIcons {
   ///
   /// [View "book-audio" on lucide.dev](https://lucide.dev/icons/book-audio)
   static const IconData bookAudio = IconData(
-    58697,
+    58693,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1860,7 +1860,7 @@ class LucideIcons {
   ///
   /// [View "book-check" on lucide.dev](https://lucide.dev/icons/book-check)
   static const IconData bookCheck = IconData(
-    58698,
+    58694,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1870,7 +1870,7 @@ class LucideIcons {
   ///
   /// [View "book-copy" on lucide.dev](https://lucide.dev/icons/book-copy)
   static const IconData bookCopy = IconData(
-    58352,
+    58348,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1880,7 +1880,7 @@ class LucideIcons {
   ///
   /// [View "book-dashed" on lucide.dev](https://lucide.dev/icons/book-dashed)
   static const IconData bookDashed = IconData(
-    58353,
+    58349,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1890,7 +1890,7 @@ class LucideIcons {
   ///
   /// [View "book-down" on lucide.dev](https://lucide.dev/icons/book-down)
   static const IconData bookDown = IconData(
-    58354,
+    58350,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1900,7 +1900,7 @@ class LucideIcons {
   ///
   /// [View "book-headphones" on lucide.dev](https://lucide.dev/icons/book-headphones)
   static const IconData bookHeadphones = IconData(
-    58699,
+    58695,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1910,7 +1910,7 @@ class LucideIcons {
   ///
   /// [View "book-heart" on lucide.dev](https://lucide.dev/icons/book-heart)
   static const IconData bookHeart = IconData(
-    58700,
+    58696,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1920,7 +1920,7 @@ class LucideIcons {
   ///
   /// [View "book-image" on lucide.dev](https://lucide.dev/icons/book-image)
   static const IconData bookImage = IconData(
-    58701,
+    58697,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1930,7 +1930,7 @@ class LucideIcons {
   ///
   /// [View "book-key" on lucide.dev](https://lucide.dev/icons/book-key)
   static const IconData bookKey = IconData(
-    58355,
+    58351,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1940,7 +1940,7 @@ class LucideIcons {
   ///
   /// [View "book-lock" on lucide.dev](https://lucide.dev/icons/book-lock)
   static const IconData bookLock = IconData(
-    58356,
+    58352,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1950,7 +1950,7 @@ class LucideIcons {
   ///
   /// [View "book-marked" on lucide.dev](https://lucide.dev/icons/book-marked)
   static const IconData bookMarked = IconData(
-    58357,
+    58353,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1960,7 +1960,7 @@ class LucideIcons {
   ///
   /// [View "book-minus" on lucide.dev](https://lucide.dev/icons/book-minus)
   static const IconData bookMinus = IconData(
-    58358,
+    58354,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1970,7 +1970,7 @@ class LucideIcons {
   ///
   /// [View "book-open-check" on lucide.dev](https://lucide.dev/icons/book-open-check)
   static const IconData bookOpenCheck = IconData(
-    58245,
+    58241,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -1980,7 +1980,7 @@ class LucideIcons {
   ///
   /// [View "book-open-text" on lucide.dev](https://lucide.dev/icons/book-open-text)
   static const IconData bookOpenText = IconData(
-    58702,
+    58698,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2000,7 +2000,7 @@ class LucideIcons {
   ///
   /// [View "book-plus" on lucide.dev](https://lucide.dev/icons/book-plus)
   static const IconData bookPlus = IconData(
-    58359,
+    58355,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2010,7 +2010,7 @@ class LucideIcons {
   ///
   /// [View "book-text" on lucide.dev](https://lucide.dev/icons/book-text)
   static const IconData bookText = IconData(
-    58703,
+    58699,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2020,7 +2020,7 @@ class LucideIcons {
   ///
   /// [View "book-type" on lucide.dev](https://lucide.dev/icons/book-type)
   static const IconData bookType = IconData(
-    58704,
+    58700,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2030,7 +2030,7 @@ class LucideIcons {
   ///
   /// [View "book-up-2" on lucide.dev](https://lucide.dev/icons/book-up-2)
   static const IconData bookUp2 = IconData(
-    58538,
+    58534,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2040,7 +2040,7 @@ class LucideIcons {
   ///
   /// [View "book-up" on lucide.dev](https://lucide.dev/icons/book-up)
   static const IconData bookUp = IconData(
-    58360,
+    58356,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2050,7 +2050,7 @@ class LucideIcons {
   ///
   /// [View "book-user" on lucide.dev](https://lucide.dev/icons/book-user)
   static const IconData bookUser = IconData(
-    58705,
+    58701,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2060,7 +2060,7 @@ class LucideIcons {
   ///
   /// [View "book-x" on lucide.dev](https://lucide.dev/icons/book-x)
   static const IconData bookX = IconData(
-    58361,
+    58357,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2080,7 +2080,7 @@ class LucideIcons {
   ///
   /// [View "bookmark-check" on lucide.dev](https://lucide.dev/icons/bookmark-check)
   static const IconData bookmarkCheck = IconData(
-    58659,
+    58655,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2110,7 +2110,7 @@ class LucideIcons {
   ///
   /// [View "bookmark-x" on lucide.dev](https://lucide.dev/icons/bookmark-x)
   static const IconData bookmarkX = IconData(
-    58660,
+    58656,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2130,7 +2130,7 @@ class LucideIcons {
   ///
   /// [View "boom-box" on lucide.dev](https://lucide.dev/icons/boom-box)
   static const IconData boomBox = IconData(
-    58610,
+    58606,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2140,7 +2140,7 @@ class LucideIcons {
   ///
   /// [View "bot-message-square" on lucide.dev](https://lucide.dev/icons/bot-message-square)
   static const IconData botMessageSquare = IconData(
-    58834,
+    58830,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2150,7 +2150,7 @@ class LucideIcons {
   ///
   /// [View "bot-off" on lucide.dev](https://lucide.dev/icons/bot-off)
   static const IconData botOff = IconData(
-    58852,
+    58848,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2170,7 +2170,7 @@ class LucideIcons {
   ///
   /// [View "bottle-wine" on lucide.dev](https://lucide.dev/icons/bottle-wine)
   static const IconData bottleWine = IconData(
-    59007,
+    59003,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2180,7 +2180,7 @@ class LucideIcons {
   ///
   /// [View "bow-arrow" on lucide.dev](https://lucide.dev/icons/bow-arrow)
   static const IconData bowArrow = IconData(
-    58978,
+    58974,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2210,7 +2210,7 @@ class LucideIcons {
   ///
   /// [View "braces" on lucide.dev](https://lucide.dev/icons/braces)
   static const IconData braces = IconData(
-    58222,
+    58218,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2220,7 +2220,7 @@ class LucideIcons {
   ///
   /// [View "brackets" on lucide.dev](https://lucide.dev/icons/brackets)
   static const IconData brackets = IconData(
-    58439,
+    58435,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2230,7 +2230,7 @@ class LucideIcons {
   ///
   /// [View "brain-circuit" on lucide.dev](https://lucide.dev/icons/brain-circuit)
   static const IconData brainCircuit = IconData(
-    58315,
+    58311,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2240,7 +2240,7 @@ class LucideIcons {
   ///
   /// [View "brain-cog" on lucide.dev](https://lucide.dev/icons/brain-cog)
   static const IconData brainCog = IconData(
-    58316,
+    58312,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2250,7 +2250,7 @@ class LucideIcons {
   ///
   /// [View "brain" on lucide.dev](https://lucide.dev/icons/brain)
   static const IconData brain = IconData(
-    58314,
+    58310,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2260,7 +2260,7 @@ class LucideIcons {
   ///
   /// [View "brick-wall-fire" on lucide.dev](https://lucide.dev/icons/brick-wall-fire)
   static const IconData brickWallFire = IconData(
-    58967,
+    58963,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2270,7 +2270,7 @@ class LucideIcons {
   ///
   /// [View "brick-wall-shield" on lucide.dev](https://lucide.dev/icons/brick-wall-shield)
   static const IconData brickWallShield = IconData(
-    59028,
+    59024,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2280,7 +2280,7 @@ class LucideIcons {
   ///
   /// [View "brick-wall" on lucide.dev](https://lucide.dev/icons/brick-wall)
   static const IconData brickWall = IconData(
-    58757,
+    58753,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2290,7 +2290,7 @@ class LucideIcons {
   ///
   /// [View "briefcase-business" on lucide.dev](https://lucide.dev/icons/briefcase-business)
   static const IconData briefcaseBusiness = IconData(
-    58841,
+    58837,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2300,7 +2300,7 @@ class LucideIcons {
   ///
   /// [View "briefcase-conveyor-belt" on lucide.dev](https://lucide.dev/icons/briefcase-conveyor-belt)
   static const IconData briefcaseConveyorBelt = IconData(
-    58927,
+    58923,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2310,7 +2310,7 @@ class LucideIcons {
   ///
   /// [View "briefcase-medical" on lucide.dev](https://lucide.dev/icons/briefcase-medical)
   static const IconData briefcaseMedical = IconData(
-    58842,
+    58838,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2330,7 +2330,7 @@ class LucideIcons {
   ///
   /// [View "bring-to-front" on lucide.dev](https://lucide.dev/icons/bring-to-front)
   static const IconData bringToFront = IconData(
-    58611,
+    58607,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2340,7 +2340,7 @@ class LucideIcons {
   ///
   /// [View "brush-cleaning" on lucide.dev](https://lucide.dev/icons/brush-cleaning)
   static const IconData brushCleaning = IconData(
-    58986,
+    58982,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2360,7 +2360,7 @@ class LucideIcons {
   ///
   /// [View "bubbles" on lucide.dev](https://lucide.dev/icons/bubbles)
   static const IconData bubbles = IconData(
-    58968,
+    58964,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2370,7 +2370,7 @@ class LucideIcons {
   ///
   /// [View "bug-off" on lucide.dev](https://lucide.dev/icons/bug-off)
   static const IconData bugOff = IconData(
-    58641,
+    58637,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2380,7 +2380,7 @@ class LucideIcons {
   ///
   /// [View "bug-play" on lucide.dev](https://lucide.dev/icons/bug-play)
   static const IconData bugPlay = IconData(
-    58642,
+    58638,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2420,7 +2420,7 @@ class LucideIcons {
   ///
   /// [View "bus-front" on lucide.dev](https://lucide.dev/icons/bus-front)
   static const IconData busFront = IconData(
-    58623,
+    58619,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2440,7 +2440,7 @@ class LucideIcons {
   ///
   /// [View "cable-car" on lucide.dev](https://lucide.dev/icons/cable-car)
   static const IconData cableCar = IconData(
-    58624,
+    58620,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2450,7 +2450,7 @@ class LucideIcons {
   ///
   /// [View "cable" on lucide.dev](https://lucide.dev/icons/cable)
   static const IconData cable = IconData(
-    58599,
+    58595,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2460,7 +2460,7 @@ class LucideIcons {
   ///
   /// [View "cake-slice" on lucide.dev](https://lucide.dev/icons/cake-slice)
   static const IconData cakeSlice = IconData(
-    58557,
+    58553,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2470,7 +2470,7 @@ class LucideIcons {
   ///
   /// [View "cake" on lucide.dev](https://lucide.dev/icons/cake)
   static const IconData cake = IconData(
-    58184,
+    58180,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2490,7 +2490,7 @@ class LucideIcons {
   ///
   /// [View "calendar-1" on lucide.dev](https://lucide.dev/icons/calendar-1)
   static const IconData calendar1 = IconData(
-    58932,
+    58928,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2500,7 +2500,7 @@ class LucideIcons {
   ///
   /// [View "calendar-arrow-down" on lucide.dev](https://lucide.dev/icons/calendar-arrow-down)
   static const IconData calendarArrowDown = IconData(
-    58882,
+    58878,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2510,7 +2510,7 @@ class LucideIcons {
   ///
   /// [View "calendar-arrow-up" on lucide.dev](https://lucide.dev/icons/calendar-arrow-up)
   static const IconData calendarArrowUp = IconData(
-    58883,
+    58879,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2550,7 +2550,7 @@ class LucideIcons {
   ///
   /// [View "calendar-cog" on lucide.dev](https://lucide.dev/icons/calendar-cog)
   static const IconData calendarCog = IconData(
-    58865,
+    58861,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2570,7 +2570,7 @@ class LucideIcons {
   ///
   /// [View "calendar-fold" on lucide.dev](https://lucide.dev/icons/calendar-fold)
   static const IconData calendarFold = IconData(
-    58808,
+    58804,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2590,7 +2590,7 @@ class LucideIcons {
   ///
   /// [View "calendar-minus-2" on lucide.dev](https://lucide.dev/icons/calendar-minus-2)
   static const IconData calendarMinus2 = IconData(
-    58809,
+    58805,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2620,7 +2620,7 @@ class LucideIcons {
   ///
   /// [View "calendar-plus-2" on lucide.dev](https://lucide.dev/icons/calendar-plus-2)
   static const IconData calendarPlus2 = IconData(
-    58810,
+    58806,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2660,7 +2660,7 @@ class LucideIcons {
   ///
   /// [View "calendar-sync" on lucide.dev](https://lucide.dev/icons/calendar-sync)
   static const IconData calendarSync = IconData(
-    58938,
+    58934,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2720,7 +2720,7 @@ class LucideIcons {
   ///
   /// [View "candy-cane" on lucide.dev](https://lucide.dev/icons/candy-cane)
   static const IconData candyCane = IconData(
-    58558,
+    58554,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2730,7 +2730,7 @@ class LucideIcons {
   ///
   /// [View "candy-off" on lucide.dev](https://lucide.dev/icons/candy-off)
   static const IconData candyOff = IconData(
-    58262,
+    58258,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2740,7 +2740,7 @@ class LucideIcons {
   ///
   /// [View "candy" on lucide.dev](https://lucide.dev/icons/candy)
   static const IconData candy = IconData(
-    58261,
+    58257,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2750,7 +2750,7 @@ class LucideIcons {
   ///
   /// [View "cannabis" on lucide.dev](https://lucide.dev/icons/cannabis)
   static const IconData cannabis = IconData(
-    58840,
+    58836,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2760,7 +2760,7 @@ class LucideIcons {
   ///
   /// [View "captions-off" on lucide.dev](https://lucide.dev/icons/captions-off)
   static const IconData captionsOff = IconData(
-    58821,
+    58817,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2770,7 +2770,7 @@ class LucideIcons {
   ///
   /// [View "captions" on lucide.dev](https://lucide.dev/icons/captions)
   static const IconData captions = IconData(
-    58280,
+    58276,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2780,7 +2780,7 @@ class LucideIcons {
   ///
   /// [View "car-front" on lucide.dev](https://lucide.dev/icons/car-front)
   static const IconData carFront = IconData(
-    58625,
+    58621,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2790,7 +2790,7 @@ class LucideIcons {
   ///
   /// [View "car-taxi-front" on lucide.dev](https://lucide.dev/icons/car-taxi-front)
   static const IconData carTaxiFront = IconData(
-    58626,
+    58622,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2810,7 +2810,7 @@ class LucideIcons {
   ///
   /// [View "caravan" on lucide.dev](https://lucide.dev/icons/caravan)
   static const IconData caravan = IconData(
-    58685,
+    58681,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2820,7 +2820,7 @@ class LucideIcons {
   ///
   /// [View "card-sim" on lucide.dev](https://lucide.dev/icons/card-sim)
   static const IconData cardSim = IconData(
-    58997,
+    58993,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2840,7 +2840,7 @@ class LucideIcons {
   ///
   /// [View "case-lower" on lucide.dev](https://lucide.dev/icons/case-lower)
   static const IconData caseLower = IconData(
-    58332,
+    58328,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2850,7 +2850,7 @@ class LucideIcons {
   ///
   /// [View "case-sensitive" on lucide.dev](https://lucide.dev/icons/case-sensitive)
   static const IconData caseSensitive = IconData(
-    58333,
+    58329,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2860,7 +2860,7 @@ class LucideIcons {
   ///
   /// [View "case-upper" on lucide.dev](https://lucide.dev/icons/case-upper)
   static const IconData caseUpper = IconData(
-    58334,
+    58330,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2870,7 +2870,7 @@ class LucideIcons {
   ///
   /// [View "cassette-tape" on lucide.dev](https://lucide.dev/icons/cassette-tape)
   static const IconData cassetteTape = IconData(
-    58574,
+    58570,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2890,7 +2890,7 @@ class LucideIcons {
   ///
   /// [View "castle" on lucide.dev](https://lucide.dev/icons/castle)
   static const IconData castle = IconData(
-    58340,
+    58336,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2900,7 +2900,7 @@ class LucideIcons {
   ///
   /// [View "cat" on lucide.dev](https://lucide.dev/icons/cat)
   static const IconData cat = IconData(
-    58256,
+    58252,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2910,7 +2910,7 @@ class LucideIcons {
   ///
   /// [View "cctv" on lucide.dev](https://lucide.dev/icons/cctv)
   static const IconData cctv = IconData(
-    58753,
+    58749,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2920,7 +2920,7 @@ class LucideIcons {
   ///
   /// [View "chart-area" on lucide.dev](https://lucide.dev/icons/chart-area)
   static const IconData chartArea = IconData(
-    58583,
+    58579,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2930,7 +2930,7 @@ class LucideIcons {
   ///
   /// [View "chart-bar-big" on lucide.dev](https://lucide.dev/icons/chart-bar-big)
   static const IconData chartBarBig = IconData(
-    58539,
+    58535,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2940,7 +2940,7 @@ class LucideIcons {
   ///
   /// [View "chart-bar-decreasing" on lucide.dev](https://lucide.dev/icons/chart-bar-decreasing)
   static const IconData chartBarDecreasing = IconData(
-    58891,
+    58887,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2950,7 +2950,7 @@ class LucideIcons {
   ///
   /// [View "chart-bar-increasing" on lucide.dev](https://lucide.dev/icons/chart-bar-increasing)
   static const IconData chartBarIncreasing = IconData(
-    58892,
+    58888,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2960,7 +2960,7 @@ class LucideIcons {
   ///
   /// [View "chart-bar-stacked" on lucide.dev](https://lucide.dev/icons/chart-bar-stacked)
   static const IconData chartBarStacked = IconData(
-    58893,
+    58889,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2980,7 +2980,7 @@ class LucideIcons {
   ///
   /// [View "chart-candlestick" on lucide.dev](https://lucide.dev/icons/chart-candlestick)
   static const IconData chartCandlestick = IconData(
-    58540,
+    58536,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -2990,7 +2990,7 @@ class LucideIcons {
   ///
   /// [View "chart-column-big" on lucide.dev](https://lucide.dev/icons/chart-column-big)
   static const IconData chartColumnBig = IconData(
-    58541,
+    58537,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3020,7 +3020,7 @@ class LucideIcons {
   ///
   /// [View "chart-column-stacked" on lucide.dev](https://lucide.dev/icons/chart-column-stacked)
   static const IconData chartColumnStacked = IconData(
-    58894,
+    58890,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3040,7 +3040,7 @@ class LucideIcons {
   ///
   /// [View "chart-gantt" on lucide.dev](https://lucide.dev/icons/chart-gantt)
   static const IconData chartGantt = IconData(
-    58920,
+    58916,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3060,7 +3060,7 @@ class LucideIcons {
   ///
   /// [View "chart-network" on lucide.dev](https://lucide.dev/icons/chart-network)
   static const IconData chartNetwork = IconData(
-    58895,
+    58891,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3100,7 +3100,7 @@ class LucideIcons {
   ///
   /// [View "chart-no-axes-combined" on lucide.dev](https://lucide.dev/icons/chart-no-axes-combined)
   static const IconData chartNoAxesCombined = IconData(
-    58896,
+    58892,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3110,7 +3110,7 @@ class LucideIcons {
   ///
   /// [View "chart-no-axes-gantt" on lucide.dev](https://lucide.dev/icons/chart-no-axes-gantt)
   static const IconData chartNoAxesGantt = IconData(
-    58568,
+    58564,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3130,7 +3130,7 @@ class LucideIcons {
   ///
   /// [View "chart-scatter" on lucide.dev](https://lucide.dev/icons/chart-scatter)
   static const IconData chartScatter = IconData(
-    58510,
+    58506,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3140,7 +3140,7 @@ class LucideIcons {
   ///
   /// [View "chart-spline" on lucide.dev](https://lucide.dev/icons/chart-spline)
   static const IconData chartSpline = IconData(
-    58897,
+    58893,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3150,7 +3150,7 @@ class LucideIcons {
   ///
   /// [View "check-check" on lucide.dev](https://lucide.dev/icons/check-check)
   static const IconData checkCheck = IconData(
-    58258,
+    58254,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3160,7 +3160,7 @@ class LucideIcons {
   ///
   /// [View "check-line" on lucide.dev](https://lucide.dev/icons/check-line)
   static const IconData checkLine = IconData(
-    58991,
+    58987,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3190,7 +3190,7 @@ class LucideIcons {
   ///
   /// [View "cherry" on lucide.dev](https://lucide.dev/icons/cherry)
   static const IconData cherry = IconData(
-    58196,
+    58192,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3280,7 +3280,7 @@ class LucideIcons {
   ///
   /// [View "chevrons-left-right-ellipsis" on lucide.dev](https://lucide.dev/icons/chevrons-left-right-ellipsis)
   static const IconData chevronsLeftRightEllipsis = IconData(
-    58915,
+    58911,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3360,7 +3360,7 @@ class LucideIcons {
   ///
   /// [View "church" on lucide.dev](https://lucide.dev/icons/church)
   static const IconData church = IconData(
-    58341,
+    58337,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3420,7 +3420,7 @@ class LucideIcons {
   ///
   /// [View "circle-arrow-out-down-left" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-down-left)
   static const IconData circleArrowOutDownLeft = IconData(
-    58363,
+    58359,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3430,7 +3430,7 @@ class LucideIcons {
   ///
   /// [View "circle-arrow-out-down-right" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-down-right)
   static const IconData circleArrowOutDownRight = IconData(
-    58364,
+    58360,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3440,7 +3440,7 @@ class LucideIcons {
   ///
   /// [View "circle-arrow-out-up-left" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-up-left)
   static const IconData circleArrowOutUpLeft = IconData(
-    58365,
+    58361,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3450,7 +3450,7 @@ class LucideIcons {
   ///
   /// [View "circle-arrow-out-up-right" on lucide.dev](https://lucide.dev/icons/circle-arrow-out-up-right)
   static const IconData circleArrowOutUpRight = IconData(
-    58366,
+    58362,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3500,7 +3500,7 @@ class LucideIcons {
   ///
   /// [View "circle-chevron-down" on lucide.dev](https://lucide.dev/icons/circle-chevron-down)
   static const IconData circleChevronDown = IconData(
-    58593,
+    58589,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3510,7 +3510,7 @@ class LucideIcons {
   ///
   /// [View "circle-chevron-left" on lucide.dev](https://lucide.dev/icons/circle-chevron-left)
   static const IconData circleChevronLeft = IconData(
-    58594,
+    58590,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3520,7 +3520,7 @@ class LucideIcons {
   ///
   /// [View "circle-chevron-right" on lucide.dev](https://lucide.dev/icons/circle-chevron-right)
   static const IconData circleChevronRight = IconData(
-    58595,
+    58591,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3530,7 +3530,7 @@ class LucideIcons {
   ///
   /// [View "circle-chevron-up" on lucide.dev](https://lucide.dev/icons/circle-chevron-up)
   static const IconData circleChevronUp = IconData(
-    58596,
+    58592,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3540,7 +3540,7 @@ class LucideIcons {
   ///
   /// [View "circle-dashed" on lucide.dev](https://lucide.dev/icons/circle-dashed)
   static const IconData circleDashed = IconData(
-    58548,
+    58544,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3560,7 +3560,7 @@ class LucideIcons {
   ///
   /// [View "circle-dollar-sign" on lucide.dev](https://lucide.dev/icons/circle-dollar-sign)
   static const IconData circleDollarSign = IconData(
-    58497,
+    58493,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3570,7 +3570,7 @@ class LucideIcons {
   ///
   /// [View "circle-dot-dashed" on lucide.dev](https://lucide.dev/icons/circle-dot-dashed)
   static const IconData circleDotDashed = IconData(
-    58549,
+    58545,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3580,7 +3580,7 @@ class LucideIcons {
   ///
   /// [View "circle-dot" on lucide.dev](https://lucide.dev/icons/circle-dot)
   static const IconData circleDot = IconData(
-    58185,
+    58181,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3590,7 +3590,7 @@ class LucideIcons {
   ///
   /// [View "circle-ellipsis" on lucide.dev](https://lucide.dev/icons/circle-ellipsis)
   static const IconData circleEllipsis = IconData(
-    58186,
+    58182,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3600,7 +3600,7 @@ class LucideIcons {
   ///
   /// [View "circle-equal" on lucide.dev](https://lucide.dev/icons/circle-equal)
   static const IconData circleEqual = IconData(
-    58372,
+    58368,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3610,7 +3610,7 @@ class LucideIcons {
   ///
   /// [View "circle-fading-arrow-up" on lucide.dev](https://lucide.dev/icons/circle-fading-arrow-up)
   static const IconData circleFadingArrowUp = IconData(
-    58908,
+    58904,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3620,7 +3620,7 @@ class LucideIcons {
   ///
   /// [View "circle-fading-plus" on lucide.dev](https://lucide.dev/icons/circle-fading-plus)
   static const IconData circleFadingPlus = IconData(
-    58816,
+    58812,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3630,7 +3630,7 @@ class LucideIcons {
   ///
   /// [View "circle-gauge" on lucide.dev](https://lucide.dev/icons/circle-gauge)
   static const IconData circleGauge = IconData(
-    58597,
+    58593,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3650,7 +3650,7 @@ class LucideIcons {
   ///
   /// [View "circle-off" on lucide.dev](https://lucide.dev/icons/circle-off)
   static const IconData circleOff = IconData(
-    58373,
+    58369,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3660,7 +3660,7 @@ class LucideIcons {
   ///
   /// [View "circle-parking-off" on lucide.dev](https://lucide.dev/icons/circle-parking-off)
   static const IconData circleParkingOff = IconData(
-    58318,
+    58314,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3670,7 +3670,7 @@ class LucideIcons {
   ///
   /// [View "circle-parking" on lucide.dev](https://lucide.dev/icons/circle-parking)
   static const IconData circleParking = IconData(
-    58317,
+    58313,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3690,7 +3690,7 @@ class LucideIcons {
   ///
   /// [View "circle-percent" on lucide.dev](https://lucide.dev/icons/circle-percent)
   static const IconData circlePercent = IconData(
-    58654,
+    58650,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3720,7 +3720,7 @@ class LucideIcons {
   ///
   /// [View "circle-pound-sterling" on lucide.dev](https://lucide.dev/icons/circle-pound-sterling)
   static const IconData circlePoundSterling = IconData(
-    58993,
+    58989,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3730,7 +3730,7 @@ class LucideIcons {
   ///
   /// [View "circle-power" on lucide.dev](https://lucide.dev/icons/circle-power)
   static const IconData circlePower = IconData(
-    58708,
+    58704,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3760,7 +3760,7 @@ class LucideIcons {
   ///
   /// [View "circle-slash" on lucide.dev](https://lucide.dev/icons/circle-slash)
   static const IconData circleSlash = IconData(
-    58374,
+    58370,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3770,7 +3770,7 @@ class LucideIcons {
   ///
   /// [View "circle-small" on lucide.dev](https://lucide.dev/icons/circle-small)
   static const IconData circleSmall = IconData(
-    58948,
+    58944,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3780,7 +3780,7 @@ class LucideIcons {
   ///
   /// [View "circle-star" on lucide.dev](https://lucide.dev/icons/circle-star)
   static const IconData circleStar = IconData(
-    59025,
+    59021,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3800,7 +3800,7 @@ class LucideIcons {
   ///
   /// [View "circle-user-round" on lucide.dev](https://lucide.dev/icons/circle-user-round)
   static const IconData circleUserRound = IconData(
-    58470,
+    58466,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3810,7 +3810,7 @@ class LucideIcons {
   ///
   /// [View "circle-user" on lucide.dev](https://lucide.dev/icons/circle-user)
   static const IconData circleUser = IconData(
-    58469,
+    58465,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3840,7 +3840,7 @@ class LucideIcons {
   ///
   /// [View "circuit-board" on lucide.dev](https://lucide.dev/icons/circuit-board)
   static const IconData circuitBoard = IconData(
-    58375,
+    58371,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3850,7 +3850,7 @@ class LucideIcons {
   ///
   /// [View "citrus" on lucide.dev](https://lucide.dev/icons/citrus)
   static const IconData citrus = IconData(
-    58233,
+    58229,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3880,7 +3880,7 @@ class LucideIcons {
   ///
   /// [View "clipboard-clock" on lucide.dev](https://lucide.dev/icons/clipboard-clock)
   static const IconData clipboardClock = IconData(
-    59020,
+    59016,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3910,7 +3910,7 @@ class LucideIcons {
   ///
   /// [View "clipboard-minus" on lucide.dev](https://lucide.dev/icons/clipboard-minus)
   static const IconData clipboardMinus = IconData(
-    58818,
+    58814,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3920,7 +3920,7 @@ class LucideIcons {
   ///
   /// [View "clipboard-paste" on lucide.dev](https://lucide.dev/icons/clipboard-paste)
   static const IconData clipboardPaste = IconData(
-    58348,
+    58344,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -3950,7 +3950,7 @@ class LucideIcons {
   ///
   /// [View "clipboard-plus" on lucide.dev](https://lucide.dev/icons/clipboard-plus)
   static const IconData clipboardPlus = IconData(
-    58819,
+    58815,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4110,7 +4110,7 @@ class LucideIcons {
   ///
   /// [View "clock-alert" on lucide.dev](https://lucide.dev/icons/clock-alert)
   static const IconData clockAlert = IconData(
-    58926,
+    58922,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4120,7 +4120,7 @@ class LucideIcons {
   ///
   /// [View "clock-arrow-down" on lucide.dev](https://lucide.dev/icons/clock-arrow-down)
   static const IconData clockArrowDown = IconData(
-    58884,
+    58880,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4130,7 +4130,17 @@ class LucideIcons {
   ///
   /// [View "clock-arrow-up" on lucide.dev](https://lucide.dev/icons/clock-arrow-up)
   static const IconData clockArrowUp = IconData(
-    58885,
+    58881,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## clock-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/clock-check.svg" width="100">
+  ///
+  /// [View "clock-check" on lucide.dev](https://lucide.dev/icons/clock-check)
+  static const IconData clockCheck = IconData(
+    59038,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4140,7 +4150,7 @@ class LucideIcons {
   ///
   /// [View "clock-fading" on lucide.dev](https://lucide.dev/icons/clock-fading)
   static const IconData clockFading = IconData(
-    58958,
+    58954,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4150,7 +4160,7 @@ class LucideIcons {
   ///
   /// [View "clock-plus" on lucide.dev](https://lucide.dev/icons/clock-plus)
   static const IconData clockPlus = IconData(
-    58987,
+    58983,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4170,7 +4180,7 @@ class LucideIcons {
   ///
   /// [View "closed-caption" on lucide.dev](https://lucide.dev/icons/closed-caption)
   static const IconData closedCaption = IconData(
-    59022,
+    59018,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4180,7 +4190,7 @@ class LucideIcons {
   ///
   /// [View "cloud-alert" on lucide.dev](https://lucide.dev/icons/cloud-alert)
   static const IconData cloudAlert = IconData(
-    58935,
+    58931,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4190,7 +4200,7 @@ class LucideIcons {
   ///
   /// [View "cloud-check" on lucide.dev](https://lucide.dev/icons/cloud-check)
   static const IconData cloudCheck = IconData(
-    58994,
+    58990,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4380,7 +4390,7 @@ class LucideIcons {
   ///
   /// [View "club" on lucide.dev](https://lucide.dev/icons/club)
   static const IconData club = IconData(
-    58522,
+    58518,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4470,7 +4480,7 @@ class LucideIcons {
   ///
   /// [View "columns-3-cog" on lucide.dev](https://lucide.dev/icons/columns-3-cog)
   static const IconData columns3Cog = IconData(
-    58981,
+    58977,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4490,7 +4500,7 @@ class LucideIcons {
   ///
   /// [View "columns-4" on lucide.dev](https://lucide.dev/icons/columns-4)
   static const IconData columns4 = IconData(
-    58765,
+    58761,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4500,7 +4510,7 @@ class LucideIcons {
   ///
   /// [View "combine" on lucide.dev](https://lucide.dev/icons/combine)
   static const IconData combine = IconData(
-    58448,
+    58444,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4540,7 +4550,7 @@ class LucideIcons {
   ///
   /// [View "computer" on lucide.dev](https://lucide.dev/icons/computer)
   static const IconData computer = IconData(
-    58600,
+    58596,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4550,7 +4560,7 @@ class LucideIcons {
   ///
   /// [View "concierge-bell" on lucide.dev](https://lucide.dev/icons/concierge-bell)
   static const IconData conciergeBell = IconData(
-    58236,
+    58232,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4560,7 +4570,7 @@ class LucideIcons {
   ///
   /// [View "cone" on lucide.dev](https://lucide.dev/icons/cone)
   static const IconData cone = IconData(
-    58663,
+    58659,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4570,7 +4580,7 @@ class LucideIcons {
   ///
   /// [View "construction" on lucide.dev](https://lucide.dev/icons/construction)
   static const IconData construction = IconData(
-    58296,
+    58292,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4580,7 +4590,7 @@ class LucideIcons {
   ///
   /// [View "contact-round" on lucide.dev](https://lucide.dev/icons/contact-round)
   static const IconData contactRound = IconData(
-    58471,
+    58467,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4600,7 +4610,7 @@ class LucideIcons {
   ///
   /// [View "container" on lucide.dev](https://lucide.dev/icons/container)
   static const IconData container = IconData(
-    58585,
+    58581,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4630,7 +4640,7 @@ class LucideIcons {
   ///
   /// [View "cooking-pot" on lucide.dev](https://lucide.dev/icons/cooking-pot)
   static const IconData cookingPot = IconData(
-    58760,
+    58756,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4640,7 +4650,7 @@ class LucideIcons {
   ///
   /// [View "copy-check" on lucide.dev](https://lucide.dev/icons/copy-check)
   static const IconData copyCheck = IconData(
-    58367,
+    58363,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4650,7 +4660,7 @@ class LucideIcons {
   ///
   /// [View "copy-minus" on lucide.dev](https://lucide.dev/icons/copy-minus)
   static const IconData copyMinus = IconData(
-    58368,
+    58364,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4660,7 +4670,7 @@ class LucideIcons {
   ///
   /// [View "copy-plus" on lucide.dev](https://lucide.dev/icons/copy-plus)
   static const IconData copyPlus = IconData(
-    58369,
+    58365,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4670,7 +4680,7 @@ class LucideIcons {
   ///
   /// [View "copy-slash" on lucide.dev](https://lucide.dev/icons/copy-slash)
   static const IconData copySlash = IconData(
-    58370,
+    58366,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4680,7 +4690,7 @@ class LucideIcons {
   ///
   /// [View "copy-x" on lucide.dev](https://lucide.dev/icons/copy-x)
   static const IconData copyX = IconData(
-    58371,
+    58367,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4810,7 +4820,7 @@ class LucideIcons {
   ///
   /// [View "creative-commons" on lucide.dev](https://lucide.dev/icons/creative-commons)
   static const IconData creativeCommons = IconData(
-    58294,
+    58290,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4880,7 +4890,7 @@ class LucideIcons {
   ///
   /// [View "cuboid" on lucide.dev](https://lucide.dev/icons/cuboid)
   static const IconData cuboid = IconData(
-    58664,
+    58660,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4910,7 +4920,7 @@ class LucideIcons {
   ///
   /// [View "cylinder" on lucide.dev](https://lucide.dev/icons/cylinder)
   static const IconData cylinder = IconData(
-    58665,
+    58661,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4920,7 +4930,7 @@ class LucideIcons {
   ///
   /// [View "dam" on lucide.dev](https://lucide.dev/icons/dam)
   static const IconData dam = IconData(
-    58890,
+    58886,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4930,7 +4940,7 @@ class LucideIcons {
   ///
   /// [View "database-backup" on lucide.dev](https://lucide.dev/icons/database-backup)
   static const IconData databaseBackup = IconData(
-    58287,
+    58283,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4940,7 +4950,7 @@ class LucideIcons {
   ///
   /// [View "database-zap" on lucide.dev](https://lucide.dev/icons/database-zap)
   static const IconData databaseZap = IconData(
-    58639,
+    58635,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4960,7 +4970,7 @@ class LucideIcons {
   ///
   /// [View "decimals-arrow-left" on lucide.dev](https://lucide.dev/icons/decimals-arrow-left)
   static const IconData decimalsArrowLeft = IconData(
-    58976,
+    58972,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4970,7 +4980,7 @@ class LucideIcons {
   ///
   /// [View "decimals-arrow-right" on lucide.dev](https://lucide.dev/icons/decimals-arrow-right)
   static const IconData decimalsArrowRight = IconData(
-    58977,
+    58973,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4990,7 +5000,7 @@ class LucideIcons {
   ///
   /// [View "dessert" on lucide.dev](https://lucide.dev/icons/dessert)
   static const IconData dessert = IconData(
-    58559,
+    58555,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5000,7 +5010,7 @@ class LucideIcons {
   ///
   /// [View "diameter" on lucide.dev](https://lucide.dev/icons/diameter)
   static const IconData diameter = IconData(
-    58666,
+    58662,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5010,7 +5020,7 @@ class LucideIcons {
   ///
   /// [View "diamond-minus" on lucide.dev](https://lucide.dev/icons/diamond-minus)
   static const IconData diamondMinus = IconData(
-    58853,
+    58849,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5020,7 +5030,7 @@ class LucideIcons {
   ///
   /// [View "diamond-percent" on lucide.dev](https://lucide.dev/icons/diamond-percent)
   static const IconData diamondPercent = IconData(
-    58655,
+    58651,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5030,7 +5040,7 @@ class LucideIcons {
   ///
   /// [View "diamond-plus" on lucide.dev](https://lucide.dev/icons/diamond-plus)
   static const IconData diamondPlus = IconData(
-    58854,
+    58850,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5130,7 +5140,7 @@ class LucideIcons {
   ///
   /// [View "disc-2" on lucide.dev](https://lucide.dev/icons/disc-2)
   static const IconData disc2 = IconData(
-    58362,
+    58358,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5140,7 +5150,7 @@ class LucideIcons {
   ///
   /// [View "disc-3" on lucide.dev](https://lucide.dev/icons/disc-3)
   static const IconData disc3 = IconData(
-    58520,
+    58516,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5150,7 +5160,7 @@ class LucideIcons {
   ///
   /// [View "disc-album" on lucide.dev](https://lucide.dev/icons/disc-album)
   static const IconData discAlbum = IconData(
-    58720,
+    58716,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5180,7 +5190,7 @@ class LucideIcons {
   ///
   /// [View "dna-off" on lucide.dev](https://lucide.dev/icons/dna-off)
   static const IconData dnaOff = IconData(
-    58264,
+    58260,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5190,7 +5200,7 @@ class LucideIcons {
   ///
   /// [View "dna" on lucide.dev](https://lucide.dev/icons/dna)
   static const IconData dna = IconData(
-    58263,
+    58259,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5200,7 +5210,7 @@ class LucideIcons {
   ///
   /// [View "dock" on lucide.dev](https://lucide.dev/icons/dock)
   static const IconData dock = IconData(
-    58839,
+    58835,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5210,7 +5220,7 @@ class LucideIcons {
   ///
   /// [View "dog" on lucide.dev](https://lucide.dev/icons/dog)
   static const IconData dog = IconData(
-    58257,
+    58253,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5230,7 +5240,7 @@ class LucideIcons {
   ///
   /// [View "donut" on lucide.dev](https://lucide.dev/icons/donut)
   static const IconData donut = IconData(
-    58560,
+    58556,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5240,7 +5250,7 @@ class LucideIcons {
   ///
   /// [View "door-closed-locked" on lucide.dev](https://lucide.dev/icons/door-closed-locked)
   static const IconData doorClosedLocked = IconData(
-    58984,
+    58980,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5250,7 +5260,7 @@ class LucideIcons {
   ///
   /// [View "door-closed" on lucide.dev](https://lucide.dev/icons/door-closed)
   static const IconData doorClosed = IconData(
-    58329,
+    58325,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5260,7 +5270,7 @@ class LucideIcons {
   ///
   /// [View "door-open" on lucide.dev](https://lucide.dev/icons/door-open)
   static const IconData doorOpen = IconData(
-    58330,
+    58326,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5270,7 +5280,7 @@ class LucideIcons {
   ///
   /// [View "dot" on lucide.dev](https://lucide.dev/icons/dot)
   static const IconData dot = IconData(
-    58451,
+    58447,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5290,7 +5300,7 @@ class LucideIcons {
   ///
   /// [View "drafting-compass" on lucide.dev](https://lucide.dev/icons/drafting-compass)
   static const IconData draftingCompass = IconData(
-    58667,
+    58663,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5300,7 +5310,7 @@ class LucideIcons {
   ///
   /// [View "drama" on lucide.dev](https://lucide.dev/icons/drama)
   static const IconData drama = IconData(
-    58661,
+    58657,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5320,7 +5330,7 @@ class LucideIcons {
   ///
   /// [View "drill" on lucide.dev](https://lucide.dev/icons/drill)
   static const IconData drill = IconData(
-    58769,
+    58765,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5330,7 +5340,7 @@ class LucideIcons {
   ///
   /// [View "drone" on lucide.dev](https://lucide.dev/icons/drone)
   static const IconData drone = IconData(
-    59002,
+    58998,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5340,7 +5350,7 @@ class LucideIcons {
   ///
   /// [View "droplet-off" on lucide.dev](https://lucide.dev/icons/droplet-off)
   static const IconData dropletOff = IconData(
-    58940,
+    58936,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5370,7 +5380,7 @@ class LucideIcons {
   ///
   /// [View "drum" on lucide.dev](https://lucide.dev/icons/drum)
   static const IconData drum = IconData(
-    58721,
+    58717,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5390,7 +5400,7 @@ class LucideIcons {
   ///
   /// [View "dumbbell" on lucide.dev](https://lucide.dev/icons/dumbbell)
   static const IconData dumbbell = IconData(
-    58277,
+    58273,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5400,7 +5410,7 @@ class LucideIcons {
   ///
   /// [View "ear-off" on lucide.dev](https://lucide.dev/icons/ear-off)
   static const IconData earOff = IconData(
-    58247,
+    58243,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5410,7 +5420,7 @@ class LucideIcons {
   ///
   /// [View "ear" on lucide.dev](https://lucide.dev/icons/ear)
   static const IconData ear = IconData(
-    58246,
+    58242,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5420,7 +5430,7 @@ class LucideIcons {
   ///
   /// [View "earth-lock" on lucide.dev](https://lucide.dev/icons/earth-lock)
   static const IconData earthLock = IconData(
-    58832,
+    58828,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5440,7 +5450,7 @@ class LucideIcons {
   ///
   /// [View "eclipse" on lucide.dev](https://lucide.dev/icons/eclipse)
   static const IconData eclipse = IconData(
-    58785,
+    58781,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5450,7 +5460,7 @@ class LucideIcons {
   ///
   /// [View "egg-fried" on lucide.dev](https://lucide.dev/icons/egg-fried)
   static const IconData eggFried = IconData(
-    58197,
+    58193,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5460,7 +5470,7 @@ class LucideIcons {
   ///
   /// [View "egg-off" on lucide.dev](https://lucide.dev/icons/egg-off)
   static const IconData eggOff = IconData(
-    58265,
+    58261,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5500,7 +5510,7 @@ class LucideIcons {
   ///
   /// [View "equal-approximately" on lucide.dev](https://lucide.dev/icons/equal-approximately)
   static const IconData equalApproximately = IconData(
-    58936,
+    58932,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5540,7 +5550,7 @@ class LucideIcons {
   ///
   /// [View "ethernet-port" on lucide.dev](https://lucide.dev/icons/ethernet-port)
   static const IconData ethernetPort = IconData(
-    58916,
+    58912,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5560,7 +5570,7 @@ class LucideIcons {
   ///
   /// [View "ev-charger" on lucide.dev](https://lucide.dev/icons/ev-charger)
   static const IconData evCharger = IconData(
-    59035,
+    59031,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5590,7 +5600,7 @@ class LucideIcons {
   ///
   /// [View "eye-closed" on lucide.dev](https://lucide.dev/icons/eye-closed)
   static const IconData eyeClosed = IconData(
-    58930,
+    58926,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5640,7 +5650,7 @@ class LucideIcons {
   ///
   /// [View "fan" on lucide.dev](https://lucide.dev/icons/fan)
   static const IconData fan = IconData(
-    58237,
+    58233,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5670,7 +5680,7 @@ class LucideIcons {
   ///
   /// [View "fence" on lucide.dev](https://lucide.dev/icons/fence)
   static const IconData fence = IconData(
-    58758,
+    58754,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5680,7 +5690,7 @@ class LucideIcons {
   ///
   /// [View "ferris-wheel" on lucide.dev](https://lucide.dev/icons/ferris-wheel)
   static const IconData ferrisWheel = IconData(
-    58499,
+    58495,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5705,42 +5715,12 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-audio-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-audio-2.svg" width="100">
-  ///
-  /// [View "file-audio-2" on lucide.dev](https://lucide.dev/icons/file-audio-2)
-  static const IconData fileAudio2 = IconData(
-    58127,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-audio
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-audio.svg" width="100">
-  ///
-  /// [View "file-audio" on lucide.dev](https://lucide.dev/icons/file-audio)
-  static const IconData fileAudio = IconData(
-    58126,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
   /// ## file-axis-3d
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-axis-3d.svg" width="100">
   ///
   /// [View "file-axis-3d" on lucide.dev](https://lucide.dev/icons/file-axis-3d)
   static const IconData fileAxis3d = IconData(
-    58128,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-badge-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-badge-2.svg" width="100">
-  ///
-  /// [View "file-badge-2" on lucide.dev](https://lucide.dev/icons/file-badge-2)
-  static const IconData fileBadge2 = IconData(
-    58130,
+    58126,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5750,7 +5730,7 @@ class LucideIcons {
   ///
   /// [View "file-badge" on lucide.dev](https://lucide.dev/icons/file-badge)
   static const IconData fileBadge = IconData(
-    58129,
+    58127,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5760,7 +5740,27 @@ class LucideIcons {
   ///
   /// [View "file-box" on lucide.dev](https://lucide.dev/icons/file-box)
   static const IconData fileBox = IconData(
-    58131,
+    58128,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## file-braces-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-braces-corner.svg" width="100">
+  ///
+  /// [View "file-braces-corner" on lucide.dev](https://lucide.dev/icons/file-braces-corner)
+  static const IconData fileBracesCorner = IconData(
+    58220,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## file-braces
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-braces.svg" width="100">
+  ///
+  /// [View "file-braces" on lucide.dev](https://lucide.dev/icons/file-braces)
+  static const IconData fileBraces = IconData(
+    58219,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5770,7 +5770,7 @@ class LucideIcons {
   ///
   /// [View "file-chart-column-increasing" on lucide.dev](https://lucide.dev/icons/file-chart-column-increasing)
   static const IconData fileChartColumnIncreasing = IconData(
-    58133,
+    58130,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5780,7 +5780,7 @@ class LucideIcons {
   ///
   /// [View "file-chart-column" on lucide.dev](https://lucide.dev/icons/file-chart-column)
   static const IconData fileChartColumn = IconData(
-    58132,
+    58129,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5790,7 +5790,7 @@ class LucideIcons {
   ///
   /// [View "file-chart-line" on lucide.dev](https://lucide.dev/icons/file-chart-line)
   static const IconData fileChartLine = IconData(
-    58134,
+    58131,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5800,16 +5800,16 @@ class LucideIcons {
   ///
   /// [View "file-chart-pie" on lucide.dev](https://lucide.dev/icons/file-chart-pie)
   static const IconData fileChartPie = IconData(
-    58135,
+    58132,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-check-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-check-2.svg" width="100">
+  /// ## file-check-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-check-corner.svg" width="100">
   ///
-  /// [View "file-check-2" on lucide.dev](https://lucide.dev/icons/file-check-2)
-  static const IconData fileCheck2 = IconData(
+  /// [View "file-check-corner" on lucide.dev](https://lucide.dev/icons/file-check-corner)
+  static const IconData fileCheckCorner = IconData(
     57538,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -5830,17 +5830,17 @@ class LucideIcons {
   ///
   /// [View "file-clock" on lucide.dev](https://lucide.dev/icons/file-clock)
   static const IconData fileClock = IconData(
-    58136,
+    58133,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-code-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-code-2.svg" width="100">
+  /// ## file-code-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-code-corner.svg" width="100">
   ///
-  /// [View "file-code-2" on lucide.dev](https://lucide.dev/icons/file-code-2)
-  static const IconData fileCode2 = IconData(
-    58466,
+  /// [View "file-code-corner" on lucide.dev](https://lucide.dev/icons/file-code-corner)
+  static const IconData fileCodeCorner = IconData(
+    58462,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5860,7 +5860,7 @@ class LucideIcons {
   ///
   /// [View "file-cog" on lucide.dev](https://lucide.dev/icons/file-cog)
   static const IconData fileCog = IconData(
-    58137,
+    58134,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5870,7 +5870,7 @@ class LucideIcons {
   ///
   /// [View "file-diff" on lucide.dev](https://lucide.dev/icons/file-diff)
   static const IconData fileDiff = IconData(
-    58138,
+    58135,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5890,7 +5890,27 @@ class LucideIcons {
   ///
   /// [View "file-down" on lucide.dev](https://lucide.dev/icons/file-down)
   static const IconData fileDown = IconData(
-    58139,
+    58136,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## file-exclamation-point
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-exclamation-point.svg" width="100">
+  ///
+  /// [View "file-exclamation-point" on lucide.dev](https://lucide.dev/icons/file-exclamation-point)
+  static const IconData fileExclamationPoint = IconData(
+    58137,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## file-headphone
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-headphone.svg" width="100">
+  ///
+  /// [View "file-headphone" on lucide.dev](https://lucide.dev/icons/file-headphone)
+  static const IconData fileHeadphone = IconData(
+    58138,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5900,7 +5920,7 @@ class LucideIcons {
   ///
   /// [View "file-heart" on lucide.dev](https://lucide.dev/icons/file-heart)
   static const IconData fileHeart = IconData(
-    58140,
+    58139,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5910,7 +5930,7 @@ class LucideIcons {
   ///
   /// [View "file-image" on lucide.dev](https://lucide.dev/icons/file-image)
   static const IconData fileImage = IconData(
-    58141,
+    58140,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5925,52 +5945,12 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-json-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-json-2.svg" width="100">
-  ///
-  /// [View "file-json-2" on lucide.dev](https://lucide.dev/icons/file-json-2)
-  static const IconData fileJson2 = IconData(
-    58224,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-json
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-json.svg" width="100">
-  ///
-  /// [View "file-json" on lucide.dev](https://lucide.dev/icons/file-json)
-  static const IconData fileJson = IconData(
-    58223,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-key-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-key-2.svg" width="100">
-  ///
-  /// [View "file-key-2" on lucide.dev](https://lucide.dev/icons/file-key-2)
-  static const IconData fileKey2 = IconData(
-    58143,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
   /// ## file-key
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-key.svg" width="100">
   ///
   /// [View "file-key" on lucide.dev](https://lucide.dev/icons/file-key)
   static const IconData fileKey = IconData(
-    58142,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-lock-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-lock-2.svg" width="100">
-  ///
-  /// [View "file-lock-2" on lucide.dev](https://lucide.dev/icons/file-lock-2)
-  static const IconData fileLock2 = IconData(
-    58145,
+    58141,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -5980,16 +5960,16 @@ class LucideIcons {
   ///
   /// [View "file-lock" on lucide.dev](https://lucide.dev/icons/file-lock)
   static const IconData fileLock = IconData(
-    58144,
+    58142,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-minus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-minus-2.svg" width="100">
+  /// ## file-minus-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-minus-corner.svg" width="100">
   ///
-  /// [View "file-minus-2" on lucide.dev](https://lucide.dev/icons/file-minus-2)
-  static const IconData fileMinus2 = IconData(
+  /// [View "file-minus-corner" on lucide.dev](https://lucide.dev/icons/file-minus-corner)
+  static const IconData fileMinusCorner = IconData(
     57543,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -6010,7 +5990,7 @@ class LucideIcons {
   ///
   /// [View "file-music" on lucide.dev](https://lucide.dev/icons/file-music)
   static const IconData fileMusic = IconData(
-    58722,
+    58718,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6030,7 +6010,7 @@ class LucideIcons {
   ///
   /// [View "file-pen-line" on lucide.dev](https://lucide.dev/icons/file-pen-line)
   static const IconData filePenLine = IconData(
-    58147,
+    58144,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6040,7 +6020,7 @@ class LucideIcons {
   ///
   /// [View "file-pen" on lucide.dev](https://lucide.dev/icons/file-pen)
   static const IconData filePen = IconData(
-    58146,
+    58143,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6050,16 +6030,16 @@ class LucideIcons {
   ///
   /// [View "file-play" on lucide.dev](https://lucide.dev/icons/file-play)
   static const IconData filePlay = IconData(
-    58148,
+    58145,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-plus-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-plus-2.svg" width="100">
+  /// ## file-plus-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-plus-corner.svg" width="100">
   ///
-  /// [View "file-plus-2" on lucide.dev](https://lucide.dev/icons/file-plus-2)
-  static const IconData filePlus2 = IconData(
+  /// [View "file-plus-corner" on lucide.dev](https://lucide.dev/icons/file-plus-corner)
+  static const IconData filePlusCorner = IconData(
     57546,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -6080,7 +6060,7 @@ class LucideIcons {
   ///
   /// [View "file-question-mark" on lucide.dev](https://lucide.dev/icons/file-question-mark)
   static const IconData fileQuestionMark = IconData(
-    58149,
+    58146,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6090,17 +6070,17 @@ class LucideIcons {
   ///
   /// [View "file-scan" on lucide.dev](https://lucide.dev/icons/file-scan)
   static const IconData fileScan = IconData(
-    58150,
+    58147,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-search-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-search-2.svg" width="100">
+  /// ## file-search-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-search-corner.svg" width="100">
   ///
-  /// [View "file-search-2" on lucide.dev](https://lucide.dev/icons/file-search-2)
-  static const IconData fileSearch2 = IconData(
-    58151,
+  /// [View "file-search-corner" on lucide.dev](https://lucide.dev/icons/file-search-corner)
+  static const IconData fileSearchCorner = IconData(
+    58148,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6115,12 +6095,22 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## file-signal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-signal.svg" width="100">
+  ///
+  /// [View "file-signal" on lucide.dev](https://lucide.dev/icons/file-signal)
+  static const IconData fileSignal = IconData(
+    58149,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## file-sliders
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-sliders.svg" width="100">
   ///
   /// [View "file-sliders" on lucide.dev](https://lucide.dev/icons/file-sliders)
   static const IconData fileSliders = IconData(
-    58788,
+    58784,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6130,7 +6120,7 @@ class LucideIcons {
   ///
   /// [View "file-spreadsheet" on lucide.dev](https://lucide.dev/icons/file-spreadsheet)
   static const IconData fileSpreadsheet = IconData(
-    58152,
+    58150,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6140,7 +6130,7 @@ class LucideIcons {
   ///
   /// [View "file-stack" on lucide.dev](https://lucide.dev/icons/file-stack)
   static const IconData fileStack = IconData(
-    58533,
+    58529,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6150,7 +6140,7 @@ class LucideIcons {
   ///
   /// [View "file-symlink" on lucide.dev](https://lucide.dev/icons/file-symlink)
   static const IconData fileSymlink = IconData(
-    58153,
+    58151,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6160,7 +6150,7 @@ class LucideIcons {
   ///
   /// [View "file-terminal" on lucide.dev](https://lucide.dev/icons/file-terminal)
   static const IconData fileTerminal = IconData(
-    58154,
+    58152,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6175,12 +6165,12 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-type-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-type-2.svg" width="100">
+  /// ## file-type-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-type-corner.svg" width="100">
   ///
-  /// [View "file-type-2" on lucide.dev](https://lucide.dev/icons/file-type-2)
-  static const IconData fileType2 = IconData(
-    58225,
+  /// [View "file-type-corner" on lucide.dev](https://lucide.dev/icons/file-type-corner)
+  static const IconData fileTypeCorner = IconData(
+    58221,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6190,7 +6180,7 @@ class LucideIcons {
   ///
   /// [View "file-type" on lucide.dev](https://lucide.dev/icons/file-type)
   static const IconData fileType = IconData(
-    58155,
+    58153,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6200,7 +6190,7 @@ class LucideIcons {
   ///
   /// [View "file-up" on lucide.dev](https://lucide.dev/icons/file-up)
   static const IconData fileUp = IconData(
-    58156,
+    58154,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6210,7 +6200,7 @@ class LucideIcons {
   ///
   /// [View "file-user" on lucide.dev](https://lucide.dev/icons/file-user)
   static const IconData fileUser = IconData(
-    58929,
+    58925,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6220,17 +6210,7 @@ class LucideIcons {
   ///
   /// [View "file-video-camera" on lucide.dev](https://lucide.dev/icons/file-video-camera)
   static const IconData fileVideoCamera = IconData(
-    58157,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-volume-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-volume-2.svg" width="100">
-  ///
-  /// [View "file-volume-2" on lucide.dev](https://lucide.dev/icons/file-volume-2)
-  static const IconData fileVolume2 = IconData(
-    58159,
+    58155,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6240,26 +6220,16 @@ class LucideIcons {
   ///
   /// [View "file-volume" on lucide.dev](https://lucide.dev/icons/file-volume)
   static const IconData fileVolume = IconData(
-    58158,
+    58156,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## file-warning
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-warning.svg" width="100">
+  /// ## file-x-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-x-corner.svg" width="100">
   ///
-  /// [View "file-warning" on lucide.dev](https://lucide.dev/icons/file-warning)
-  static const IconData fileWarning = IconData(
-    58160,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## file-x-2
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/file-x-2.svg" width="100">
-  ///
-  /// [View "file-x-2" on lucide.dev](https://lucide.dev/icons/file-x-2)
-  static const IconData fileX2 = IconData(
+  /// [View "file-x-corner" on lucide.dev](https://lucide.dev/icons/file-x-corner)
+  static const IconData fileXCorner = IconData(
     57550,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -6320,7 +6290,7 @@ class LucideIcons {
   ///
   /// [View "fire-extinguisher" on lucide.dev](https://lucide.dev/icons/fire-extinguisher)
   static const IconData fireExtinguisher = IconData(
-    58754,
+    58750,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6330,7 +6300,7 @@ class LucideIcons {
   ///
   /// [View "fish-off" on lucide.dev](https://lucide.dev/icons/fish-off)
   static const IconData fishOff = IconData(
-    58292,
+    58288,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6340,7 +6310,7 @@ class LucideIcons {
   ///
   /// [View "fish-symbol" on lucide.dev](https://lucide.dev/icons/fish-symbol)
   static const IconData fishSymbol = IconData(
-    58616,
+    58612,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6350,7 +6320,7 @@ class LucideIcons {
   ///
   /// [View "fish" on lucide.dev](https://lucide.dev/icons/fish)
   static const IconData fish = IconData(
-    58282,
+    58278,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6400,7 +6370,7 @@ class LucideIcons {
   ///
   /// [View "flame-kindling" on lucide.dev](https://lucide.dev/icons/flame-kindling)
   static const IconData flameKindling = IconData(
-    58686,
+    58682,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6440,7 +6410,7 @@ class LucideIcons {
   ///
   /// [View "flask-conical-off" on lucide.dev](https://lucide.dev/icons/flask-conical-off)
   static const IconData flaskConicalOff = IconData(
-    58266,
+    58262,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6470,7 +6440,7 @@ class LucideIcons {
   ///
   /// [View "flip-horizontal-2" on lucide.dev](https://lucide.dev/icons/flip-horizontal-2)
   static const IconData flipHorizontal2 = IconData(
-    58210,
+    58206,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6480,7 +6450,7 @@ class LucideIcons {
   ///
   /// [View "flip-horizontal" on lucide.dev](https://lucide.dev/icons/flip-horizontal)
   static const IconData flipHorizontal = IconData(
-    58209,
+    58205,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6490,7 +6460,7 @@ class LucideIcons {
   ///
   /// [View "flip-vertical-2" on lucide.dev](https://lucide.dev/icons/flip-vertical-2)
   static const IconData flipVertical2 = IconData(
-    58212,
+    58208,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6500,7 +6470,7 @@ class LucideIcons {
   ///
   /// [View "flip-vertical" on lucide.dev](https://lucide.dev/icons/flip-vertical)
   static const IconData flipVertical = IconData(
-    58211,
+    58207,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6540,7 +6510,7 @@ class LucideIcons {
   ///
   /// [View "fold-horizontal" on lucide.dev](https://lucide.dev/icons/fold-horizontal)
   static const IconData foldHorizontal = IconData(
-    58431,
+    58427,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6550,7 +6520,7 @@ class LucideIcons {
   ///
   /// [View "fold-vertical" on lucide.dev](https://lucide.dev/icons/fold-vertical)
   static const IconData foldVertical = IconData(
-    58432,
+    58428,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6560,7 +6530,7 @@ class LucideIcons {
   ///
   /// [View "folder-archive" on lucide.dev](https://lucide.dev/icons/folder-archive)
   static const IconData folderArchive = IconData(
-    58161,
+    58157,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6570,7 +6540,7 @@ class LucideIcons {
   ///
   /// [View "folder-check" on lucide.dev](https://lucide.dev/icons/folder-check)
   static const IconData folderCheck = IconData(
-    58162,
+    58158,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6580,7 +6550,7 @@ class LucideIcons {
   ///
   /// [View "folder-clock" on lucide.dev](https://lucide.dev/icons/folder-clock)
   static const IconData folderClock = IconData(
-    58163,
+    58159,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6590,7 +6560,7 @@ class LucideIcons {
   ///
   /// [View "folder-closed" on lucide.dev](https://lucide.dev/icons/folder-closed)
   static const IconData folderClosed = IconData(
-    58164,
+    58160,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6600,7 +6570,7 @@ class LucideIcons {
   ///
   /// [View "folder-code" on lucide.dev](https://lucide.dev/icons/folder-code)
   static const IconData folderCode = IconData(
-    58879,
+    58875,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6610,7 +6580,7 @@ class LucideIcons {
   ///
   /// [View "folder-cog" on lucide.dev](https://lucide.dev/icons/folder-cog)
   static const IconData folderCog = IconData(
-    58165,
+    58161,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6620,7 +6590,7 @@ class LucideIcons {
   ///
   /// [View "folder-dot" on lucide.dev](https://lucide.dev/icons/folder-dot)
   static const IconData folderDot = IconData(
-    58569,
+    58565,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6630,7 +6600,7 @@ class LucideIcons {
   ///
   /// [View "folder-down" on lucide.dev](https://lucide.dev/icons/folder-down)
   static const IconData folderDown = IconData(
-    58166,
+    58162,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6640,7 +6610,7 @@ class LucideIcons {
   ///
   /// [View "folder-git-2" on lucide.dev](https://lucide.dev/icons/folder-git-2)
   static const IconData folderGit2 = IconData(
-    58382,
+    58378,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6650,7 +6620,7 @@ class LucideIcons {
   ///
   /// [View "folder-git" on lucide.dev](https://lucide.dev/icons/folder-git)
   static const IconData folderGit = IconData(
-    58381,
+    58377,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6660,7 +6630,7 @@ class LucideIcons {
   ///
   /// [View "folder-heart" on lucide.dev](https://lucide.dev/icons/folder-heart)
   static const IconData folderHeart = IconData(
-    58167,
+    58163,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6670,7 +6640,7 @@ class LucideIcons {
   ///
   /// [View "folder-input" on lucide.dev](https://lucide.dev/icons/folder-input)
   static const IconData folderInput = IconData(
-    58168,
+    58164,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6680,7 +6650,7 @@ class LucideIcons {
   ///
   /// [View "folder-kanban" on lucide.dev](https://lucide.dev/icons/folder-kanban)
   static const IconData folderKanban = IconData(
-    58570,
+    58566,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6690,7 +6660,7 @@ class LucideIcons {
   ///
   /// [View "folder-key" on lucide.dev](https://lucide.dev/icons/folder-key)
   static const IconData folderKey = IconData(
-    58169,
+    58165,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6700,7 +6670,7 @@ class LucideIcons {
   ///
   /// [View "folder-lock" on lucide.dev](https://lucide.dev/icons/folder-lock)
   static const IconData folderLock = IconData(
-    58170,
+    58166,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6720,7 +6690,7 @@ class LucideIcons {
   ///
   /// [View "folder-open-dot" on lucide.dev](https://lucide.dev/icons/folder-open-dot)
   static const IconData folderOpenDot = IconData(
-    58571,
+    58567,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6740,7 +6710,7 @@ class LucideIcons {
   ///
   /// [View "folder-output" on lucide.dev](https://lucide.dev/icons/folder-output)
   static const IconData folderOutput = IconData(
-    58171,
+    58167,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6750,7 +6720,7 @@ class LucideIcons {
   ///
   /// [View "folder-pen" on lucide.dev](https://lucide.dev/icons/folder-pen)
   static const IconData folderPen = IconData(
-    58172,
+    58168,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6770,7 +6740,7 @@ class LucideIcons {
   ///
   /// [View "folder-root" on lucide.dev](https://lucide.dev/icons/folder-root)
   static const IconData folderRoot = IconData(
-    58572,
+    58568,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6780,7 +6750,7 @@ class LucideIcons {
   ///
   /// [View "folder-search-2" on lucide.dev](https://lucide.dev/icons/folder-search-2)
   static const IconData folderSearch2 = IconData(
-    58174,
+    58170,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6790,7 +6760,7 @@ class LucideIcons {
   ///
   /// [View "folder-search" on lucide.dev](https://lucide.dev/icons/folder-search)
   static const IconData folderSearch = IconData(
-    58173,
+    58169,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6800,7 +6770,7 @@ class LucideIcons {
   ///
   /// [View "folder-symlink" on lucide.dev](https://lucide.dev/icons/folder-symlink)
   static const IconData folderSymlink = IconData(
-    58175,
+    58171,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6810,7 +6780,7 @@ class LucideIcons {
   ///
   /// [View "folder-sync" on lucide.dev](https://lucide.dev/icons/folder-sync)
   static const IconData folderSync = IconData(
-    58573,
+    58569,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6820,7 +6790,7 @@ class LucideIcons {
   ///
   /// [View "folder-tree" on lucide.dev](https://lucide.dev/icons/folder-tree)
   static const IconData folderTree = IconData(
-    58176,
+    58172,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6830,7 +6800,7 @@ class LucideIcons {
   ///
   /// [View "folder-up" on lucide.dev](https://lucide.dev/icons/folder-up)
   static const IconData folderUp = IconData(
-    58177,
+    58173,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6840,7 +6810,7 @@ class LucideIcons {
   ///
   /// [View "folder-x" on lucide.dev](https://lucide.dev/icons/folder-x)
   static const IconData folderX = IconData(
-    58178,
+    58174,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6860,7 +6830,7 @@ class LucideIcons {
   ///
   /// [View "folders" on lucide.dev](https://lucide.dev/icons/folders)
   static const IconData folders = IconData(
-    58179,
+    58175,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6870,7 +6840,7 @@ class LucideIcons {
   ///
   /// [View "footprints" on lucide.dev](https://lucide.dev/icons/footprints)
   static const IconData footprints = IconData(
-    58301,
+    58297,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6880,7 +6850,7 @@ class LucideIcons {
   ///
   /// [View "forklift" on lucide.dev](https://lucide.dev/icons/forklift)
   static const IconData forklift = IconData(
-    58309,
+    58305,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6940,7 +6910,7 @@ class LucideIcons {
   ///
   /// [View "fullscreen" on lucide.dev](https://lucide.dev/icons/fullscreen)
   static const IconData fullscreen = IconData(
-    58680,
+    58676,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6960,7 +6930,7 @@ class LucideIcons {
   ///
   /// [View "funnel-x" on lucide.dev](https://lucide.dev/icons/funnel-x)
   static const IconData funnelX = IconData(
-    58297,
+    58293,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6980,7 +6950,7 @@ class LucideIcons {
   ///
   /// [View "gallery-horizontal-end" on lucide.dev](https://lucide.dev/icons/gallery-horizontal-end)
   static const IconData galleryHorizontalEnd = IconData(
-    58579,
+    58575,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6990,7 +6960,7 @@ class LucideIcons {
   ///
   /// [View "gallery-horizontal" on lucide.dev](https://lucide.dev/icons/gallery-horizontal)
   static const IconData galleryHorizontal = IconData(
-    58578,
+    58574,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7000,7 +6970,7 @@ class LucideIcons {
   ///
   /// [View "gallery-thumbnails" on lucide.dev](https://lucide.dev/icons/gallery-thumbnails)
   static const IconData galleryThumbnails = IconData(
-    58580,
+    58576,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7010,7 +6980,7 @@ class LucideIcons {
   ///
   /// [View "gallery-vertical-end" on lucide.dev](https://lucide.dev/icons/gallery-vertical-end)
   static const IconData galleryVerticalEnd = IconData(
-    58582,
+    58578,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7020,7 +6990,7 @@ class LucideIcons {
   ///
   /// [View "gallery-vertical" on lucide.dev](https://lucide.dev/icons/gallery-vertical)
   static const IconData galleryVertical = IconData(
-    58581,
+    58577,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7040,7 +7010,7 @@ class LucideIcons {
   ///
   /// [View "gamepad-directional" on lucide.dev](https://lucide.dev/icons/gamepad-directional)
   static const IconData gamepadDirectional = IconData(
-    59039,
+    59035,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7090,7 +7060,7 @@ class LucideIcons {
   ///
   /// [View "georgian-lari" on lucide.dev](https://lucide.dev/icons/georgian-lari)
   static const IconData georgianLari = IconData(
-    59004,
+    59000,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7111,6 +7081,16 @@ class LucideIcons {
   /// [View "gift" on lucide.dev](https://lucide.dev/icons/gift)
   static const IconData gift = IconData(
     57569,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## git-branch-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/git-branch-minus.svg" width="100">
+  ///
+  /// [View "git-branch-minus" on lucide.dev](https://lucide.dev/icons/git-branch-minus)
+  static const IconData gitBranchMinus = IconData(
+    59036,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7150,7 +7130,7 @@ class LucideIcons {
   ///
   /// [View "git-commit-vertical" on lucide.dev](https://lucide.dev/icons/git-commit-vertical)
   static const IconData gitCommitVertical = IconData(
-    58710,
+    58706,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7160,7 +7140,7 @@ class LucideIcons {
   ///
   /// [View "git-compare-arrows" on lucide.dev](https://lucide.dev/icons/git-compare-arrows)
   static const IconData gitCompareArrows = IconData(
-    58711,
+    58707,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7170,7 +7150,7 @@ class LucideIcons {
   ///
   /// [View "git-compare" on lucide.dev](https://lucide.dev/icons/git-compare)
   static const IconData gitCompare = IconData(
-    58205,
+    58201,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7190,7 +7170,7 @@ class LucideIcons {
   ///
   /// [View "git-graph" on lucide.dev](https://lucide.dev/icons/git-graph)
   static const IconData gitGraph = IconData(
-    58712,
+    58708,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7210,7 +7190,7 @@ class LucideIcons {
   ///
   /// [View "git-pull-request-arrow" on lucide.dev](https://lucide.dev/icons/git-pull-request-arrow)
   static const IconData gitPullRequestArrow = IconData(
-    58713,
+    58709,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7220,7 +7200,7 @@ class LucideIcons {
   ///
   /// [View "git-pull-request-closed" on lucide.dev](https://lucide.dev/icons/git-pull-request-closed)
   static const IconData gitPullRequestClosed = IconData(
-    58206,
+    58202,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7230,7 +7210,7 @@ class LucideIcons {
   ///
   /// [View "git-pull-request-create-arrow" on lucide.dev](https://lucide.dev/icons/git-pull-request-create-arrow)
   static const IconData gitPullRequestCreateArrow = IconData(
-    58715,
+    58711,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7240,7 +7220,7 @@ class LucideIcons {
   ///
   /// [View "git-pull-request-create" on lucide.dev](https://lucide.dev/icons/git-pull-request-create)
   static const IconData gitPullRequestCreate = IconData(
-    58714,
+    58710,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7250,7 +7230,7 @@ class LucideIcons {
   ///
   /// [View "git-pull-request-draft" on lucide.dev](https://lucide.dev/icons/git-pull-request-draft)
   static const IconData gitPullRequestDraft = IconData(
-    58207,
+    58203,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7310,7 +7290,7 @@ class LucideIcons {
   ///
   /// [View "globe-lock" on lucide.dev](https://lucide.dev/icons/globe-lock)
   static const IconData globeLock = IconData(
-    58833,
+    58829,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7330,7 +7310,7 @@ class LucideIcons {
   ///
   /// [View "goal" on lucide.dev](https://lucide.dev/icons/goal)
   static const IconData goal = IconData(
-    58537,
+    58533,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7340,7 +7320,7 @@ class LucideIcons {
   ///
   /// [View "gpu" on lucide.dev](https://lucide.dev/icons/gpu)
   static const IconData gpu = IconData(
-    58990,
+    58986,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7360,7 +7340,7 @@ class LucideIcons {
   ///
   /// [View "grape" on lucide.dev](https://lucide.dev/icons/grape)
   static const IconData grape = IconData(
-    58198,
+    58194,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7370,7 +7350,7 @@ class LucideIcons {
   ///
   /// [View "grid-2x2-check" on lucide.dev](https://lucide.dev/icons/grid-2x2-check)
   static const IconData grid2x2Check = IconData(
-    58856,
+    58852,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7380,7 +7360,7 @@ class LucideIcons {
   ///
   /// [View "grid-2x2-plus" on lucide.dev](https://lucide.dev/icons/grid-2x2-plus)
   static const IconData grid2x2Plus = IconData(
-    58924,
+    58920,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7390,7 +7370,7 @@ class LucideIcons {
   ///
   /// [View "grid-2x2-x" on lucide.dev](https://lucide.dev/icons/grid-2x2-x)
   static const IconData grid2x2X = IconData(
-    58857,
+    58853,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7400,7 +7380,7 @@ class LucideIcons {
   ///
   /// [View "grid-2x2" on lucide.dev](https://lucide.dev/icons/grid-2x2)
   static const IconData grid2x2 = IconData(
-    58627,
+    58623,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7410,7 +7390,7 @@ class LucideIcons {
   ///
   /// [View "grid-3x2" on lucide.dev](https://lucide.dev/icons/grid-3x2)
   static const IconData grid3x2 = IconData(
-    58995,
+    58991,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7450,7 +7430,7 @@ class LucideIcons {
   ///
   /// [View "grip" on lucide.dev](https://lucide.dev/icons/grip)
   static const IconData grip = IconData(
-    58293,
+    58289,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7460,7 +7440,7 @@ class LucideIcons {
   ///
   /// [View "group" on lucide.dev](https://lucide.dev/icons/group)
   static const IconData group = IconData(
-    58472,
+    58468,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7470,7 +7450,7 @@ class LucideIcons {
   ///
   /// [View "guitar" on lucide.dev](https://lucide.dev/icons/guitar)
   static const IconData guitar = IconData(
-    58723,
+    58719,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7480,7 +7460,7 @@ class LucideIcons {
   ///
   /// [View "ham" on lucide.dev](https://lucide.dev/icons/ham)
   static const IconData ham = IconData(
-    58843,
+    58839,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7490,7 +7470,7 @@ class LucideIcons {
   ///
   /// [View "hamburger" on lucide.dev](https://lucide.dev/icons/hamburger)
   static const IconData hamburger = IconData(
-    58985,
+    58981,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7510,7 +7490,7 @@ class LucideIcons {
   ///
   /// [View "hand-coins" on lucide.dev](https://lucide.dev/icons/hand-coins)
   static const IconData handCoins = IconData(
-    58812,
+    58808,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7520,7 +7500,7 @@ class LucideIcons {
   ///
   /// [View "hand-fist" on lucide.dev](https://lucide.dev/icons/hand-fist)
   static const IconData handFist = IconData(
-    59023,
+    59019,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7540,7 +7520,7 @@ class LucideIcons {
   ///
   /// [View "hand-heart" on lucide.dev](https://lucide.dev/icons/hand-heart)
   static const IconData handHeart = IconData(
-    58813,
+    58809,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7550,7 +7530,7 @@ class LucideIcons {
   ///
   /// [View "hand-helping" on lucide.dev](https://lucide.dev/icons/hand-helping)
   static const IconData handHelping = IconData(
-    58300,
+    58296,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7570,7 +7550,7 @@ class LucideIcons {
   ///
   /// [View "hand-platter" on lucide.dev](https://lucide.dev/icons/hand-platter)
   static const IconData handPlatter = IconData(
-    58814,
+    58810,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7590,7 +7570,7 @@ class LucideIcons {
   ///
   /// [View "handbag" on lucide.dev](https://lucide.dev/icons/handbag)
   static const IconData handbag = IconData(
-    59021,
+    59017,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7600,7 +7580,7 @@ class LucideIcons {
   ///
   /// [View "handshake" on lucide.dev](https://lucide.dev/icons/handshake)
   static const IconData handshake = IconData(
-    58820,
+    58816,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7610,7 +7590,7 @@ class LucideIcons {
   ///
   /// [View "hard-drive-download" on lucide.dev](https://lucide.dev/icons/hard-drive-download)
   static const IconData hardDriveDownload = IconData(
-    58601,
+    58597,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7620,7 +7600,7 @@ class LucideIcons {
   ///
   /// [View "hard-drive-upload" on lucide.dev](https://lucide.dev/icons/hard-drive-upload)
   static const IconData hardDriveUpload = IconData(
-    58602,
+    58598,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7660,7 +7640,7 @@ class LucideIcons {
   ///
   /// [View "hat-glasses" on lucide.dev](https://lucide.dev/icons/hat-glasses)
   static const IconData hatGlasses = IconData(
-    59015,
+    59011,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7680,7 +7660,7 @@ class LucideIcons {
   ///
   /// [View "hdmi-port" on lucide.dev](https://lucide.dev/icons/hdmi-port)
   static const IconData hdmiPort = IconData(
-    58603,
+    58599,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7690,7 +7670,7 @@ class LucideIcons {
   ///
   /// [View "heading-1" on lucide.dev](https://lucide.dev/icons/heading-1)
   static const IconData heading1 = IconData(
-    58249,
+    58245,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7700,7 +7680,7 @@ class LucideIcons {
   ///
   /// [View "heading-2" on lucide.dev](https://lucide.dev/icons/heading-2)
   static const IconData heading2 = IconData(
-    58250,
+    58246,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7710,7 +7690,7 @@ class LucideIcons {
   ///
   /// [View "heading-3" on lucide.dev](https://lucide.dev/icons/heading-3)
   static const IconData heading3 = IconData(
-    58251,
+    58247,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7720,7 +7700,7 @@ class LucideIcons {
   ///
   /// [View "heading-4" on lucide.dev](https://lucide.dev/icons/heading-4)
   static const IconData heading4 = IconData(
-    58252,
+    58248,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7730,7 +7710,7 @@ class LucideIcons {
   ///
   /// [View "heading-5" on lucide.dev](https://lucide.dev/icons/heading-5)
   static const IconData heading5 = IconData(
-    58253,
+    58249,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7740,7 +7720,7 @@ class LucideIcons {
   ///
   /// [View "heading-6" on lucide.dev](https://lucide.dev/icons/heading-6)
   static const IconData heading6 = IconData(
-    58254,
+    58250,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7750,7 +7730,7 @@ class LucideIcons {
   ///
   /// [View "heading" on lucide.dev](https://lucide.dev/icons/heading)
   static const IconData heading = IconData(
-    58248,
+    58244,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7760,7 +7740,7 @@ class LucideIcons {
   ///
   /// [View "headphone-off" on lucide.dev](https://lucide.dev/icons/headphone-off)
   static const IconData headphoneOff = IconData(
-    58925,
+    58921,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7780,7 +7760,7 @@ class LucideIcons {
   ///
   /// [View "headset" on lucide.dev](https://lucide.dev/icons/headset)
   static const IconData headset = IconData(
-    58817,
+    58813,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7810,7 +7790,7 @@ class LucideIcons {
   ///
   /// [View "heart-minus" on lucide.dev](https://lucide.dev/icons/heart-minus)
   static const IconData heartMinus = IconData(
-    58965,
+    58961,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7830,7 +7810,7 @@ class LucideIcons {
   ///
   /// [View "heart-plus" on lucide.dev](https://lucide.dev/icons/heart-plus)
   static const IconData heartPlus = IconData(
-    58966,
+    58962,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7840,7 +7820,7 @@ class LucideIcons {
   ///
   /// [View "heart-pulse" on lucide.dev](https://lucide.dev/icons/heart-pulse)
   static const IconData heartPulse = IconData(
-    58226,
+    58222,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7860,7 +7840,17 @@ class LucideIcons {
   ///
   /// [View "heater" on lucide.dev](https://lucide.dev/icons/heater)
   static const IconData heater = IconData(
-    58770,
+    58766,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## helicopter
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/helicopter.svg" width="100">
+  ///
+  /// [View "helicopter" on lucide.dev](https://lucide.dev/icons/helicopter)
+  static const IconData helicopter = IconData(
+    59037,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7900,7 +7890,7 @@ class LucideIcons {
   ///
   /// [View "hop-off" on lucide.dev](https://lucide.dev/icons/hop-off)
   static const IconData hopOff = IconData(
-    58268,
+    58264,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7910,7 +7900,7 @@ class LucideIcons {
   ///
   /// [View "hop" on lucide.dev](https://lucide.dev/icons/hop)
   static const IconData hop = IconData(
-    58267,
+    58263,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7920,7 +7910,7 @@ class LucideIcons {
   ///
   /// [View "hospital" on lucide.dev](https://lucide.dev/icons/hospital)
   static const IconData hospital = IconData(
-    58844,
+    58840,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7930,7 +7920,7 @@ class LucideIcons {
   ///
   /// [View "hotel" on lucide.dev](https://lucide.dev/icons/hotel)
   static const IconData hotel = IconData(
-    58342,
+    58338,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7950,7 +7940,7 @@ class LucideIcons {
   ///
   /// [View "house-heart" on lucide.dev](https://lucide.dev/icons/house-heart)
   static const IconData houseHeart = IconData(
-    59033,
+    59029,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7960,7 +7950,7 @@ class LucideIcons {
   ///
   /// [View "house-plug" on lucide.dev](https://lucide.dev/icons/house-plug)
   static const IconData housePlug = IconData(
-    58868,
+    58864,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7970,7 +7960,7 @@ class LucideIcons {
   ///
   /// [View "house-plus" on lucide.dev](https://lucide.dev/icons/house-plus)
   static const IconData housePlus = IconData(
-    58869,
+    58865,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7980,7 +7970,7 @@ class LucideIcons {
   ///
   /// [View "house-wifi" on lucide.dev](https://lucide.dev/icons/house-wifi)
   static const IconData houseWifi = IconData(
-    58944,
+    58940,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8000,7 +7990,7 @@ class LucideIcons {
   ///
   /// [View "ice-cream-bowl" on lucide.dev](https://lucide.dev/icons/ice-cream-bowl)
   static const IconData iceCreamBowl = IconData(
-    58283,
+    58279,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8010,7 +8000,7 @@ class LucideIcons {
   ///
   /// [View "ice-cream-cone" on lucide.dev](https://lucide.dev/icons/ice-cream-cone)
   static const IconData iceCreamCone = IconData(
-    58199,
+    58195,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8020,7 +8010,7 @@ class LucideIcons {
   ///
   /// [View "id-card-lanyard" on lucide.dev](https://lucide.dev/icons/id-card-lanyard)
   static const IconData idCardLanyard = IconData(
-    58996,
+    58992,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8030,7 +8020,7 @@ class LucideIcons {
   ///
   /// [View "id-card" on lucide.dev](https://lucide.dev/icons/id-card)
   static const IconData idCard = IconData(
-    58907,
+    58903,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8040,7 +8030,7 @@ class LucideIcons {
   ///
   /// [View "image-down" on lucide.dev](https://lucide.dev/icons/image-down)
   static const IconData imageDown = IconData(
-    58688,
+    58684,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8070,7 +8060,7 @@ class LucideIcons {
   ///
   /// [View "image-play" on lucide.dev](https://lucide.dev/icons/image-play)
   static const IconData imagePlay = IconData(
-    58851,
+    58847,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8090,7 +8080,7 @@ class LucideIcons {
   ///
   /// [View "image-up" on lucide.dev](https://lucide.dev/icons/image-up)
   static const IconData imageUp = IconData(
-    58831,
+    58827,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8100,7 +8090,7 @@ class LucideIcons {
   ///
   /// [View "image-upscale" on lucide.dev](https://lucide.dev/icons/image-upscale)
   static const IconData imageUpscale = IconData(
-    58939,
+    58935,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8120,7 +8110,7 @@ class LucideIcons {
   ///
   /// [View "images" on lucide.dev](https://lucide.dev/icons/images)
   static const IconData images = IconData(
-    58824,
+    58820,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8180,7 +8170,7 @@ class LucideIcons {
   ///
   /// [View "inspection-panel" on lucide.dev](https://lucide.dev/icons/inspection-panel)
   static const IconData inspectionPanel = IconData(
-    58759,
+    58755,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8210,7 +8200,7 @@ class LucideIcons {
   ///
   /// [View "iteration-ccw" on lucide.dev](https://lucide.dev/icons/iteration-ccw)
   static const IconData iterationCcw = IconData(
-    58407,
+    58403,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8220,7 +8210,7 @@ class LucideIcons {
   ///
   /// [View "iteration-cw" on lucide.dev](https://lucide.dev/icons/iteration-cw)
   static const IconData iterationCw = IconData(
-    58408,
+    58404,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8240,7 +8230,7 @@ class LucideIcons {
   ///
   /// [View "joystick" on lucide.dev](https://lucide.dev/icons/joystick)
   static const IconData joystick = IconData(
-    58201,
+    58197,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8250,7 +8240,7 @@ class LucideIcons {
   ///
   /// [View "kanban" on lucide.dev](https://lucide.dev/icons/kanban)
   static const IconData kanban = IconData(
-    58592,
+    58588,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8260,7 +8250,7 @@ class LucideIcons {
   ///
   /// [View "kayak" on lucide.dev](https://lucide.dev/icons/kayak)
   static const IconData kayak = IconData(
-    59027,
+    59023,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8270,7 +8260,7 @@ class LucideIcons {
   ///
   /// [View "key-round" on lucide.dev](https://lucide.dev/icons/key-round)
   static const IconData keyRound = IconData(
-    58535,
+    58531,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8280,7 +8270,7 @@ class LucideIcons {
   ///
   /// [View "key-square" on lucide.dev](https://lucide.dev/icons/key-square)
   static const IconData keySquare = IconData(
-    58536,
+    58532,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8300,7 +8290,7 @@ class LucideIcons {
   ///
   /// [View "keyboard-music" on lucide.dev](https://lucide.dev/icons/keyboard-music)
   static const IconData keyboardMusic = IconData(
-    58724,
+    58720,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8310,7 +8300,7 @@ class LucideIcons {
   ///
   /// [View "keyboard-off" on lucide.dev](https://lucide.dev/icons/keyboard-off)
   static const IconData keyboardOff = IconData(
-    58850,
+    58846,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8390,7 +8380,7 @@ class LucideIcons {
   ///
   /// [View "land-plot" on lucide.dev](https://lucide.dev/icons/land-plot)
   static const IconData landPlot = IconData(
-    58668,
+    58664,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8420,7 +8410,7 @@ class LucideIcons {
   ///
   /// [View "laptop-minimal-check" on lucide.dev](https://lucide.dev/icons/laptop-minimal-check)
   static const IconData laptopMinimalCheck = IconData(
-    58934,
+    58930,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8480,7 +8470,7 @@ class LucideIcons {
   ///
   /// [View "layers-2" on lucide.dev](https://lucide.dev/icons/layers-2)
   static const IconData layers2 = IconData(
-    58670,
+    58666,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8490,7 +8480,7 @@ class LucideIcons {
   ///
   /// [View "layers" on lucide.dev](https://lucide.dev/icons/layers)
   static const IconData layers = IconData(
-    58669,
+    58665,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8530,7 +8520,7 @@ class LucideIcons {
   ///
   /// [View "layout-panel-left" on lucide.dev](https://lucide.dev/icons/layout-panel-left)
   static const IconData layoutPanelLeft = IconData(
-    58484,
+    58480,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8540,7 +8530,7 @@ class LucideIcons {
   ///
   /// [View "layout-panel-top" on lucide.dev](https://lucide.dev/icons/layout-panel-top)
   static const IconData layoutPanelTop = IconData(
-    58485,
+    58481,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8570,7 +8560,7 @@ class LucideIcons {
   ///
   /// [View "leafy-green" on lucide.dev](https://lucide.dev/icons/leafy-green)
   static const IconData leafyGreen = IconData(
-    58483,
+    58479,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8580,7 +8570,7 @@ class LucideIcons {
   ///
   /// [View "lectern" on lucide.dev](https://lucide.dev/icons/lectern)
   static const IconData lectern = IconData(
-    58861,
+    58857,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8590,7 +8580,7 @@ class LucideIcons {
   ///
   /// [View "library-big" on lucide.dev](https://lucide.dev/icons/library-big)
   static const IconData libraryBig = IconData(
-    58706,
+    58702,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8620,7 +8610,7 @@ class LucideIcons {
   ///
   /// [View "ligature" on lucide.dev](https://lucide.dev/icons/ligature)
   static const IconData ligature = IconData(
-    58430,
+    58426,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8650,7 +8640,7 @@ class LucideIcons {
   ///
   /// [View "line-squiggle" on lucide.dev](https://lucide.dev/icons/line-squiggle)
   static const IconData lineSquiggle = IconData(
-    59006,
+    59002,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8700,7 +8690,7 @@ class LucideIcons {
   ///
   /// [View "list-check" on lucide.dev](https://lucide.dev/icons/list-check)
   static const IconData listCheck = IconData(
-    58878,
+    58874,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8720,7 +8710,7 @@ class LucideIcons {
   ///
   /// [View "list-chevrons-down-up" on lucide.dev](https://lucide.dev/icons/list-chevrons-down-up)
   static const IconData listChevronsDownUp = IconData(
-    59032,
+    59028,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8730,7 +8720,7 @@ class LucideIcons {
   ///
   /// [View "list-chevrons-up-down" on lucide.dev](https://lucide.dev/icons/list-chevrons-up-down)
   static const IconData listChevronsUpDown = IconData(
-    59034,
+    59030,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8740,7 +8730,7 @@ class LucideIcons {
   ///
   /// [View "list-collapse" on lucide.dev](https://lucide.dev/icons/list-collapse)
   static const IconData listCollapse = IconData(
-    58783,
+    58779,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8760,7 +8750,7 @@ class LucideIcons {
   ///
   /// [View "list-filter-plus" on lucide.dev](https://lucide.dev/icons/list-filter-plus)
   static const IconData listFilterPlus = IconData(
-    58941,
+    58937,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8770,7 +8760,7 @@ class LucideIcons {
   ///
   /// [View "list-filter" on lucide.dev](https://lucide.dev/icons/list-filter)
   static const IconData listFilter = IconData(
-    58468,
+    58464,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8840,7 +8830,7 @@ class LucideIcons {
   ///
   /// [View "list-restart" on lucide.dev](https://lucide.dev/icons/list-restart)
   static const IconData listRestart = IconData(
-    58454,
+    58450,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8860,7 +8850,7 @@ class LucideIcons {
   ///
   /// [View "list-todo" on lucide.dev](https://lucide.dev/icons/list-todo)
   static const IconData listTodo = IconData(
-    58567,
+    58563,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8870,7 +8860,7 @@ class LucideIcons {
   ///
   /// [View "list-tree" on lucide.dev](https://lucide.dev/icons/list-tree)
   static const IconData listTree = IconData(
-    58380,
+    58376,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8920,7 +8910,7 @@ class LucideIcons {
   ///
   /// [View "loader-pinwheel" on lucide.dev](https://lucide.dev/icons/loader-pinwheel)
   static const IconData loaderPinwheel = IconData(
-    58858,
+    58854,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8970,7 +8960,7 @@ class LucideIcons {
   ///
   /// [View "lock-keyhole-open" on lucide.dev](https://lucide.dev/icons/lock-keyhole-open)
   static const IconData lockKeyholeOpen = IconData(
-    58678,
+    58674,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8980,7 +8970,7 @@ class LucideIcons {
   ///
   /// [View "lock-keyhole" on lucide.dev](https://lucide.dev/icons/lock-keyhole)
   static const IconData lockKeyhole = IconData(
-    58677,
+    58673,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9030,7 +9020,7 @@ class LucideIcons {
   ///
   /// [View "logs" on lucide.dev](https://lucide.dev/icons/logs)
   static const IconData logs = IconData(
-    58872,
+    58868,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9040,7 +9030,7 @@ class LucideIcons {
   ///
   /// [View "lollipop" on lucide.dev](https://lucide.dev/icons/lollipop)
   static const IconData lollipop = IconData(
-    58561,
+    58557,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9070,7 +9060,7 @@ class LucideIcons {
   ///
   /// [View "mail-check" on lucide.dev](https://lucide.dev/icons/mail-check)
   static const IconData mailCheck = IconData(
-    58213,
+    58209,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9080,7 +9070,7 @@ class LucideIcons {
   ///
   /// [View "mail-minus" on lucide.dev](https://lucide.dev/icons/mail-minus)
   static const IconData mailMinus = IconData(
-    58214,
+    58210,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9090,7 +9080,7 @@ class LucideIcons {
   ///
   /// [View "mail-open" on lucide.dev](https://lucide.dev/icons/mail-open)
   static const IconData mailOpen = IconData(
-    58215,
+    58211,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9100,7 +9090,7 @@ class LucideIcons {
   ///
   /// [View "mail-plus" on lucide.dev](https://lucide.dev/icons/mail-plus)
   static const IconData mailPlus = IconData(
-    58216,
+    58212,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9110,7 +9100,7 @@ class LucideIcons {
   ///
   /// [View "mail-question-mark" on lucide.dev](https://lucide.dev/icons/mail-question-mark)
   static const IconData mailQuestionMark = IconData(
-    58217,
+    58213,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9120,7 +9110,7 @@ class LucideIcons {
   ///
   /// [View "mail-search" on lucide.dev](https://lucide.dev/icons/mail-search)
   static const IconData mailSearch = IconData(
-    58218,
+    58214,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9130,7 +9120,7 @@ class LucideIcons {
   ///
   /// [View "mail-warning" on lucide.dev](https://lucide.dev/icons/mail-warning)
   static const IconData mailWarning = IconData(
-    58219,
+    58215,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9140,7 +9130,7 @@ class LucideIcons {
   ///
   /// [View "mail-x" on lucide.dev](https://lucide.dev/icons/mail-x)
   static const IconData mailX = IconData(
-    58220,
+    58216,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9160,7 +9150,7 @@ class LucideIcons {
   ///
   /// [View "mailbox" on lucide.dev](https://lucide.dev/icons/mailbox)
   static const IconData mailbox = IconData(
-    58328,
+    58324,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9170,7 +9160,7 @@ class LucideIcons {
   ///
   /// [View "mails" on lucide.dev](https://lucide.dev/icons/mails)
   static const IconData mails = IconData(
-    58221,
+    58217,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9180,7 +9170,7 @@ class LucideIcons {
   ///
   /// [View "map-minus" on lucide.dev](https://lucide.dev/icons/map-minus)
   static const IconData mapMinus = IconData(
-    59018,
+    59014,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9190,7 +9180,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-check-inside" on lucide.dev](https://lucide.dev/icons/map-pin-check-inside)
   static const IconData mapPinCheckInside = IconData(
-    58900,
+    58896,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9200,7 +9190,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-check" on lucide.dev](https://lucide.dev/icons/map-pin-check)
   static const IconData mapPinCheck = IconData(
-    58899,
+    58895,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9210,7 +9200,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-house" on lucide.dev](https://lucide.dev/icons/map-pin-house)
   static const IconData mapPinHouse = IconData(
-    58912,
+    58908,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9220,7 +9210,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-minus-inside" on lucide.dev](https://lucide.dev/icons/map-pin-minus-inside)
   static const IconData mapPinMinusInside = IconData(
-    58902,
+    58898,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9230,7 +9220,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-minus" on lucide.dev](https://lucide.dev/icons/map-pin-minus)
   static const IconData mapPinMinus = IconData(
-    58901,
+    58897,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9250,7 +9240,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-pen" on lucide.dev](https://lucide.dev/icons/map-pin-pen)
   static const IconData mapPinPen = IconData(
-    58969,
+    58965,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9260,7 +9250,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-plus-inside" on lucide.dev](https://lucide.dev/icons/map-pin-plus-inside)
   static const IconData mapPinPlusInside = IconData(
-    58904,
+    58900,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9270,7 +9260,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-plus" on lucide.dev](https://lucide.dev/icons/map-pin-plus)
   static const IconData mapPinPlus = IconData(
-    58903,
+    58899,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9280,7 +9270,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-x-inside" on lucide.dev](https://lucide.dev/icons/map-pin-x-inside)
   static const IconData mapPinXInside = IconData(
-    58906,
+    58902,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9290,7 +9280,7 @@ class LucideIcons {
   ///
   /// [View "map-pin-x" on lucide.dev](https://lucide.dev/icons/map-pin-x)
   static const IconData mapPinX = IconData(
-    58905,
+    58901,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9310,7 +9300,7 @@ class LucideIcons {
   ///
   /// [View "map-pinned" on lucide.dev](https://lucide.dev/icons/map-pinned)
   static const IconData mapPinned = IconData(
-    58689,
+    58685,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9320,7 +9310,7 @@ class LucideIcons {
   ///
   /// [View "map-plus" on lucide.dev](https://lucide.dev/icons/map-plus)
   static const IconData mapPlus = IconData(
-    58947,
+    58943,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9340,7 +9330,7 @@ class LucideIcons {
   ///
   /// [View "mars-stroke" on lucide.dev](https://lucide.dev/icons/mars-stroke)
   static const IconData marsStroke = IconData(
-    58950,
+    58946,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9350,7 +9340,7 @@ class LucideIcons {
   ///
   /// [View "mars" on lucide.dev](https://lucide.dev/icons/mars)
   static const IconData mars = IconData(
-    58949,
+    58945,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9390,7 +9380,7 @@ class LucideIcons {
   ///
   /// [View "medal" on lucide.dev](https://lucide.dev/icons/medal)
   static const IconData medal = IconData(
-    58227,
+    58223,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9400,7 +9390,7 @@ class LucideIcons {
   ///
   /// [View "megaphone-off" on lucide.dev](https://lucide.dev/icons/megaphone-off)
   static const IconData megaphoneOff = IconData(
-    58228,
+    58224,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9430,7 +9420,7 @@ class LucideIcons {
   ///
   /// [View "memory-stick" on lucide.dev](https://lucide.dev/icons/memory-stick)
   static const IconData memoryStick = IconData(
-    58441,
+    58437,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9450,7 +9440,7 @@ class LucideIcons {
   ///
   /// [View "merge" on lucide.dev](https://lucide.dev/icons/merge)
   static const IconData merge = IconData(
-    58435,
+    58431,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9460,7 +9450,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-code" on lucide.dev](https://lucide.dev/icons/message-circle-code)
   static const IconData messageCircleCode = IconData(
-    58726,
+    58722,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9470,7 +9460,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-dashed" on lucide.dev](https://lucide.dev/icons/message-circle-dashed)
   static const IconData messageCircleDashed = IconData(
-    58727,
+    58723,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9480,7 +9470,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-heart" on lucide.dev](https://lucide.dev/icons/message-circle-heart)
   static const IconData messageCircleHeart = IconData(
-    58728,
+    58724,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9490,7 +9480,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-more" on lucide.dev](https://lucide.dev/icons/message-circle-more)
   static const IconData messageCircleMore = IconData(
-    58729,
+    58725,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9500,7 +9490,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-off" on lucide.dev](https://lucide.dev/icons/message-circle-off)
   static const IconData messageCircleOff = IconData(
-    58730,
+    58726,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9510,7 +9500,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-plus" on lucide.dev](https://lucide.dev/icons/message-circle-plus)
   static const IconData messageCirclePlus = IconData(
-    58731,
+    58727,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9520,7 +9510,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-question-mark" on lucide.dev](https://lucide.dev/icons/message-circle-question-mark)
   static const IconData messageCircleQuestionMark = IconData(
-    58732,
+    58728,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9530,7 +9520,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-reply" on lucide.dev](https://lucide.dev/icons/message-circle-reply)
   static const IconData messageCircleReply = IconData(
-    58733,
+    58729,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9540,7 +9530,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-warning" on lucide.dev](https://lucide.dev/icons/message-circle-warning)
   static const IconData messageCircleWarning = IconData(
-    58734,
+    58730,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9550,7 +9540,7 @@ class LucideIcons {
   ///
   /// [View "message-circle-x" on lucide.dev](https://lucide.dev/icons/message-circle-x)
   static const IconData messageCircleX = IconData(
-    58735,
+    58731,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9570,7 +9560,7 @@ class LucideIcons {
   ///
   /// [View "message-square-code" on lucide.dev](https://lucide.dev/icons/message-square-code)
   static const IconData messageSquareCode = IconData(
-    58736,
+    58732,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9580,7 +9570,7 @@ class LucideIcons {
   ///
   /// [View "message-square-dashed" on lucide.dev](https://lucide.dev/icons/message-square-dashed)
   static const IconData messageSquareDashed = IconData(
-    58383,
+    58379,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9590,7 +9580,7 @@ class LucideIcons {
   ///
   /// [View "message-square-diff" on lucide.dev](https://lucide.dev/icons/message-square-diff)
   static const IconData messageSquareDiff = IconData(
-    58737,
+    58733,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9600,7 +9590,7 @@ class LucideIcons {
   ///
   /// [View "message-square-dot" on lucide.dev](https://lucide.dev/icons/message-square-dot)
   static const IconData messageSquareDot = IconData(
-    58738,
+    58734,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9610,7 +9600,7 @@ class LucideIcons {
   ///
   /// [View "message-square-heart" on lucide.dev](https://lucide.dev/icons/message-square-heart)
   static const IconData messageSquareHeart = IconData(
-    58739,
+    58735,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9620,7 +9610,7 @@ class LucideIcons {
   ///
   /// [View "message-square-lock" on lucide.dev](https://lucide.dev/icons/message-square-lock)
   static const IconData messageSquareLock = IconData(
-    58928,
+    58924,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9630,7 +9620,7 @@ class LucideIcons {
   ///
   /// [View "message-square-more" on lucide.dev](https://lucide.dev/icons/message-square-more)
   static const IconData messageSquareMore = IconData(
-    58740,
+    58736,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9640,7 +9630,7 @@ class LucideIcons {
   ///
   /// [View "message-square-off" on lucide.dev](https://lucide.dev/icons/message-square-off)
   static const IconData messageSquareOff = IconData(
-    58741,
+    58737,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9650,7 +9640,7 @@ class LucideIcons {
   ///
   /// [View "message-square-plus" on lucide.dev](https://lucide.dev/icons/message-square-plus)
   static const IconData messageSquarePlus = IconData(
-    58384,
+    58380,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9660,7 +9650,7 @@ class LucideIcons {
   ///
   /// [View "message-square-quote" on lucide.dev](https://lucide.dev/icons/message-square-quote)
   static const IconData messageSquareQuote = IconData(
-    58742,
+    58738,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9670,7 +9660,7 @@ class LucideIcons {
   ///
   /// [View "message-square-reply" on lucide.dev](https://lucide.dev/icons/message-square-reply)
   static const IconData messageSquareReply = IconData(
-    58743,
+    58739,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9680,7 +9670,7 @@ class LucideIcons {
   ///
   /// [View "message-square-share" on lucide.dev](https://lucide.dev/icons/message-square-share)
   static const IconData messageSquareShare = IconData(
-    58744,
+    58740,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9690,7 +9680,7 @@ class LucideIcons {
   ///
   /// [View "message-square-text" on lucide.dev](https://lucide.dev/icons/message-square-text)
   static const IconData messageSquareText = IconData(
-    58745,
+    58741,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9700,7 +9690,7 @@ class LucideIcons {
   ///
   /// [View "message-square-warning" on lucide.dev](https://lucide.dev/icons/message-square-warning)
   static const IconData messageSquareWarning = IconData(
-    58746,
+    58742,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9710,7 +9700,7 @@ class LucideIcons {
   ///
   /// [View "message-square-x" on lucide.dev](https://lucide.dev/icons/message-square-x)
   static const IconData messageSquareX = IconData(
-    58747,
+    58743,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9730,7 +9720,7 @@ class LucideIcons {
   ///
   /// [View "messages-square" on lucide.dev](https://lucide.dev/icons/messages-square)
   static const IconData messagesSquare = IconData(
-    58385,
+    58381,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9750,7 +9740,7 @@ class LucideIcons {
   ///
   /// [View "mic-vocal" on lucide.dev](https://lucide.dev/icons/mic-vocal)
   static const IconData micVocal = IconData(
-    58189,
+    58185,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9770,7 +9760,7 @@ class LucideIcons {
   ///
   /// [View "microchip" on lucide.dev](https://lucide.dev/icons/microchip)
   static const IconData microchip = IconData(
-    58910,
+    58906,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9790,7 +9780,7 @@ class LucideIcons {
   ///
   /// [View "microwave" on lucide.dev](https://lucide.dev/icons/microwave)
   static const IconData microwave = IconData(
-    58238,
+    58234,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9810,7 +9800,7 @@ class LucideIcons {
   ///
   /// [View "milk-off" on lucide.dev](https://lucide.dev/icons/milk-off)
   static const IconData milkOff = IconData(
-    58270,
+    58266,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9820,7 +9810,7 @@ class LucideIcons {
   ///
   /// [View "milk" on lucide.dev](https://lucide.dev/icons/milk)
   static const IconData milk = IconData(
-    58269,
+    58265,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9860,7 +9850,7 @@ class LucideIcons {
   ///
   /// [View "monitor-check" on lucide.dev](https://lucide.dev/icons/monitor-check)
   static const IconData monitorCheck = IconData(
-    58502,
+    58498,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9870,7 +9860,7 @@ class LucideIcons {
   ///
   /// [View "monitor-cloud" on lucide.dev](https://lucide.dev/icons/monitor-cloud)
   static const IconData monitorCloud = IconData(
-    59037,
+    59033,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9880,7 +9870,7 @@ class LucideIcons {
   ///
   /// [View "monitor-cog" on lucide.dev](https://lucide.dev/icons/monitor-cog)
   static const IconData monitorCog = IconData(
-    58887,
+    58883,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9890,7 +9880,7 @@ class LucideIcons {
   ///
   /// [View "monitor-dot" on lucide.dev](https://lucide.dev/icons/monitor-dot)
   static const IconData monitorDot = IconData(
-    58503,
+    58499,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9900,7 +9890,7 @@ class LucideIcons {
   ///
   /// [View "monitor-down" on lucide.dev](https://lucide.dev/icons/monitor-down)
   static const IconData monitorDown = IconData(
-    58405,
+    58401,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9920,7 +9910,7 @@ class LucideIcons {
   ///
   /// [View "monitor-pause" on lucide.dev](https://lucide.dev/icons/monitor-pause)
   static const IconData monitorPause = IconData(
-    58504,
+    58500,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9930,7 +9920,7 @@ class LucideIcons {
   ///
   /// [View "monitor-play" on lucide.dev](https://lucide.dev/icons/monitor-play)
   static const IconData monitorPlay = IconData(
-    58505,
+    58501,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9940,7 +9930,7 @@ class LucideIcons {
   ///
   /// [View "monitor-smartphone" on lucide.dev](https://lucide.dev/icons/monitor-smartphone)
   static const IconData monitorSmartphone = IconData(
-    58278,
+    58274,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9960,7 +9950,7 @@ class LucideIcons {
   ///
   /// [View "monitor-stop" on lucide.dev](https://lucide.dev/icons/monitor-stop)
   static const IconData monitorStop = IconData(
-    58506,
+    58502,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9970,7 +9960,7 @@ class LucideIcons {
   ///
   /// [View "monitor-up" on lucide.dev](https://lucide.dev/icons/monitor-up)
   static const IconData monitorUp = IconData(
-    58406,
+    58402,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9980,7 +9970,7 @@ class LucideIcons {
   ///
   /// [View "monitor-x" on lucide.dev](https://lucide.dev/icons/monitor-x)
   static const IconData monitorX = IconData(
-    58507,
+    58503,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10000,7 +9990,7 @@ class LucideIcons {
   ///
   /// [View "moon-star" on lucide.dev](https://lucide.dev/icons/moon-star)
   static const IconData moonStar = IconData(
-    58388,
+    58384,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10020,7 +10010,7 @@ class LucideIcons {
   ///
   /// [View "motorbike" on lucide.dev](https://lucide.dev/icons/motorbike)
   static const IconData motorbike = IconData(
-    59036,
+    59032,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10050,7 +10040,7 @@ class LucideIcons {
   ///
   /// [View "mouse-off" on lucide.dev](https://lucide.dev/icons/mouse-off)
   static const IconData mouseOff = IconData(
-    58847,
+    58843,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10070,7 +10060,7 @@ class LucideIcons {
   ///
   /// [View "mouse-pointer-ban" on lucide.dev](https://lucide.dev/icons/mouse-pointer-ban)
   static const IconData mousePointerBan = IconData(
-    58859,
+    58855,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10140,7 +10130,7 @@ class LucideIcons {
   ///
   /// [View "move-down-left" on lucide.dev](https://lucide.dev/icons/move-down-left)
   static const IconData moveDownLeft = IconData(
-    58513,
+    58509,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10150,7 +10140,7 @@ class LucideIcons {
   ///
   /// [View "move-down-right" on lucide.dev](https://lucide.dev/icons/move-down-right)
   static const IconData moveDownRight = IconData(
-    58514,
+    58510,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10160,7 +10150,7 @@ class LucideIcons {
   ///
   /// [View "move-down" on lucide.dev](https://lucide.dev/icons/move-down)
   static const IconData moveDown = IconData(
-    58512,
+    58508,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10180,7 +10170,7 @@ class LucideIcons {
   ///
   /// [View "move-left" on lucide.dev](https://lucide.dev/icons/move-left)
   static const IconData moveLeft = IconData(
-    58515,
+    58511,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10190,7 +10180,7 @@ class LucideIcons {
   ///
   /// [View "move-right" on lucide.dev](https://lucide.dev/icons/move-right)
   static const IconData moveRight = IconData(
-    58516,
+    58512,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10200,7 +10190,7 @@ class LucideIcons {
   ///
   /// [View "move-up-left" on lucide.dev](https://lucide.dev/icons/move-up-left)
   static const IconData moveUpLeft = IconData(
-    58518,
+    58514,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10210,7 +10200,7 @@ class LucideIcons {
   ///
   /// [View "move-up-right" on lucide.dev](https://lucide.dev/icons/move-up-right)
   static const IconData moveUpRight = IconData(
-    58519,
+    58515,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10220,7 +10210,7 @@ class LucideIcons {
   ///
   /// [View "move-up" on lucide.dev](https://lucide.dev/icons/move-up)
   static const IconData moveUp = IconData(
-    58517,
+    58513,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10250,7 +10240,7 @@ class LucideIcons {
   ///
   /// [View "music-2" on lucide.dev](https://lucide.dev/icons/music-2)
   static const IconData music2 = IconData(
-    58190,
+    58186,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10260,7 +10250,7 @@ class LucideIcons {
   ///
   /// [View "music-3" on lucide.dev](https://lucide.dev/icons/music-3)
   static const IconData music3 = IconData(
-    58191,
+    58187,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10270,7 +10260,7 @@ class LucideIcons {
   ///
   /// [View "music-4" on lucide.dev](https://lucide.dev/icons/music-4)
   static const IconData music4 = IconData(
-    58192,
+    58188,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10340,7 +10330,7 @@ class LucideIcons {
   ///
   /// [View "newspaper" on lucide.dev](https://lucide.dev/icons/newspaper)
   static const IconData newspaper = IconData(
-    58188,
+    58184,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10350,7 +10340,7 @@ class LucideIcons {
   ///
   /// [View "nfc" on lucide.dev](https://lucide.dev/icons/nfc)
   static const IconData nfc = IconData(
-    58311,
+    58307,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10360,7 +10350,7 @@ class LucideIcons {
   ///
   /// [View "non-binary" on lucide.dev](https://lucide.dev/icons/non-binary)
   static const IconData nonBinary = IconData(
-    58951,
+    58947,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10370,7 +10360,7 @@ class LucideIcons {
   ///
   /// [View "notebook-pen" on lucide.dev](https://lucide.dev/icons/notebook-pen)
   static const IconData notebookPen = IconData(
-    58778,
+    58774,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10380,7 +10370,7 @@ class LucideIcons {
   ///
   /// [View "notebook-tabs" on lucide.dev](https://lucide.dev/icons/notebook-tabs)
   static const IconData notebookTabs = IconData(
-    58779,
+    58775,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10390,7 +10380,7 @@ class LucideIcons {
   ///
   /// [View "notebook-text" on lucide.dev](https://lucide.dev/icons/notebook-text)
   static const IconData notebookText = IconData(
-    58780,
+    58776,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10400,7 +10390,7 @@ class LucideIcons {
   ///
   /// [View "notebook" on lucide.dev](https://lucide.dev/icons/notebook)
   static const IconData notebook = IconData(
-    58777,
+    58773,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10410,7 +10400,7 @@ class LucideIcons {
   ///
   /// [View "notepad-text-dashed" on lucide.dev](https://lucide.dev/icons/notepad-text-dashed)
   static const IconData notepadTextDashed = IconData(
-    58782,
+    58778,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10420,7 +10410,7 @@ class LucideIcons {
   ///
   /// [View "notepad-text" on lucide.dev](https://lucide.dev/icons/notepad-text)
   static const IconData notepadText = IconData(
-    58781,
+    58777,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10430,7 +10420,7 @@ class LucideIcons {
   ///
   /// [View "nut-off" on lucide.dev](https://lucide.dev/icons/nut-off)
   static const IconData nutOff = IconData(
-    58272,
+    58268,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10440,7 +10430,7 @@ class LucideIcons {
   ///
   /// [View "nut" on lucide.dev](https://lucide.dev/icons/nut)
   static const IconData nut = IconData(
-    58271,
+    58267,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10460,7 +10450,7 @@ class LucideIcons {
   ///
   /// [View "octagon-minus" on lucide.dev](https://lucide.dev/icons/octagon-minus)
   static const IconData octagonMinus = IconData(
-    58923,
+    58919,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10500,7 +10490,7 @@ class LucideIcons {
   ///
   /// [View "omega" on lucide.dev](https://lucide.dev/icons/omega)
   static const IconData omega = IconData(
-    58909,
+    58905,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10520,7 +10510,7 @@ class LucideIcons {
   ///
   /// [View "orbit" on lucide.dev](https://lucide.dev/icons/orbit)
   static const IconData orbit = IconData(
-    58347,
+    58343,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10530,7 +10520,7 @@ class LucideIcons {
   ///
   /// [View "origami" on lucide.dev](https://lucide.dev/icons/origami)
   static const IconData origami = IconData(
-    58855,
+    58851,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10540,7 +10530,7 @@ class LucideIcons {
   ///
   /// [View "package-2" on lucide.dev](https://lucide.dev/icons/package-2)
   static const IconData package2 = IconData(
-    58180,
+    58176,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10630,7 +10620,7 @@ class LucideIcons {
   ///
   /// [View "paint-roller" on lucide.dev](https://lucide.dev/icons/paint-roller)
   static const IconData paintRoller = IconData(
-    58786,
+    58782,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10670,7 +10660,7 @@ class LucideIcons {
   ///
   /// [View "panda" on lucide.dev](https://lucide.dev/icons/panda)
   static const IconData panda = IconData(
-    58988,
+    58984,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10680,7 +10670,7 @@ class LucideIcons {
   ///
   /// [View "panel-bottom-close" on lucide.dev](https://lucide.dev/icons/panel-bottom-close)
   static const IconData panelBottomClose = IconData(
-    58417,
+    58413,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10690,7 +10680,7 @@ class LucideIcons {
   ///
   /// [View "panel-bottom-dashed" on lucide.dev](https://lucide.dev/icons/panel-bottom-dashed)
   static const IconData panelBottomDashed = IconData(
-    58418,
+    58414,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10700,7 +10690,7 @@ class LucideIcons {
   ///
   /// [View "panel-bottom-open" on lucide.dev](https://lucide.dev/icons/panel-bottom-open)
   static const IconData panelBottomOpen = IconData(
-    58419,
+    58415,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10710,7 +10700,7 @@ class LucideIcons {
   ///
   /// [View "panel-bottom" on lucide.dev](https://lucide.dev/icons/panel-bottom)
   static const IconData panelBottom = IconData(
-    58416,
+    58412,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10730,7 +10720,7 @@ class LucideIcons {
   ///
   /// [View "panel-left-dashed" on lucide.dev](https://lucide.dev/icons/panel-left-dashed)
   static const IconData panelLeftDashed = IconData(
-    58420,
+    58416,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10750,7 +10740,7 @@ class LucideIcons {
   ///
   /// [View "panel-left-right-dashed" on lucide.dev](https://lucide.dev/icons/panel-left-right-dashed)
   static const IconData panelLeftRightDashed = IconData(
-    59030,
+    59026,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10770,7 +10760,7 @@ class LucideIcons {
   ///
   /// [View "panel-right-close" on lucide.dev](https://lucide.dev/icons/panel-right-close)
   static const IconData panelRightClose = IconData(
-    58422,
+    58418,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10780,7 +10770,7 @@ class LucideIcons {
   ///
   /// [View "panel-right-dashed" on lucide.dev](https://lucide.dev/icons/panel-right-dashed)
   static const IconData panelRightDashed = IconData(
-    58423,
+    58419,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10790,7 +10780,7 @@ class LucideIcons {
   ///
   /// [View "panel-right-open" on lucide.dev](https://lucide.dev/icons/panel-right-open)
   static const IconData panelRightOpen = IconData(
-    58424,
+    58420,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10800,7 +10790,7 @@ class LucideIcons {
   ///
   /// [View "panel-right" on lucide.dev](https://lucide.dev/icons/panel-right)
   static const IconData panelRight = IconData(
-    58421,
+    58417,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10810,7 +10800,7 @@ class LucideIcons {
   ///
   /// [View "panel-top-bottom-dashed" on lucide.dev](https://lucide.dev/icons/panel-top-bottom-dashed)
   static const IconData panelTopBottomDashed = IconData(
-    59031,
+    59027,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10820,7 +10810,7 @@ class LucideIcons {
   ///
   /// [View "panel-top-close" on lucide.dev](https://lucide.dev/icons/panel-top-close)
   static const IconData panelTopClose = IconData(
-    58426,
+    58422,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10830,7 +10820,7 @@ class LucideIcons {
   ///
   /// [View "panel-top-dashed" on lucide.dev](https://lucide.dev/icons/panel-top-dashed)
   static const IconData panelTopDashed = IconData(
-    58427,
+    58423,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10840,7 +10830,7 @@ class LucideIcons {
   ///
   /// [View "panel-top-open" on lucide.dev](https://lucide.dev/icons/panel-top-open)
   static const IconData panelTopOpen = IconData(
-    58428,
+    58424,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10850,7 +10840,7 @@ class LucideIcons {
   ///
   /// [View "panel-top" on lucide.dev](https://lucide.dev/icons/panel-top)
   static const IconData panelTop = IconData(
-    58425,
+    58421,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10870,7 +10860,7 @@ class LucideIcons {
   ///
   /// [View "panels-right-bottom" on lucide.dev](https://lucide.dev/icons/panels-right-bottom)
   static const IconData panelsRightBottom = IconData(
-    58764,
+    58760,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10900,7 +10890,7 @@ class LucideIcons {
   ///
   /// [View "parentheses" on lucide.dev](https://lucide.dev/icons/parentheses)
   static const IconData parentheses = IconData(
-    58440,
+    58436,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10910,7 +10900,7 @@ class LucideIcons {
   ///
   /// [View "parking-meter" on lucide.dev](https://lucide.dev/icons/parking-meter)
   static const IconData parkingMeter = IconData(
-    58628,
+    58624,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10920,7 +10910,7 @@ class LucideIcons {
   ///
   /// [View "party-popper" on lucide.dev](https://lucide.dev/icons/party-popper)
   static const IconData partyPopper = IconData(
-    58183,
+    58179,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10940,7 +10930,7 @@ class LucideIcons {
   ///
   /// [View "paw-print" on lucide.dev](https://lucide.dev/icons/paw-print)
   static const IconData pawPrint = IconData(
-    58617,
+    58613,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10950,7 +10940,7 @@ class LucideIcons {
   ///
   /// [View "pc-case" on lucide.dev](https://lucide.dev/icons/pc-case)
   static const IconData pcCase = IconData(
-    58442,
+    58438,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10970,7 +10960,7 @@ class LucideIcons {
   ///
   /// [View "pen-off" on lucide.dev](https://lucide.dev/icons/pen-off)
   static const IconData penOff = IconData(
-    58866,
+    58862,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11000,7 +10990,7 @@ class LucideIcons {
   ///
   /// [View "pencil-line" on lucide.dev](https://lucide.dev/icons/pencil-line)
   static const IconData pencilLine = IconData(
-    58612,
+    58608,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11010,7 +11000,7 @@ class LucideIcons {
   ///
   /// [View "pencil-off" on lucide.dev](https://lucide.dev/icons/pencil-off)
   static const IconData pencilOff = IconData(
-    58867,
+    58863,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11020,7 +11010,7 @@ class LucideIcons {
   ///
   /// [View "pencil-ruler" on lucide.dev](https://lucide.dev/icons/pencil-ruler)
   static const IconData pencilRuler = IconData(
-    58613,
+    58609,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11040,7 +11030,7 @@ class LucideIcons {
   ///
   /// [View "pentagon" on lucide.dev](https://lucide.dev/icons/pentagon)
   static const IconData pentagon = IconData(
-    58671,
+    58667,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11070,7 +11060,7 @@ class LucideIcons {
   ///
   /// [View "philippine-peso" on lucide.dev](https://lucide.dev/icons/philippine-peso)
   static const IconData philippinePeso = IconData(
-    58888,
+    58884,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11150,7 +11140,7 @@ class LucideIcons {
   ///
   /// [View "pi" on lucide.dev](https://lucide.dev/icons/pi)
   static const IconData pi = IconData(
-    58486,
+    58482,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11160,7 +11150,7 @@ class LucideIcons {
   ///
   /// [View "piano" on lucide.dev](https://lucide.dev/icons/piano)
   static const IconData piano = IconData(
-    58725,
+    58721,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11170,7 +11160,7 @@ class LucideIcons {
   ///
   /// [View "pickaxe" on lucide.dev](https://lucide.dev/icons/pickaxe)
   static const IconData pickaxe = IconData(
-    58826,
+    58822,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11180,7 +11170,7 @@ class LucideIcons {
   ///
   /// [View "picture-in-picture-2" on lucide.dev](https://lucide.dev/icons/picture-in-picture-2)
   static const IconData pictureInPicture2 = IconData(
-    58291,
+    58287,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11190,7 +11180,7 @@ class LucideIcons {
   ///
   /// [View "picture-in-picture" on lucide.dev](https://lucide.dev/icons/picture-in-picture)
   static const IconData pictureInPicture = IconData(
-    58290,
+    58286,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11210,7 +11200,7 @@ class LucideIcons {
   ///
   /// [View "pilcrow-left" on lucide.dev](https://lucide.dev/icons/pilcrow-left)
   static const IconData pilcrowLeft = IconData(
-    58848,
+    58844,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11220,7 +11210,7 @@ class LucideIcons {
   ///
   /// [View "pilcrow-right" on lucide.dev](https://lucide.dev/icons/pilcrow-right)
   static const IconData pilcrowRight = IconData(
-    58849,
+    58845,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11230,7 +11220,7 @@ class LucideIcons {
   ///
   /// [View "pilcrow" on lucide.dev](https://lucide.dev/icons/pilcrow)
   static const IconData pilcrow = IconData(
-    58279,
+    58275,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11240,7 +11230,7 @@ class LucideIcons {
   ///
   /// [View "pill-bottle" on lucide.dev](https://lucide.dev/icons/pill-bottle)
   static const IconData pillBottle = IconData(
-    58862,
+    58858,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11250,7 +11240,7 @@ class LucideIcons {
   ///
   /// [View "pill" on lucide.dev](https://lucide.dev/icons/pill)
   static const IconData pill = IconData(
-    58305,
+    58301,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11290,7 +11280,7 @@ class LucideIcons {
   ///
   /// [View "pizza" on lucide.dev](https://lucide.dev/icons/pizza)
   static const IconData pizza = IconData(
-    58200,
+    58196,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11300,7 +11290,7 @@ class LucideIcons {
   ///
   /// [View "plane-landing" on lucide.dev](https://lucide.dev/icons/plane-landing)
   static const IconData planeLanding = IconData(
-    58321,
+    58317,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11310,7 +11300,7 @@ class LucideIcons {
   ///
   /// [View "plane-takeoff" on lucide.dev](https://lucide.dev/icons/plane-takeoff)
   static const IconData planeTakeoff = IconData(
-    58322,
+    58318,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11340,7 +11330,7 @@ class LucideIcons {
   ///
   /// [View "plug-2" on lucide.dev](https://lucide.dev/icons/plug-2)
   static const IconData plug2 = IconData(
-    58244,
+    58240,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11350,7 +11340,7 @@ class LucideIcons {
   ///
   /// [View "plug-zap" on lucide.dev](https://lucide.dev/icons/plug-zap)
   static const IconData plugZap = IconData(
-    58464,
+    58460,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11360,7 +11350,7 @@ class LucideIcons {
   ///
   /// [View "plug" on lucide.dev](https://lucide.dev/icons/plug)
   static const IconData plug = IconData(
-    58243,
+    58239,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11380,7 +11370,7 @@ class LucideIcons {
   ///
   /// [View "pocket-knife" on lucide.dev](https://lucide.dev/icons/pocket-knife)
   static const IconData pocketKnife = IconData(
-    58532,
+    58528,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11410,7 +11400,7 @@ class LucideIcons {
   ///
   /// [View "pointer-off" on lucide.dev](https://lucide.dev/icons/pointer-off)
   static const IconData pointerOff = IconData(
-    58755,
+    58751,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11430,7 +11420,7 @@ class LucideIcons {
   ///
   /// [View "popcorn" on lucide.dev](https://lucide.dev/icons/popcorn)
   static const IconData popcorn = IconData(
-    58562,
+    58558,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11440,7 +11430,7 @@ class LucideIcons {
   ///
   /// [View "popsicle" on lucide.dev](https://lucide.dev/icons/popsicle)
   static const IconData popsicle = IconData(
-    58563,
+    58559,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11480,7 +11470,7 @@ class LucideIcons {
   ///
   /// [View "presentation" on lucide.dev](https://lucide.dev/icons/presentation)
   static const IconData presentation = IconData(
-    58546,
+    58542,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11490,7 +11480,7 @@ class LucideIcons {
   ///
   /// [View "printer-check" on lucide.dev](https://lucide.dev/icons/printer-check)
   static const IconData printerCheck = IconData(
-    58873,
+    58869,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11510,7 +11500,7 @@ class LucideIcons {
   ///
   /// [View "projector" on lucide.dev](https://lucide.dev/icons/projector)
   static const IconData projector = IconData(
-    58547,
+    58543,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11520,7 +11510,7 @@ class LucideIcons {
   ///
   /// [View "proportions" on lucide.dev](https://lucide.dev/icons/proportions)
   static const IconData proportions = IconData(
-    58835,
+    58831,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11540,7 +11530,7 @@ class LucideIcons {
   ///
   /// [View "pyramid" on lucide.dev](https://lucide.dev/icons/pyramid)
   static const IconData pyramid = IconData(
-    58672,
+    58668,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11570,7 +11560,7 @@ class LucideIcons {
   ///
   /// [View "rabbit" on lucide.dev](https://lucide.dev/icons/rabbit)
   static const IconData rabbit = IconData(
-    58618,
+    58614,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11580,7 +11570,7 @@ class LucideIcons {
   ///
   /// [View "radar" on lucide.dev](https://lucide.dev/icons/radar)
   static const IconData radar = IconData(
-    58523,
+    58519,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11590,7 +11580,7 @@ class LucideIcons {
   ///
   /// [View "radiation" on lucide.dev](https://lucide.dev/icons/radiation)
   static const IconData radiation = IconData(
-    58438,
+    58434,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11600,7 +11590,7 @@ class LucideIcons {
   ///
   /// [View "radical" on lucide.dev](https://lucide.dev/icons/radical)
   static const IconData radical = IconData(
-    58822,
+    58818,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11620,7 +11610,7 @@ class LucideIcons {
   ///
   /// [View "radio-tower" on lucide.dev](https://lucide.dev/icons/radio-tower)
   static const IconData radioTower = IconData(
-    58376,
+    58372,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11640,7 +11630,7 @@ class LucideIcons {
   ///
   /// [View "radius" on lucide.dev](https://lucide.dev/icons/radius)
   static const IconData radius = IconData(
-    58673,
+    58669,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11650,7 +11640,7 @@ class LucideIcons {
   ///
   /// [View "rail-symbol" on lucide.dev](https://lucide.dev/icons/rail-symbol)
   static const IconData railSymbol = IconData(
-    58629,
+    58625,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11660,7 +11650,7 @@ class LucideIcons {
   ///
   /// [View "rainbow" on lucide.dev](https://lucide.dev/icons/rainbow)
   static const IconData rainbow = IconData(
-    58566,
+    58562,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11670,7 +11660,7 @@ class LucideIcons {
   ///
   /// [View "rat" on lucide.dev](https://lucide.dev/icons/rat)
   static const IconData rat = IconData(
-    58351,
+    58347,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11680,7 +11670,7 @@ class LucideIcons {
   ///
   /// [View "ratio" on lucide.dev](https://lucide.dev/icons/ratio)
   static const IconData ratio = IconData(
-    58604,
+    58600,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11690,7 +11680,7 @@ class LucideIcons {
   ///
   /// [View "receipt-cent" on lucide.dev](https://lucide.dev/icons/receipt-cent)
   static const IconData receiptCent = IconData(
-    58793,
+    58789,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11700,7 +11690,7 @@ class LucideIcons {
   ///
   /// [View "receipt-euro" on lucide.dev](https://lucide.dev/icons/receipt-euro)
   static const IconData receiptEuro = IconData(
-    58794,
+    58790,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11710,7 +11700,7 @@ class LucideIcons {
   ///
   /// [View "receipt-indian-rupee" on lucide.dev](https://lucide.dev/icons/receipt-indian-rupee)
   static const IconData receiptIndianRupee = IconData(
-    58795,
+    58791,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11720,7 +11710,7 @@ class LucideIcons {
   ///
   /// [View "receipt-japanese-yen" on lucide.dev](https://lucide.dev/icons/receipt-japanese-yen)
   static const IconData receiptJapaneseYen = IconData(
-    58796,
+    58792,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11730,7 +11720,7 @@ class LucideIcons {
   ///
   /// [View "receipt-pound-sterling" on lucide.dev](https://lucide.dev/icons/receipt-pound-sterling)
   static const IconData receiptPoundSterling = IconData(
-    58797,
+    58793,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11740,7 +11730,7 @@ class LucideIcons {
   ///
   /// [View "receipt-russian-ruble" on lucide.dev](https://lucide.dev/icons/receipt-russian-ruble)
   static const IconData receiptRussianRuble = IconData(
-    58798,
+    58794,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11750,7 +11740,7 @@ class LucideIcons {
   ///
   /// [View "receipt-swiss-franc" on lucide.dev](https://lucide.dev/icons/receipt-swiss-franc)
   static const IconData receiptSwissFranc = IconData(
-    58799,
+    58795,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11760,7 +11750,7 @@ class LucideIcons {
   ///
   /// [View "receipt-text" on lucide.dev](https://lucide.dev/icons/receipt-text)
   static const IconData receiptText = IconData(
-    58800,
+    58796,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11770,7 +11760,7 @@ class LucideIcons {
   ///
   /// [View "receipt-turkish-lira" on lucide.dev](https://lucide.dev/icons/receipt-turkish-lira)
   static const IconData receiptTurkishLira = IconData(
-    59011,
+    59007,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11780,7 +11770,7 @@ class LucideIcons {
   ///
   /// [View "receipt" on lucide.dev](https://lucide.dev/icons/receipt)
   static const IconData receipt = IconData(
-    58327,
+    58323,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11790,7 +11780,7 @@ class LucideIcons {
   ///
   /// [View "rectangle-circle" on lucide.dev](https://lucide.dev/icons/rectangle-circle)
   static const IconData rectangleCircle = IconData(
-    58999,
+    58995,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11810,7 +11800,7 @@ class LucideIcons {
   ///
   /// [View "rectangle-goggles" on lucide.dev](https://lucide.dev/icons/rectangle-goggles)
   static const IconData rectangleGoggles = IconData(
-    58970,
+    58966,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11820,7 +11810,7 @@ class LucideIcons {
   ///
   /// [View "rectangle-horizontal" on lucide.dev](https://lucide.dev/icons/rectangle-horizontal)
   static const IconData rectangleHorizontal = IconData(
-    58234,
+    58230,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11830,7 +11820,7 @@ class LucideIcons {
   ///
   /// [View "rectangle-vertical" on lucide.dev](https://lucide.dev/icons/rectangle-vertical)
   static const IconData rectangleVertical = IconData(
-    58235,
+    58231,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11860,7 +11850,7 @@ class LucideIcons {
   ///
   /// [View "redo-dot" on lucide.dev](https://lucide.dev/icons/redo-dot)
   static const IconData redoDot = IconData(
-    58452,
+    58448,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11880,7 +11870,7 @@ class LucideIcons {
   ///
   /// [View "refresh-ccw-dot" on lucide.dev](https://lucide.dev/icons/refresh-ccw-dot)
   static const IconData refreshCcwDot = IconData(
-    58550,
+    58546,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11900,7 +11890,7 @@ class LucideIcons {
   ///
   /// [View "refresh-cw-off" on lucide.dev](https://lucide.dev/icons/refresh-cw-off)
   static const IconData refreshCwOff = IconData(
-    58524,
+    58520,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11920,7 +11910,7 @@ class LucideIcons {
   ///
   /// [View "refrigerator" on lucide.dev](https://lucide.dev/icons/refrigerator)
   static const IconData refrigerator = IconData(
-    58239,
+    58235,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11940,7 +11930,7 @@ class LucideIcons {
   ///
   /// [View "remove-formatting" on lucide.dev](https://lucide.dev/icons/remove-formatting)
   static const IconData removeFormatting = IconData(
-    58295,
+    58291,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11960,7 +11950,7 @@ class LucideIcons {
   ///
   /// [View "repeat-2" on lucide.dev](https://lucide.dev/icons/repeat-2)
   static const IconData repeat2 = IconData(
-    58389,
+    58385,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11980,7 +11970,7 @@ class LucideIcons {
   ///
   /// [View "replace-all" on lucide.dev](https://lucide.dev/icons/replace-all)
   static const IconData replaceAll = IconData(
-    58336,
+    58332,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -11990,7 +11980,7 @@ class LucideIcons {
   ///
   /// [View "replace" on lucide.dev](https://lucide.dev/icons/replace)
   static const IconData replace = IconData(
-    58335,
+    58331,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12030,7 +12020,7 @@ class LucideIcons {
   ///
   /// [View "ribbon" on lucide.dev](https://lucide.dev/icons/ribbon)
   static const IconData ribbon = IconData(
-    58716,
+    58712,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12060,7 +12050,7 @@ class LucideIcons {
   ///
   /// [View "roller-coaster" on lucide.dev](https://lucide.dev/icons/roller-coaster)
   static const IconData rollerCoaster = IconData(
-    58500,
+    58496,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12070,7 +12060,7 @@ class LucideIcons {
   ///
   /// [View "rose" on lucide.dev](https://lucide.dev/icons/rose)
   static const IconData rose = IconData(
-    59029,
+    59025,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12090,7 +12080,7 @@ class LucideIcons {
   ///
   /// [View "rotate-ccw-key" on lucide.dev](https://lucide.dev/icons/rotate-ccw-key)
   static const IconData rotateCcwKey = IconData(
-    58964,
+    58960,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12100,7 +12090,7 @@ class LucideIcons {
   ///
   /// [View "rotate-ccw-square" on lucide.dev](https://lucide.dev/icons/rotate-ccw-square)
   static const IconData rotateCcwSquare = IconData(
-    58836,
+    58832,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12120,7 +12110,7 @@ class LucideIcons {
   ///
   /// [View "rotate-cw-square" on lucide.dev](https://lucide.dev/icons/rotate-cw-square)
   static const IconData rotateCwSquare = IconData(
-    58837,
+    58833,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12140,7 +12130,7 @@ class LucideIcons {
   ///
   /// [View "route-off" on lucide.dev](https://lucide.dev/icons/route-off)
   static const IconData routeOff = IconData(
-    58691,
+    58687,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12150,7 +12140,7 @@ class LucideIcons {
   ///
   /// [View "route" on lucide.dev](https://lucide.dev/icons/route)
   static const IconData route = IconData(
-    58690,
+    58686,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12160,7 +12150,7 @@ class LucideIcons {
   ///
   /// [View "router" on lucide.dev](https://lucide.dev/icons/router)
   static const IconData router = IconData(
-    58307,
+    58303,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12170,7 +12160,7 @@ class LucideIcons {
   ///
   /// [View "rows-2" on lucide.dev](https://lucide.dev/icons/rows-2)
   static const IconData rows2 = IconData(
-    58429,
+    58425,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12180,7 +12170,7 @@ class LucideIcons {
   ///
   /// [View "rows-3" on lucide.dev](https://lucide.dev/icons/rows-3)
   static const IconData rows3 = IconData(
-    58766,
+    58762,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12190,7 +12180,7 @@ class LucideIcons {
   ///
   /// [View "rows-4" on lucide.dev](https://lucide.dev/icons/rows-4)
   static const IconData rows4 = IconData(
-    58767,
+    58763,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12210,7 +12200,7 @@ class LucideIcons {
   ///
   /// [View "ruler-dimension-line" on lucide.dev](https://lucide.dev/icons/ruler-dimension-line)
   static const IconData rulerDimensionLine = IconData(
-    58982,
+    58978,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12240,7 +12230,7 @@ class LucideIcons {
   ///
   /// [View "sailboat" on lucide.dev](https://lucide.dev/icons/sailboat)
   static const IconData sailboat = IconData(
-    58242,
+    58238,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12250,7 +12240,7 @@ class LucideIcons {
   ///
   /// [View "salad" on lucide.dev](https://lucide.dev/icons/salad)
   static const IconData salad = IconData(
-    58284,
+    58280,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12260,7 +12250,7 @@ class LucideIcons {
   ///
   /// [View "sandwich" on lucide.dev](https://lucide.dev/icons/sandwich)
   static const IconData sandwich = IconData(
-    58285,
+    58281,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12270,7 +12260,7 @@ class LucideIcons {
   ///
   /// [View "satellite-dish" on lucide.dev](https://lucide.dev/icons/satellite-dish)
   static const IconData satelliteDish = IconData(
-    58444,
+    58440,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12280,7 +12270,7 @@ class LucideIcons {
   ///
   /// [View "satellite" on lucide.dev](https://lucide.dev/icons/satellite)
   static const IconData satellite = IconData(
-    58443,
+    58439,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12290,7 +12280,7 @@ class LucideIcons {
   ///
   /// [View "saudi-riyal" on lucide.dev](https://lucide.dev/icons/saudi-riyal)
   static const IconData saudiRiyal = IconData(
-    58959,
+    58955,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12300,7 +12290,7 @@ class LucideIcons {
   ///
   /// [View "save-all" on lucide.dev](https://lucide.dev/icons/save-all)
   static const IconData saveAll = IconData(
-    58387,
+    58383,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12310,7 +12300,7 @@ class LucideIcons {
   ///
   /// [View "save-off" on lucide.dev](https://lucide.dev/icons/save-off)
   static const IconData saveOff = IconData(
-    58871,
+    58867,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12360,7 +12350,7 @@ class LucideIcons {
   ///
   /// [View "scan-barcode" on lucide.dev](https://lucide.dev/icons/scan-barcode)
   static const IconData scanBarcode = IconData(
-    58681,
+    58677,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12370,7 +12360,7 @@ class LucideIcons {
   ///
   /// [View "scan-eye" on lucide.dev](https://lucide.dev/icons/scan-eye)
   static const IconData scanEye = IconData(
-    58682,
+    58678,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12380,7 +12370,7 @@ class LucideIcons {
   ///
   /// [View "scan-face" on lucide.dev](https://lucide.dev/icons/scan-face)
   static const IconData scanFace = IconData(
-    58229,
+    58225,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12390,7 +12380,7 @@ class LucideIcons {
   ///
   /// [View "scan-heart" on lucide.dev](https://lucide.dev/icons/scan-heart)
   static const IconData scanHeart = IconData(
-    58942,
+    58938,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12410,7 +12400,7 @@ class LucideIcons {
   ///
   /// [View "scan-qr-code" on lucide.dev](https://lucide.dev/icons/scan-qr-code)
   static const IconData scanQrCode = IconData(
-    58874,
+    58870,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12420,7 +12410,7 @@ class LucideIcons {
   ///
   /// [View "scan-search" on lucide.dev](https://lucide.dev/icons/scan-search)
   static const IconData scanSearch = IconData(
-    58683,
+    58679,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12430,7 +12420,7 @@ class LucideIcons {
   ///
   /// [View "scan-text" on lucide.dev](https://lucide.dev/icons/scan-text)
   static const IconData scanText = IconData(
-    58684,
+    58680,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12450,7 +12440,7 @@ class LucideIcons {
   ///
   /// [View "school" on lucide.dev](https://lucide.dev/icons/school)
   static const IconData school = IconData(
-    58343,
+    58339,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12460,7 +12450,7 @@ class LucideIcons {
   ///
   /// [View "scissors-line-dashed" on lucide.dev](https://lucide.dev/icons/scissors-line-dashed)
   static const IconData scissorsLineDashed = IconData(
-    58605,
+    58601,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12500,7 +12490,7 @@ class LucideIcons {
   ///
   /// [View "scroll-text" on lucide.dev](https://lucide.dev/icons/scroll-text)
   static const IconData scrollText = IconData(
-    58467,
+    58463,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12520,7 +12510,7 @@ class LucideIcons {
   ///
   /// [View "search-check" on lucide.dev](https://lucide.dev/icons/search-check)
   static const IconData searchCheck = IconData(
-    58542,
+    58538,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12530,7 +12520,7 @@ class LucideIcons {
   ///
   /// [View "search-code" on lucide.dev](https://lucide.dev/icons/search-code)
   static const IconData searchCode = IconData(
-    58543,
+    58539,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12540,7 +12530,7 @@ class LucideIcons {
   ///
   /// [View "search-slash" on lucide.dev](https://lucide.dev/icons/search-slash)
   static const IconData searchSlash = IconData(
-    58544,
+    58540,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12550,7 +12540,7 @@ class LucideIcons {
   ///
   /// [View "search-x" on lucide.dev](https://lucide.dev/icons/search-x)
   static const IconData searchX = IconData(
-    58545,
+    58541,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12570,7 +12560,7 @@ class LucideIcons {
   ///
   /// [View "section" on lucide.dev](https://lucide.dev/icons/section)
   static const IconData section = IconData(
-    58860,
+    58856,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12580,7 +12570,7 @@ class LucideIcons {
   ///
   /// [View "send-horizontal" on lucide.dev](https://lucide.dev/icons/send-horizontal)
   static const IconData sendHorizontal = IconData(
-    58614,
+    58610,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12590,7 +12580,7 @@ class LucideIcons {
   ///
   /// [View "send-to-back" on lucide.dev](https://lucide.dev/icons/send-to-back)
   static const IconData sendToBack = IconData(
-    58615,
+    58611,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12630,7 +12620,7 @@ class LucideIcons {
   ///
   /// [View "server-cog" on lucide.dev](https://lucide.dev/icons/server-cog)
   static const IconData serverCog = IconData(
-    58181,
+    58177,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12690,7 +12680,7 @@ class LucideIcons {
   ///
   /// [View "shapes" on lucide.dev](https://lucide.dev/icons/shapes)
   static const IconData shapes = IconData(
-    58551,
+    58547,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12730,7 +12720,7 @@ class LucideIcons {
   ///
   /// [View "shell" on lucide.dev](https://lucide.dev/icons/shell)
   static const IconData shell = IconData(
-    58619,
+    58615,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12770,7 +12760,7 @@ class LucideIcons {
   ///
   /// [View "shield-ellipsis" on lucide.dev](https://lucide.dev/icons/shield-ellipsis)
   static const IconData shieldEllipsis = IconData(
-    58650,
+    58646,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12780,7 +12770,7 @@ class LucideIcons {
   ///
   /// [View "shield-half" on lucide.dev](https://lucide.dev/icons/shield-half)
   static const IconData shieldHalf = IconData(
-    58651,
+    58647,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12790,7 +12780,7 @@ class LucideIcons {
   ///
   /// [View "shield-minus" on lucide.dev](https://lucide.dev/icons/shield-minus)
   static const IconData shieldMinus = IconData(
-    58652,
+    58648,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12810,7 +12800,7 @@ class LucideIcons {
   ///
   /// [View "shield-plus" on lucide.dev](https://lucide.dev/icons/shield-plus)
   static const IconData shieldPlus = IconData(
-    58653,
+    58649,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12820,7 +12810,7 @@ class LucideIcons {
   ///
   /// [View "shield-question-mark" on lucide.dev](https://lucide.dev/icons/shield-question-mark)
   static const IconData shieldQuestionMark = IconData(
-    58386,
+    58382,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12830,7 +12820,7 @@ class LucideIcons {
   ///
   /// [View "shield-user" on lucide.dev](https://lucide.dev/icons/shield-user)
   static const IconData shieldUser = IconData(
-    58955,
+    58951,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12860,7 +12850,7 @@ class LucideIcons {
   ///
   /// [View "ship-wheel" on lucide.dev](https://lucide.dev/icons/ship-wheel)
   static const IconData shipWheel = IconData(
-    58630,
+    58626,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12870,7 +12860,7 @@ class LucideIcons {
   ///
   /// [View "ship" on lucide.dev](https://lucide.dev/icons/ship)
   static const IconData ship = IconData(
-    58302,
+    58298,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12900,7 +12890,7 @@ class LucideIcons {
   ///
   /// [View "shopping-basket" on lucide.dev](https://lucide.dev/icons/shopping-basket)
   static const IconData shoppingBasket = IconData(
-    58606,
+    58602,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12930,7 +12920,7 @@ class LucideIcons {
   ///
   /// [View "shower-head" on lucide.dev](https://lucide.dev/icons/shower-head)
   static const IconData showerHead = IconData(
-    58240,
+    58236,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12940,7 +12930,7 @@ class LucideIcons {
   ///
   /// [View "shredder" on lucide.dev](https://lucide.dev/icons/shredder)
   static const IconData shredder = IconData(
-    58975,
+    58971,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12950,7 +12940,7 @@ class LucideIcons {
   ///
   /// [View "shrimp" on lucide.dev](https://lucide.dev/icons/shrimp)
   static const IconData shrimp = IconData(
-    58957,
+    58953,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13050,7 +13040,7 @@ class LucideIcons {
   ///
   /// [View "signature" on lucide.dev](https://lucide.dev/icons/signature)
   static const IconData signature = IconData(
-    58870,
+    58866,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13060,7 +13050,7 @@ class LucideIcons {
   ///
   /// [View "signpost-big" on lucide.dev](https://lucide.dev/icons/signpost-big)
   static const IconData signpostBig = IconData(
-    58693,
+    58689,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13070,7 +13060,7 @@ class LucideIcons {
   ///
   /// [View "signpost" on lucide.dev](https://lucide.dev/icons/signpost)
   static const IconData signpost = IconData(
-    58692,
+    58688,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13130,7 +13120,7 @@ class LucideIcons {
   ///
   /// [View "slash" on lucide.dev](https://lucide.dev/icons/slash)
   static const IconData slash = IconData(
-    58657,
+    58653,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13180,7 +13170,7 @@ class LucideIcons {
   ///
   /// [View "smartphone-nfc" on lucide.dev](https://lucide.dev/icons/smartphone-nfc)
   static const IconData smartphoneNfc = IconData(
-    58312,
+    58308,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13220,7 +13210,7 @@ class LucideIcons {
   ///
   /// [View "snail" on lucide.dev](https://lucide.dev/icons/snail)
   static const IconData snail = IconData(
-    58620,
+    58616,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13240,7 +13230,7 @@ class LucideIcons {
   ///
   /// [View "soap-dispenser-droplet" on lucide.dev](https://lucide.dev/icons/soap-dispenser-droplet)
   static const IconData soapDispenserDroplet = IconData(
-    58989,
+    58985,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13255,12 +13245,22 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## solar-panel
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/solar-panel.svg" width="100">
+  ///
+  /// [View "solar-panel" on lucide.dev](https://lucide.dev/icons/solar-panel)
+  static const IconData solarPanel = IconData(
+    59039,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## soup
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/soup.svg" width="100">
   ///
   /// [View "soup" on lucide.dev](https://lucide.dev/icons/soup)
   static const IconData soup = IconData(
-    58286,
+    58282,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13270,7 +13270,7 @@ class LucideIcons {
   ///
   /// [View "space" on lucide.dev](https://lucide.dev/icons/space)
   static const IconData space = IconData(
-    58337,
+    58333,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13280,7 +13280,7 @@ class LucideIcons {
   ///
   /// [View "spade" on lucide.dev](https://lucide.dev/icons/spade)
   static const IconData spade = IconData(
-    58525,
+    58521,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13290,7 +13290,7 @@ class LucideIcons {
   ///
   /// [View "sparkle" on lucide.dev](https://lucide.dev/icons/sparkle)
   static const IconData sparkle = IconData(
-    58498,
+    58494,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13300,7 +13300,7 @@ class LucideIcons {
   ///
   /// [View "sparkles" on lucide.dev](https://lucide.dev/icons/sparkles)
   static const IconData sparkles = IconData(
-    58390,
+    58386,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13320,7 +13320,7 @@ class LucideIcons {
   ///
   /// [View "speech" on lucide.dev](https://lucide.dev/icons/speech)
   static const IconData speech = IconData(
-    58658,
+    58654,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13330,7 +13330,7 @@ class LucideIcons {
   ///
   /// [View "spell-check-2" on lucide.dev](https://lucide.dev/icons/spell-check-2)
   static const IconData spellCheck2 = IconData(
-    58527,
+    58523,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13340,7 +13340,7 @@ class LucideIcons {
   ///
   /// [View "spell-check" on lucide.dev](https://lucide.dev/icons/spell-check)
   static const IconData spellCheck = IconData(
-    58526,
+    58522,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13350,7 +13350,7 @@ class LucideIcons {
   ///
   /// [View "spline-pointer" on lucide.dev](https://lucide.dev/icons/spline-pointer)
   static const IconData splinePointer = IconData(
-    58963,
+    58959,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13360,7 +13360,7 @@ class LucideIcons {
   ///
   /// [View "spline" on lucide.dev](https://lucide.dev/icons/spline)
   static const IconData spline = IconData(
-    58255,
+    58251,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13370,7 +13370,7 @@ class LucideIcons {
   ///
   /// [View "split" on lucide.dev](https://lucide.dev/icons/split)
   static const IconData split = IconData(
-    58436,
+    58432,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13380,7 +13380,7 @@ class LucideIcons {
   ///
   /// [View "spool" on lucide.dev](https://lucide.dev/icons/spool)
   static const IconData spool = IconData(
-    59003,
+    58999,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13390,7 +13390,7 @@ class LucideIcons {
   ///
   /// [View "spotlight" on lucide.dev](https://lucide.dev/icons/spotlight)
   static const IconData spotlight = IconData(
-    59014,
+    59010,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13400,7 +13400,7 @@ class LucideIcons {
   ///
   /// [View "spray-can" on lucide.dev](https://lucide.dev/icons/spray-can)
   static const IconData sprayCan = IconData(
-    58521,
+    58517,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13420,7 +13420,7 @@ class LucideIcons {
   ///
   /// [View "square-activity" on lucide.dev](https://lucide.dev/icons/square-activity)
   static const IconData squareActivity = IconData(
-    58552,
+    58548,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13430,7 +13430,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-down-left" on lucide.dev](https://lucide.dev/icons/square-arrow-down-left)
   static const IconData squareArrowDownLeft = IconData(
-    58553,
+    58549,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13440,7 +13440,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-down-right" on lucide.dev](https://lucide.dev/icons/square-arrow-down-right)
   static const IconData squareArrowDownRight = IconData(
-    58554,
+    58550,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13450,7 +13450,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-down" on lucide.dev](https://lucide.dev/icons/square-arrow-down)
   static const IconData squareArrowDown = IconData(
-    58411,
+    58407,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13460,7 +13460,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-left" on lucide.dev](https://lucide.dev/icons/square-arrow-left)
   static const IconData squareArrowLeft = IconData(
-    58412,
+    58408,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13470,7 +13470,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-out-down-left" on lucide.dev](https://lucide.dev/icons/square-arrow-out-down-left)
   static const IconData squareArrowOutDownLeft = IconData(
-    58789,
+    58785,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13480,7 +13480,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-out-down-right" on lucide.dev](https://lucide.dev/icons/square-arrow-out-down-right)
   static const IconData squareArrowOutDownRight = IconData(
-    58790,
+    58786,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13490,7 +13490,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-out-up-left" on lucide.dev](https://lucide.dev/icons/square-arrow-out-up-left)
   static const IconData squareArrowOutUpLeft = IconData(
-    58791,
+    58787,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13500,7 +13500,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-out-up-right" on lucide.dev](https://lucide.dev/icons/square-arrow-out-up-right)
   static const IconData squareArrowOutUpRight = IconData(
-    58792,
+    58788,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13510,7 +13510,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-right" on lucide.dev](https://lucide.dev/icons/square-arrow-right)
   static const IconData squareArrowRight = IconData(
-    58413,
+    58409,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13520,7 +13520,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-up-left" on lucide.dev](https://lucide.dev/icons/square-arrow-up-left)
   static const IconData squareArrowUpLeft = IconData(
-    58555,
+    58551,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13530,7 +13530,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-up-right" on lucide.dev](https://lucide.dev/icons/square-arrow-up-right)
   static const IconData squareArrowUpRight = IconData(
-    58556,
+    58552,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13540,7 +13540,7 @@ class LucideIcons {
   ///
   /// [View "square-arrow-up" on lucide.dev](https://lucide.dev/icons/square-arrow-up)
   static const IconData squareArrowUp = IconData(
-    58414,
+    58410,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13560,7 +13560,7 @@ class LucideIcons {
   ///
   /// [View "square-bottom-dashed-scissors" on lucide.dev](https://lucide.dev/icons/square-bottom-dashed-scissors)
   static const IconData squareBottomDashedScissors = IconData(
-    58607,
+    58603,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13590,7 +13590,7 @@ class LucideIcons {
   ///
   /// [View "square-check" on lucide.dev](https://lucide.dev/icons/square-check)
   static const IconData squareCheck = IconData(
-    58717,
+    58713,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13600,7 +13600,7 @@ class LucideIcons {
   ///
   /// [View "square-chevron-down" on lucide.dev](https://lucide.dev/icons/square-chevron-down)
   static const IconData squareChevronDown = IconData(
-    58323,
+    58319,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13610,7 +13610,7 @@ class LucideIcons {
   ///
   /// [View "square-chevron-left" on lucide.dev](https://lucide.dev/icons/square-chevron-left)
   static const IconData squareChevronLeft = IconData(
-    58324,
+    58320,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13620,7 +13620,7 @@ class LucideIcons {
   ///
   /// [View "square-chevron-right" on lucide.dev](https://lucide.dev/icons/square-chevron-right)
   static const IconData squareChevronRight = IconData(
-    58325,
+    58321,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13630,7 +13630,7 @@ class LucideIcons {
   ///
   /// [View "square-chevron-up" on lucide.dev](https://lucide.dev/icons/square-chevron-up)
   static const IconData squareChevronUp = IconData(
-    58326,
+    58322,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13650,7 +13650,7 @@ class LucideIcons {
   ///
   /// [View "square-dashed-bottom-code" on lucide.dev](https://lucide.dev/icons/square-dashed-bottom-code)
   static const IconData squareDashedBottomCode = IconData(
-    58565,
+    58561,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13660,7 +13660,7 @@ class LucideIcons {
   ///
   /// [View "square-dashed-bottom" on lucide.dev](https://lucide.dev/icons/square-dashed-bottom)
   static const IconData squareDashedBottom = IconData(
-    58564,
+    58560,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13680,7 +13680,7 @@ class LucideIcons {
   ///
   /// [View "square-dashed-mouse-pointer" on lucide.dev](https://lucide.dev/icons/square-dashed-mouse-pointer)
   static const IconData squareDashedMousePointer = IconData(
-    58637,
+    58633,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13690,7 +13690,7 @@ class LucideIcons {
   ///
   /// [View "square-dashed-top-solid" on lucide.dev](https://lucide.dev/icons/square-dashed-top-solid)
   static const IconData squareDashedTopSolid = IconData(
-    58992,
+    58988,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13760,7 +13760,7 @@ class LucideIcons {
   ///
   /// [View "square-library" on lucide.dev](https://lucide.dev/icons/square-library)
   static const IconData squareLibrary = IconData(
-    58707,
+    58703,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13770,7 +13770,7 @@ class LucideIcons {
   ///
   /// [View "square-m" on lucide.dev](https://lucide.dev/icons/square-m)
   static const IconData squareM = IconData(
-    58631,
+    58627,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13780,7 +13780,7 @@ class LucideIcons {
   ///
   /// [View "square-menu" on lucide.dev](https://lucide.dev/icons/square-menu)
   static const IconData squareMenu = IconData(
-    58455,
+    58451,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13810,7 +13810,7 @@ class LucideIcons {
   ///
   /// [View "square-parking-off" on lucide.dev](https://lucide.dev/icons/square-parking-off)
   static const IconData squareParkingOff = IconData(
-    58320,
+    58316,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13820,7 +13820,7 @@ class LucideIcons {
   ///
   /// [View "square-parking" on lucide.dev](https://lucide.dev/icons/square-parking)
   static const IconData squareParking = IconData(
-    58319,
+    58315,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13830,7 +13830,7 @@ class LucideIcons {
   ///
   /// [View "square-pause" on lucide.dev](https://lucide.dev/icons/square-pause)
   static const IconData squarePause = IconData(
-    59016,
+    59012,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13850,7 +13850,7 @@ class LucideIcons {
   ///
   /// [View "square-percent" on lucide.dev](https://lucide.dev/icons/square-percent)
   static const IconData squarePercent = IconData(
-    58656,
+    58652,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13860,7 +13860,7 @@ class LucideIcons {
   ///
   /// [View "square-pi" on lucide.dev](https://lucide.dev/icons/square-pi)
   static const IconData squarePi = IconData(
-    58508,
+    58504,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13870,7 +13870,7 @@ class LucideIcons {
   ///
   /// [View "square-pilcrow" on lucide.dev](https://lucide.dev/icons/square-pilcrow)
   static const IconData squarePilcrow = IconData(
-    58511,
+    58507,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13880,7 +13880,7 @@ class LucideIcons {
   ///
   /// [View "square-play" on lucide.dev](https://lucide.dev/icons/square-play)
   static const IconData squarePlay = IconData(
-    58501,
+    58497,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13900,7 +13900,7 @@ class LucideIcons {
   ///
   /// [View "square-power" on lucide.dev](https://lucide.dev/icons/square-power)
   static const IconData squarePower = IconData(
-    58709,
+    58705,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13910,7 +13910,7 @@ class LucideIcons {
   ///
   /// [View "square-radical" on lucide.dev](https://lucide.dev/icons/square-radical)
   static const IconData squareRadical = IconData(
-    58823,
+    58819,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13920,7 +13920,7 @@ class LucideIcons {
   ///
   /// [View "square-round-corner" on lucide.dev](https://lucide.dev/icons/square-round-corner)
   static const IconData squareRoundCorner = IconData(
-    58956,
+    58952,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13930,7 +13930,7 @@ class LucideIcons {
   ///
   /// [View "square-scissors" on lucide.dev](https://lucide.dev/icons/square-scissors)
   static const IconData squareScissors = IconData(
-    58608,
+    58604,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13940,7 +13940,7 @@ class LucideIcons {
   ///
   /// [View "square-sigma" on lucide.dev](https://lucide.dev/icons/square-sigma)
   static const IconData squareSigma = IconData(
-    58509,
+    58505,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13960,7 +13960,7 @@ class LucideIcons {
   ///
   /// [View "square-split-horizontal" on lucide.dev](https://lucide.dev/icons/square-split-horizontal)
   static const IconData squareSplitHorizontal = IconData(
-    58298,
+    58294,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13970,7 +13970,7 @@ class LucideIcons {
   ///
   /// [View "square-split-vertical" on lucide.dev](https://lucide.dev/icons/square-split-vertical)
   static const IconData squareSplitVertical = IconData(
-    58299,
+    58295,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13980,7 +13980,7 @@ class LucideIcons {
   ///
   /// [View "square-square" on lucide.dev](https://lucide.dev/icons/square-square)
   static const IconData squareSquare = IconData(
-    58898,
+    58894,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13990,7 +13990,7 @@ class LucideIcons {
   ///
   /// [View "square-stack" on lucide.dev](https://lucide.dev/icons/square-stack)
   static const IconData squareStack = IconData(
-    58534,
+    58530,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14000,7 +14000,7 @@ class LucideIcons {
   ///
   /// [View "square-star" on lucide.dev](https://lucide.dev/icons/square-star)
   static const IconData squareStar = IconData(
-    59026,
+    59022,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14010,7 +14010,7 @@ class LucideIcons {
   ///
   /// [View "square-stop" on lucide.dev](https://lucide.dev/icons/square-stop)
   static const IconData squareStop = IconData(
-    59017,
+    59013,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14030,7 +14030,7 @@ class LucideIcons {
   ///
   /// [View "square-user-round" on lucide.dev](https://lucide.dev/icons/square-user-round)
   static const IconData squareUserRound = IconData(
-    58474,
+    58470,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14040,7 +14040,7 @@ class LucideIcons {
   ///
   /// [View "square-user" on lucide.dev](https://lucide.dev/icons/square-user)
   static const IconData squareUser = IconData(
-    58473,
+    58469,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14070,7 +14070,7 @@ class LucideIcons {
   ///
   /// [View "squares-exclude" on lucide.dev](https://lucide.dev/icons/squares-exclude)
   static const IconData squaresExclude = IconData(
-    58971,
+    58967,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14080,7 +14080,7 @@ class LucideIcons {
   ///
   /// [View "squares-intersect" on lucide.dev](https://lucide.dev/icons/squares-intersect)
   static const IconData squaresIntersect = IconData(
-    58972,
+    58968,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14090,7 +14090,7 @@ class LucideIcons {
   ///
   /// [View "squares-subtract" on lucide.dev](https://lucide.dev/icons/squares-subtract)
   static const IconData squaresSubtract = IconData(
-    58973,
+    58969,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14100,7 +14100,7 @@ class LucideIcons {
   ///
   /// [View "squares-unite" on lucide.dev](https://lucide.dev/icons/squares-unite)
   static const IconData squaresUnite = IconData(
-    58974,
+    58970,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14110,7 +14110,7 @@ class LucideIcons {
   ///
   /// [View "squircle-dashed" on lucide.dev](https://lucide.dev/icons/squircle-dashed)
   static const IconData squircleDashed = IconData(
-    59005,
+    59001,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14120,7 +14120,7 @@ class LucideIcons {
   ///
   /// [View "squircle" on lucide.dev](https://lucide.dev/icons/squircle)
   static const IconData squircle = IconData(
-    58750,
+    58746,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14130,7 +14130,7 @@ class LucideIcons {
   ///
   /// [View "squirrel" on lucide.dev](https://lucide.dev/icons/squirrel)
   static const IconData squirrel = IconData(
-    58531,
+    58527,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14140,7 +14140,7 @@ class LucideIcons {
   ///
   /// [View "stamp" on lucide.dev](https://lucide.dev/icons/stamp)
   static const IconData stamp = IconData(
-    58303,
+    58299,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14180,7 +14180,7 @@ class LucideIcons {
   ///
   /// [View "step-back" on lucide.dev](https://lucide.dev/icons/step-back)
   static const IconData stepBack = IconData(
-    58349,
+    58345,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14190,7 +14190,7 @@ class LucideIcons {
   ///
   /// [View "step-forward" on lucide.dev](https://lucide.dev/icons/step-forward)
   static const IconData stepForward = IconData(
-    58350,
+    58346,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14230,7 +14230,7 @@ class LucideIcons {
   ///
   /// [View "store" on lucide.dev](https://lucide.dev/icons/store)
   static const IconData store = IconData(
-    58344,
+    58340,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14310,7 +14310,7 @@ class LucideIcons {
   ///
   /// [View "sun-snow" on lucide.dev](https://lucide.dev/icons/sun-snow)
   static const IconData sunSnow = IconData(
-    58230,
+    58226,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14360,7 +14360,7 @@ class LucideIcons {
   ///
   /// [View "swatch-book" on lucide.dev](https://lucide.dev/icons/swatch-book)
   static const IconData swatchBook = IconData(
-    58787,
+    58783,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14430,7 +14430,7 @@ class LucideIcons {
   ///
   /// [View "table-cells-merge" on lucide.dev](https://lucide.dev/icons/table-cells-merge)
   static const IconData tableCellsMerge = IconData(
-    58827,
+    58823,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14440,7 +14440,7 @@ class LucideIcons {
   ///
   /// [View "table-cells-split" on lucide.dev](https://lucide.dev/icons/table-cells-split)
   static const IconData tableCellsSplit = IconData(
-    58828,
+    58824,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14450,7 +14450,7 @@ class LucideIcons {
   ///
   /// [View "table-columns-split" on lucide.dev](https://lucide.dev/icons/table-columns-split)
   static const IconData tableColumnsSplit = IconData(
-    58829,
+    58825,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14460,7 +14460,7 @@ class LucideIcons {
   ///
   /// [View "table-of-contents" on lucide.dev](https://lucide.dev/icons/table-of-contents)
   static const IconData tableOfContents = IconData(
-    58914,
+    58910,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14470,7 +14470,7 @@ class LucideIcons {
   ///
   /// [View "table-properties" on lucide.dev](https://lucide.dev/icons/table-properties)
   static const IconData tableProperties = IconData(
-    58591,
+    58587,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14480,7 +14480,7 @@ class LucideIcons {
   ///
   /// [View "table-rows-split" on lucide.dev](https://lucide.dev/icons/table-rows-split)
   static const IconData tableRowsSplit = IconData(
-    58830,
+    58826,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14500,7 +14500,7 @@ class LucideIcons {
   ///
   /// [View "tablet-smartphone" on lucide.dev](https://lucide.dev/icons/tablet-smartphone)
   static const IconData tabletSmartphone = IconData(
-    58638,
+    58634,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14520,7 +14520,7 @@ class LucideIcons {
   ///
   /// [View "tablets" on lucide.dev](https://lucide.dev/icons/tablets)
   static const IconData tablets = IconData(
-    58306,
+    58302,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14540,7 +14540,7 @@ class LucideIcons {
   ///
   /// [View "tags" on lucide.dev](https://lucide.dev/icons/tags)
   static const IconData tags = IconData(
-    58208,
+    58204,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14550,7 +14550,7 @@ class LucideIcons {
   ///
   /// [View "tally-1" on lucide.dev](https://lucide.dev/icons/tally-1)
   static const IconData tally1 = IconData(
-    58586,
+    58582,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14560,7 +14560,7 @@ class LucideIcons {
   ///
   /// [View "tally-2" on lucide.dev](https://lucide.dev/icons/tally-2)
   static const IconData tally2 = IconData(
-    58587,
+    58583,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14570,7 +14570,7 @@ class LucideIcons {
   ///
   /// [View "tally-3" on lucide.dev](https://lucide.dev/icons/tally-3)
   static const IconData tally3 = IconData(
-    58588,
+    58584,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14580,7 +14580,7 @@ class LucideIcons {
   ///
   /// [View "tally-4" on lucide.dev](https://lucide.dev/icons/tally-4)
   static const IconData tally4 = IconData(
-    58589,
+    58585,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14590,7 +14590,7 @@ class LucideIcons {
   ///
   /// [View "tally-5" on lucide.dev](https://lucide.dev/icons/tally-5)
   static const IconData tally5 = IconData(
-    58590,
+    58586,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14600,7 +14600,7 @@ class LucideIcons {
   ///
   /// [View "tangent" on lucide.dev](https://lucide.dev/icons/tangent)
   static const IconData tangent = IconData(
-    58674,
+    58670,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14620,7 +14620,7 @@ class LucideIcons {
   ///
   /// [View "telescope" on lucide.dev](https://lucide.dev/icons/telescope)
   static const IconData telescope = IconData(
-    58825,
+    58821,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14630,7 +14630,7 @@ class LucideIcons {
   ///
   /// [View "tent-tree" on lucide.dev](https://lucide.dev/icons/tent-tree)
   static const IconData tentTree = IconData(
-    58687,
+    58683,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14660,7 +14660,7 @@ class LucideIcons {
   ///
   /// [View "test-tube-diagonal" on lucide.dev](https://lucide.dev/icons/test-tube-diagonal)
   static const IconData testTubeDiagonal = IconData(
-    58378,
+    58374,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14670,7 +14670,7 @@ class LucideIcons {
   ///
   /// [View "test-tube" on lucide.dev](https://lucide.dev/icons/test-tube)
   static const IconData testTube = IconData(
-    58377,
+    58373,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14680,7 +14680,7 @@ class LucideIcons {
   ///
   /// [View "test-tubes" on lucide.dev](https://lucide.dev/icons/test-tubes)
   static const IconData testTubes = IconData(
-    58379,
+    58375,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14750,7 +14750,7 @@ class LucideIcons {
   ///
   /// [View "text-initial" on lucide.dev](https://lucide.dev/icons/text-initial)
   static const IconData textInitial = IconData(
-    58889,
+    58885,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14760,7 +14760,7 @@ class LucideIcons {
   ///
   /// [View "text-quote" on lucide.dev](https://lucide.dev/icons/text-quote)
   static const IconData textQuote = IconData(
-    58530,
+    58526,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14770,7 +14770,7 @@ class LucideIcons {
   ///
   /// [View "text-search" on lucide.dev](https://lucide.dev/icons/text-search)
   static const IconData textSearch = IconData(
-    58801,
+    58797,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14780,7 +14780,7 @@ class LucideIcons {
   ///
   /// [View "text-select" on lucide.dev](https://lucide.dev/icons/text-select)
   static const IconData textSelect = IconData(
-    58338,
+    58334,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14800,7 +14800,7 @@ class LucideIcons {
   ///
   /// [View "theater" on lucide.dev](https://lucide.dev/icons/theater)
   static const IconData theater = IconData(
-    58662,
+    58658,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14860,7 +14860,7 @@ class LucideIcons {
   ///
   /// [View "ticket-check" on lucide.dev](https://lucide.dev/icons/ticket-check)
   static const IconData ticketCheck = IconData(
-    58802,
+    58798,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14870,7 +14870,7 @@ class LucideIcons {
   ///
   /// [View "ticket-minus" on lucide.dev](https://lucide.dev/icons/ticket-minus)
   static const IconData ticketMinus = IconData(
-    58803,
+    58799,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14880,7 +14880,7 @@ class LucideIcons {
   ///
   /// [View "ticket-percent" on lucide.dev](https://lucide.dev/icons/ticket-percent)
   static const IconData ticketPercent = IconData(
-    58804,
+    58800,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14890,7 +14890,7 @@ class LucideIcons {
   ///
   /// [View "ticket-plus" on lucide.dev](https://lucide.dev/icons/ticket-plus)
   static const IconData ticketPlus = IconData(
-    58805,
+    58801,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14900,7 +14900,7 @@ class LucideIcons {
   ///
   /// [View "ticket-slash" on lucide.dev](https://lucide.dev/icons/ticket-slash)
   static const IconData ticketSlash = IconData(
-    58806,
+    58802,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14910,7 +14910,7 @@ class LucideIcons {
   ///
   /// [View "ticket-x" on lucide.dev](https://lucide.dev/icons/ticket-x)
   static const IconData ticketX = IconData(
-    58807,
+    58803,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14930,7 +14930,7 @@ class LucideIcons {
   ///
   /// [View "tickets-plane" on lucide.dev](https://lucide.dev/icons/tickets-plane)
   static const IconData ticketsPlane = IconData(
-    58919,
+    58915,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14940,7 +14940,7 @@ class LucideIcons {
   ///
   /// [View "tickets" on lucide.dev](https://lucide.dev/icons/tickets)
   static const IconData tickets = IconData(
-    58918,
+    58914,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15000,7 +15000,7 @@ class LucideIcons {
   ///
   /// [View "toilet" on lucide.dev](https://lucide.dev/icons/toilet)
   static const IconData toilet = IconData(
-    58937,
+    58933,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15010,7 +15010,7 @@ class LucideIcons {
   ///
   /// [View "tool-case" on lucide.dev](https://lucide.dev/icons/tool-case)
   static const IconData toolCase = IconData(
-    59009,
+    59005,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15030,7 +15030,7 @@ class LucideIcons {
   ///
   /// [View "torus" on lucide.dev](https://lucide.dev/icons/torus)
   static const IconData torus = IconData(
-    58675,
+    58671,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15040,7 +15040,7 @@ class LucideIcons {
   ///
   /// [View "touchpad-off" on lucide.dev](https://lucide.dev/icons/touchpad-off)
   static const IconData touchpadOff = IconData(
-    58446,
+    58442,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15050,7 +15050,7 @@ class LucideIcons {
   ///
   /// [View "touchpad" on lucide.dev](https://lucide.dev/icons/touchpad)
   static const IconData touchpad = IconData(
-    58445,
+    58441,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15060,7 +15060,7 @@ class LucideIcons {
   ///
   /// [View "tower-control" on lucide.dev](https://lucide.dev/icons/tower-control)
   static const IconData towerControl = IconData(
-    58304,
+    58300,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15070,7 +15070,7 @@ class LucideIcons {
   ///
   /// [View "toy-brick" on lucide.dev](https://lucide.dev/icons/toy-brick)
   static const IconData toyBrick = IconData(
-    58187,
+    58183,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15080,7 +15080,7 @@ class LucideIcons {
   ///
   /// [View "tractor" on lucide.dev](https://lucide.dev/icons/tractor)
   static const IconData tractor = IconData(
-    58632,
+    58628,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15090,7 +15090,7 @@ class LucideIcons {
   ///
   /// [View "traffic-cone" on lucide.dev](https://lucide.dev/icons/traffic-cone)
   static const IconData trafficCone = IconData(
-    58633,
+    58629,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15100,7 +15100,7 @@ class LucideIcons {
   ///
   /// [View "train-front-tunnel" on lucide.dev](https://lucide.dev/icons/train-front-tunnel)
   static const IconData trainFrontTunnel = IconData(
-    58635,
+    58631,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15110,7 +15110,7 @@ class LucideIcons {
   ///
   /// [View "train-front" on lucide.dev](https://lucide.dev/icons/train-front)
   static const IconData trainFront = IconData(
-    58634,
+    58630,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15120,7 +15120,7 @@ class LucideIcons {
   ///
   /// [View "train-track" on lucide.dev](https://lucide.dev/icons/train-track)
   static const IconData trainTrack = IconData(
-    58636,
+    58632,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15140,7 +15140,7 @@ class LucideIcons {
   ///
   /// [View "transgender" on lucide.dev](https://lucide.dev/icons/transgender)
   static const IconData transgender = IconData(
-    58952,
+    58948,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15230,7 +15230,7 @@ class LucideIcons {
   ///
   /// [View "trending-up-down" on lucide.dev](https://lucide.dev/icons/trending-up-down)
   static const IconData trendingUpDown = IconData(
-    58921,
+    58917,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15260,7 +15260,7 @@ class LucideIcons {
   ///
   /// [View "triangle-dashed" on lucide.dev](https://lucide.dev/icons/triangle-dashed)
   static const IconData triangleDashed = IconData(
-    58945,
+    58941,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15270,7 +15270,7 @@ class LucideIcons {
   ///
   /// [View "triangle-right" on lucide.dev](https://lucide.dev/icons/triangle-right)
   static const IconData triangleRight = IconData(
-    58609,
+    58605,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15290,7 +15290,7 @@ class LucideIcons {
   ///
   /// [View "trophy" on lucide.dev](https://lucide.dev/icons/trophy)
   static const IconData trophy = IconData(
-    58231,
+    58227,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15300,7 +15300,7 @@ class LucideIcons {
   ///
   /// [View "truck-electric" on lucide.dev](https://lucide.dev/icons/truck-electric)
   static const IconData truckElectric = IconData(
-    58979,
+    58975,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15320,7 +15320,7 @@ class LucideIcons {
   ///
   /// [View "turkish-lira" on lucide.dev](https://lucide.dev/icons/turkish-lira)
   static const IconData turkishLira = IconData(
-    59012,
+    59008,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15330,7 +15330,7 @@ class LucideIcons {
   ///
   /// [View "turntable" on lucide.dev](https://lucide.dev/icons/turntable)
   static const IconData turntable = IconData(
-    59024,
+    59020,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15340,7 +15340,7 @@ class LucideIcons {
   ///
   /// [View "turtle" on lucide.dev](https://lucide.dev/icons/turtle)
   static const IconData turtle = IconData(
-    58621,
+    58617,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15350,7 +15350,7 @@ class LucideIcons {
   ///
   /// [View "tv-minimal-play" on lucide.dev](https://lucide.dev/icons/tv-minimal-play)
   static const IconData tvMinimalPlay = IconData(
-    58864,
+    58860,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15400,7 +15400,7 @@ class LucideIcons {
   ///
   /// [View "type-outline" on lucide.dev](https://lucide.dev/icons/type-outline)
   static const IconData typeOutline = IconData(
-    58886,
+    58882,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15420,7 +15420,7 @@ class LucideIcons {
   ///
   /// [View "umbrella-off" on lucide.dev](https://lucide.dev/icons/umbrella-off)
   static const IconData umbrellaOff = IconData(
-    58695,
+    58691,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15460,7 +15460,7 @@ class LucideIcons {
   ///
   /// [View "undo-dot" on lucide.dev](https://lucide.dev/icons/undo-dot)
   static const IconData undoDot = IconData(
-    58453,
+    58449,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15480,7 +15480,7 @@ class LucideIcons {
   ///
   /// [View "unfold-horizontal" on lucide.dev](https://lucide.dev/icons/unfold-horizontal)
   static const IconData unfoldHorizontal = IconData(
-    58433,
+    58429,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15490,7 +15490,7 @@ class LucideIcons {
   ///
   /// [View "unfold-vertical" on lucide.dev](https://lucide.dev/icons/unfold-vertical)
   static const IconData unfoldVertical = IconData(
-    58434,
+    58430,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15500,7 +15500,7 @@ class LucideIcons {
   ///
   /// [View "ungroup" on lucide.dev](https://lucide.dev/icons/ungroup)
   static const IconData ungroup = IconData(
-    58475,
+    58471,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15510,7 +15510,7 @@ class LucideIcons {
   ///
   /// [View "university" on lucide.dev](https://lucide.dev/icons/university)
   static const IconData university = IconData(
-    58345,
+    58341,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15540,7 +15540,7 @@ class LucideIcons {
   ///
   /// [View "unplug" on lucide.dev](https://lucide.dev/icons/unplug)
   static const IconData unplug = IconData(
-    58465,
+    58461,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15560,7 +15560,7 @@ class LucideIcons {
   ///
   /// [View "usb" on lucide.dev](https://lucide.dev/icons/usb)
   static const IconData usb = IconData(
-    58202,
+    58198,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15580,7 +15580,7 @@ class LucideIcons {
   ///
   /// [View "user-cog" on lucide.dev](https://lucide.dev/icons/user-cog)
   static const IconData userCog = IconData(
-    58182,
+    58178,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15590,7 +15590,7 @@ class LucideIcons {
   ///
   /// [View "user-lock" on lucide.dev](https://lucide.dev/icons/user-lock)
   static const IconData userLock = IconData(
-    58980,
+    58976,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15610,7 +15610,7 @@ class LucideIcons {
   ///
   /// [View "user-pen" on lucide.dev](https://lucide.dev/icons/user-pen)
   static const IconData userPen = IconData(
-    58880,
+    58876,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15630,7 +15630,7 @@ class LucideIcons {
   ///
   /// [View "user-round-check" on lucide.dev](https://lucide.dev/icons/user-round-check)
   static const IconData userRoundCheck = IconData(
-    58477,
+    58473,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15640,7 +15640,7 @@ class LucideIcons {
   ///
   /// [View "user-round-cog" on lucide.dev](https://lucide.dev/icons/user-round-cog)
   static const IconData userRoundCog = IconData(
-    58478,
+    58474,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15650,7 +15650,7 @@ class LucideIcons {
   ///
   /// [View "user-round-minus" on lucide.dev](https://lucide.dev/icons/user-round-minus)
   static const IconData userRoundMinus = IconData(
-    58479,
+    58475,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15660,7 +15660,7 @@ class LucideIcons {
   ///
   /// [View "user-round-pen" on lucide.dev](https://lucide.dev/icons/user-round-pen)
   static const IconData userRoundPen = IconData(
-    58881,
+    58877,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15670,7 +15670,7 @@ class LucideIcons {
   ///
   /// [View "user-round-plus" on lucide.dev](https://lucide.dev/icons/user-round-plus)
   static const IconData userRoundPlus = IconData(
-    58480,
+    58476,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15680,7 +15680,7 @@ class LucideIcons {
   ///
   /// [View "user-round-search" on lucide.dev](https://lucide.dev/icons/user-round-search)
   static const IconData userRoundSearch = IconData(
-    58748,
+    58744,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15690,7 +15690,7 @@ class LucideIcons {
   ///
   /// [View "user-round-x" on lucide.dev](https://lucide.dev/icons/user-round-x)
   static const IconData userRoundX = IconData(
-    58481,
+    58477,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15700,7 +15700,7 @@ class LucideIcons {
   ///
   /// [View "user-round" on lucide.dev](https://lucide.dev/icons/user-round)
   static const IconData userRound = IconData(
-    58476,
+    58472,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15710,7 +15710,7 @@ class LucideIcons {
   ///
   /// [View "user-search" on lucide.dev](https://lucide.dev/icons/user-search)
   static const IconData userSearch = IconData(
-    58749,
+    58745,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15720,7 +15720,7 @@ class LucideIcons {
   ///
   /// [View "user-star" on lucide.dev](https://lucide.dev/icons/user-star)
   static const IconData userStar = IconData(
-    59019,
+    59015,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15750,7 +15750,7 @@ class LucideIcons {
   ///
   /// [View "users-round" on lucide.dev](https://lucide.dev/icons/users-round)
   static const IconData usersRound = IconData(
-    58482,
+    58478,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15790,7 +15790,7 @@ class LucideIcons {
   ///
   /// [View "utility-pole" on lucide.dev](https://lucide.dev/icons/utility-pole)
   static const IconData utilityPole = IconData(
-    58310,
+    58306,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15800,7 +15800,7 @@ class LucideIcons {
   ///
   /// [View "variable" on lucide.dev](https://lucide.dev/icons/variable)
   static const IconData variable = IconData(
-    58487,
+    58483,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15810,7 +15810,7 @@ class LucideIcons {
   ///
   /// [View "vault" on lucide.dev](https://lucide.dev/icons/vault)
   static const IconData vault = IconData(
-    58771,
+    58767,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15820,7 +15820,7 @@ class LucideIcons {
   ///
   /// [View "vector-square" on lucide.dev](https://lucide.dev/icons/vector-square)
   static const IconData vectorSquare = IconData(
-    59008,
+    59004,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15830,7 +15830,7 @@ class LucideIcons {
   ///
   /// [View "vegan" on lucide.dev](https://lucide.dev/icons/vegan)
   static const IconData vegan = IconData(
-    58273,
+    58269,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15850,7 +15850,7 @@ class LucideIcons {
   ///
   /// [View "venus-and-mars" on lucide.dev](https://lucide.dev/icons/venus-and-mars)
   static const IconData venusAndMars = IconData(
-    58954,
+    58950,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15860,7 +15860,7 @@ class LucideIcons {
   ///
   /// [View "venus" on lucide.dev](https://lucide.dev/icons/venus)
   static const IconData venus = IconData(
-    58953,
+    58949,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15910,7 +15910,7 @@ class LucideIcons {
   ///
   /// [View "videotape" on lucide.dev](https://lucide.dev/icons/videotape)
   static const IconData videotape = IconData(
-    58575,
+    58571,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15940,7 +15940,7 @@ class LucideIcons {
   ///
   /// [View "volleyball" on lucide.dev](https://lucide.dev/icons/volleyball)
   static const IconData volleyball = IconData(
-    58931,
+    58927,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15970,7 +15970,7 @@ class LucideIcons {
   ///
   /// [View "volume-off" on lucide.dev](https://lucide.dev/icons/volume-off)
   static const IconData volumeOff = IconData(
-    58922,
+    58918,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16000,7 +16000,7 @@ class LucideIcons {
   ///
   /// [View "vote" on lucide.dev](https://lucide.dev/icons/vote)
   static const IconData vote = IconData(
-    58289,
+    58285,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16010,7 +16010,7 @@ class LucideIcons {
   ///
   /// [View "wallet-cards" on lucide.dev](https://lucide.dev/icons/wallet-cards)
   static const IconData walletCards = IconData(
-    58576,
+    58572,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16020,7 +16020,7 @@ class LucideIcons {
   ///
   /// [View "wallet-minimal" on lucide.dev](https://lucide.dev/icons/wallet-minimal)
   static const IconData walletMinimal = IconData(
-    58577,
+    58573,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16040,7 +16040,7 @@ class LucideIcons {
   ///
   /// [View "wallpaper" on lucide.dev](https://lucide.dev/icons/wallpaper)
   static const IconData wallpaper = IconData(
-    58447,
+    58443,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16050,7 +16050,7 @@ class LucideIcons {
   ///
   /// [View "wand-sparkles" on lucide.dev](https://lucide.dev/icons/wand-sparkles)
   static const IconData wandSparkles = IconData(
-    58203,
+    58199,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16070,7 +16070,7 @@ class LucideIcons {
   ///
   /// [View "warehouse" on lucide.dev](https://lucide.dev/icons/warehouse)
   static const IconData warehouse = IconData(
-    58346,
+    58342,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16080,7 +16080,7 @@ class LucideIcons {
   ///
   /// [View "washing-machine" on lucide.dev](https://lucide.dev/icons/washing-machine)
   static const IconData washingMachine = IconData(
-    58772,
+    58768,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16100,7 +16100,7 @@ class LucideIcons {
   ///
   /// [View "waves-ladder" on lucide.dev](https://lucide.dev/icons/waves-ladder)
   static const IconData wavesLadder = IconData(
-    58943,
+    58939,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16120,7 +16120,7 @@ class LucideIcons {
   ///
   /// [View "waypoints" on lucide.dev](https://lucide.dev/icons/waypoints)
   static const IconData waypoints = IconData(
-    58694,
+    58690,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16140,7 +16140,7 @@ class LucideIcons {
   ///
   /// [View "webhook-off" on lucide.dev](https://lucide.dev/icons/webhook-off)
   static const IconData webhookOff = IconData(
-    58811,
+    58807,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16150,7 +16150,7 @@ class LucideIcons {
   ///
   /// [View "webhook" on lucide.dev](https://lucide.dev/icons/webhook)
   static const IconData webhook = IconData(
-    58232,
+    58228,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16160,7 +16160,7 @@ class LucideIcons {
   ///
   /// [View "weight" on lucide.dev](https://lucide.dev/icons/weight)
   static const IconData weight = IconData(
-    58676,
+    58672,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16170,7 +16170,7 @@ class LucideIcons {
   ///
   /// [View "wheat-off" on lucide.dev](https://lucide.dev/icons/wheat-off)
   static const IconData wheatOff = IconData(
-    58275,
+    58271,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16180,7 +16180,7 @@ class LucideIcons {
   ///
   /// [View "wheat" on lucide.dev](https://lucide.dev/icons/wheat)
   static const IconData wheat = IconData(
-    58274,
+    58270,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16190,7 +16190,7 @@ class LucideIcons {
   ///
   /// [View "whole-word" on lucide.dev](https://lucide.dev/icons/whole-word)
   static const IconData wholeWord = IconData(
-    58339,
+    58335,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16200,7 +16200,7 @@ class LucideIcons {
   ///
   /// [View "wifi-cog" on lucide.dev](https://lucide.dev/icons/wifi-cog)
   static const IconData wifiCog = IconData(
-    59000,
+    58996,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16210,7 +16210,7 @@ class LucideIcons {
   ///
   /// [View "wifi-high" on lucide.dev](https://lucide.dev/icons/wifi-high)
   static const IconData wifiHigh = IconData(
-    58875,
+    58871,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16220,7 +16220,7 @@ class LucideIcons {
   ///
   /// [View "wifi-low" on lucide.dev](https://lucide.dev/icons/wifi-low)
   static const IconData wifiLow = IconData(
-    58876,
+    58872,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16240,7 +16240,7 @@ class LucideIcons {
   ///
   /// [View "wifi-pen" on lucide.dev](https://lucide.dev/icons/wifi-pen)
   static const IconData wifiPen = IconData(
-    58983,
+    58979,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16250,7 +16250,7 @@ class LucideIcons {
   ///
   /// [View "wifi-sync" on lucide.dev](https://lucide.dev/icons/wifi-sync)
   static const IconData wifiSync = IconData(
-    59013,
+    59009,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16260,7 +16260,7 @@ class LucideIcons {
   ///
   /// [View "wifi-zero" on lucide.dev](https://lucide.dev/icons/wifi-zero)
   static const IconData wifiZero = IconData(
-    58877,
+    58873,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16280,7 +16280,7 @@ class LucideIcons {
   ///
   /// [View "wind-arrow-down" on lucide.dev](https://lucide.dev/icons/wind-arrow-down)
   static const IconData windArrowDown = IconData(
-    58933,
+    58929,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16300,7 +16300,7 @@ class LucideIcons {
   ///
   /// [View "wine-off" on lucide.dev](https://lucide.dev/icons/wine-off)
   static const IconData wineOff = IconData(
-    58276,
+    58272,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16320,7 +16320,7 @@ class LucideIcons {
   ///
   /// [View "workflow" on lucide.dev](https://lucide.dev/icons/workflow)
   static const IconData workflow = IconData(
-    58409,
+    58405,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16330,7 +16330,7 @@ class LucideIcons {
   ///
   /// [View "worm" on lucide.dev](https://lucide.dev/icons/worm)
   static const IconData worm = IconData(
-    58846,
+    58842,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
