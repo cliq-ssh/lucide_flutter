@@ -3195,6 +3195,66 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## chess-bishop
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-bishop.svg" width="100">
+  ///
+  /// [View "chess-bishop" on lucide.dev](https://lucide.dev/icons/chess-bishop)
+  static const IconData chessBishop = IconData(
+    59040,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chess-king
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-king.svg" width="100">
+  ///
+  /// [View "chess-king" on lucide.dev](https://lucide.dev/icons/chess-king)
+  static const IconData chessKing = IconData(
+    59041,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chess-knight
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-knight.svg" width="100">
+  ///
+  /// [View "chess-knight" on lucide.dev](https://lucide.dev/icons/chess-knight)
+  static const IconData chessKnight = IconData(
+    59042,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chess-pawn
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-pawn.svg" width="100">
+  ///
+  /// [View "chess-pawn" on lucide.dev](https://lucide.dev/icons/chess-pawn)
+  static const IconData chessPawn = IconData(
+    59043,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chess-queen
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-queen.svg" width="100">
+  ///
+  /// [View "chess-queen" on lucide.dev](https://lucide.dev/icons/chess-queen)
+  static const IconData chessQueen = IconData(
+    59044,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chess-rook
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chess-rook.svg" width="100">
+  ///
+  /// [View "chess-rook" on lucide.dev](https://lucide.dev/icons/chess-rook)
+  static const IconData chessRook = IconData(
+    59045,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## chevron-down
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevron-down.svg" width="100">
   ///
@@ -10041,6 +10101,16 @@ class LucideIcons {
   /// [View "mouse-off" on lucide.dev](https://lucide.dev/icons/mouse-off)
   static const IconData mouseOff = IconData(
     58843,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## mouse-pointer-2-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mouse-pointer-2-off.svg" width="100">
+  ///
+  /// [View "mouse-pointer-2-off" on lucide.dev](https://lucide.dev/icons/mouse-pointer-2-off)
+  static const IconData mousePointer2Off = IconData(
+    59046,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
