@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  lucide_flutter: 0.552.0
+  lucide_flutter: 0.553.0
 
 dev_dependencies:
   flutter_test:
