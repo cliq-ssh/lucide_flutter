@@ -2695,6 +2695,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## calendars
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/calendars.svg" width="100">
+  ///
+  /// [View "calendars" on lucide.dev](https://lucide.dev/icons/calendars)
+  static const IconData calendars = IconData(
+    59047,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## camera-off
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/camera-off.svg" width="100">
   ///
@@ -6335,11 +6345,11 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## fingerprint
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fingerprint.svg" width="100">
+  /// ## fingerprint-pattern
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fingerprint-pattern.svg" width="100">
   ///
-  /// [View "fingerprint" on lucide.dev](https://lucide.dev/icons/fingerprint)
-  static const IconData fingerprint = IconData(
+  /// [View "fingerprint-pattern" on lucide.dev](https://lucide.dev/icons/fingerprint-pattern)
+  static const IconData fingerprintPattern = IconData(
     58059,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
