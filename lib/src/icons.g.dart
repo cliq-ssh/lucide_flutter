@@ -6925,6 +6925,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## form
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/form.svg" width="100">
+  ///
+  /// [View "form" on lucide.dev](https://lucide.dev/icons/form)
+  static const IconData form = IconData(
+    59048,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## forward
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/forward.svg" width="100">
   ///
@@ -16171,6 +16181,26 @@ class LucideIcons {
   /// [View "watch" on lucide.dev](https://lucide.dev/icons/watch)
   static const IconData watch = IconData(
     57773,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## waves-arrow-down
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-arrow-down.svg" width="100">
+  ///
+  /// [View "waves-arrow-down" on lucide.dev](https://lucide.dev/icons/waves-arrow-down)
+  static const IconData wavesArrowDown = IconData(
+    59049,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## waves-arrow-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-arrow-up.svg" width="100">
+  ///
+  /// [View "waves-arrow-up" on lucide.dev](https://lucide.dev/icons/waves-arrow-up)
+  static const IconData wavesArrowUp = IconData(
+    59050,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
