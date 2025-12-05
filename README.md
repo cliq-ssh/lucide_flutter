@@ -1,6 +1,6 @@
 # lucide_flutter
 
-A Flutter package for [Lucide](https://lucide.dev/) icons. (`v0.555.0`)
+A Flutter package for [Lucide](https://lucide.dev/) icons. (`v0.556.0`)
 
 ## Usage
 
