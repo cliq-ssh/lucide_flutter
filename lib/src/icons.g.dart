@@ -6445,6 +6445,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## fishing-hook
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/fishing-hook.svg" width="100">
+  ///
+  /// [View "fishing-hook" on lucide.dev](https://lucide.dev/icons/fishing-hook)
+  static const IconData fishingHook = IconData(
+    59062,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## flag-off
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flag-off.svg" width="100">
   ///
@@ -7781,6 +7791,16 @@ class LucideIcons {
   /// [View "haze" on lucide.dev](https://lucide.dev/icons/haze)
   static const IconData haze = IconData(
     57584,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## hd
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hd.svg" width="100">
+  ///
+  /// [View "hd" on lucide.dev](https://lucide.dev/icons/hd)
+  static const IconData hd = IconData(
+    59061,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
