@@ -2775,6 +2775,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## cannabis-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cannabis-off.svg" width="100">
+  ///
+  /// [View "cannabis-off" on lucide.dev](https://lucide.dev/icons/cannabis-off)
+  static const IconData cannabisOff = IconData(
+    59063,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## cannabis
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cannabis.svg" width="100">
   ///
