@@ -2775,6 +2775,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## cannabis-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cannabis-off.svg" width="100">
+  ///
+  /// [View "cannabis-off" on lucide.dev](https://lucide.dev/icons/cannabis-off)
+  static const IconData cannabisOff = IconData(
+    59063,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## cannabis
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cannabis.svg" width="100">
   ///
@@ -14411,6 +14421,16 @@ class LucideIcons {
   /// [View "sticky-note" on lucide.dev](https://lucide.dev/icons/sticky-note)
   static const IconData stickyNote = IconData(
     58115,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## stone
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stone.svg" width="100">
+  ///
+  /// [View "stone" on lucide.dev](https://lucide.dev/icons/stone)
+  static const IconData stone = IconData(
+    59064,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
