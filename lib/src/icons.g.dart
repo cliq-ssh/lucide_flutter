@@ -14425,6 +14425,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## stone
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stone.svg" width="100">
+  ///
+  /// [View "stone" on lucide.dev](https://lucide.dev/icons/stone)
+  static const IconData stone = IconData(
+    59064,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## store
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/store.svg" width="100">
   ///
