@@ -15225,6 +15225,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## toolbox
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toolbox.svg" width="100">
+  ///
+  /// [View "toolbox" on lucide.dev](https://lucide.dev/icons/toolbox)
+  static const IconData toolbox = IconData(
+    59065,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## tornado
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tornado.svg" width="100">
   ///
