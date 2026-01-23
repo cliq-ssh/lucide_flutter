@@ -7445,6 +7445,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## globe-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-x.svg" width="100">
+  ///
+  /// [View "globe-x" on lucide.dev](https://lucide.dev/icons/globe-x)
+  static const IconData globeX = IconData(
+    59066,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## globe
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe.svg" width="100">
   ///
@@ -11661,6 +11671,16 @@ class LucideIcons {
   /// [View "printer-check" on lucide.dev](https://lucide.dev/icons/printer-check)
   static const IconData printerCheck = IconData(
     58869,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## printer-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer-x.svg" width="100">
+  ///
+  /// [View "printer-x" on lucide.dev](https://lucide.dev/icons/printer-x)
+  static const IconData printerX = IconData(
+    59067,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
