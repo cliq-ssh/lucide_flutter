@@ -5075,6 +5075,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## database-search
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-search.svg" width="100">
+  ///
+  /// [View "database-search" on lucide.dev](https://lucide.dev/icons/database-search)
+  static const IconData databaseSearch = IconData(
+    59068,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## database-zap
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-zap.svg" width="100">
   ///
@@ -15825,6 +15835,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## user-key
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-key.svg" width="100">
+  ///
+  /// [View "user-key" on lucide.dev](https://lucide.dev/icons/user-key)
+  static const IconData userKey = IconData(
+    59069,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## user-lock
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-lock.svg" width="100">
   ///
@@ -15881,6 +15901,16 @@ class LucideIcons {
   /// [View "user-round-cog" on lucide.dev](https://lucide.dev/icons/user-round-cog)
   static const IconData userRoundCog = IconData(
     58474,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## user-round-key
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-key.svg" width="100">
+  ///
+  /// [View "user-round-key" on lucide.dev](https://lucide.dev/icons/user-round-key)
+  static const IconData userRoundKey = IconData(
+    59070,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
