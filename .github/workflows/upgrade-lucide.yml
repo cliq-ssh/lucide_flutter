@@ -162,3 +162,10 @@ jobs:
         fi
         echo "Pull Request created: $pr_url"
         echo "::notice::PR created: $pr_url"
+
+        labels_api="https://api.github.com/repos/${{ github.repository }}/issues/${pr_number}/labels"
+        add_response=$(curl -s -X POST \
+          -H "Accept: application/vnd.github+json" \
+          -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          "$labels_api" \
+          -d '["release"]')
