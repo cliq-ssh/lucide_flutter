@@ -8855,6 +8855,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## line-dot-right-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/line-dot-right-horizontal.svg" width="100">
+  ///
+  /// [View "line-dot-right-horizontal" on lucide.dev](https://lucide.dev/icons/line-dot-right-horizontal)
+  static const IconData lineDotRightHorizontal = IconData(
+    59074,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## line-squiggle
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/line-squiggle.svg" width="100">
   ///
