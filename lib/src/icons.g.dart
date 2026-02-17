@@ -7455,6 +7455,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## globe-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-off.svg" width="100">
+  ///
+  /// [View "globe-off" on lucide.dev](https://lucide.dev/icons/globe-off)
+  static const IconData globeOff = IconData(
+    59073,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## globe-x
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-x.svg" width="100">
   ///
@@ -8761,6 +8771,26 @@ class LucideIcons {
   /// [View "lectern" on lucide.dev](https://lucide.dev/icons/lectern)
   static const IconData lectern = IconData(
     58857,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## lens-concave
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lens-concave.svg" width="100">
+  ///
+  /// [View "lens-concave" on lucide.dev](https://lucide.dev/icons/lens-concave)
+  static const IconData lensConcave = IconData(
+    59071,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## lens-convex
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lens-convex.svg" width="100">
+  ///
+  /// [View "lens-convex" on lucide.dev](https://lucide.dev/icons/lens-convex)
+  static const IconData lensConvex = IconData(
+    59072,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
