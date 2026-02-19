@@ -6590,16 +6590,6 @@ class LucideIcons {
   ///
   /// [View "flip-horizontal-2" on lucide.dev](https://lucide.dev/icons/flip-horizontal-2)
   static const IconData flipHorizontal2 = IconData(
-    58206,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## flip-horizontal
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-horizontal.svg" width="100">
-  ///
-  /// [View "flip-horizontal" on lucide.dev](https://lucide.dev/icons/flip-horizontal)
-  static const IconData flipHorizontal = IconData(
     58205,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
@@ -6610,17 +6600,7 @@ class LucideIcons {
   ///
   /// [View "flip-vertical-2" on lucide.dev](https://lucide.dev/icons/flip-vertical-2)
   static const IconData flipVertical2 = IconData(
-    58208,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## flip-vertical
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/flip-vertical.svg" width="100">
-  ///
-  /// [View "flip-vertical" on lucide.dev](https://lucide.dev/icons/flip-vertical)
-  static const IconData flipVertical = IconData(
-    58207,
+    58206,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9805,6 +9785,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## message-square-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-check.svg" width="100">
+  ///
+  /// [View "message-square-check" on lucide.dev](https://lucide.dev/icons/message-square-check)
+  static const IconData messageSquareCheck = IconData(
+    59084,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## message-square-code
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-square-code.svg" width="100">
   ///
@@ -9971,6 +9961,16 @@ class LucideIcons {
   /// [View "messages-square" on lucide.dev](https://lucide.dev/icons/messages-square)
   static const IconData messagesSquare = IconData(
     58381,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## metronome
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/metronome.svg" width="100">
+  ///
+  /// [View "metronome" on lucide.dev](https://lucide.dev/icons/metronome)
+  static const IconData metronome = IconData(
+    59085,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13845,6 +13845,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## square-arrow-right-enter
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-right-enter.svg" width="100">
+  ///
+  /// [View "square-arrow-right-enter" on lucide.dev](https://lucide.dev/icons/square-arrow-right-enter)
+  static const IconData squareArrowRightEnter = IconData(
+    59086,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-arrow-right-exit
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-right-exit.svg" width="100">
+  ///
+  /// [View "square-arrow-right-exit" on lucide.dev](https://lucide.dev/icons/square-arrow-right-exit)
+  static const IconData squareArrowRightExit = IconData(
+    59087,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## square-arrow-right
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-arrow-right.svg" width="100">
   ///
@@ -13901,6 +13921,26 @@ class LucideIcons {
   /// [View "square-bottom-dashed-scissors" on lucide.dev](https://lucide.dev/icons/square-bottom-dashed-scissors)
   static const IconData squareBottomDashedScissors = IconData(
     58603,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-centerline-dashed-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-centerline-dashed-horizontal.svg" width="100">
+  ///
+  /// [View "square-centerline-dashed-horizontal" on lucide.dev](https://lucide.dev/icons/square-centerline-dashed-horizontal)
+  static const IconData squareCenterlineDashedHorizontal = IconData(
+    58207,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-centerline-dashed-vertical
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-centerline-dashed-vertical.svg" width="100">
+  ///
+  /// [View "square-centerline-dashed-vertical" on lucide.dev](https://lucide.dev/icons/square-centerline-dashed-vertical)
+  static const IconData squareCenterlineDashedVertical = IconData(
+    58208,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
