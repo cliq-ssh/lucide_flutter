@@ -11,8 +11,8 @@ fi
 
 # check if files_dir exists
 if [ ! -d "$files_dir" ]; then
-    echo "Directory '$files_dir' does not exist. Please run 'download-lucide.sh <version>' first." >&2
-    exit 1
+  echo "Directory '$files_dir' does not exist. Please run 'download-lucide.sh <version>' first." >&2
+  exit 1
 fi
 
 function toCamelCase() {
@@ -55,12 +55,24 @@ mkdir -p "$(dirname "$target_file")"
 
 genClassHeader "LucideIcons" >> "$target_file"
 
-jq -r 'to_entries[] | "\(.key) \(.value.unicode)"' $files_dir/info.json | while read -r icon_name icon_id; do
+seen_method_names=()
+
+while read -r icon_name icon_id; do
   icon_id=${icon_id//[&#;]/}
   unicode_hex=$(printf "0x%x" "$clean_unicode")
 
+  method_name=$(toCamelCase "$icon_name")
+
+  for seen in "${seen_method_names[@]}"; do
+    if [[ "$seen" == "$method_name" ]]; then
+      echo "Warning: Skipping duplicate method name '$method_name' (icon: '$icon_name')" >&2
+      continue 2
+    fi
+  done
+
+  seen_method_names+=("$method_name")
   genIconMethod "$icon_name" "$icon_id" >> "$target_file"
-done
+done < <(jq -r 'to_entries[] | "\(.key) \(.value.unicode)"' "$files_dir/info.json")
 
 echo "}" >> "$target_file"
 

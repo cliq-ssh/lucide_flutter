@@ -745,30 +745,10 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## arrow-down-01
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-01.svg" width="100">
-  ///
-  /// [View "arrow-down-01" on lucide.dev](https://lucide.dev/icons/arrow-down-01)
-  static const IconData arrowDown01 = IconData(
-    58387,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
   /// ## arrow-down-1-0
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-1-0.svg" width="100">
   ///
   /// [View "arrow-down-1-0" on lucide.dev](https://lucide.dev/icons/arrow-down-1-0)
-  static const IconData arrowDown10 = IconData(
-    58388,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## arrow-down-10
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-down-10.svg" width="100">
-  ///
-  /// [View "arrow-down-10" on lucide.dev](https://lucide.dev/icons/arrow-down-10)
   static const IconData arrowDown10 = IconData(
     58388,
     fontFamily: 'LucideIcons',
@@ -1115,30 +1095,10 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
-  /// ## arrow-up-01
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-01.svg" width="100">
-  ///
-  /// [View "arrow-up-01" on lucide.dev](https://lucide.dev/icons/arrow-up-01)
-  static const IconData arrowUp01 = IconData(
-    58392,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
   /// ## arrow-up-1-0
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-1-0.svg" width="100">
   ///
   /// [View "arrow-up-1-0" on lucide.dev](https://lucide.dev/icons/arrow-up-1-0)
-  static const IconData arrowUp10 = IconData(
-    58393,
-    fontFamily: 'LucideIcons',
-    fontPackage: 'lucide_flutter',
-  );
-
-  /// ## arrow-up-10
-  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-up-10.svg" width="100">
-  ///
-  /// [View "arrow-up-10" on lucide.dev](https://lucide.dev/icons/arrow-up-10)
   static const IconData arrowUp10 = IconData(
     58393,
     fontFamily: 'LucideIcons',
