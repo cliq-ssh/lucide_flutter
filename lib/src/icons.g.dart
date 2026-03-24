@@ -10278,6 +10278,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## line-style
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/line-style.svg" width="100">
+  ///
+  /// [View "line-style" on lucide.dev](https://lucide.dev/icons/line-style)
+  static const IconData lineStyle = IconData(
+    59098,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## link-2-off
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/link-2-off.svg" width="100">
   ///
@@ -15004,6 +15014,26 @@ class LucideIcons {
   /// [View "shield-close" on lucide.dev](https://lucide.dev/icons/shield-close)
   static const IconData shieldClose = IconData(
     57856,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shield-cog-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-cog-corner.svg" width="100">
+  ///
+  /// [View "shield-cog-corner" on lucide.dev](https://lucide.dev/icons/shield-cog-corner)
+  static const IconData shieldCogCorner = IconData(
+    59098,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shield-cog
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-cog.svg" width="100">
+  ///
+  /// [View "shield-cog" on lucide.dev](https://lucide.dev/icons/shield-cog)
+  static const IconData shieldCog = IconData(
+    59098,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
