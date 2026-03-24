@@ -1968,6 +1968,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## beef-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beef-off.svg" width="100">
+  ///
+  /// [View "beef-off" on lucide.dev](https://lucide.dev/icons/beef-off)
+  static const IconData beefOff = IconData(
+    59100,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## beef
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/beef.svg" width="100">
   ///
@@ -13738,6 +13748,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## radio-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radio-off.svg" width="100">
+  ///
+  /// [View "radio-off" on lucide.dev](https://lucide.dev/icons/radio-off)
+  static const IconData radioOff = IconData(
+    59101,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## radio-receiver
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/radio-receiver.svg" width="100">
   ///
@@ -15764,6 +15784,16 @@ class LucideIcons {
   /// [View "spool" on lucide.dev](https://lucide.dev/icons/spool)
   static const IconData spool = IconData(
     58999,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sport-shoe
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sport-shoe.svg" width="100">
+  ///
+  /// [View "sport-shoe" on lucide.dev](https://lucide.dev/icons/sport-shoe)
+  static const IconData sportShoe = IconData(
+    59099,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );

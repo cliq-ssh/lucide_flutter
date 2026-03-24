@@ -1,3 +1,6 @@
+## 1.6.0
+- Update lucide version to 1.6.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.6.0)
+
 ## 1.3.0
 - Update lucide version to 1.3.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.3.0)
 
