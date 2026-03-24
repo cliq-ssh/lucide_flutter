@@ -1,6 +1,9 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 import 'package:flutter/widgets.dart';
 
+/// Static IconData for Lucide icons.
+///
+/// See https://lucide.dev for the full icon set and documentation.
 @staticIconProvider
 class LucideIcons {
   const LucideIcons._();
@@ -14141,6 +14144,16 @@ class LucideIcons {
   /// [View "ribbon" on lucide.dev](https://lucide.dev/icons/ribbon)
   static const IconData ribbon = IconData(
     58712,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## road
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/road.svg" width="100">
+  ///
+  /// [View "road" on lucide.dev](https://lucide.dev/icons/road)
+  static const IconData road = IconData(
+    59097,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
