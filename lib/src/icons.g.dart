@@ -10948,6 +10948,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## map-pin-search
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-search.svg" width="100">
+  ///
+  /// [View "map-pin-search" on lucide.dev](https://lucide.dev/icons/map-pin-search)
+  static const IconData mapPinSearch = IconData(
+    59102,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## map-pin-x-inside
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/map-pin-x-inside.svg" width="100">
   ///
