@@ -2618,6 +2618,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bookmark-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-off.svg" width="100">
+  ///
+  /// [View "bookmark-off" on lucide.dev](https://lucide.dev/icons/bookmark-off)
+  static const IconData bookmarkOff = IconData(
+    59103,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## bookmark-plus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bookmark-plus.svg" width="100">
   ///
@@ -16144,6 +16154,16 @@ class LucideIcons {
   /// [View "square-dashed-mouse-pointer" on lucide.dev](https://lucide.dev/icons/square-dashed-mouse-pointer)
   static const IconData squareDashedMousePointer = IconData(
     58633,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-dashed-text
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-dashed-text.svg" width="100">
+  ///
+  /// [View "square-dashed-text" on lucide.dev](https://lucide.dev/icons/square-dashed-text)
+  static const IconData squareDashedText = IconData(
+    59103,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
