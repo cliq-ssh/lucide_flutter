@@ -14178,6 +14178,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## repeat-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/repeat-off.svg" width="100">
+  ///
+  /// [View "repeat-off" on lucide.dev](https://lucide.dev/icons/repeat-off)
+  static const IconData repeatOff = IconData(
+    59123,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## repeat
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/repeat.svg" width="100">
   ///
@@ -18968,12 +18978,32 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## waves-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-horizontal.svg" width="100">
+  ///
+  /// [View "waves-horizontal" on lucide.dev](https://lucide.dev/icons/waves-horizontal)
+  static const IconData wavesHorizontal = IconData(
+    57987,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## waves-ladder
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-ladder.svg" width="100">
   ///
   /// [View "waves-ladder" on lucide.dev](https://lucide.dev/icons/waves-ladder)
   static const IconData wavesLadder = IconData(
     58939,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## waves-vertical
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/waves-vertical.svg" width="100">
+  ///
+  /// [View "waves-vertical" on lucide.dev](https://lucide.dev/icons/waves-vertical)
+  static const IconData wavesVertical = IconData(
+    59122,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
