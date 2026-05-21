@@ -2248,6 +2248,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## blender
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/blender.svg" width="100">
+  ///
+  /// [View "blender" on lucide.dev](https://lucide.dev/icons/blender)
+  static const IconData blender = IconData(
+    59124,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## blinds
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/blinds.svg" width="100">
   ///
@@ -2894,6 +2904,16 @@ class LucideIcons {
   /// [View "bring-to-front" on lucide.dev](https://lucide.dev/icons/bring-to-front)
   static const IconData bringToFront = IconData(
     58607,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## broccoli
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/broccoli.svg" width="100">
+  ///
+  /// [View "broccoli" on lucide.dev](https://lucide.dev/icons/broccoli)
+  static const IconData broccoli = IconData(
+    59125,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16778,12 +16798,72 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## sticky-note-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note-check.svg" width="100">
+  ///
+  /// [View "sticky-note-check" on lucide.dev](https://lucide.dev/icons/sticky-note-check)
+  static const IconData stickyNoteCheck = IconData(
+    59126,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sticky-note-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note-minus.svg" width="100">
+  ///
+  /// [View "sticky-note-minus" on lucide.dev](https://lucide.dev/icons/sticky-note-minus)
+  static const IconData stickyNoteMinus = IconData(
+    59127,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sticky-note-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note-off.svg" width="100">
+  ///
+  /// [View "sticky-note-off" on lucide.dev](https://lucide.dev/icons/sticky-note-off)
+  static const IconData stickyNoteOff = IconData(
+    59128,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sticky-note-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note-plus.svg" width="100">
+  ///
+  /// [View "sticky-note-plus" on lucide.dev](https://lucide.dev/icons/sticky-note-plus)
+  static const IconData stickyNotePlus = IconData(
+    59129,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sticky-note-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note-x.svg" width="100">
+  ///
+  /// [View "sticky-note-x" on lucide.dev](https://lucide.dev/icons/sticky-note-x)
+  static const IconData stickyNoteX = IconData(
+    59130,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## sticky-note
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-note.svg" width="100">
   ///
   /// [View "sticky-note" on lucide.dev](https://lucide.dev/icons/sticky-note)
   static const IconData stickyNote = IconData(
     58115,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## sticky-notes
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/sticky-notes.svg" width="100">
+  ///
+  /// [View "sticky-notes" on lucide.dev](https://lucide.dev/icons/sticky-notes)
+  static const IconData stickyNotes = IconData(
+    59131,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
