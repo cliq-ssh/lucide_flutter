@@ -8688,6 +8688,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## globe-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-check.svg" width="100">
+  ///
+  /// [View "globe-check" on lucide.dev](https://lucide.dev/icons/globe-check)
+  static const IconData globeCheck = IconData(
+    59132,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## globe-lock
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-lock.svg" width="100">
   ///
@@ -12914,6 +12924,16 @@ class LucideIcons {
   /// [View "paperclip" on lucide.dev](https://lucide.dev/icons/paperclip)
   static const IconData paperclip = IconData(
     57645,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## parasol
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/parasol.svg" width="100">
+  ///
+  /// [View "parasol" on lucide.dev](https://lucide.dev/icons/parasol)
+  static const IconData parasol = IconData(
+    59133,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
