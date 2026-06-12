@@ -13518,6 +13518,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## play-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/play-off.svg" width="100">
+  ///
+  /// [View "play-off" on lucide.dev](https://lucide.dev/icons/play-off)
+  static const IconData playOff = IconData(
+    59134,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## play-square
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/play-square.svg" width="100">
   ///
@@ -19124,6 +19134,16 @@ class LucideIcons {
   /// [View "waypoints" on lucide.dev](https://lucide.dev/icons/waypoints)
   static const IconData waypoints = IconData(
     58690,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## webcam-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/webcam-off.svg" width="100">
+  ///
+  /// [View "webcam-off" on lucide.dev](https://lucide.dev/icons/webcam-off)
+  static const IconData webcamOff = IconData(
+    59135,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
