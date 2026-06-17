@@ -1,3 +1,6 @@
+## 1.19.0
+- Update lucide version to 1.19.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.19.0)
+
 ## 1.18.0
 - Update lucide version to 1.18.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.18.0)
 
