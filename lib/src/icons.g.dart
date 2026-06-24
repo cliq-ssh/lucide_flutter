@@ -2368,6 +2368,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bone-fracture
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bone-fracture.svg" width="100">
+  ///
+  /// [View "bone-fracture" on lucide.dev](https://lucide.dev/icons/bone-fracture)
+  static const IconData boneFracture = IconData(
+    59157,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## bone
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bone.svg" width="100">
   ///
