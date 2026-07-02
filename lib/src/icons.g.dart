@@ -2368,6 +2368,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bone-fracture
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bone-fracture.svg" width="100">
+  ///
+  /// [View "bone-fracture" on lucide.dev](https://lucide.dev/icons/bone-fracture)
+  static const IconData boneFracture = IconData(
+    59157,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## bone
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bone.svg" width="100">
   ///
@@ -5878,6 +5888,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## database-arrow-down
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-arrow-down.svg" width="100">
+  ///
+  /// [View "database-arrow-down" on lucide.dev](https://lucide.dev/icons/database-arrow-down)
+  static const IconData databaseArrowDown = IconData(
+    59158,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## database-arrow-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-arrow-up.svg" width="100">
+  ///
+  /// [View "database-arrow-up" on lucide.dev](https://lucide.dev/icons/database-arrow-up)
+  static const IconData databaseArrowUp = IconData(
+    59159,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## database-backup
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-backup.svg" width="100">
   ///
@@ -5888,12 +5918,52 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## database-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-check.svg" width="100">
+  ///
+  /// [View "database-check" on lucide.dev](https://lucide.dev/icons/database-check)
+  static const IconData databaseCheck = IconData(
+    59160,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## database-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-minus.svg" width="100">
+  ///
+  /// [View "database-minus" on lucide.dev](https://lucide.dev/icons/database-minus)
+  static const IconData databaseMinus = IconData(
+    59161,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## database-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-plus.svg" width="100">
+  ///
+  /// [View "database-plus" on lucide.dev](https://lucide.dev/icons/database-plus)
+  static const IconData databasePlus = IconData(
+    59162,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## database-search
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-search.svg" width="100">
   ///
   /// [View "database-search" on lucide.dev](https://lucide.dev/icons/database-search)
   static const IconData databaseSearch = IconData(
     59057,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## database-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/database-x.svg" width="100">
+  ///
+  /// [View "database-x" on lucide.dev](https://lucide.dev/icons/database-x)
+  static const IconData databaseX = IconData(
+    59163,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12988,6 +13058,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## paper-bag
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paper-bag.svg" width="100">
+  ///
+  /// [View "paper-bag" on lucide.dev](https://lucide.dev/icons/paper-bag)
+  static const IconData paperBag = IconData(
+    59165,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## paperclip
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paperclip.svg" width="100">
   ///
@@ -13294,6 +13374,16 @@ class LucideIcons {
   /// [View "person-standing" on lucide.dev](https://lucide.dev/icons/person-standing)
   static const IconData personStanding = IconData(
     57886,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## phi
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/phi.svg" width="100">
+  ///
+  /// [View "phi" on lucide.dev](https://lucide.dev/icons/phi)
+  static const IconData phi = IconData(
+    59164,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
