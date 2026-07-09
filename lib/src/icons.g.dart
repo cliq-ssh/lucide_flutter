@@ -4428,6 +4428,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## circle-euro-sign
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-euro-sign.svg" width="100">
+  ///
+  /// [View "circle-euro-sign" on lucide.dev](https://lucide.dev/icons/circle-euro-sign)
+  static const IconData circleEuroSign = IconData(
+    59166,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## circle-fading-arrow-up
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-fading-arrow-up.svg" width="100">
   ///
