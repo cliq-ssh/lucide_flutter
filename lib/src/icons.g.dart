@@ -4428,6 +4428,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## circle-euro
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-euro.svg" width="100">
+  ///
+  /// [View "circle-euro" on lucide.dev](https://lucide.dev/icons/circle-euro)
+  static const IconData circleEuro = IconData(
+    59167,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## circle-fading-arrow-up
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-fading-arrow-up.svg" width="100">
   ///
@@ -14888,6 +14898,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## scan-box
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-box.svg" width="100">
+  ///
+  /// [View "scan-box" on lucide.dev](https://lucide.dev/icons/scan-box)
+  static const IconData scanBox = IconData(
+    59168,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## scan-eye
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-eye.svg" width="100">
   ///
@@ -15244,6 +15264,16 @@ class LucideIcons {
   /// [View "server-off" on lucide.dev](https://lucide.dev/icons/server-off)
   static const IconData serverOff = IconData(
     57834,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## server-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/server-plus.svg" width="100">
+  ///
+  /// [View "server-plus" on lucide.dev](https://lucide.dev/icons/server-plus)
+  static const IconData serverPlus = IconData(
+    59169,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
