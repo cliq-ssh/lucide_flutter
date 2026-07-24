@@ -15448,6 +15448,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## shield-keyhole
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-keyhole.svg" width="100">
+  ///
+  /// [View "shield-keyhole" on lucide.dev](https://lucide.dev/icons/shield-keyhole)
+  static const IconData shieldKeyhole = IconData(
+    59170,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## shield-minus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-minus.svg" width="100">
   ///
