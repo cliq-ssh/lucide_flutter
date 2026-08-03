@@ -10288,6 +10288,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## layout-freeform
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-freeform.svg" width="100">
+  ///
+  /// [View "layout-freeform" on lucide.dev](https://lucide.dev/icons/layout-freeform)
+  static const IconData layoutFreeform = IconData(
+    59171,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## layout-grid
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-grid.svg" width="100">
   ///
@@ -11718,12 +11728,32 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## mic-audio-lines
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic-audio-lines.svg" width="100">
+  ///
+  /// [View "mic-audio-lines" on lucide.dev](https://lucide.dev/icons/mic-audio-lines)
+  static const IconData micAudioLines = IconData(
+    59172,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## mic-off
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic-off.svg" width="100">
   ///
   /// [View "mic-off" on lucide.dev](https://lucide.dev/icons/mic-off)
   static const IconData micOff = IconData(
     57625,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## mic-signal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mic-signal.svg" width="100">
+  ///
+  /// [View "mic-signal" on lucide.dev](https://lucide.dev/icons/mic-signal)
+  static const IconData micSignal = IconData(
+    57850,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -12054,6 +12084,16 @@ class LucideIcons {
   /// [View "more-vertical" on lucide.dev](https://lucide.dev/icons/more-vertical)
   static const IconData moreVertical = IconData(
     57527,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## mosque
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mosque.svg" width="100">
+  ///
+  /// [View "mosque" on lucide.dev](https://lucide.dev/icons/mosque)
+  static const IconData mosque = IconData(
+    59173,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14568,6 +14608,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## rotate-ccw-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-ccw-clock.svg" width="100">
+  ///
+  /// [View "rotate-ccw-clock" on lucide.dev](https://lucide.dev/icons/rotate-ccw-clock)
+  static const IconData rotateCcwClock = IconData(
+    57845,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## rotate-ccw-key
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-ccw-key.svg" width="100">
   ///
@@ -14594,6 +14644,16 @@ class LucideIcons {
   /// [View "rotate-ccw" on lucide.dev](https://lucide.dev/icons/rotate-ccw)
   static const IconData rotateCcw = IconData(
     57672,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## rotate-cw-fading-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rotate-cw-fading-clock.svg" width="100">
+  ///
+  /// [View "rotate-cw-fading-clock" on lucide.dev](https://lucide.dev/icons/rotate-cw-fading-clock)
+  static const IconData rotateCwFadingClock = IconData(
+    59174,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14964,6 +15024,16 @@ class LucideIcons {
   /// [View "scan-search" on lucide.dev](https://lucide.dev/icons/scan-search)
   static const IconData scanSearch = IconData(
     58679,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## scan-square
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scan-square.svg" width="100">
+  ///
+  /// [View "scan-square" on lucide.dev](https://lucide.dev/icons/scan-square)
+  static const IconData scanSquare = IconData(
+    59175,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15444,6 +15514,16 @@ class LucideIcons {
   /// [View "shield-half" on lucide.dev](https://lucide.dev/icons/shield-half)
   static const IconData shieldHalf = IconData(
     58647,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shield-keyhole
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-keyhole.svg" width="100">
+  ///
+  /// [View "shield-keyhole" on lucide.dev](https://lucide.dev/icons/shield-keyhole)
+  static const IconData shieldKeyhole = IconData(
+    59170,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -16644,6 +16724,16 @@ class LucideIcons {
   /// [View "square-mouse-pointer" on lucide.dev](https://lucide.dev/icons/square-mouse-pointer)
   static const IconData squareMousePointer = IconData(
     57858,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-off.svg" width="100">
+  ///
+  /// [View "square-off" on lucide.dev](https://lucide.dev/icons/square-off)
+  static const IconData squareOff = IconData(
+    59176,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -18924,6 +19014,16 @@ class LucideIcons {
   /// [View "user-search" on lucide.dev](https://lucide.dev/icons/user-search)
   static const IconData userSearch = IconData(
     58745,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## user-shield
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-shield.svg" width="100">
+  ///
+  /// [View "user-shield" on lucide.dev](https://lucide.dev/icons/user-shield)
+  static const IconData userShield = IconData(
+    59177,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
