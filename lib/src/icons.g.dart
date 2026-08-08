@@ -1388,6 +1388,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## audio-lines-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/audio-lines-x.svg" width="100">
+  ///
+  /// [View "audio-lines-x" on lucide.dev](https://lucide.dev/icons/audio-lines-x)
+  static const IconData audioLinesX = IconData(
+    59182,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## audio-lines
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/audio-lines.svg" width="100">
   ///
@@ -2944,6 +2954,26 @@ class LucideIcons {
   /// [View "broccoli" on lucide.dev](https://lucide.dev/icons/broccoli)
   static const IconData broccoli = IconData(
     59125,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## broom-sparkles
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/broom-sparkles.svg" width="100">
+  ///
+  /// [View "broom-sparkles" on lucide.dev](https://lucide.dev/icons/broom-sparkles)
+  static const IconData broomSparkles = IconData(
+    59183,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## broom
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/broom.svg" width="100">
+  ///
+  /// [View "broom" on lucide.dev](https://lucide.dev/icons/broom)
+  static const IconData broom = IconData(
+    59184,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6748,6 +6778,76 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## face-angry
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-angry.svg" width="100">
+  ///
+  /// [View "face-angry" on lucide.dev](https://lucide.dev/icons/face-angry)
+  static const IconData faceAngry = IconData(
+    58108,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-expressionless
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-expressionless.svg" width="100">
+  ///
+  /// [View "face-expressionless" on lucide.dev](https://lucide.dev/icons/face-expressionless)
+  static const IconData faceExpressionless = IconData(
+    58109,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-grinning
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-grinning.svg" width="100">
+  ///
+  /// [View "face-grinning" on lucide.dev](https://lucide.dev/icons/face-grinning)
+  static const IconData faceGrinning = IconData(
+    58112,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-neutral
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-neutral.svg" width="100">
+  ///
+  /// [View "face-neutral" on lucide.dev](https://lucide.dev/icons/face-neutral)
+  static const IconData faceNeutral = IconData(
+    57620,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-slightly-frowning
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-slightly-frowning.svg" width="100">
+  ///
+  /// [View "face-slightly-frowning" on lucide.dev](https://lucide.dev/icons/face-slightly-frowning)
+  static const IconData faceSlightlyFrowning = IconData(
+    57563,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-slightly-smiling-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-slightly-smiling-plus.svg" width="100">
+  ///
+  /// [View "face-slightly-smiling-plus" on lucide.dev](https://lucide.dev/icons/face-slightly-smiling-plus)
+  static const IconData faceSlightlySmilingPlus = IconData(
+    58113,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## face-slightly-smiling
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/face-slightly-smiling.svg" width="100">
+  ///
+  /// [View "face-slightly-smiling" on lucide.dev](https://lucide.dev/icons/face-slightly-smiling)
+  static const IconData faceSlightlySmiling = IconData(
+    57700,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## factory
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/factory.svg" width="100">
   ///
@@ -10228,6 +10328,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## layer-arrow-down
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layer-arrow-down.svg" width="100">
+  ///
+  /// [View "layer-arrow-down" on lucide.dev](https://lucide.dev/icons/layer-arrow-down)
+  static const IconData layerArrowDown = IconData(
+    59178,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## layer-arrow-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layer-arrow-up.svg" width="100">
+  ///
+  /// [View "layer-arrow-up" on lucide.dev](https://lucide.dev/icons/layer-arrow-up)
+  static const IconData layerArrowUp = IconData(
+    59179,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## layers-2
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layers-2.svg" width="100">
   ///
@@ -10244,6 +10364,26 @@ class LucideIcons {
   /// [View "layers-3" on lucide.dev](https://lucide.dev/icons/layers-3)
   static const IconData layers3 = IconData(
     58665,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## layers-arrow-down
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layers-arrow-down.svg" width="100">
+  ///
+  /// [View "layers-arrow-down" on lucide.dev](https://lucide.dev/icons/layers-arrow-down)
+  static const IconData layersArrowDown = IconData(
+    59180,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## layers-arrow-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layers-arrow-up.svg" width="100">
+  ///
+  /// [View "layers-arrow-up" on lucide.dev](https://lucide.dev/icons/layers-arrow-up)
+  static const IconData layersArrowUp = IconData(
+    59181,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15524,6 +15664,16 @@ class LucideIcons {
   /// [View "shield-keyhole" on lucide.dev](https://lucide.dev/icons/shield-keyhole)
   static const IconData shieldKeyhole = IconData(
     59170,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shield-lock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shield-lock.svg" width="100">
+  ///
+  /// [View "shield-lock" on lucide.dev](https://lucide.dev/icons/shield-lock)
+  static const IconData shieldLock = IconData(
+    59185,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
