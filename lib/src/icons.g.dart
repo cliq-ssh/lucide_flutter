@@ -11188,6 +11188,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## mail-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-clock.svg" width="100">
+  ///
+  /// [View "mail-clock" on lucide.dev](https://lucide.dev/icons/mail-clock)
+  static const IconData mailClock = IconData(
+    59198,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## mail-minus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-minus.svg" width="100">
   ///
