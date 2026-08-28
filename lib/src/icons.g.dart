@@ -8578,6 +8578,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## galaxy
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/galaxy.svg" width="100">
+  ///
+  /// [View "galaxy" on lucide.dev](https://lucide.dev/icons/galaxy)
+  static const IconData galaxy = IconData(
+    59199,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## gallery-horizontal-end
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-horizontal-end.svg" width="100">
   ///
@@ -11184,6 +11194,16 @@ class LucideIcons {
   /// [View "mail-check" on lucide.dev](https://lucide.dev/icons/mail-check)
   static const IconData mailCheck = IconData(
     58209,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## mail-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-clock.svg" width="100">
+  ///
+  /// [View "mail-clock" on lucide.dev](https://lucide.dev/icons/mail-clock)
+  static const IconData mailClock = IconData(
+    59198,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14778,6 +14798,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## robot-arm
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/robot-arm.svg" width="100">
+  ///
+  /// [View "robot-arm" on lucide.dev](https://lucide.dev/icons/robot-arm)
+  static const IconData robotArm = IconData(
+    59200,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## rocket
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rocket.svg" width="100">
   ///
@@ -15844,6 +15874,16 @@ class LucideIcons {
   /// [View "shield" on lucide.dev](https://lucide.dev/icons/shield)
   static const IconData shield = IconData(
     57688,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## ship-cargo
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ship-cargo.svg" width="100">
+  ///
+  /// [View "ship-cargo" on lucide.dev](https://lucide.dev/icons/ship-cargo)
+  static const IconData shipCargo = IconData(
+    59201,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -18534,6 +18574,16 @@ class LucideIcons {
   /// [View "traffic-cone" on lucide.dev](https://lucide.dev/icons/traffic-cone)
   static const IconData trafficCone = IconData(
     58629,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## trailer
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trailer.svg" width="100">
+  ///
+  /// [View "trailer" on lucide.dev](https://lucide.dev/icons/trailer)
+  static const IconData trailer = IconData(
+    59202,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
