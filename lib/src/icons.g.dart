@@ -5838,6 +5838,46 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## credit-card-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card-check.svg" width="100">
+  ///
+  /// [View "credit-card-check" on lucide.dev](https://lucide.dev/icons/credit-card-check)
+  static const IconData creditCardCheck = IconData(
+    59203,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## credit-card-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card-minus.svg" width="100">
+  ///
+  /// [View "credit-card-minus" on lucide.dev](https://lucide.dev/icons/credit-card-minus)
+  static const IconData creditCardMinus = IconData(
+    59204,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## credit-card-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card-plus.svg" width="100">
+  ///
+  /// [View "credit-card-plus" on lucide.dev](https://lucide.dev/icons/credit-card-plus)
+  static const IconData creditCardPlus = IconData(
+    59211,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## credit-card-x
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card-x.svg" width="100">
+  ///
+  /// [View "credit-card-x" on lucide.dev](https://lucide.dev/icons/credit-card-x)
+  static const IconData creditCardX = IconData(
+    59205,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## credit-card
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/credit-card.svg" width="100">
   ///
@@ -8578,6 +8618,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## galaxy
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/galaxy.svg" width="100">
+  ///
+  /// [View "galaxy" on lucide.dev](https://lucide.dev/icons/galaxy)
+  static const IconData galaxy = IconData(
+    59199,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## gallery-horizontal-end
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gallery-horizontal-end.svg" width="100">
   ///
@@ -11188,6 +11238,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## mail-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-clock.svg" width="100">
+  ///
+  /// [View "mail-clock" on lucide.dev](https://lucide.dev/icons/mail-clock)
+  static const IconData mailClock = IconData(
+    59198,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## mail-minus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-minus.svg" width="100">
   ///
@@ -11614,6 +11674,16 @@ class LucideIcons {
   /// [View "message-circle-code" on lucide.dev](https://lucide.dev/icons/message-circle-code)
   static const IconData messageCircleCode = IconData(
     58722,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## message-circle-dashed-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/message-circle-dashed-check.svg" width="100">
+  ///
+  /// [View "message-circle-dashed-check" on lucide.dev](https://lucide.dev/icons/message-circle-dashed-check)
+  static const IconData messageCircleDashedCheck = IconData(
+    59206,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13998,6 +14068,36 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## playing-card
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/playing-card.svg" width="100">
+  ///
+  /// [View "playing-card" on lucide.dev](https://lucide.dev/icons/playing-card)
+  static const IconData playingCard = IconData(
+    59207,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## playing-cards-fan
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/playing-cards-fan.svg" width="100">
+  ///
+  /// [View "playing-cards-fan" on lucide.dev](https://lucide.dev/icons/playing-cards-fan)
+  static const IconData playingCardsFan = IconData(
+    59208,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## playing-cards
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/playing-cards.svg" width="100">
+  ///
+  /// [View "playing-cards" on lucide.dev](https://lucide.dev/icons/playing-cards)
+  static const IconData playingCards = IconData(
+    59209,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## plug-2
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/plug-2.svg" width="100">
   ///
@@ -14774,6 +14874,26 @@ class LucideIcons {
   /// [View "road" on lucide.dev](https://lucide.dev/icons/road)
   static const IconData road = IconData(
     59097,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## robot-arm
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/robot-arm.svg" width="100">
+  ///
+  /// [View "robot-arm" on lucide.dev](https://lucide.dev/icons/robot-arm)
+  static const IconData robotArm = IconData(
+    59200,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## robot-vacuum
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/robot-vacuum.svg" width="100">
+  ///
+  /// [View "robot-vacuum" on lucide.dev](https://lucide.dev/icons/robot-vacuum)
+  static const IconData robotVacuum = IconData(
+    59210,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15844,6 +15964,16 @@ class LucideIcons {
   /// [View "shield" on lucide.dev](https://lucide.dev/icons/shield)
   static const IconData shield = IconData(
     57688,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## ship-cargo
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ship-cargo.svg" width="100">
+  ///
+  /// [View "ship-cargo" on lucide.dev](https://lucide.dev/icons/ship-cargo)
+  static const IconData shipCargo = IconData(
+    59201,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -18534,6 +18664,16 @@ class LucideIcons {
   /// [View "traffic-cone" on lucide.dev](https://lucide.dev/icons/traffic-cone)
   static const IconData trafficCone = IconData(
     58629,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## trailer
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trailer.svg" width="100">
+  ///
+  /// [View "trailer" on lucide.dev](https://lucide.dev/icons/trailer)
+  static const IconData trailer = IconData(
+    59202,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
