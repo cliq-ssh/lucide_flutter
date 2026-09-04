@@ -1,3 +1,6 @@
+## 1.40.0
+- Update lucide version to 1.40.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.40.0)
+
 ## 1.39.0
 - Update lucide version to 1.39.0 (see full changelog at https://github.com/lucide-icons/lucide/releases/tag/1.39.0)
 

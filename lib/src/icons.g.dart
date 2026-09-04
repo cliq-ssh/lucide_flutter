@@ -2918,6 +2918,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bridge
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bridge.svg" width="100">
+  ///
+  /// [View "bridge" on lucide.dev](https://lucide.dev/icons/bridge)
+  static const IconData bridge = IconData(
+    59215,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## briefcase-business
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/briefcase-business.svg" width="100">
   ///
@@ -3384,6 +3394,16 @@ class LucideIcons {
   /// [View "camera" on lucide.dev](https://lucide.dev/icons/camera)
   static const IconData camera = IconData(
     57444,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## can
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/can.svg" width="100">
+  ///
+  /// [View "can" on lucide.dev](https://lucide.dev/icons/can)
+  static const IconData can = IconData(
+    59216,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10718,6 +10738,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## lighthouse
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lighthouse.svg" width="100">
+  ///
+  /// [View "lighthouse" on lucide.dev](https://lucide.dev/icons/lighthouse)
+  static const IconData lighthouse = IconData(
+    59217,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## line-chart
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/line-chart.svg" width="100">
   ///
@@ -16038,6 +16068,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## shopping-cart-minus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-cart-minus.svg" width="100">
+  ///
+  /// [View "shopping-cart-minus" on lucide.dev](https://lucide.dev/icons/shopping-cart-minus)
+  static const IconData shoppingCartMinus = IconData(
+    59218,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shopping-cart-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-cart-plus.svg" width="100">
+  ///
+  /// [View "shopping-cart-plus" on lucide.dev](https://lucide.dev/icons/shopping-cart-plus)
+  static const IconData shoppingCartPlus = IconData(
+    59219,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## shopping-cart
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shopping-cart.svg" width="100">
   ///
@@ -16074,6 +16124,16 @@ class LucideIcons {
   /// [View "shredder" on lucide.dev](https://lucide.dev/icons/shredder)
   static const IconData shredder = IconData(
     58971,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## shrimp-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/shrimp-off.svg" width="100">
+  ///
+  /// [View "shrimp-off" on lucide.dev](https://lucide.dev/icons/shrimp-off)
+  static const IconData shrimpOff = IconData(
+    59220,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
