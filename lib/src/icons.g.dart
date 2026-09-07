@@ -4448,6 +4448,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## circle-dashed-check
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dashed-check.svg" width="100">
+  ///
+  /// [View "circle-dashed-check" on lucide.dev](https://lucide.dev/icons/circle-dashed-check)
+  static const IconData circleDashedCheck = IconData(
+    59230,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## circle-dashed
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-dashed.svg" width="100">
   ///
@@ -6428,6 +6438,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## dome
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/dome.svg" width="100">
+  ///
+  /// [View "dome" on lucide.dev](https://lucide.dev/icons/dome)
+  static const IconData dome = IconData(
+    59231,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## donut
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/donut.svg" width="100">
   ///
@@ -6774,6 +6794,16 @@ class LucideIcons {
   /// [View "engine" on lucide.dev](https://lucide.dev/icons/engine)
   static const IconData engine = IconData(
     59224,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## equal-approximately-not
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/equal-approximately-not.svg" width="100">
+  ///
+  /// [View "equal-approximately-not" on lucide.dev](https://lucide.dev/icons/equal-approximately-not)
+  static const IconData equalApproximatelyNot = IconData(
+    59232,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -8784,6 +8814,26 @@ class LucideIcons {
   /// [View "gantt-chart" on lucide.dev](https://lucide.dev/icons/gantt-chart)
   static const IconData ganttChart = IconData(
     58564,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## gap-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gap-horizontal.svg" width="100">
+  ///
+  /// [View "gap-horizontal" on lucide.dev](https://lucide.dev/icons/gap-horizontal)
+  static const IconData gapHorizontal = IconData(
+    59233,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## gap-vertical
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/gap-vertical.svg" width="100">
+  ///
+  /// [View "gap-vertical" on lucide.dev](https://lucide.dev/icons/gap-vertical)
+  static const IconData gapVertical = IconData(
+    59234,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -18888,6 +18938,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## trash-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trash-off.svg" width="100">
+  ///
+  /// [View "trash-off" on lucide.dev](https://lucide.dev/icons/trash-off)
+  static const IconData trashOff = IconData(
+    59235,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## trash
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/trash.svg" width="100">
   ///
@@ -19388,6 +19448,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## user-group
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-group.svg" width="100">
+  ///
+  /// [View "user-group" on lucide.dev](https://lucide.dev/icons/user-group)
+  static const IconData userGroup = IconData(
+    59236,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## user-key
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-key.svg" width="100">
   ///
@@ -19484,6 +19554,16 @@ class LucideIcons {
   /// [View "user-round-cog" on lucide.dev](https://lucide.dev/icons/user-round-cog)
   static const IconData userRoundCog = IconData(
     58474,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## user-round-group
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-group.svg" width="100">
+  ///
+  /// [View "user-round-group" on lucide.dev](https://lucide.dev/icons/user-round-group)
+  static const IconData userRoundGroup = IconData(
+    59237,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
