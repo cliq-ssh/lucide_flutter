@@ -3568,6 +3568,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## carton-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/carton-off.svg" width="100">
+  ///
+  /// [View "carton-off" on lucide.dev](https://lucide.dev/icons/carton-off)
+  static const IconData cartonOff = IconData(
+    59238,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## carton
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/carton.svg" width="100">
+  ///
+  /// [View "carton" on lucide.dev](https://lucide.dev/icons/carton)
+  static const IconData carton = IconData(
+    59239,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## case-lower
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/case-lower.svg" width="100">
   ///
@@ -18584,6 +18604,16 @@ class LucideIcons {
   /// [View "thumbs-up" on lucide.dev](https://lucide.dev/icons/thumbs-up)
   static const IconData thumbsUp = IconData(
     57738,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## tic-tac-toe
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tic-tac-toe.svg" width="100">
+  ///
+  /// [View "tic-tac-toe" on lucide.dev](https://lucide.dev/icons/tic-tac-toe)
+  static const IconData ticTacToe = IconData(
+    59240,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
