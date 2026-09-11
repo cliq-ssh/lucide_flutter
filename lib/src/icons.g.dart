@@ -3568,6 +3568,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## carton-off
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/carton-off.svg" width="100">
+  ///
+  /// [View "carton-off" on lucide.dev](https://lucide.dev/icons/carton-off)
+  static const IconData cartonOff = IconData(
+    59238,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## carton
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/carton.svg" width="100">
+  ///
+  /// [View "carton" on lucide.dev](https://lucide.dev/icons/carton)
+  static const IconData carton = IconData(
+    59239,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## case-lower
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/case-lower.svg" width="100">
   ///
@@ -18588,6 +18608,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## tic-tac-toe
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/tic-tac-toe.svg" width="100">
+  ///
+  /// [View "tic-tac-toe" on lucide.dev](https://lucide.dev/icons/tic-tac-toe)
+  static const IconData ticTacToe = IconData(
+    59240,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## ticket-check
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ticket-check.svg" width="100">
   ///
@@ -18764,6 +18794,26 @@ class LucideIcons {
   /// [View "toolbox" on lucide.dev](https://lucide.dev/icons/toolbox)
   static const IconData toolbox = IconData(
     59056,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## toothbrush-sparkles
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toothbrush-sparkles.svg" width="100">
+  ///
+  /// [View "toothbrush-sparkles" on lucide.dev](https://lucide.dev/icons/toothbrush-sparkles)
+  static const IconData toothbrushSparkles = IconData(
+    59241,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## toothbrush
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/toothbrush.svg" width="100">
+  ///
+  /// [View "toothbrush" on lucide.dev](https://lucide.dev/icons/toothbrush)
+  static const IconData toothbrush = IconData(
+    59242,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -19064,6 +19114,26 @@ class LucideIcons {
   /// [View "triangle" on lucide.dev](https://lucide.dev/icons/triangle)
   static const IconData triangle = IconData(
     57746,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## triangles-centerline-dashed-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangles-centerline-dashed-horizontal.svg" width="100">
+  ///
+  /// [View "triangles-centerline-dashed-horizontal" on lucide.dev](https://lucide.dev/icons/triangles-centerline-dashed-horizontal)
+  static const IconData trianglesCenterlineDashedHorizontal = IconData(
+    58206,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## triangles-centerline-dashed-vertical
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/triangles-centerline-dashed-vertical.svg" width="100">
+  ///
+  /// [View "triangles-centerline-dashed-vertical" on lucide.dev](https://lucide.dev/icons/triangles-centerline-dashed-vertical)
+  static const IconData trianglesCenterlineDashedVertical = IconData(
+    58208,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
