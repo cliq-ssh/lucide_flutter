@@ -1738,6 +1738,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bangladeshi-taka
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bangladeshi-taka.svg" width="100">
+  ///
+  /// [View "bangladeshi-taka" on lucide.dev](https://lucide.dev/icons/bangladeshi-taka)
+  static const IconData bangladeshiTaka = IconData(
+    59277,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## banknote-arrow-down
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/banknote-arrow-down.svg" width="100">
   ///
@@ -10988,6 +10998,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## letters
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/letters.svg" width="100">
+  ///
+  /// [View "letters" on lucide.dev](https://lucide.dev/icons/letters)
+  static const IconData letters = IconData(
+    59278,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## library-big
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/library-big.svg" width="100">
   ///
@@ -14764,6 +14784,16 @@ class LucideIcons {
   /// [View "presentation" on lucide.dev](https://lucide.dev/icons/presentation)
   static const IconData presentation = IconData(
     58542,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## printer-3d
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer-3d.svg" width="100">
+  ///
+  /// [View "printer-3d" on lucide.dev](https://lucide.dev/icons/printer-3d)
+  static const IconData printer3d = IconData(
+    59279,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
