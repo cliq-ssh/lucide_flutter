@@ -678,6 +678,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## armenian-dram
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/armenian-dram.svg" width="100">
+  ///
+  /// [View "armenian-dram" on lucide.dev](https://lucide.dev/icons/armenian-dram)
+  static const IconData armenianDram = IconData(
+    59281,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## arrow-big-down-dash
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/arrow-big-down-dash.svg" width="100">
   ///
@@ -1734,6 +1744,16 @@ class LucideIcons {
   /// [View "bandage" on lucide.dev](https://lucide.dev/icons/bandage)
   static const IconData bandage = IconData(
     58909,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## bangladeshi-taka
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bangladeshi-taka.svg" width="100">
+  ///
+  /// [View "bangladeshi-taka" on lucide.dev](https://lucide.dev/icons/bangladeshi-taka)
+  static const IconData bangladeshiTaka = IconData(
+    59277,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -6568,6 +6588,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## door-closed-cog
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/door-closed-cog.svg" width="100">
+  ///
+  /// [View "door-closed-cog" on lucide.dev](https://lucide.dev/icons/door-closed-cog)
+  static const IconData doorClosedCog = IconData(
+    59282,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## door-closed-locked
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/door-closed-locked.svg" width="100">
   ///
@@ -9528,6 +9558,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## groceries
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/groceries.svg" width="100">
+  ///
+  /// [View "groceries" on lucide.dev](https://lucide.dev/icons/groceries)
+  static const IconData groceries = IconData(
+    59289,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## group
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/group.svg" width="100">
   ///
@@ -10004,6 +10044,16 @@ class LucideIcons {
   /// [View "highlighter" on lucide.dev](https://lucide.dev/icons/highlighter)
   static const IconData highlighter = IconData(
     57588,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## hiking-stick
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hiking-stick.svg" width="100">
+  ///
+  /// [View "hiking-stick" on lucide.dev](https://lucide.dev/icons/hiking-stick)
+  static const IconData hikingStick = IconData(
+    59290,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -10508,6 +10558,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## kazakh-tenge
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/kazakh-tenge.svg" width="100">
+  ///
+  /// [View "kazakh-tenge" on lucide.dev](https://lucide.dev/icons/kazakh-tenge)
+  static const IconData kazakhTenge = IconData(
+    59283,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## key-round
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/key-round.svg" width="100">
   ///
@@ -10868,6 +10928,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## layout-grid-circles
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-grid-circles.svg" width="100">
+  ///
+  /// [View "layout-grid-circles" on lucide.dev](https://lucide.dev/icons/layout-grid-circles)
+  static const IconData layoutGridCircles = IconData(
+    59280,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## layout-grid
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-grid.svg" width="100">
   ///
@@ -10978,12 +11048,32 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## lens
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/lens.svg" width="100">
+  ///
+  /// [View "lens" on lucide.dev](https://lucide.dev/icons/lens)
+  static const IconData lens = IconData(
+    59292,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## letter-text
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/letter-text.svg" width="100">
   ///
   /// [View "letter-text" on lucide.dev](https://lucide.dev/icons/letter-text)
   static const IconData letterText = IconData(
     58885,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## letters
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/letters.svg" width="100">
+  ///
+  /// [View "letters" on lucide.dev](https://lucide.dev/icons/letters)
+  static const IconData letters = IconData(
+    59278,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -14768,6 +14858,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## printer-3d
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer-3d.svg" width="100">
+  ///
+  /// [View "printer-3d" on lucide.dev](https://lucide.dev/icons/printer-3d)
+  static const IconData printer3d = IconData(
+    59279,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## printer-check
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/printer-check.svg" width="100">
   ///
@@ -15588,6 +15688,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## rugby-ball
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rugby-ball.svg" width="100">
+  ///
+  /// [View "rugby-ball" on lucide.dev](https://lucide.dev/icons/rugby-ball)
+  static const IconData rugbyBall = IconData(
+    59284,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## ruler-dimension-line
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ruler-dimension-line.svg" width="100">
   ///
@@ -15964,6 +16074,16 @@ class LucideIcons {
   /// [View "scooter" on lucide.dev](https://lucide.dev/icons/scooter)
   static const IconData scooter = IconData(
     59052,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## scratch-blocks
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/scratch-blocks.svg" width="100">
+  ///
+  /// [View "scratch-blocks" on lucide.dev](https://lucide.dev/icons/scratch-blocks)
+  static const IconData scratchBlocks = IconData(
+    59291,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -18798,6 +18918,36 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## text-align-justify-center
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-align-justify-center.svg" width="100">
+  ///
+  /// [View "text-align-justify-center" on lucide.dev](https://lucide.dev/icons/text-align-justify-center)
+  static const IconData textAlignJustifyCenter = IconData(
+    59285,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## text-align-justify-end
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-align-justify-end.svg" width="100">
+  ///
+  /// [View "text-align-justify-end" on lucide.dev](https://lucide.dev/icons/text-align-justify-end)
+  static const IconData textAlignJustifyEnd = IconData(
+    59286,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## text-align-justify-start
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-align-justify-start.svg" width="100">
+  ///
+  /// [View "text-align-justify-start" on lucide.dev](https://lucide.dev/icons/text-align-justify-start)
+  static const IconData textAlignJustifyStart = IconData(
+    59287,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## text-align-justify
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/text-align-justify.svg" width="100">
   ///
@@ -20844,6 +20994,16 @@ class LucideIcons {
   /// [View "wind-arrow-down" on lucide.dev](https://lucide.dev/icons/wind-arrow-down)
   static const IconData windArrowDown = IconData(
     58929,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## wind-arrow-up
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/wind-arrow-up.svg" width="100">
+  ///
+  /// [View "wind-arrow-up" on lucide.dev](https://lucide.dev/icons/wind-arrow-up)
+  static const IconData windArrowUp = IconData(
+    59288,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
