@@ -6818,6 +6818,26 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## diagram-flow-horizontal
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diagram-flow-horizontal.svg" width="100">
+  ///
+  /// [View "diagram-flow-horizontal" on lucide.dev](https://lucide.dev/icons/diagram-flow-horizontal)
+  static const IconData diagramFlowHorizontal = IconData(
+    59439,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## diagram-flow-vertical
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diagram-flow-vertical.svg" width="100">
+  ///
+  /// [View "diagram-flow-vertical" on lucide.dev](https://lucide.dev/icons/diagram-flow-vertical)
+  static const IconData diagramFlowVertical = IconData(
+    59440,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## diameter
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diameter.svg" width="100">
   ///
@@ -9878,6 +9898,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## globe-ban
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-ban.svg" width="100">
+  ///
+  /// [View "globe-ban" on lucide.dev](https://lucide.dev/icons/globe-ban)
+  static const IconData globeBan = IconData(
+    59441,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## globe-check
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-check.svg" width="100">
   ///
@@ -9914,6 +9944,16 @@ class LucideIcons {
   /// [View "globe-off" on lucide.dev](https://lucide.dev/icons/globe-off)
   static const IconData globeOff = IconData(
     59061,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## globe-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-plus.svg" width="100">
+  ///
+  /// [View "globe-plus" on lucide.dev](https://lucide.dev/icons/globe-plus)
+  static const IconData globePlus = IconData(
+    59442,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
