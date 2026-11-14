@@ -3708,6 +3708,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## cap
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/cap.svg" width="100">
+  ///
+  /// [View "cap" on lucide.dev](https://lucide.dev/icons/cap)
+  static const IconData cap = IconData(
+    59476,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## captions-off
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/captions-off.svg" width="100">
   ///
@@ -10178,6 +10188,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## graph-ring
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/graph-ring.svg" width="100">
+  ///
+  /// [View "graph-ring" on lucide.dev](https://lucide.dev/icons/graph-ring)
+  static const IconData graphRing = IconData(
+    59477,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## graph-star
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/graph-star.svg" width="100">
   ///
@@ -11804,6 +11824,16 @@ class LucideIcons {
   /// [View "layout-grid-circles" on lucide.dev](https://lucide.dev/icons/layout-grid-circles)
   static const IconData layoutGridCircles = IconData(
     59280,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## layout-grid-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/layout-grid-plus.svg" width="100">
+  ///
+  /// [View "layout-grid-plus" on lucide.dev](https://lucide.dev/icons/layout-grid-plus)
+  static const IconData layoutGridPlus = IconData(
+    59478,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
