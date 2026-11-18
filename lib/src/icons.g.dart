@@ -11728,6 +11728,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## jacket
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/jacket.svg" width="100">
+  ///
+  /// [View "jacket" on lucide.dev](https://lucide.dev/icons/jacket)
+  static const IconData jacket = IconData(
+    59513,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## japanese-yen
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/japanese-yen.svg" width="100">
   ///
@@ -15384,6 +15394,16 @@ class LucideIcons {
   /// [View "paint-bucket" on lucide.dev](https://lucide.dev/icons/paint-bucket)
   static const IconData paintBucket = IconData(
     58086,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## paint-gun
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/paint-gun.svg" width="100">
+  ///
+  /// [View "paint-gun" on lucide.dev](https://lucide.dev/icons/paint-gun)
+  static const IconData paintGun = IconData(
+    59514,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
