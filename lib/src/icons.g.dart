@@ -7288,6 +7288,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## diagram-sankey
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diagram-sankey.svg" width="100">
+  ///
+  /// [View "diagram-sankey" on lucide.dev](https://lucide.dev/icons/diagram-sankey)
+  static const IconData diagramSankey = IconData(
+    59515,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## diameter
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/diameter.svg" width="100">
   ///
