@@ -3068,6 +3068,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## box-dashed
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/box-dashed.svg" width="100">
+  ///
+  /// [View "box-dashed" on lucide.dev](https://lucide.dev/icons/box-dashed)
+  static const IconData boxDashed = IconData(
+    59515,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## box-select
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/box-select.svg" width="100">
   ///
@@ -4854,6 +4864,16 @@ class LucideIcons {
   /// [View "chevrons-up" on lucide.dev](https://lucide.dev/icons/chevrons-up)
   static const IconData chevronsUp = IconData(
     57460,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chocolate-bar
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chocolate-bar.svg" width="100">
+  ///
+  /// [View "chocolate-bar" on lucide.dev](https://lucide.dev/icons/chocolate-bar)
+  static const IconData chocolateBar = IconData(
+    59516,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -7293,7 +7313,7 @@ class LucideIcons {
   ///
   /// [View "diagram-sankey" on lucide.dev](https://lucide.dev/icons/diagram-sankey)
   static const IconData diagramSankey = IconData(
-    59515,
+    59517,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -9628,6 +9648,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## folder-network
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-network.svg" width="100">
+  ///
+  /// [View "folder-network" on lucide.dev](https://lucide.dev/icons/folder-network)
+  static const IconData folderNetwork = IconData(
+    59518,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## folder-open-dot
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-open-dot.svg" width="100">
   ///
@@ -9664,6 +9694,16 @@ class LucideIcons {
   /// [View "folder-pen" on lucide.dev](https://lucide.dev/icons/folder-pen)
   static const IconData folderPen = IconData(
     58168,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## folder-plus-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/folder-plus-corner.svg" width="100">
+  ///
+  /// [View "folder-plus-corner" on lucide.dev](https://lucide.dev/icons/folder-plus-corner)
+  static const IconData folderPlusCorner = IconData(
+    59519,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -17068,6 +17108,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## rectangle-landscape-play
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-landscape-play.svg" width="100">
+  ///
+  /// [View "rectangle-landscape-play" on lucide.dev](https://lucide.dev/icons/rectangle-landscape-play)
+  static const IconData rectangleLandscapePlay = IconData(
+    59520,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## rectangle-vertical
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-vertical.svg" width="100">
   ///
@@ -22764,6 +22814,16 @@ class LucideIcons {
   /// [View "user-round-check" on lucide.dev](https://lucide.dev/icons/user-round-check)
   static const IconData userRoundCheck = IconData(
     58473,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## user-round-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/user-round-clock.svg" width="100">
+  ///
+  /// [View "user-round-clock" on lucide.dev](https://lucide.dev/icons/user-round-clock)
+  static const IconData userRoundClock = IconData(
+    59521,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
