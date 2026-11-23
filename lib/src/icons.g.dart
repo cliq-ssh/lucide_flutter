@@ -5758,6 +5758,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## circle-speed-lines
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-speed-lines.svg" width="100">
+  ///
+  /// [View "circle-speed-lines" on lucide.dev](https://lucide.dev/icons/circle-speed-lines)
+  static const IconData circleSpeedLines = IconData(
+    59522,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## circle-star
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/circle-star.svg" width="100">
   ///
@@ -10558,6 +10568,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## graph-path
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/graph-path.svg" width="100">
+  ///
+  /// [View "graph-path" on lucide.dev](https://lucide.dev/icons/graph-path)
+  static const IconData graphPath = IconData(
+    59523,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## graph-ring
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/graph-ring.svg" width="100">
   ///
@@ -11314,6 +11334,16 @@ class LucideIcons {
   /// [View "hockey-stick" on lucide.dev](https://lucide.dev/icons/hockey-stick)
   static const IconData hockeyStick = IconData(
     59329,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## hole
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/hole.svg" width="100">
+  ///
+  /// [View "hole" on lucide.dev](https://lucide.dev/icons/hole)
+  static const IconData hole = IconData(
+    59524,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -15344,6 +15374,16 @@ class LucideIcons {
   /// [View "package-2" on lucide.dev](https://lucide.dev/icons/package-2)
   static const IconData package2 = IconData(
     58176,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## package-arrow-bend-up-left
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/package-arrow-bend-up-left.svg" width="100">
+  ///
+  /// [View "package-arrow-bend-up-left" on lucide.dev](https://lucide.dev/icons/package-arrow-bend-up-left)
+  static const IconData packageArrowBendUpLeft = IconData(
+    59525,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
