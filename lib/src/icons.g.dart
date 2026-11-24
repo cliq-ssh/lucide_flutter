@@ -608,6 +608,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## app-window-plus
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/app-window-plus.svg" width="100">
+  ///
+  /// [View "app-window-plus" on lucide.dev](https://lucide.dev/icons/app-window-plus)
+  static const IconData appWindowPlus = IconData(
+    59526,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## app-window
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/app-window.svg" width="100">
   ///
@@ -20484,6 +20494,16 @@ class LucideIcons {
   /// [View "square-play" on lucide.dev](https://lucide.dev/icons/square-play)
   static const IconData squarePlay = IconData(
     58497,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-plus-corner
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-plus-corner.svg" width="100">
+  ///
+  /// [View "square-plus-corner" on lucide.dev](https://lucide.dev/icons/square-plus-corner)
+  static const IconData squarePlusCorner = IconData(
+    59527,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
