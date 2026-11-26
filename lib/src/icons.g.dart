@@ -3108,6 +3108,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## bowl-chopsticks
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/bowl-chopsticks.svg" width="100">
+  ///
+  /// [View "bowl-chopsticks" on lucide.dev](https://lucide.dev/icons/bowl-chopsticks)
+  static const IconData bowlChopsticks = IconData(
+    59543,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## box-dashed
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/box-dashed.svg" width="100">
   ///
@@ -8028,6 +8038,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## elevator
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/elevator.svg" width="100">
+  ///
+  /// [View "elevator" on lucide.dev](https://lucide.dev/icons/elevator)
+  static const IconData elevator = IconData(
+    59544,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## ellipse
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ellipse.svg" width="100">
   ///
@@ -10514,6 +10534,16 @@ class LucideIcons {
   /// [View "globe-check" on lucide.dev](https://lucide.dev/icons/globe-check)
   static const IconData globeCheck = IconData(
     59132,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## globe-clock
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/globe-clock.svg" width="100">
+  ///
+  /// [View "globe-clock" on lucide.dev](https://lucide.dev/icons/globe-clock)
+  static const IconData globeClock = IconData(
+    59545,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -17238,6 +17268,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## rectangle-horizontal-play
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-horizontal-play.svg" width="100">
+  ///
+  /// [View "rectangle-horizontal-play" on lucide.dev](https://lucide.dev/icons/rectangle-horizontal-play)
+  static const IconData rectangleHorizontalPlay = IconData(
+    59520,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## rectangle-horizontal-plus
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/rectangle-horizontal-plus.svg" width="100">
   ///
@@ -20994,6 +21034,16 @@ class LucideIcons {
   /// [View "stars" on lucide.dev](https://lucide.dev/icons/stars)
   static const IconData stars = IconData(
     58386,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## steering-wheel
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/steering-wheel.svg" width="100">
+  ///
+  /// [View "steering-wheel" on lucide.dev](https://lucide.dev/icons/steering-wheel)
+  static const IconData steeringWheel = IconData(
+    59546,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
