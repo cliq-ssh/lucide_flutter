@@ -3168,6 +3168,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## braces-sigma
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/braces-sigma.svg" width="100">
+  ///
+  /// [View "braces-sigma" on lucide.dev](https://lucide.dev/icons/braces-sigma)
+  static const IconData bracesSigma = IconData(
+    59547,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## braces
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/braces.svg" width="100">
   ///
