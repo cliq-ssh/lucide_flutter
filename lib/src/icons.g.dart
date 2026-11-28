@@ -1898,6 +1898,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## balcony
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/balcony.svg" width="100">
+  ///
+  /// [View "balcony" on lucide.dev](https://lucide.dev/icons/balcony)
+  static const IconData balcony = IconData(
+    59548,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## ball-wave
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/ball-wave.svg" width="100">
   ///
@@ -3164,6 +3174,16 @@ class LucideIcons {
   /// [View "boxes" on lucide.dev](https://lucide.dev/icons/boxes)
   static const IconData boxes = IconData(
     58064,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## boxing-glove
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/boxing-glove.svg" width="100">
+  ///
+  /// [View "boxing-glove" on lucide.dev](https://lucide.dev/icons/boxing-glove)
+  static const IconData boxingGlove = IconData(
+    59549,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -4758,6 +4778,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## chevrons-down-up-offset
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-down-up-offset.svg" width="100">
+  ///
+  /// [View "chevrons-down-up-offset" on lucide.dev](https://lucide.dev/icons/chevrons-down-up-offset)
+  static const IconData chevronsDownUpOffset = IconData(
+    59550,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## chevrons-down-up
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-down-up.svg" width="100">
   ///
@@ -4844,6 +4874,16 @@ class LucideIcons {
   /// [View "chevrons-left" on lucide.dev](https://lucide.dev/icons/chevrons-left)
   static const IconData chevronsLeft = IconData(
     57458,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## chevrons-right-left-offset
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/chevrons-right-left-offset.svg" width="100">
+  ///
+  /// [View "chevrons-right-left-offset" on lucide.dev](https://lucide.dev/icons/chevrons-right-left-offset)
+  static const IconData chevronsRightLeftOffset = IconData(
+    59551,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
@@ -13568,6 +13608,16 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## mail-send
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-send.svg" width="100">
+  ///
+  /// [View "mail-send" on lucide.dev](https://lucide.dev/icons/mail-send)
+  static const IconData mailSend = IconData(
+    59552,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## mail-warning
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/mail-warning.svg" width="100">
   ///
@@ -20838,6 +20888,96 @@ class LucideIcons {
     fontPackage: 'lucide_flutter',
   );
 
+  /// ## square-text-align-bottom-center
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-bottom-center.svg" width="100">
+  ///
+  /// [View "square-text-align-bottom-center" on lucide.dev](https://lucide.dev/icons/square-text-align-bottom-center)
+  static const IconData squareTextAlignBottomCenter = IconData(
+    59553,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-bottom-left
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-bottom-left.svg" width="100">
+  ///
+  /// [View "square-text-align-bottom-left" on lucide.dev](https://lucide.dev/icons/square-text-align-bottom-left)
+  static const IconData squareTextAlignBottomLeft = IconData(
+    59554,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-bottom-right
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-bottom-right.svg" width="100">
+  ///
+  /// [View "square-text-align-bottom-right" on lucide.dev](https://lucide.dev/icons/square-text-align-bottom-right)
+  static const IconData squareTextAlignBottomRight = IconData(
+    59555,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-middle-center
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-middle-center.svg" width="100">
+  ///
+  /// [View "square-text-align-middle-center" on lucide.dev](https://lucide.dev/icons/square-text-align-middle-center)
+  static const IconData squareTextAlignMiddleCenter = IconData(
+    59556,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-middle-left
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-middle-left.svg" width="100">
+  ///
+  /// [View "square-text-align-middle-left" on lucide.dev](https://lucide.dev/icons/square-text-align-middle-left)
+  static const IconData squareTextAlignMiddleLeft = IconData(
+    59557,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-middle-right
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-middle-right.svg" width="100">
+  ///
+  /// [View "square-text-align-middle-right" on lucide.dev](https://lucide.dev/icons/square-text-align-middle-right)
+  static const IconData squareTextAlignMiddleRight = IconData(
+    59558,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-top-center
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-top-center.svg" width="100">
+  ///
+  /// [View "square-text-align-top-center" on lucide.dev](https://lucide.dev/icons/square-text-align-top-center)
+  static const IconData squareTextAlignTopCenter = IconData(
+    59559,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-top-left
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-top-left.svg" width="100">
+  ///
+  /// [View "square-text-align-top-left" on lucide.dev](https://lucide.dev/icons/square-text-align-top-left)
+  static const IconData squareTextAlignTopLeft = IconData(
+    59560,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## square-text-align-top-right
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text-align-top-right.svg" width="100">
+  ///
+  /// [View "square-text-align-top-right" on lucide.dev](https://lucide.dev/icons/square-text-align-top-right)
+  static const IconData squareTextAlignTopRight = IconData(
+    59561,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
   /// ## square-text
   /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/square-text.svg" width="100">
   ///
@@ -20954,6 +21094,26 @@ class LucideIcons {
   /// [View "squirrel" on lucide.dev](https://lucide.dev/icons/squirrel)
   static const IconData squirrel = IconData(
     58527,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## stairs-arrow-down-left
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stairs-arrow-down-left.svg" width="100">
+  ///
+  /// [View "stairs-arrow-down-left" on lucide.dev](https://lucide.dev/icons/stairs-arrow-down-left)
+  static const IconData stairsArrowDownLeft = IconData(
+    59562,
+    fontFamily: 'LucideIcons',
+    fontPackage: 'lucide_flutter',
+  );
+
+  /// ## stairs-arrow-up-right
+  /// <img src="https://raw.githubusercontent.com/lucide-icons/lucide/refs/heads/main/icons/stairs-arrow-up-right.svg" width="100">
+  ///
+  /// [View "stairs-arrow-up-right" on lucide.dev](https://lucide.dev/icons/stairs-arrow-up-right)
+  static const IconData stairsArrowUpRight = IconData(
+    59563,
     fontFamily: 'LucideIcons',
     fontPackage: 'lucide_flutter',
   );
